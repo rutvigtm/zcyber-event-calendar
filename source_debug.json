@@ -1,0 +1,712 @@
+[
+  {
+    "source": "Silicon Valley ISSA",
+    "url": "https://luma.com/sv-issa",
+    "region": "Bay Area",
+    "focus": [
+      "broad security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 4,
+    "accepted": 4,
+    "rejected": {},
+    "sample_raw_titles": [
+      "June 2026 Event: Defending the Future - Securing AI in an Era of Cyber Threats",
+      "June 2026 Event: Defending the Future - Securing AI in an Era of Cyber Threats",
+      "July 2026: A History of the Login Box and Why It Still Sucks",
+      "July 2026: A History of the Login Box and Why It Still Sucks"
+    ],
+    "sample_accepted_titles": [
+      "June 2026 Event: Defending the Future - Securing AI in an Era of Cyber Threats",
+      "June 2026 Event: Defending the Future - Securing AI in an Era of Cyber Threats",
+      "July 2026: A History of the Login Box and Why It Still Sucks",
+      "July 2026: A History of the Login Box and Why It Still Sucks"
+    ]
+  },
+  {
+    "source": "AI Security Engineers SF Bay Area",
+    "url": "https://luma.com/aiseceng",
+    "region": "Bay Area",
+    "focus": [
+      "ai security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "East Bay Cyber",
+    "url": "https://eastbaycyber.org/",
+    "region": "Bay Area",
+    "focus": [
+      "broad security",
+      "local calendar"
+    ],
+    "status": "ok",
+    "parser": "eastbay",
+    "raw_events_found": 30,
+    "accepted": 27,
+    "rejected": {
+      "non_us": 3
+    },
+    "sample_raw_titles": [
+      "AI Salon: From Hype to Durable Innovation",
+      "Founder & Investor Happy Hour #NYTECHWEEK",
+      "UPSCALE CONF Hackathon",
+      "Global Startup Pitch Night - #NYTechWeek",
+      "Investing in Startups: Live Networking",
+      "GPN CTF 2026",
+      "RPCA CTF 2026",
+      "ZeroDay Heist 2026"
+    ],
+    "sample_accepted_titles": [
+      "AI Salon: From Hype to Durable Innovation",
+      "Founder & Investor Happy Hour #NYTECHWEEK",
+      "UPSCALE CONF Hackathon",
+      "Global Startup Pitch Night - #NYTechWeek",
+      "Investing in Startups: Live Networking",
+      "GPN CTF 2026",
+      "RPCA CTF 2026",
+      "ZeroDay Heist 2026"
+    ]
+  },
+  {
+    "source": "OWASP Bay Area",
+    "url": "https://www.meetup.com/Bay-Area-OWASP/events/",
+    "region": "Bay Area",
+    "focus": [
+      "application security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "BSidesSF",
+    "url": "https://bsidessf.org/",
+    "region": "Bay Area",
+    "focus": [
+      "broad security",
+      "conference"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "Women in Security and Privacy",
+    "url": "https://www.wisporg.com/upcoming-events",
+    "region": "US",
+    "focus": [
+      "privacy",
+      "security",
+      "community"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "NIST Cybersecurity Events",
+    "url": "https://www.nist.gov/cybersecurity/cybersecurity-privacy-events",
+    "region": "US",
+    "focus": [
+      "standards",
+      "broad security"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "NIST NICE Events",
+    "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/events",
+    "region": "US",
+    "focus": [
+      "cybersecurity workforce",
+      "broad security"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "FIRST Events",
+    "url": "https://www.first.org/events/",
+    "region": "Global",
+    "focus": [
+      "incident response",
+      "broad security"
+    ],
+    "status": "ok",
+    "parser": "first_microdata",
+    "raw_events_found": 303,
+    "accepted": 3,
+    "rejected": {
+      "non_us": 252,
+      "out_of_window": 48
+    },
+    "sample_raw_titles": [
+      "39th Annual FIRST Conference - Save the Date",
+      "CVE/FIRST VulnCon 2027 & Annual CNA Summit - Save the Date",
+      "2026 FIRST Regional Symposium for Asia Pacific & Joint APCERT AGM - Save the Date",
+      "2026 FIRST Regional Symposium for Africa & Joint AfricaCERT Meeting - Save the Date",
+      "2026 FIRST Regional Symposium for Latin America & the Caribbean - Save the Date",
+      "Oslo 2026 FIRST TC: Cold Incident Response",
+      "VulnOptiCON (formally Vuln4Cast TC) - Save the Date",
+      "FIRST-APNIC Technical Colloquium"
+    ],
+    "sample_accepted_titles": [
+      "CVE/FIRST VulnCon 2027 & Annual CNA Summit - Save the Date",
+      "38th Annual FIRST Conference",
+      "Training @ FIRSTCON26"
+    ]
+  },
+  {
+    "source": "Tejas Cyber Network",
+    "url": "https://luma.com/tejascybernetwork",
+    "region": "US",
+    "focus": [
+      "ciso",
+      "broad security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 10,
+    "accepted": 10,
+    "rejected": {},
+    "sample_raw_titles": [
+      "Tejas Seattle Chapter: Security & Privacy Leaders Dinner Meetup (Self Paid)",
+      "Tejas Seattle Chapter: Security & Privacy Leaders Dinner Meetup (Self Paid)",
+      "Career Warmup for Cyber Professionals",
+      "Career Warmup for Cyber Professionals",
+      "Tejas Bay Area Chapter : Cyber Leaders Meetup : Sunnyvale Edition",
+      "Tejas Bay Area Chapter : Cyber Leaders Meetup : Sunnyvale Edition",
+      "Build, Deploy and Harden an MCP Server from Scratch",
+      "Build, Deploy and Harden an MCP Server from Scratch"
+    ],
+    "sample_accepted_titles": [
+      "Tejas Seattle Chapter: Security & Privacy Leaders Dinner Meetup (Self Paid)",
+      "Tejas Seattle Chapter: Security & Privacy Leaders Dinner Meetup (Self Paid)",
+      "Career Warmup for Cyber Professionals",
+      "Career Warmup for Cyber Professionals",
+      "Tejas Bay Area Chapter : Cyber Leaders Meetup : Sunnyvale Edition",
+      "Tejas Bay Area Chapter : Cyber Leaders Meetup : Sunnyvale Edition",
+      "Build, Deploy and Harden an MCP Server from Scratch",
+      "Build, Deploy and Harden an MCP Server from Scratch"
+    ]
+  },
+  {
+    "source": "InfoSec Conferences",
+    "url": "https://www.infosec-conferences.com/",
+    "region": "Global",
+    "focus": [
+      "conference",
+      "broad security"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 30,
+    "accepted": 17,
+    "rejected": {
+      "non_us": 13
+    },
+    "sample_raw_titles": [
+      "NICE Conference & Expo 2026",
+      "InfoQ Dev Summit Boston 2026",
+      "Computerworld Cyber \u200b\u200bBriefing: June 2026",
+      "Trustworthy AI for IoMT (TRUST-AI) 2026",
+      "NDC Copenhagen 2026",
+      "DevOpsCon San Diego 2026",
+      "USENIX Conference on Privacy Engineering Practice and Respect (PEPR) 2026",
+      "fwd:cloudsec North America 2026"
+    ],
+    "sample_accepted_titles": [
+      "NICE Conference & Expo 2026",
+      "Trustworthy AI for IoMT (TRUST-AI) 2026",
+      "DevOpsCon San Diego 2026",
+      "USENIX Conference on Privacy Engineering Practice and Respect (PEPR) 2026",
+      "fwd:cloudsec North America 2026",
+      "Gartner Security & Risk Management Summit North America 2026",
+      "SANS DC Metro June 2026",
+      "QCon AI Boston 2026"
+    ]
+  },
+  {
+    "source": "Eventbrite SF Cybersecurity",
+    "url": "https://www.eventbrite.com/d/ca--san-francisco/cybersecurity/",
+    "region": "US",
+    "focus": [
+      "broad security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 4,
+    "rejected": {
+      "excluded_keyword": 36
+    },
+    "sample_raw_titles": [
+      "Cyber Security Training \u2013 San Francisco, CA | In-Person & Live Virtual",
+      "Cyber Security Training \u2013 San Francisco, CA | In-Person & Live Virtual",
+      "Cyber Security: 2 Days Workshop in San Francisco, CA",
+      "Cyber Security: 2 Days Workshop in San Francisco, CA",
+      "Cyber Security 1-Day Workshop | San Francisco, CA",
+      "Cyber Security 1-Day Workshop | San Francisco, CA",
+      "Healthcare Cyber Threat Readiness: 1 Day Security Course, San Francisco, CA",
+      "Healthcare Cyber Threat Readiness: 1 Day Security Course, San Francisco, CA"
+    ],
+    "sample_accepted_titles": [
+      "Staying Secure in a Digital World: Building Cyber-Aware Communities",
+      "Staying Secure in a Digital World: Building Cyber-Aware Communities",
+      "Fmr NATO Dep. Sec. General Rose Gottemoeller: Security Through Cooperation",
+      "Fmr NATO Dep. Sec. General Rose Gottemoeller: Security Through Cooperation"
+    ]
+  },
+  {
+    "source": "Eventbrite SF Fintech",
+    "url": "https://www.eventbrite.com/d/ca--san-francisco/fintech/",
+    "region": "US",
+    "focus": [
+      "fintech",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 32,
+    "rejected": {
+      "excluded_keyword": 8
+    },
+    "sample_raw_titles": [
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "Fintech: Pre Tech Crunch and Money 2020.",
+      "Fintech: Pre Tech Crunch and Money 2020.",
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "The Future of AI & Crypto - A panel discussion",
+      "The Future of AI & Crypto - A panel discussion"
+    ],
+    "sample_accepted_titles": [
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "Fintech: Pre Tech Crunch and Money 2020.",
+      "Fintech: Pre Tech Crunch and Money 2020.",
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "SF Women in Tech: Founders & Professionals Networking Night",
+      "The Future of AI & Crypto - A panel discussion",
+      "The Future of AI & Crypto - A panel discussion"
+    ]
+  },
+  {
+    "source": "Eventbrite SF Healthcare",
+    "url": "https://www.eventbrite.com/d/ca--san-francisco/healthcare/",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 6,
+    "rejected": {
+      "excluded_keyword": 34
+    },
+    "sample_raw_titles": [
+      "San Francisco Healthcare, Pharma & Business Networking Event",
+      "San Francisco Healthcare, Pharma & Business Networking Event",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, San Francisco",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, San Francisco",
+      "HealthTech & MedTech: Healthcare Industry Networking Night SF",
+      "HealthTech & MedTech: Healthcare Industry Networking Night SF",
+      "Healthcare IT Domain: 1 Day Basics to Intermediate Course, San Francisco",
+      "Healthcare IT Domain: 1 Day Basics to Intermediate Course, San Francisco"
+    ],
+    "sample_accepted_titles": [
+      "San Francisco Healthcare, Pharma & Business Networking Event",
+      "San Francisco Healthcare, Pharma & Business Networking Event",
+      "HealthTech & MedTech: Healthcare Industry Networking Night SF",
+      "HealthTech & MedTech: Healthcare Industry Networking Night SF",
+      "Healthcare and Business Networking | Elevating Your Potential - SF",
+      "Healthcare and Business Networking | Elevating Your Potential - SF"
+    ]
+  },
+  {
+    "source": "Eventbrite NYC Cybersecurity",
+    "url": "https://www.eventbrite.com/d/ny--new-york/cybersecurity/",
+    "region": "US",
+    "focus": [
+      "broad security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 36,
+    "accepted": 6,
+    "rejected": {
+      "excluded_keyword": 30
+    },
+    "sample_raw_titles": [
+      "Cyber Security Overview 1 Day Training in Woodbridge, NJ",
+      "Cyber Security Overview 1 Day Training in Woodbridge, NJ",
+      "Cyber Security: 2 Days Workshop in New York, NY",
+      "Cyber Security: 2 Days Workshop in New York, NY",
+      "Cyber Security 1-Day Workshop | New York City, NY",
+      "Cyber Security 1-Day Workshop | New York City, NY",
+      "Healthcare Cyber Threat Readiness: 1 Day Security Course, New York City, NY",
+      "Healthcare Cyber Threat Readiness: 1 Day Security Course, New York City, NY"
+    ],
+    "sample_accepted_titles": [
+      "IT Security Conference 2026, NYC",
+      "IT Security Conference 2026, NYC",
+      "Executive Security Leadership Panel by ZeroEyes & Axis Communications",
+      "Executive Security Leadership Panel by ZeroEyes & Axis Communications",
+      "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
+      "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM"
+    ]
+  },
+  {
+    "source": "Eventbrite NYC Fintech",
+    "url": "https://www.eventbrite.com/d/ny--new-york/fintech/",
+    "region": "US",
+    "focus": [
+      "fintech",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 34,
+    "rejected": {
+      "excluded_keyword": 6
+    },
+    "sample_raw_titles": [
+      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
+      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
+      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
+      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
+      "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
+      "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "NYC Women in Tech: Founders & Professionals Networking Night"
+    ],
+    "sample_accepted_titles": [
+      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
+      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
+      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
+      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
+      "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
+      "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "NYC Women in Tech: Founders & Professionals Networking Night"
+    ]
+  },
+  {
+    "source": "Eventbrite NYC Healthcare",
+    "url": "https://www.eventbrite.com/d/ny--new-york/healthcare/",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 38,
+    "accepted": 18,
+    "rejected": {
+      "excluded_keyword": 20
+    },
+    "sample_raw_titles": [
+      "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
+      "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
+      "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
+      "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
+      "New York City Healthcare, Pharma & Business Networking Event",
+      "New York City Healthcare, Pharma & Business Networking Event",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, New York",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, New York"
+    ],
+    "sample_accepted_titles": [
+      "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
+      "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
+      "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
+      "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
+      "New York City Healthcare, Pharma & Business Networking Event",
+      "New York City Healthcare, Pharma & Business Networking Event",
+      "Healthcare and Business Networking - Long Island City",
+      "Healthcare and Business Networking - Long Island City"
+    ]
+  },
+  {
+    "source": "Eventbrite Atlanta Cybersecurity",
+    "url": "https://www.eventbrite.com/d/ga--atlanta/cybersecurity/",
+    "region": "US",
+    "focus": [
+      "broad security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 2,
+    "rejected": {
+      "excluded_keyword": 38
+    },
+    "sample_raw_titles": [
+      "Cyber Security Overview 1 Day Training in Atlanta, GA",
+      "Cyber Security Overview 1 Day Training in Atlanta, GA",
+      "Cyber Security Training \u2013 Atlanta, GA | In-Person & Live Virtual",
+      "Cyber Security Training \u2013 Atlanta, GA | In-Person & Live Virtual",
+      "Cyber Security: 2 Days Workshop in Atlanta, GA",
+      "Cyber Security: 2 Days Workshop in Atlanta, GA",
+      "Cyber Security 1-Day Workshop | Atlanta, GA",
+      "Cyber Security 1-Day Workshop | Atlanta, GA"
+    ],
+    "sample_accepted_titles": [
+      "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA",
+      "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA"
+    ]
+  },
+  {
+    "source": "Eventbrite Atlanta Fintech",
+    "url": "https://www.eventbrite.com/d/ga--atlanta/fintech/",
+    "region": "US",
+    "focus": [
+      "fintech",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 30,
+    "rejected": {
+      "excluded_keyword": 10
+    },
+    "sample_raw_titles": [
+      "FinTech & Crypto Networking dinner",
+      "FinTech & Crypto Networking dinner",
+      "Connect Expo Series",
+      "Connect Expo Series",
+      "Avant South 2026",
+      "Avant South 2026",
+      "Business, Branding & Technology - World Cup Networking Business Sessions",
+      "Business, Branding & Technology - World Cup Networking Business Sessions"
+    ],
+    "sample_accepted_titles": [
+      "FinTech & Crypto Networking dinner",
+      "FinTech & Crypto Networking dinner",
+      "Connect Expo Series",
+      "Connect Expo Series",
+      "Avant South 2026",
+      "Avant South 2026",
+      "Business, Branding & Technology - World Cup Networking Business Sessions",
+      "Business, Branding & Technology - World Cup Networking Business Sessions"
+    ]
+  },
+  {
+    "source": "Eventbrite Atlanta Healthcare",
+    "url": "https://www.eventbrite.com/d/ga--atlanta/healthcare/",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 10,
+    "rejected": {
+      "excluded_keyword": 30
+    },
+    "sample_raw_titles": [
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, Atlanta",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, Atlanta",
+      "Atlanta Healthcare, Pharma & Business Networking Event",
+      "Atlanta Healthcare, Pharma & Business Networking Event",
+      "HealthSpecialists: HealthCareConnect - Elevate Your Career in Healthcare! - Atlanta",
+      "HealthSpecialists: HealthCareConnect - Elevate Your Career in Healthcare! - Atlanta",
+      "US Healthcare Industry: Changes & Opportunities \u2013 1 Day Course, Atlanta, GA",
+      "US Healthcare Industry: Changes & Opportunities \u2013 1 Day Course, Atlanta, GA"
+    ],
+    "sample_accepted_titles": [
+      "Atlanta Healthcare, Pharma & Business Networking Event",
+      "Atlanta Healthcare, Pharma & Business Networking Event",
+      "HealthSpecialists: HealthCareConnect - Elevate Your Career in Healthcare! - Atlanta",
+      "HealthSpecialists: HealthCareConnect - Elevate Your Career in Healthcare! - Atlanta",
+      "Black Health Connect | Bridging Healthcare Communities: Atlanta - Q3 Mixer",
+      "Black Health Connect | Bridging Healthcare Communities: Atlanta - Q3 Mixer",
+      "Healthcare and Business Networking |Elevating Your Potential - Midtown, ATL",
+      "Healthcare and Business Networking |Elevating Your Potential - Midtown, ATL"
+    ]
+  },
+  {
+    "source": "Eventbrite Chicago Cybersecurity",
+    "url": "https://www.eventbrite.com/d/il--chicago/cybersecurity/",
+    "region": "US",
+    "focus": [
+      "broad security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 4,
+    "rejected": {
+      "excluded_keyword": 36
+    },
+    "sample_raw_titles": [
+      "Cyber Security Training \u2013 Chicago, IL | In-Person & Live Virtual",
+      "Cyber Security Training \u2013 Chicago, IL | In-Person & Live Virtual",
+      "Cyber Security: 2 Days Workshop in Chicago, IL",
+      "Cyber Security: 2 Days Workshop in Chicago, IL",
+      "Cyber Security 1-Day Workshop | Chicago, IL",
+      "Cyber Security 1-Day Workshop | Chicago, IL",
+      "Healthcare Cyber Threat Readiness: 1 Day Security Training, Chicago, IL",
+      "Healthcare Cyber Threat Readiness: 1 Day Security Training, Chicago, IL"
+    ],
+    "sample_accepted_titles": [
+      "Internet Privacy and Safety",
+      "Internet Privacy and Safety",
+      "Cyber Summer Social",
+      "Cyber Summer Social"
+    ]
+  },
+  {
+    "source": "Eventbrite Chicago Fintech",
+    "url": "https://www.eventbrite.com/d/il--chicago/fintech/",
+    "region": "US",
+    "focus": [
+      "fintech",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 30,
+    "rejected": {
+      "excluded_keyword": 10
+    },
+    "sample_raw_titles": [
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Fintech & Payments Summit",
+      "Chicago Fintech & Payments Summit",
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago AI Week",
+      "Chicago AI Week"
+    ],
+    "sample_accepted_titles": [
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Fintech & Payments Summit",
+      "Chicago Fintech & Payments Summit",
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago AI Week",
+      "Chicago AI Week"
+    ]
+  },
+  {
+    "source": "Eventbrite Chicago Healthcare",
+    "url": "https://www.eventbrite.com/d/il--chicago/healthcare/",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 38,
+    "accepted": 12,
+    "rejected": {
+      "excluded_keyword": 26
+    },
+    "sample_raw_titles": [
+      "Chicago Healthcare, Pharma & Business Networking Event",
+      "Chicago Healthcare, Pharma & Business Networking Event",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, Chicago",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, Chicago",
+      "Modern Healthcare in Industry: 1 Day Training in Chicago, IL",
+      "Modern Healthcare in Industry: 1 Day Training in Chicago, IL",
+      "Healthcare IT Domain: 1 Day Fundamentals to Intermediate Course, Chicago",
+      "Healthcare IT Domain: 1 Day Fundamentals to Intermediate Course, Chicago"
+    ],
+    "sample_accepted_titles": [
+      "Chicago Healthcare, Pharma & Business Networking Event",
+      "Chicago Healthcare, Pharma & Business Networking Event",
+      "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
+      "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
+      "Healthcare and Business Networking | Elevating Your Potential - Chicago",
+      "Healthcare and Business Networking | Elevating Your Potential - Chicago",
+      "HealthTech & MedTech Professionals & Industry Networking in Chicago",
+      "HealthTech & MedTech Professionals & Industry Networking in Chicago"
+    ]
+  },
+  {
+    "source": "FinTech Meetup",
+    "url": "https://fintechmeetup.com/",
+    "region": "US",
+    "focus": [
+      "fintech"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 1,
+    "accepted": 0,
+    "rejected": {
+      "out_of_window": 1
+    },
+    "sample_raw_titles": [
+      "Fintech Meetup"
+    ],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "HIMSS Events",
+    "url": "https://www.himss.org/events",
+    "region": "US",
+    "focus": [
+      "healthcare"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  }
+]

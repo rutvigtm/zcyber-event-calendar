@@ -1,0 +1,1468 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Z Cyber GTM//Security Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Z Cyber Security Event Radar
+X-WR-CALDESC:Cybersecurity, healthcare security, fintech security, and Bay Area security events.
+BEGIN:VEVENT
+UID:2f9e4a9d4bb64b07@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:AI & Machine Learning Startups\, Investors\, Innovators Networking Mixer SF
+DESCRIPTION:Discover cutting-edge AI & ML startups\, pitch your ideas\, and network with investors\, founders\, and tech innovators. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/ai-machine-learning-startups-investors-innovators-networking-mixer-sf-tickets-1987900908129
+LOCATION:2351 Mission Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/ai-machine-learning-startups-investors-innovators-networking-mixer-sf-tickets-1987900908129
+END:VEVENT
+BEGIN:VEVENT
+UID:e15150b2f54f092c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:Snowflake Summit 2026
+DESCRIPTION:Key Takeaways Four-day in-person conference focused on enterprise AI and data transformation Over 500 sessions\, 12 tracks\, and 190+ partners Emphasis on practical AI deployment\, data governance\, and open architectures Hands-on labs\, live demos\, and industry-specific sessions Designed for data and AI leaders\, technical practitioners\, and business executives Snowflake Summit | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260601-snowflake-summit-2026/
+LOCATION:San Francisco\, California\, US
+URL:https://infosec-conferences.com/event/20260601-snowflake-summit-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ee2aff3e2707724a@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:Gartner Security & Risk Management Summit North America 2026
+DESCRIPTION:The evolving global landscape is presenting Chief Information Security Officers (CISOs) and their teams with a host of new and complex challenges. As organizations navigate shifting geopolitical dynamics\, regulatory changes\, and the rapid advancement of technology\, the demands on cybersecurity professionals continue to intensify. The integration of artificial intelligence (AI) | Source: InfoSec Conferences | Tags: ciso\, cyber\, cybersecurity\, infosec\, risk\, security | https://infosec-conferences.com/event/20260601-gartner-security-and-risk-management-summit-north-america/
+LOCATION:National Harbor\, Maryland\, US
+URL:https://infosec-conferences.com/event/20260601-gartner-security-and-risk-management-summit-north-america/
+END:VEVENT
+BEGIN:VEVENT
+UID:e371249e6b73e27b@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:Trustworthy AI for IoMT (TRUST-AI) 2026
+DESCRIPTION:Explores trustworthy artificial intelligence for the Internet of Medical Things (IoMT) Focuses on safety\, ethics\, and compliance in AI-enabled healthcare devices Brings together researchers\, clinicians\, designers\, and policymakers Addresses real-world deployment\, regulatory challenges\, and user trust Emphasizes human-centered design and robust\, explainable AI TRUST-AI 2026: Trustworthy AI for IoMT is | Source: InfoSec Conferences | Tags: compliance\, health\, healthcare\, infosec\, security | https://infosec-conferences.com/event/20260601-trustworthy-ai-for-iomt-trust-ai-2026/
+LOCATION:Minneapolis\, Minnesota\, US
+URL:https://infosec-conferences.com/event/20260601-trustworthy-ai-for-iomt-trust-ai-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:353011c23aab3c07@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:AI & Machine Learning Startups\, Investors\, Innovators Networking in Chicago
+DESCRIPTION:Discover cutting-edge AI & ML startups\, pitch your ideas\, and network with investors\, founders\, and tech innovators. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/ai-machine-learning-startups-investors-innovators-networking-in-chicago-tickets-1984711094310
+LOCATION:1925 West Cortland Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/ai-machine-learning-startups-investors-innovators-networking-in-chicago-tickets-1984711094310
+END:VEVENT
+BEGIN:VEVENT
+UID:09e0b7e2f341821f@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:ATL Money Monday Mixer
+DESCRIPTION:Join us for a laid-back evening of networking and collaboration with fellow entrepreneurs in Atlanta. Come out and share what you do! | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/atl-money-monday-mixer-tickets-1983589590863
+LOCATION:504 Fair Street Southwest\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/atl-money-monday-mixer-tickets-1983589590863
+END:VEVENT
+BEGIN:VEVENT
+UID:c363b8fe94e936de@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:Deep Tech/AI Startup Pitches and Investor Panels | #NYTechWeek Event
+DESCRIPTION:​​​Join us for a diverse Startup Pitch Competition and Panel of Deep Tech/AI Investors/Executives as we kick off #NYTechWeek. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/deep-techai-startup-pitches-and-investor-panels-nytechweek-event-registration-1987307425005
+LOCATION:60 East 42nd Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/deep-techai-startup-pitches-and-investor-panels-nytechweek-event-registration-1987307425005
+END:VEVENT
+BEGIN:VEVENT
+UID:46139954315cdf96@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:FinTech Startups\, Investors & Professionals Networking Mixer NYC
+DESCRIPTION:Get ready to mix\, mingle\, and make connections with NYC's top FinTech innovators and game-changers! | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/fintech-startups-investors-professionals-networking-mixer-nyc-tickets-1987906432653
+LOCATION:St Pat's Bar & Grill\, 22 West 46th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/fintech-startups-investors-professionals-networking-mixer-nyc-tickets-1987906432653
+END:VEVENT
+BEGIN:VEVENT
+UID:2682adecc8d14453@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:Gartner Security & Risk Management Summit National Harbor 2026
+DESCRIPTION:The Gartner Security & Risk Management Summit 2026 in Sydney stands as a leading event for cybersecurity professionals\, business executives\, and industry specialists. This annual summit is crafted to address the most pressing security challenges that organizations encounter in today’s rapidly evolving digital environment. By providing a platform for the | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, risk\, security | https://infosec-conferences.com/event/20260601-gartner-security-and-risk-management-summit-national-harbor/
+LOCATION:National Harbor\, Maryland\, US
+URL:https://infosec-conferences.com/event/20260601-gartner-security-and-risk-management-summit-national-harbor/
+END:VEVENT
+BEGIN:VEVENT
+UID:455f7772cfc232d0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:NYC FinTech Networking Mixer for Startups\, Entrepreneurs and Investors
+DESCRIPTION:FinTech Connect: Premier networking mixer crafted for FinTech startups\, investors\, and entrepreneurs. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/nyc-fintech-networking-mixer-for-startups-entrepreneurs-and-investors-tickets-1987906024432
+LOCATION:22 West 46th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/nyc-fintech-networking-mixer-for-startups-entrepreneurs-and-investors-tickets-1987906024432
+END:VEVENT
+BEGIN:VEVENT
+UID:80e14ab790a47c48@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:Bank IT NYC 1st June 2026 Conference 2026
+DESCRIPTION:The 13th Annual Bank IT Conference is recognized as a premier event for professionals in the banking and financial services sector. This annual gathering brings together industry leaders\, technology experts\, and decision-makers to explore the latest advancements and persistent challenges in information technology within the financial industry. Attendees are provided | Source: InfoSec Conferences | Tags: financial services\, infosec\, security | https://infosec-conferences.com/event/20260601-bank-it-nyc-1st-june-2026-conference-2026/
+LOCATION:New York City\, New York\, US
+URL:https://infosec-conferences.com/event/20260601-bank-it-nyc-1st-june-2026-conference-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed72252d94c3cd19@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:NICE Conference & Expo 2026
+DESCRIPTION:Key Takeaways Focuses on transforming the cybersecurity workforce for the future Explores foundational and innovative workforce development practices Addresses the cybersecurity skills gap and workforce shortages Highlights inclusive strategies and adaptation to emerging technologies Brings together professionals\, educators\, policymakers\, and industry leaders The NICE Conference & Expo 2026\, themed "From | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, security | https://infosec-conferences.com/event/20260601-nice-conference-and-expo-2026/
+LOCATION:Philadelphia\, Pennsylvania\, US
+URL:https://infosec-conferences.com/event/20260601-nice-conference-and-expo-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:7cfd747d71662021@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:fwd:cloudsec North America 2026
+DESCRIPTION:Key Takeaways Non-profit\, practitioner-focused cloud security conference Emphasizes open\, candid discussions on real-world cloud security issues Covers attack and defense research across all major cloud platforms Highlights limitations and practical aspects of security features Designed for cloud security engineers\, architects\, and technical professionals FWD:CloudSec North America 2026 is a leading | Source: InfoSec Conferences | Tags: cloud security\, infosec\, security | https://infosec-conferences.com/event/20260601-fwdcloudsec-north-america-2026/
+LOCATION:Bellevue\, Washington\, US
+URL:https://infosec-conferences.com/event/20260601-fwdcloudsec-north-america-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:75e69dd8af97167d@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:MLcon San Diego 2026
+DESCRIPTION:MLcon San Diego 2026 serves as a leading conference dedicated to the convergence of machine learning and cybersecurity within practical\, real-world settings. This event gathers industry leaders and security professionals to explore how data-driven models are revolutionizing the landscape of modern security systems. With a strong emphasis on actionable insights\, | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, security | https://infosec-conferences.com/event/20260601-mlcon-san-diego-2026/
+LOCATION:San Diego\, California\, US
+URL:https://infosec-conferences.com/event/20260601-mlcon-san-diego-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:261d29f5bcf3de7a@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:SANS DC Metro June 2026
+DESCRIPTION:This comprehensive cybersecurity training event presents a valuable opportunity for professionals aiming to advance their expertise in the field. The program is meticulously designed to deliver a balanced experience\, blending expert-led instruction\, interactive learning\, and meaningful networking. By participating\, individuals can expect to foster both personal and professional growth within | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, security | https://infosec-conferences.com/event/20260601-sans-dc-metro-june-2026/
+LOCATION:Arlington\, Virginia\, US
+URL:https://infosec-conferences.com/event/20260601-sans-dc-metro-june-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:278964b7e4b57949@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:International JavaScript Conference San Diego 2026
+DESCRIPTION:The International JavaScript Conference in San Diego provides an in-depth examination of web application security\, offering practical strategies for developers and organizations. This event is structured to address the complex and evolving challenges encountered by professionals working with modern JavaScript frameworks and enterprise-level applications. Attendees benefit from expert-led sessions that | Source: InfoSec Conferences | Tags: application security\, infosec\, security | https://infosec-conferences.com/event/20260601-international-javascript-conference-san-diego-2026/
+LOCATION:San Diego\, California\, US
+URL:https://infosec-conferences.com/event/20260601-international-javascript-conference-san-diego-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:dad929d0586dbf8c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:USENIX Conference on Privacy Engineering Practice and Respect (PEPR) 2026
+DESCRIPTION:The USENIX Conference on Privacy Engineering Practice and Respect (PEPR) 2026 stands as a leading event for professionals focused on the advancement of privacy engineering. Hosted in Santa Clara\, the conference brings together privacy engineers\, researchers\, and industry leaders to foster collaboration and share expertise. The event highlights the critical | Source: InfoSec Conferences | Tags: infosec\, privacy\, security | https://infosec-conferences.com/event/20260601-usenix-conference-on-privacy-engineering-practice-and-respect/
+LOCATION:Santa Clara\, California\, US
+URL:https://infosec-conferences.com/event/20260601-usenix-conference-on-privacy-engineering-practice-and-respect/
+END:VEVENT
+BEGIN:VEVENT
+UID:c23bb5fb9c19f7b2@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:DevOpsCon San Diego 2026
+DESCRIPTION:DevOpsCon San Diego 2026 stands as a leading conference focused on advancing the integration of DevSecOps within development and operations teams. This event offers a comprehensive platform for professionals aiming to enhance security practices in cloud-native environments while maintaining operational agility. Attendees are provided with actionable insights into embedding security | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260601-devopscon-san-diego-2026/
+LOCATION:San Diego\, California\, US
+URL:https://infosec-conferences.com/event/20260601-devopscon-san-diego-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:1433918a50578c9f@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:North American Network Operators Group (NANOG) June 2026
+DESCRIPTION:Key Takeaways Premier gathering for North American network operators and engineers Focus on network reliability\, SRE\, and AI-driven infrastructure Peer-reviewed technical presentations and workshops Opportunities for professional networking and industry collaboration Spotlight on automation\, monitoring\, and peering coordination NANOG 97 is the 97th meeting of the North American Network Operators’ | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260601-north-american-network-operators-group-nanog-june-2026/
+LOCATION:Bellevue\, Washington\, US
+URL:https://infosec-conferences.com/event/20260601-north-american-network-operators-group-nanog-june-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:0b1876ff3781a72e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:QCon AI Boston 2026
+DESCRIPTION:The AI conference offers a comprehensive exploration of artificial intelligence tailored for senior developers\, architects\, and engineering leaders. This event is structured to provide a deep dive into the practical applications of AI within enterprise environments\, moving beyond surface-level trends to deliver meaningful strategies and insights. Attendees can expect to | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260601-qcon-ai-boston-2026/
+LOCATION:Boston\, Massachusetts\, US
+URL:https://infosec-conferences.com/event/20260601-qcon-ai-boston-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:5129ef8deeef168e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260601T000000Z
+DTEND:20260601T020000Z
+SUMMARY:devmio San Diego Week 2026
+DESCRIPTION:Key Takeaways Five-day hybrid technology conference in San Diego and online Combines Machine Learning\, JavaScript\, and DevOps conferences Features 140 speakers\, 135 sessions\, and 17 workshops Focuses on upskilling\, networking\, and cross-disciplinary learning Access to session recordings for six months San Diego Week by Devmio is a comprehensive technology event | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260601-devmio-san-diego-week-2026/
+LOCATION:San Diego\, California\, US
+URL:https://infosec-conferences.com/event/20260601-devmio-san-diego-week-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:8447900710b6cb9a@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260602T000000Z
+DTEND:20260602T020000Z
+SUMMARY:AI Salon: From Hype to Durable Innovation
+DESCRIPTION:Meetup via AI Salon Bay Area | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:https://luma.com/event/evt-aYn3l2k9FHGuhXX
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:d33895dfb0ff5fb1@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260602T000000Z
+DTEND:20260602T020000Z
+SUMMARY:Founder & Investor Happy Hour #NYTECHWEEK
+DESCRIPTION:Meetup via Bay Area Tech / AGI House | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:https://luma.com/event/evt-52FtARGKjQHE86t
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:980f63c5ba8554d3@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260602T000000Z
+DTEND:20260602T020000Z
+SUMMARY:Workshop on the Economics of Information Security (WEIS) 2026
+DESCRIPTION:Key Takeaways Premier interdisciplinary forum on the economics of information security and privacy Brings together experts from economics\, policy\, law\, business\, and computer science Focuses on economic incentives\, market forces\, and policy impacts in cybersecurity Addresses risk management\, regulatory frameworks\, and societal impacts Designed for academics\, researchers\, and professionals in | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, privacy\, risk\, security | https://infosec-conferences.com/event/20260602-workshop-on-the-economics-of-information-security-weis/
+LOCATION:Berkeley\, California\, US
+URL:https://infosec-conferences.com/event/20260602-workshop-on-the-economics-of-information-security-weis/
+END:VEVENT
+BEGIN:VEVENT
+UID:574429196901fb73@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260602T000000Z
+DTEND:20260602T020000Z
+SUMMARY:BioTech Fermenter: Chicago's Biotechnology Meetup
+DESCRIPTION:Social night for biotechnologists to meetup and discuss our industry in Chicagoland and to create a social network for area professionals. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/biotech-fermenter-chicagos-biotechnology-meetup-tickets-1988580766604
+LOCATION:1460 North Kingsbury Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/biotech-fermenter-chicagos-biotechnology-meetup-tickets-1988580766604
+END:VEVENT
+BEGIN:VEVENT
+UID:d152cd4f3c049922@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260602T000000Z
+DTEND:20260602T020000Z
+SUMMARY:Maritime Risk Symposium (MRS) 2026
+DESCRIPTION:Annual symposium addressing global maritime risks and challenges Focus on cybersecurity\, AI\, and advanced threat detection in maritime operations Live demonstrations of drone platforms and technology integration Brings together industry leaders\, government officials\, and innovators Emphasizes resilience\, collaboration\, and operational insights for maritime security The Maritime Risk Symposium (MRS) is | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, risk\, security | https://infosec-conferences.com/event/20260602-maritime-risk-symposium-mrs-2026/
+LOCATION:Pasadena\, Texas\, US
+URL:https://infosec-conferences.com/event/20260602-maritime-risk-symposium-mrs-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:9160c0dff218a38e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260602T000000Z
+DTEND:20260602T020000Z
+SUMMARY:Internet Privacy and Safety
+DESCRIPTION:Get the lowdown on keeping your online info safe and sound without all the techy jargon. | Source: Eventbrite Chicago Cybersecurity | Tags: cyber\, cybersecurity\, privacy\, security | https://www.eventbrite.com/e/internet-privacy-and-safety-tickets-1988582006312
+LOCATION:1 Conti Parkway\, Elmwood Park\, IL\, US
+URL:https://www.eventbrite.com/e/internet-privacy-and-safety-tickets-1988582006312
+END:VEVENT
+BEGIN:VEVENT
+UID:5330e4692a192bea@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260603T000000Z
+DTEND:20260603T020000Z
+SUMMARY:AI Tech Startup & Investor Networking by AstraTech I San Francisco
+DESCRIPTION:A curated room for AI and Tech founders\, investors\, and professionals. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/ai-tech-startup-investor-networking-by-astratech-i-san-francisco-tickets-1989838263812
+LOCATION:444 Presidio Avenue\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/ai-tech-startup-investor-networking-by-astratech-i-san-francisco-tickets-1989838263812
+END:VEVENT
+BEGIN:VEVENT
+UID:399e0a45ae7ce5a3@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260603T000000Z
+DTEND:20260603T020000Z
+SUMMARY:Fmr NATO Dep. Sec. General Rose Gottemoeller: Security Through Cooperation
+DESCRIPTION:Join Rose Gottemoeller to hear her thoughts on the future of NATO\, and her analysis of the Iran war. | Source: Eventbrite SF Cybersecurity | Tags: cyber\, cybersecurity\, security | https://www.eventbrite.com/e/fmr-nato-dep-sec-general-rose-gottemoeller-security-through-cooperation-tickets-1990180357022
+LOCATION:110 The Embarcadero\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/fmr-nato-dep-sec-general-rose-gottemoeller-security-through-cooperation-tickets-1990180357022
+END:VEVENT
+BEGIN:VEVENT
+UID:33ea1c25fc140798@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260603T000000Z
+DTEND:20260603T020000Z
+SUMMARY:Chicago Healthcare\, Pharma & Business Networking Event
+DESCRIPTION:SUM OF FIVE | Meet Established Professionals In Healthcare\, Pharma & Business | Source: Eventbrite Chicago Healthcare | Tags: health\, healthcare | https://www.eventbrite.ca/e/chicago-healthcare-pharma-business-networking-event-tickets-1988333399723
+LOCATION:112 West Hubbard Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.ca/e/chicago-healthcare-pharma-business-networking-event-tickets-1988333399723
+END:VEVENT
+BEGIN:VEVENT
+UID:439f52b6ec707024@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260603T000000Z
+DTEND:20260603T020000Z
+SUMMARY:Barnard Alumni in Finance Networking Evening
+DESCRIPTION:Please join us for an evening connecting recent Barnard alumnae across finance to strengthen our community and build new connections. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/barnard-alumni-in-finance-networking-evening-tickets-1988771456964
+LOCATION:214 West 39th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/barnard-alumni-in-finance-networking-evening-tickets-1988771456964
+END:VEVENT
+BEGIN:VEVENT
+UID:cb45b9d2c0adf19d@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260603T000000Z
+DTEND:20260603T020000Z
+SUMMARY:New York Tech Week: Networking Event by Ascent Valley
+DESCRIPTION:Dive into tech with other professionals! Network and build strong relationships with investors\, tech experts\, and entrepreneurs in NYC. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/new-york-tech-week-networking-event-by-ascent-valley-tickets-1988617303888
+LOCATION:22 West 46th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/new-york-tech-week-networking-event-by-ascent-valley-tickets-1988617303888
+END:VEVENT
+BEGIN:VEVENT
+UID:e7658a4e48f835b6@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260603T000000Z
+DTEND:20260603T020000Z
+SUMMARY:Women in Digital Assets Forum 2026
+DESCRIPTION:Join us for Women in Digital Assets Forum 2026\, where we will be celebrating women leaders who are embracing digital assets. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/women-in-digital-assets-forum-2026-tickets-1977540756637
+LOCATION:757 3rd Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/women-in-digital-assets-forum-2026-tickets-1977540756637
+END:VEVENT
+BEGIN:VEVENT
+UID:a65476e24d1ffa70@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260604T000000Z
+DTEND:20260604T020000Z
+SUMMARY:The Future of AI & Crypto - A panel discussion
+DESCRIPTION:The Future of AI\, Crypto & FinTech: Insights from Panel of Speakers - Coinbase\, fintech pioneers\, and Web3 leaders. Join the discussion. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/the-future-of-ai-crypto-a-panel-discussion-tickets-1990678440804
+LOCATION:995 Market Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/the-future-of-ai-crypto-a-panel-discussion-tickets-1990678440804
+END:VEVENT
+BEGIN:VEVENT
+UID:1297c33fb0149f49@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260604T000000Z
+DTEND:20260604T020000Z
+SUMMARY:UPSCALE CONF Hackathon
+DESCRIPTION:Meetup via SF Tech Events | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:The Midway\, 900 Marin St\, San Francisco\, CA 94124\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:daa4b8a82504f2fd@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260604T000000Z
+DTEND:20260604T020000Z
+SUMMARY:Global Startup Pitch Night - #NYTechWeek
+DESCRIPTION:Meetup via Bay Area Tech / AGI House | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:https://luma.com/event/evt-2rLcH5gd7SGKN3Z
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:a78168b1d5b31d9a@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260604T000000Z
+DTEND:20260604T020000Z
+SUMMARY:Investing in Startups: Live Networking
+DESCRIPTION:Meetup via AI Salon Bay Area | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:Hacker Dojo\, 855 Maude Ave\, Mountain View\, CA 94043\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:d617a48693bb84bb@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260604T000000Z
+DTEND:20260604T020000Z
+SUMMARY:Master AI Entrepreneurship - From A to Z Masterclass
+DESCRIPTION:Master AI Entrepreneurship - From A to Z Masterclass | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-masterclass-tickets-1981481286869
+LOCATION:Manhattan\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-masterclass-tickets-1981481286869
+END:VEVENT
+BEGIN:VEVENT
+UID:82015907acd22627@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260605T000000Z
+DTEND:20260605T020000Z
+SUMMARY:San Francisco Healthcare\, Pharma & Business Networking Event
+DESCRIPTION:SUM OF FIVE | Meet Professionals In Healthcare\, Pharma & Business | Source: Eventbrite SF Healthcare | Tags: health\, healthcare | https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-networking-event-tickets-1988483182728
+LOCATION:3089 16th Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-networking-event-tickets-1988483182728
+END:VEVENT
+BEGIN:VEVENT
+UID:5116acd49d37b541@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260605T000000Z
+DTEND:20260605T020000Z
+SUMMARY:New York City Healthcare\, Pharma & Business Networking Event
+DESCRIPTION:SUM OF FIVE | Meet Professionals In Healthcare\, Pharma & Business | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.ca/e/new-york-city-healthcare-pharma-business-networking-event-tickets-1988483169689
+LOCATION:525 Greenwich Street\, New York\, NY\, US
+URL:https://www.eventbrite.ca/e/new-york-city-healthcare-pharma-business-networking-event-tickets-1988483169689
+END:VEVENT
+BEGIN:VEVENT
+UID:46628e828c5891d6@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260605T000000Z
+DTEND:20260605T020000Z
+SUMMARY:FinTech & Crypto Networking dinner
+DESCRIPTION:Join us for a chill FinTech & Crypto dinner to network\, share ideas\, and meet fellow innovators in person! | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373608990
+LOCATION:3330 Piedmont Road Northeast\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373608990
+END:VEVENT
+BEGIN:VEVENT
+UID:233432fc0711ada9@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260605T000000Z
+DTEND:20260605T020000Z
+SUMMARY:Tech\, AI & Startups Roundtable Discussion Dinner
+DESCRIPTION:A candid roundtable for tech\, AI\, and startup leaders to exchange ideas\, insights\, and real-world lessons. | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-tickets-1988373810593
+LOCATION:3330 Piedmont Road Northeast\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-tickets-1988373810593
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc2a51e8c2a14d4@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260605T000000Z
+DTEND:20260605T020000Z
+SUMMARY:️ NYC Cybersecurity & InfoSec Social Mixer – Every Friday @ 7PM
+DESCRIPTION:Calling all cybersecurity professionals\, ethical hackers\, SOC analysts | Source: Eventbrite NYC Cybersecurity | Tags: cyber\, cybersecurity\, infosec\, security | https://www.eventbrite.com/e/nyc-cybersecurity-infosec-social-mixer-every-friday-7pm-tickets-1507681228139
+LOCATION:17 John Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/nyc-cybersecurity-infosec-social-mixer-every-friday-7pm-tickets-1507681228139
+END:VEVENT
+BEGIN:VEVENT
+UID:14eb794fc4ccc24d@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260605T000000Z
+DTEND:20260605T020000Z
+SUMMARY:GPN CTF 2026
+DESCRIPTION:CTF via KITCTF | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3041/
+LOCATION:Online
+URL:https://ctftime.org/event/3041/
+END:VEVENT
+BEGIN:VEVENT
+UID:bf5eab19a9976ec5@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260605T000000Z
+DTEND:20260605T020000Z
+SUMMARY:RPCA CTF 2026
+DESCRIPTION:CTF via RPCA Cyber Club | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3278/
+LOCATION:Nakhon Pathom\, Thailand
+URL:https://ctftime.org/event/3278/
+END:VEVENT
+BEGIN:VEVENT
+UID:6325ae3a198ca6cd@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260606T000000Z
+DTEND:20260606T020000Z
+SUMMARY:Breakfast with a VC
+DESCRIPTION:Meetup via AI Salon Bay Area | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:Hilton San Francisco Union Square\, 333 O'Farrell St\, San Francisco\, CA 94102\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:f266b79830d44990@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260606T000000Z
+DTEND:20260606T020000Z
+SUMMARY:Atlanta Business Opportunity & Networking
+DESCRIPTION:Atlanta business opportunity and networking meeting. Learn how to build residual income with an online business and digital banking. | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/atlanta-business-opportunity-networking-tickets-1990210883327
+LOCATION:337 Georgia Avenue Southeast\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/atlanta-business-opportunity-networking-tickets-1990210883327
+END:VEVENT
+BEGIN:VEVENT
+UID:9a8787216afbc395@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260606T000000Z
+DTEND:20260606T020000Z
+SUMMARY:SAS CTF 2026 Quals
+DESCRIPTION:CTF via Drovosec | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3109/
+LOCATION:Online
+URL:https://ctftime.org/event/3109/
+END:VEVENT
+BEGIN:VEVENT
+UID:fd4b89f3c6b8a316@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260606T000000Z
+DTEND:20260606T020000Z
+SUMMARY:ZeroDay Heist 2026
+DESCRIPTION:CTF via CyberXoX | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3308/
+LOCATION:Online
+URL:https://ctftime.org/event/3308/
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe74d08d2a7fed6@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260607T000000Z
+DTEND:20260607T020000Z
+SUMMARY:Flip the Script: WWDC Watch Party + Mac Dev Conference on Building\, Distributing & Monetizing AI Apps by MacPaw
+DESCRIPTION:Meetup via Bay Area Tech / AGI House | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:AGI House\, 1868 Floribunda Ave\, Hillsborough\, CA 94010\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bdce923f0296ece@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260607T000000Z
+DTEND:20260607T020000Z
+SUMMARY:3 AI Income Streams You Can Start This Month
+DESCRIPTION:Discover easy AI hacks to start making money fast with 3 cool income ideas you can kick off right away. | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/3-ai-income-streams-you-can-start-this-month-tickets-1989915236038
+LOCATION:576 Lee Street Southwest\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/3-ai-income-streams-you-can-start-this-month-tickets-1989915236038
+END:VEVENT
+BEGIN:VEVENT
+UID:5d605c2de0ea2bf6@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260607T000000Z
+DTEND:20260607T020000Z
+SUMMARY:SSMCTF 2026 Qualifiers
+DESCRIPTION:CTF via yes but oh wait shit what's our team name again | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/2913/
+LOCATION:Online
+URL:https://ctftime.org/event/2913/
+END:VEVENT
+BEGIN:VEVENT
+UID:d174a07707aeab3c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260608T000000Z
+DTEND:20260608T020000Z
+SUMMARY:SF Women in Tech: Founders & Professionals Networking Night
+DESCRIPTION:Connect with women in tech\, startups\, and innovation. Network\, share ideas\, and build meaningful professional relationships. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1988408096142
+LOCATION:557 Haight Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1988408096142
+END:VEVENT
+BEGIN:VEVENT
+UID:5f66bff5ed56987c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260608T000000Z
+DTEND:20260608T020000Z
+SUMMARY:Chicago Women in Tech: Founders & Professionals Networking Night
+DESCRIPTION:Connect with women in tech\, startups\, and innovation. Network\, share ideas\, and build meaningful professional relationships. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/chicago-women-in-tech-founders-professionals-networking-night-tickets-1988315361771
+LOCATION:25 South Halsted Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-women-in-tech-founders-professionals-networking-night-tickets-1988315361771
+END:VEVENT
+BEGIN:VEVENT
+UID:7296af93277c047e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260608T000000Z
+DTEND:20260608T020000Z
+SUMMARY:NYC Women in Tech: Founders & Professionals Networking Night
+DESCRIPTION:Connect with women in tech\, startups\, and innovation. Network\, share ideas\, and build meaningful professional relationships. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-1988315143117
+LOCATION:Madam Mikette's\,987 2nd Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-1988315143117
+END:VEVENT
+BEGIN:VEVENT
+UID:b658c2e3b844d28e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260608T000000Z
+DTEND:20260608T020000Z
+SUMMARY:Women in Tech\, Fintech\, AI\, Startups\, Networking Event & Elevator Pitch NYC
+DESCRIPTION:Join the Tech Startups Networking Event to connect with service providers and build partnerships to accelerate your growth! | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/women-in-tech-fintech-ai-startups-networking-event-elevator-pitch-nyc-tickets-1986976025781
+LOCATION:987 2nd Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/women-in-tech-fintech-ai-startups-networking-event-elevator-pitch-nyc-tickets-1986976025781
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a16f79858e9baa@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260609T000000Z
+DTEND:20260609T020000Z
+SUMMARY:SF Tech Startups\, Investors\, Professionals Networking & Pitch Event
+DESCRIPTION:Join the Tech Startups Networking Event to connect and and build partnerships\, for live pitches and meaningful networking. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/sf-tech-startups-investors-professionals-networking-pitch-event-tickets-1988469292181
+LOCATION:46 Geary Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/sf-tech-startups-investors-professionals-networking-pitch-event-tickets-1988469292181
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad25a2432af8480@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260609T000000Z
+DTEND:20260609T020000Z
+SUMMARY:[Fireside Discussion] From Tokens to Robots
+DESCRIPTION:Meetup via SF Tech Events | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:625 2nd St\, San Francisco\, CA 94107\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:e58495c0965c177e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260609T000000Z
+DTEND:20260609T020000Z
+SUMMARY:Chicago Tech Startups\, Investors\, Experts Networking & Pitch Event
+DESCRIPTION:Connect with tech startups\, investors\, and industry experts for an evening of rapid-fire pitches\, conversations and opportunities. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/chicago-tech-startups-investors-experts-networking-pitch-event-tickets-1988469511838
+LOCATION:1925 West Cortland Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-tech-startups-investors-experts-networking-pitch-event-tickets-1988469511838
+END:VEVENT
+BEGIN:VEVENT
+UID:1edca3e1e925ba92@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260609T000000Z
+DTEND:20260609T020000Z
+SUMMARY:Tech Connect: Startups\, Investors\, Professionals Networking Event Chicago
+DESCRIPTION:Join us at Chicago Tech Connect for a night of networking with fellow startups\, entrepreneurs\, and professionals in the tech industry! | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/tech-connect-startups-investors-professionals-networking-event-chicago-tickets-1988619149408
+LOCATION:Lottie Pub\, 1925 West Cortland Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/tech-connect-startups-investors-professionals-networking-event-chicago-tickets-1988619149408
+END:VEVENT
+BEGIN:VEVENT
+UID:4dfa6457ba14e8e0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260609T010000Z
+DTEND:20260609T040000Z
+SUMMARY:Tejas Seattle Chapter: Security & Privacy Leaders Dinner Meetup (Self Paid)
+DESCRIPTION:Source: Tejas Cyber Network | Tags: ciso\, cyber\, privacy\, security | https://luma.com/tejas-hu26
+LOCATION:Redmond\, Redmond\, Washington\, US
+URL:https://luma.com/tejas-hu26
+END:VEVENT
+BEGIN:VEVENT
+UID:4a085077197fec55@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260610T000000Z
+DTEND:20260610T020000Z
+SUMMARY:AI Inference Hack Day
+DESCRIPTION:Meetup via SF Tech Events | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:AWS Builder Loft\, 525 Market St\, San Francisco\, CA 94105\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:6bcb7bd9f65c0327@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260610T000000Z
+DTEND:20260610T020000Z
+SUMMARY:Winning the Decade: Banking on Revenue-Centric Transformation
+DESCRIPTION:Join us in person to unlock next-level banking strategies and boost your revenue game for the decade ahead! | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/winning-the-decade-banking-on-revenue-centric-transformation-tickets-1989027122667
+LOCATION:122 5th Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/winning-the-decade-banking-on-revenue-centric-transformation-tickets-1989027122667
+END:VEVENT
+BEGIN:VEVENT
+UID:c54bea98c3c76614@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260610T000000Z
+DTEND:20260610T020000Z
+SUMMARY:Atlanta Tech & Finance Networking Event
+DESCRIPTION:Meet Established Professionals In Tech & Finance! | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.ca/e/atlanta-tech-finance-networking-event-tickets-1986235491824
+LOCATION:3301 Lenox Parkway\, Atlanta\, GA\, US
+URL:https://www.eventbrite.ca/e/atlanta-tech-finance-networking-event-tickets-1986235491824
+END:VEVENT
+BEGIN:VEVENT
+UID:df8f577baa05903b@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260610T000000Z
+DTEND:20260610T020000Z
+SUMMARY:Women + Tech Meetup
+DESCRIPTION:Join us for the 2026 Women + Tech Meetup series! We're hosting once-a-month gatherings for learning and networking in our tech ecosystem. | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/women-tech-meetup-tickets-1979762616279
+LOCATION:3423 Piedmont Road Northeast\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/women-tech-meetup-tickets-1979762616279
+END:VEVENT
+BEGIN:VEVENT
+UID:82fb2feaf8f31c97@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260610T000000Z
+DTEND:20260610T020000Z
+SUMMARY:Cyber Summer Social
+DESCRIPTION:Join us for a day of coworking\, lunch\, Desk Yoga\, Cocktails\, and Fireworks hosted by Darktrace\, Keysight\, Versa\, and Forescout! | Source: Eventbrite Chicago Cybersecurity | Tags: cyber\, cybersecurity\, security | https://www.eventbrite.com/e/cyber-summer-social-tickets-1990585243047
+LOCATION:200 East Randolph Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/cyber-summer-social-tickets-1990585243047
+END:VEVENT
+BEGIN:VEVENT
+UID:e83009d049289e22@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260611T000000Z
+DTEND:20260611T020000Z
+SUMMARY:Vector Space Day San Francisco
+DESCRIPTION:Meetup via SF Tech Events | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:The Midway\, 900 Marin St\, San Francisco\, CA 94124\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:a212f02efa73dd0e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260611T000000Z
+DTEND:20260611T020000Z
+SUMMARY:Napa Tech Summit
+DESCRIPTION:Meetup via Bay Area Tech / AGI House | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:https://luma.com/event/evt-HWrGK3HKlz0hYTC
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:503ccff7d5179a4f@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260611T000000Z
+DTEND:20260611T020000Z
+SUMMARY:HealthSpecialists: HealthCareConnect - Cultivating Your Career Path - Chicago
+DESCRIPTION:Experience healthspecialists healthcareconnect networking in Chicago on 11 Jun 2026\, 4 PM CDT. Connect with professionals! | Source: Eventbrite Chicago Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthspecialists-healthcareconnect-cultivating-your-career-path-chicago-tickets-1989380516678
+LOCATION:TBD\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/healthspecialists-healthcareconnect-cultivating-your-career-path-chicago-tickets-1989380516678
+END:VEVENT
+BEGIN:VEVENT
+UID:ef92dcbdbf6bcc7b@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260611T000000Z
+DTEND:20260611T020000Z
+SUMMARY:HealthSpecialists: HealthCareConnect - Elevate Your Career in Healthcare! - Atlanta
+DESCRIPTION:Don't miss healthspecialists healthcareconnect networking in Atlanta on 11 Jun 2026\, 4 PM EDT. Connect with professionals! | Source: Eventbrite Atlanta Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthspecialists-healthcareconnect-elevate-your-career-in-healthcare-atlanta-tickets-1989378415393
+LOCATION:TBD\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/healthspecialists-healthcareconnect-elevate-your-career-in-healthcare-atlanta-tickets-1989378415393
+END:VEVENT
+BEGIN:VEVENT
+UID:d7d4ff03eb71936b@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260611T000000Z
+DTEND:20260611T020000Z
+SUMMARY:Executive Security Leadership Panel by ZeroEyes & Axis Communications
+DESCRIPTION:Join us to learn more about Axis and ZeroEyes | Source: Eventbrite NYC Cybersecurity | Tags: cyber\, cybersecurity\, security | https://www.eventbrite.com/e/executive-security-leadership-panel-by-zeroeyes-axis-communications-tickets-1989845586715
+LOCATION:12 East 49th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/executive-security-leadership-panel-by-zeroeyes-axis-communications-tickets-1989845586715
+END:VEVENT
+BEGIN:VEVENT
+UID:bf45704c1d2c28d1@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260611T000000Z
+DTEND:20260611T020000Z
+SUMMARY:EBCK Cyber Security Practitioner Happy Hour
+DESCRIPTION:Meetup via East Bay Cyber Community | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:Danville\, CA\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:a12efce967712917@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260612T000000Z
+DTEND:20260612T020000Z
+SUMMARY:Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta\, GA
+DESCRIPTION:Understand common cyber threats and learn practical ways to prevent breaches\, detect fraud\, and improve digital security. | Source: Eventbrite Atlanta Cybersecurity | Tags: cyber\, cybersecurity\, security | https://www.eventbrite.sg/e/cybersecurity-fraud-prevention-1-day-banking-session-in-atlanta-ga-tickets-1978208269185
+LOCATION:260 Peachtree Street NW Suite 2200\, Atlanta\, GA\, US
+URL:https://www.eventbrite.sg/e/cybersecurity-fraud-prevention-1-day-banking-session-in-atlanta-ga-tickets-1978208269185
+END:VEVENT
+BEGIN:VEVENT
+UID:925fcc2fdebf829f@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260612T000000Z
+DTEND:20260612T020000Z
+SUMMARY:boroCTF 2026
+DESCRIPTION:CTF via KyteBytes | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3309/
+LOCATION:Online
+URL:https://ctftime.org/event/3309/
+END:VEVENT
+BEGIN:VEVENT
+UID:05338b5d2096630c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260612T190000Z
+DTEND:20260612T200000Z
+SUMMARY:Career Warmup for Cyber Professionals
+DESCRIPTION:Source: Tejas Cyber Network | Tags: ciso\, cyber\, security | https://luma.com/tejas-31bs
+LOCATION:https://luma.com/tejas-31bs
+URL:https://luma.com/tejas-31bs
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c97283324d902a@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Staying Secure in a Digital World: Building Cyber-Aware Communities
+DESCRIPTION:Join us to learn cool tips on staying safe online and help build smarter\, cyber-aware communities together! | Source: Eventbrite SF Fintech | Tags: cyber\, fintech | https://www.eventbrite.co.uk/e/staying-secure-in-a-digital-world-building-cyber-aware-communities-tickets-1990632455260
+LOCATION:Hotel De Lapez\, Aba\, Aba\, Abia\, NG
+URL:https://www.eventbrite.co.uk/e/staying-secure-in-a-digital-world-building-cyber-aware-communities-tickets-1990632455260
+END:VEVENT
+BEGIN:VEVENT
+UID:2f872cedf97ca504@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Healthcare Inner Circle Presents
+DESCRIPTION:Join us for Healthcare Inner Circle Presents — Mixer where healthcare providers connect\, share insider insights\, and make new friends! | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthcare-inner-circle-presents-tickets-1990785432820
+LOCATION:404 Broadway\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/healthcare-inner-circle-presents-tickets-1990785432820
+END:VEVENT
+BEGIN:VEVENT
+UID:a463c85dc5d6428c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Business\, Branding & Technology - World Cup Networking Business Sessions
+DESCRIPTION:Join us in person for epic networking at the Business\, Branding & Tech World Cup sessions! | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/business-branding-technology-world-cup-networking-business-sessions-tickets-1979945204405
+LOCATION:1055 Howell Mill Road Northwest\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/business-branding-technology-world-cup-networking-business-sessions-tickets-1979945204405
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1f597830d4b10a@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Anti-Slop CTF 2026
+DESCRIPTION:CTF via hackme | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3272/
+LOCATION:Online
+URL:https://ctftime.org/event/3272/
+END:VEVENT
+BEGIN:VEVENT
+UID:da1863e19745d93c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260613T010000Z
+DTEND:20260613T033000Z
+SUMMARY:Tejas Bay Area Chapter : Cyber Leaders Meetup : Sunnyvale Edition
+DESCRIPTION:Source: Tejas Cyber Network | Tags: ciso\, cyber\, security | https://luma.com/7ewoqsih
+LOCATION:Sunnyvale\, Sunnyvale\, California\, US
+URL:https://luma.com/7ewoqsih
+END:VEVENT
+BEGIN:VEVENT
+UID:984075b17a6cd3d4@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260614T000000Z
+DTEND:20260619T000000Z
+SUMMARY:38th Annual FIRST Conference
+DESCRIPTION:Conference | Source: FIRST Events | Tags: security | http://www.first.org/conference/2026
+LOCATION:Denver\, US
+URL:http://www.first.org/conference/2026
+END:VEVENT
+BEGIN:VEVENT
+UID:8bc4dbdb0b1324d1@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260614T000000Z
+DTEND:20260614T020000Z
+SUMMARY:Training @ FIRSTCON26
+DESCRIPTION:Training | Source: FIRST Events | Tags: security | https://www.first.org/conference/2026/training/
+LOCATION:Denver\, US
+URL:https://www.first.org/conference/2026/training/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d01929f4202f186@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:BioTech \, MedTech\, Pharma Networking & Pitch Event SF
+DESCRIPTION:Connect with BioTech innovators! Network\, collaborate\, and grow with like-minded professionals and industry leaders. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-sf-tickets-1988827955954
+LOCATION:Upcider bar\, 1160 Polk Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-sf-tickets-1988827955954
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d9cd78bfef2df6@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:SF BioTech\, Pharma\, MedTech Networking & Pitch Mixer
+DESCRIPTION:Connect with founders\, investors & experts in BioTech and Pharma for live pitches and meaningful networking. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/sf-biotech-pharma-medtech-networking-pitch-mixer-tickets-1988826210734
+LOCATION:557 Haight Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/sf-biotech-pharma-medtech-networking-pitch-mixer-tickets-1988826210734
+END:VEVENT
+BEGIN:VEVENT
+UID:247e9d26176e1490@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260615T000000Z
+DTEND:20260616T000000Z
+SUMMARY:AI-Native Foundations
+DESCRIPTION:AI-Native Foundations | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/ai-native-foundations-registration-1978841501199
+LOCATION:3595 Cumberland Boulevard Southeast\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/ai-native-foundations-registration-1978841501199
+END:VEVENT
+BEGIN:VEVENT
+UID:d19672ed61ae6cbc@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:BioTech \, MedTech\, Pharma Networking & Pitch Event Chicago
+DESCRIPTION:Connect with BioTech innovators! Network\, collaborate\, and grow with like-minded professionals and industry leaders. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-chicago-tickets-1988828108410
+LOCATION:Rye Deli & Drink\, 25 South Halsted Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-chicago-tickets-1988828108410
+END:VEVENT
+BEGIN:VEVENT
+UID:bc36337b3c6c8f95@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:BioTech Startups\, Investors & Professionals Networking Event NYC
+DESCRIPTION:Connect with BioTech innovators! Network\, collaborate\, and grow with like-minded professionals and industry leaders. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/biotech-startups-investors-professionals-networking-event-nyc-tickets-1987009268210
+LOCATION:Flûte Champagne Bar\, 205 West 54th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/biotech-startups-investors-professionals-networking-event-nyc-tickets-1987009268210
+END:VEVENT
+BEGIN:VEVENT
+UID:d7688b7d2851a3c7@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:Chicago BioTech\, Pharma\, MedTech Networking & Pitch Mixer
+DESCRIPTION:Connect with founders\, investors & experts in BioTech and Pharma for live pitches and meaningful networking. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/chicago-biotech-pharma-medtech-networking-pitch-mixer-tickets-1988826353160
+LOCATION:25 South Halsted Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-biotech-pharma-medtech-networking-pitch-mixer-tickets-1988826353160
+END:VEVENT
+BEGIN:VEVENT
+UID:536ae39760c177a0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260615T000000Z
+DTEND:20260615T020000Z
+SUMMARY:Networking Mixer | Private Equity | Venture Capital | Law | Fintech
+DESCRIPTION:Join us for a fun Spring Networking Mixer in Midtown Manhattan -- a great opportunity to expand your community and raise capital. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/networking-mixer-private-equity-venture-capital-law-fintech-tickets-1986255857739
+LOCATION:340 Lexington Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/networking-mixer-private-equity-venture-capital-law-fintech-tickets-1986255857739
+END:VEVENT
+BEGIN:VEVENT
+UID:660b7cb97b0d8362@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260616T000000Z
+DTEND:20260616T020000Z
+SUMMARY:SF Real Estate & Construction Pitch & Networking Mixer
+DESCRIPTION:Join property developers\, investors & industry players for rapid-fire pitches & networking focused on real estate opportunities. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/sf-real-estate-construction-pitch-networking-mixer-tickets-1989141690342
+LOCATION:557 Haight Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/sf-real-estate-construction-pitch-networking-mixer-tickets-1989141690342
+END:VEVENT
+BEGIN:VEVENT
+UID:92400c3e67f19408@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260617T000000Z
+DTEND:20260617T020000Z
+SUMMARY:Codex Community Meetup - San Francisco
+DESCRIPTION:Meetup via SF Tech Events | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:625 2nd St\, San Francisco\, CA 94107\, USA
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:9a85ae43994e9f9c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260617T000000Z
+DTEND:20260617T020000Z
+SUMMARY:Healthcare and Business Networking - Long Island City
+DESCRIPTION:Strive welcomes you to 'Healthcare and Business Networking'\, an event for tenured and newcomers at The Beast Next Door! Event is 21+. | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthcare-and-business-networking-long-island-city-tickets-1985312557302
+LOCATION:42-51 27th Street\, Queens\, NY\, US
+URL:https://www.eventbrite.com/e/healthcare-and-business-networking-long-island-city-tickets-1985312557302
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b9ad249f7a58ff@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260617T000000Z
+DTEND:20260617T020000Z
+SUMMARY:Healthcare and Business Networking | Elevating Your Potential - Chicago
+DESCRIPTION:Strive welcomes you to 'Healthcare and Business Networking'\, an event for tenured and newcomers at Hubbard Inn! Event is 21+. Limited Ticket | Source: Eventbrite Chicago Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-chicago-tickets-1985288283699
+LOCATION:110 West Hubbard Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-chicago-tickets-1985288283699
+END:VEVENT
+BEGIN:VEVENT
+UID:99713ca47abae413@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260617T000000Z
+DTEND:20260617T020000Z
+SUMMARY:Healthcare and Business Networking | Elevating Your Potential - NYC
+DESCRIPTION:Strive welcomes you to 'Healthcare and Business Networking'\, an event for tenured and newcomers at 5th&Mad! Event is 21+. | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-nyc-tickets-1988338509005
+LOCATION:7 East 36th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-nyc-tickets-1988338509005
+END:VEVENT
+BEGIN:VEVENT
+UID:846e049ca785a01e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260617T000000Z
+DTEND:20260617T020000Z
+SUMMARY:Sieberrsec CTF 7.0
+DESCRIPTION:CTF via sieberr.live | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3299/
+LOCATION:Online
+URL:https://ctftime.org/event/3299/
+END:VEVENT
+BEGIN:VEVENT
+UID:8505955745f83dc3@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260617T003000Z
+DTEND:20260617T033000Z
+SUMMARY:June 2026 Event: Defending the Future - Securing AI in an Era of Cyber Threats
+DESCRIPTION:Source: Silicon Valley ISSA | Tags: cyber\, security | https://luma.com/ibdabawz
+LOCATION:
+URL:https://luma.com/ibdabawz
+END:VEVENT
+BEGIN:VEVENT
+UID:b270945c4dbeff35@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:Black Health Connect | Bridging Healthcare Communities: NYC - Q2 Mixer
+DESCRIPTION:COMING TOGETHER TODAY FOR A MORE SUCCESSFUL TOMORROW.RSVP at Blackhealthconnect.com | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-nyc-q2-mixer-tickets-1988340934259
+LOCATION:621 West 46th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-nyc-q2-mixer-tickets-1988340934259
+END:VEVENT
+BEGIN:VEVENT
+UID:f0136f7956ed4113@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260618T000000Z
+DTEND:20260618T020000Z
+SUMMARY:AI Executive Dinner
+DESCRIPTION:Meetup via AI Salon Bay Area | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:https://luma.com/event/evt-kp7YPfwn9QM1kOF
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac74277f3ed6d9a0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:BCACTF 7.0
+DESCRIPTION:CTF via Bing Chilling Academies | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3246/
+LOCATION:Online
+URL:https://ctftime.org/event/3246/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b96f13e87fb1b0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:Google Capture The Flag 2026
+DESCRIPTION:CTF via Google CTF | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3222/
+LOCATION:Online
+URL:https://ctftime.org/event/3222/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a6028cc5fe8deda@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260619T000000Z
+DTEND:20260619T020000Z
+SUMMARY:RIFFHACK: Black Market Break-In
+DESCRIPTION:CTF via Biterra | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3297/
+LOCATION:Online
+URL:https://ctftime.org/event/3297/
+END:VEVENT
+BEGIN:VEVENT
+UID:3ef55a683da3001d@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260619T190000Z
+DTEND:20260619T203000Z
+SUMMARY:Build\, Deploy and Harden an MCP Server from Scratch
+DESCRIPTION:Source: Tejas Cyber Network | Tags: ciso\, cyber\, security | https://luma.com/tejas-505m
+LOCATION:https://luma.com/tejas-505m
+URL:https://luma.com/tejas-505m
+END:VEVENT
+BEGIN:VEVENT
+UID:611ebbe1306fd699@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260620T000000Z
+DTEND:20260620T020000Z
+SUMMARY:Sponsorship - Google Pay
+DESCRIPTION:Google Pay's Sponsorship event is designed to showcase its fast\, easy\, and safe way to pay in applications\, on web pages\, and in stores. The event offers an engaging platform for users to learn about Google Pay's cutting-edge technology services\, its advantages\, and how it can integrate seamlessly into one's life. Attendees will get a chance to gain better understanding of how to make digital payment easier and faster with Google Pay. (Note: It should be noted the details of this event might var | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/sponsorship-google-pay-tickets-946565120757
+LOCATION:555 Main St\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/sponsorship-google-pay-tickets-946565120757
+END:VEVENT
+BEGIN:VEVENT
+UID:5b780783ba15606c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:iContact the tactile tech opera
+DESCRIPTION:An immersive performance exploring our relationship with technology\, Nature and each other. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/icontact-the-tactile-tech-opera-tickets-1982861003639
+LOCATION:94107 1661 Tennessee Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/icontact-the-tactile-tech-opera-tickets-1982861003639
+END:VEVENT
+BEGIN:VEVENT
+UID:1ddc6c03b3e477a7@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260622T000000Z
+DTEND:20260622T020000Z
+SUMMARY:SF Tech Startups\, Investors\, Innovators Networking with Elevator Pitch
+DESCRIPTION:Connect with tech startups\, investors\, and industry experts for an evening of rapid-fire pitches\, conversations and opportunities. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/sf-tech-startups-investors-innovators-networking-with-elevator-pitch-tickets-1989219723742
+LOCATION:2351 Mission Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/sf-tech-startups-investors-innovators-networking-with-elevator-pitch-tickets-1989219723742
+END:VEVENT
+BEGIN:VEVENT
+UID:af0cbdca4d8f86fe@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:HealthTech & MedTech: Healthcare Industry Networking Night SF
+DESCRIPTION:SF MedTech Connect: a night of networking with Health and MedTech startups\, investors\, entrepreneurs\, and professionals | Source: Eventbrite SF Fintech | Tags: fintech\, health\, healthcare | https://www.eventbrite.com/e/healthtech-medtech-healthcare-industry-networking-night-sf-tickets-1989092270526
+LOCATION:Hawthorn \, 46 Geary Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/healthtech-medtech-healthcare-industry-networking-night-sf-tickets-1989092270526
+END:VEVENT
+BEGIN:VEVENT
+UID:bceddf5791dfb96a@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:SF HealthTech\, MedTech Startups\, Investors\, Innovators Networking Event
+DESCRIPTION:Connect with HealthTech startups\, investors\, and industry experts for an evening of rapid-fire pitches\, conversations and opportunities. | Source: Eventbrite SF Fintech | Tags: fintech\, health | https://www.eventbrite.com/e/sf-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1989092034821
+LOCATION:46 Geary Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/sf-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1989092034821
+END:VEVENT
+BEGIN:VEVENT
+UID:52a75929a68cb4b4@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:Chicago HealthTech\, MedTech Networking Mixer and Elevator Pitch
+DESCRIPTION:Connect with HealthTech startups\, investors\, and industry experts for an evening of rapid-fire pitches\, conversations and opportunities. | Source: Eventbrite Chicago Fintech | Tags: fintech\, health | https://www.eventbrite.com/e/chicago-healthtech-medtech-networking-mixer-and-elevator-pitch-tickets-1986528868321
+LOCATION:1925 West Cortland Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-healthtech-medtech-networking-mixer-and-elevator-pitch-tickets-1986528868321
+END:VEVENT
+BEGIN:VEVENT
+UID:5f68460f710d2d40@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:HealthTech & MedTech Professionals & Industry Networking in Chicago
+DESCRIPTION:Chicago HealthTech Connect: a night of networking with Health and MedTech startups\, investors\, entrepreneurs\, and professionals | Source: Eventbrite Chicago Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthtech-medtech-professionals-industry-networking-in-chicago-tickets-1989091466120
+LOCATION:Lottie Pub\, 1925 West Cortland Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/healthtech-medtech-professionals-industry-networking-in-chicago-tickets-1989091466120
+END:VEVENT
+BEGIN:VEVENT
+UID:616ad6dbef450dcf@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC
+DESCRIPTION:NYC MedTech Connect: a night of networking with Health and MedTech startups\, investors\, entrepreneurs\, and professionals | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthtech-medtech-healthcare-professionals-industry-networking-nyc-tickets-1989092230406
+LOCATION:San Babila\, 1355 2nd Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/healthtech-medtech-healthcare-professionals-industry-networking-nyc-tickets-1989092230406
+END:VEVENT
+BEGIN:VEVENT
+UID:35b4b3046ed13269@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260623T000000Z
+DTEND:20260623T020000Z
+SUMMARY:MedTech Startups\, Investors\, Innovators Networking Event NYC
+DESCRIPTION:NYC MedTech Connect: a night of networking with Health and MedTech startups\, investors\, entrepreneurs\, and professionals | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/medtech-startups-investors-innovators-networking-event-nyc-tickets-1988351361447
+LOCATION:San Babila\, 1355 2nd Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/medtech-startups-investors-innovators-networking-event-nyc-tickets-1988351361447
+END:VEVENT
+BEGIN:VEVENT
+UID:3ed8d58e41bf596e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260624T000000Z
+DTEND:20260624T020000Z
+SUMMARY:Tech Startup Networking San Francisco Series A Venture Capital Event
+DESCRIPTION:Tech Startup Networking San Francisco- Series A / Venture Capital Scale up Networking Event | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.co.uk/e/tech-startup-networking-san-francisco-series-a-venture-capital-event-tickets-1985173693958
+LOCATION:San Francisco\, San Francisco\, CA\, US
+URL:https://www.eventbrite.co.uk/e/tech-startup-networking-san-francisco-series-a-venture-capital-event-tickets-1985173693958
+END:VEVENT
+BEGIN:VEVENT
+UID:147938412f5bc45f@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260624T000000Z
+DTEND:20260624T020000Z
+SUMMARY:AI Salon: From Hype to Durable Innovation
+DESCRIPTION:Meetup via AI Salon Bay Area | Source: East Bay Cyber | Tags: cyber\, security | https://lu.ma/
+LOCATION:https://luma.com/event/evt-jRl7P5CgVWmJP9f
+URL:https://lu.ma/
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6bba25d8c10905@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260624T000000Z
+DTEND:20260624T020000Z
+SUMMARY:Atlanta Healthcare\, Pharma & Business Networking Event
+DESCRIPTION:SUM OF FIVE | Meet Professionals In Healthcare\, Pharma & Business | Source: Eventbrite Atlanta Healthcare | Tags: health\, healthcare | https://www.eventbrite.ca/e/atlanta-healthcare-pharma-business-networking-event-tickets-1989857928630
+LOCATION:3301 Lenox Parkway\, Atlanta\, GA\, US
+URL:https://www.eventbrite.ca/e/atlanta-healthcare-pharma-business-networking-event-tickets-1989857928630
+END:VEVENT
+BEGIN:VEVENT
+UID:8d307f3a9a7ae788@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260624T000000Z
+DTEND:20260624T020000Z
+SUMMARY:Women in AI Forum (WiAI) at Chicago AI Week
+DESCRIPTION:It is a flagship gathering celebrating the leadership\, innovation\, and impact of women at the forefront of artificial intelligence. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/women-in-ai-forum-wiai-at-chicago-ai-week-tickets-1990752644750
+LOCATION:22 West Washington Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/women-in-ai-forum-wiai-at-chicago-ai-week-tickets-1990752644750
+END:VEVENT
+BEGIN:VEVENT
+UID:d4d244aa25fb8db5@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260625T000000Z
+DTEND:20260625T020000Z
+SUMMARY:13th Annual Columbia Venture Community Pitch Night NYC
+DESCRIPTION:Join Columbia Venture Community NYC in-person for our 13 Annual NYC Pitch Night! RSVP required. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/13th-annual-columbia-venture-community-pitch-night-nyc-tickets-1988733837443
+LOCATION:1251 6th Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/13th-annual-columbia-venture-community-pitch-night-nyc-tickets-1988733837443
+END:VEVENT
+BEGIN:VEVENT
+UID:ed50d8e1d6bda846@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260625T000000Z
+DTEND:20260626T000000Z
+SUMMARY:Chicago AI Week
+DESCRIPTION:Chicago AI Week 2026 marks the fourth edition of this premier gathering of global AI leaders from industry\, government\, and academia. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/chicago-ai-week-tickets-1981473535685
+LOCATION:200 East Randolph Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-ai-week-tickets-1981473535685
+END:VEVENT
+BEGIN:VEVENT
+UID:8435c496020e0e10@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260625T000000Z
+DTEND:20260625T020000Z
+SUMMARY:Chicago Tech Mixer 2026
+DESCRIPTION:THE BEST NETWORKING IN Chicago!!! | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/chicago-tech-mixer-2026-tickets-1990585873934
+LOCATION:168 North Michigan Avenue\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-tech-mixer-2026-tickets-1990585873934
+END:VEVENT
+BEGIN:VEVENT
+UID:d492dbb05e317cff@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260625T000000Z
+DTEND:20260625T020000Z
+SUMMARY:TechSpecialists: AIDataTech TechNetworking Mixer - Connect & Grow! - Chicago
+DESCRIPTION:Join us for techspecialists aidatatech networking in Chicago on 25 Jun 2026\, 5 PM CDT. Connect with professionals! | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/techspecialists-aidatatech-technetworking-mixer-connect-grow-chicago-tickets-1990487698288
+LOCATION:TBD\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/techspecialists-aidatatech-technetworking-mixer-connect-grow-chicago-tickets-1990487698288
+END:VEVENT
+BEGIN:VEVENT
+UID:2501e7d229f1d532@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260625T000000Z
+DTEND:20260625T020000Z
+SUMMARY:Women in Tech Chicago 2026
+DESCRIPTION:THE BEST NETWORKING IN CHICAGO!!! | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/women-in-tech-chicago-2026-tickets-1990585877946
+LOCATION:168 North Michigan Avenue\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/women-in-tech-chicago-2026-tickets-1990585877946
+END:VEVENT
+BEGIN:VEVENT
+UID:e0cb8427c6bfac4c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260626T000000Z
+DTEND:20260626T020000Z
+SUMMARY:Aligned High Level Networking & Panel Discussion
+DESCRIPTION:Learn how AI can help you attract clients\, save time\, simplify systems\, and supercharge your business at Aligned June 26. | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/aligned-high-level-networking-panel-discussion-tickets-1990638280684
+LOCATION:504 Fair Street Southwest\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/aligned-high-level-networking-panel-discussion-tickets-1990638280684
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4ccd5b994f2959@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:V1T CTF 2026
+DESCRIPTION:CTF via R4wr | Source: East Bay Cyber | Tags: cyber\, security | https://ctftime.org/event/3249/
+LOCATION:Online
+URL:https://ctftime.org/event/3249/
+END:VEVENT
+BEGIN:VEVENT
+UID:86d87d87deea625d@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:SF Women in Tech: Founders & Professionals Networking Night
+DESCRIPTION:Connect with women in tech\, startups\, and innovation. Network\, share ideas\, and build meaningful professional relationships. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1990781858128
+LOCATION:1160 Polk Street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1990781858128
+END:VEVENT
+BEGIN:VEVENT
+UID:b257da585a60ed71@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:Chicago Women in Tech: Founders & Professionals Networking Night
+DESCRIPTION:Connect with women in tech\, startups\, and innovation. Network\, share ideas\, and build meaningful professional relationships. | Source: Eventbrite Chicago Fintech | Tags: fintech | https://www.eventbrite.com/e/chicago-women-in-tech-founders-professionals-networking-night-tickets-1990781280400
+LOCATION:1925 West Cortland Street\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-women-in-tech-founders-professionals-networking-night-tickets-1990781280400
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9f726cf397a5b9@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:NYC Women in Tech: Founders & Professionals Networking Night
+DESCRIPTION:Connect with women in tech\, startups\, and innovation. Network\, share ideas\, and build meaningful professional relationships. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-1990780745801
+LOCATION:205 West 54th Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-1990780745801
+END:VEVENT
+BEGIN:VEVENT
+UID:343c674cfc765196@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260708T000000Z
+DTEND:20260708T020000Z
+SUMMARY:Healthcare and Business Networking | Elevating Your Potential -Lincoln Park
+DESCRIPTION:Strive welcomes you to 'Healthcare and Business Networking'\, an event for tenured and newcomers at Parlay's! Event is 21+. Limited Tickets. | Source: Eventbrite Chicago Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-lincoln-park-tickets-1989847355004
+LOCATION:950 West Wrightwood Avenue\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-lincoln-park-tickets-1989847355004
+END:VEVENT
+BEGIN:VEVENT
+UID:459d5abcf92ecbb5@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260715T000000Z
+DTEND:20260715T020000Z
+SUMMARY:Healthcare and Business Networking | Elevating Your Potential - SF
+DESCRIPTION:Strive welcomes you to 'Healthcare and Business Networking'\, an event for tenured and newcomers at The Showdown! Limited Tickets. | Source: Eventbrite SF Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-sf-tickets-1987336116823
+LOCATION:1268 Grant Avenue\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-sf-tickets-1987336116823
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a0755c3a8f145f@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260715T000000Z
+DTEND:20260715T020000Z
+SUMMARY:Healthcare Advocacy: Empowering Voices for Better Care in Chicago
+DESCRIPTION:Stand out in healthcare - champion your patients\, elevate outcomes\, and navigate the U.S. system with clarity and confidence. | Source: Eventbrite Chicago Healthcare | Tags: health\, healthcare | https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better-care-in-chicago-tickets-1990463687471
+LOCATION:111 West Jackson Boulevard#Downtown\, Suite 1700\, Chicago\, IL\, US
+URL:https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better-care-in-chicago-tickets-1990463687471
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab179776acdc5d9@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260715T000000Z
+DTEND:20260715T020000Z
+SUMMARY:Healthcare and Business Networking |Elevating Your Potential - Midtown\, ATL
+DESCRIPTION:Strive welcomes you to 'Healthcare and Business Networking'\, an event for tenured and newcomers at The Whelan! Event is 21+. Limited Tickets | Source: Eventbrite Atlanta Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-midtown-atl-tickets-1987101749825
+LOCATION:1133 Huff Road Northwest\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-midtown-atl-tickets-1987101749825
+END:VEVENT
+BEGIN:VEVENT
+UID:68cb6a58fcf71a9d@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260716T000000Z
+DTEND:20260716T020000Z
+SUMMARY:Black Health Connect | Bridging Healthcare Communities: Atlanta - Q3 Mixer
+DESCRIPTION:COMING TOGETHER TODAY FOR A MORE SUCCESSFUL TOMORROW.RSVP at Blackhealthconnect.com | Source: Eventbrite Atlanta Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-atlanta-q3-mixer-tickets-1988348416639
+LOCATION:1115 Howell Mill Road\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-atlanta-q3-mixer-tickets-1988348416639
+END:VEVENT
+BEGIN:VEVENT
+UID:dab58660670d5835@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260720T000000Z
+DTEND:20260725T000000Z
+SUMMARY:2026 CCFY - Remix & Rewear: Youth Fashion & Printmaking Lab
+DESCRIPTION:2026 Creative Careers for Youth Arts Intensive Series at ArtsXchange | $125 | Ages 11 - 18 | 6 Classes | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/2026-ccfy-remix-rewear-youth-fashion-printmaking-lab-tickets-1990523323845
+LOCATION:2148 Newnan Street\, East Point\, GA\, US
+URL:https://www.eventbrite.com/e/2026-ccfy-remix-rewear-youth-fashion-printmaking-lab-tickets-1990523323845
+END:VEVENT
+BEGIN:VEVENT
+UID:4f3b5cafae4952a0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260721T000000Z
+DTEND:20260721T020000Z
+SUMMARY:Healthcare Advocacy: Empowering Voices for Better Care\, New York city
+DESCRIPTION:Stand out in healthcare - champion your patients\, elevate outcomes\, and navigate the U.S. system with clarity and confidence. | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better-care-new-york-city-tickets-1990462846957
+LOCATION:100 Church Street Tribeca\, 8th Floor\, New York\, NY\, US
+URL:https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better-care-new-york-city-tickets-1990462846957
+END:VEVENT
+BEGIN:VEVENT
+UID:44da3f3c7c3668bb@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260722T003000Z
+DTEND:20260722T030000Z
+SUMMARY:July 2026: A History of the Login Box and Why It Still Sucks
+DESCRIPTION:Source: Silicon Valley ISSA | Tags: security | https://luma.com/n2tmabxa
+LOCATION:
+URL:https://luma.com/n2tmabxa
+END:VEVENT
+BEGIN:VEVENT
+UID:41f7bdf47f0e7d38@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260723T000000Z
+DTEND:20260723T020000Z
+SUMMARY:LGBTQ+ Professionals + Allies in Healthcare Networking - NYC
+DESCRIPTION:Meet LGBTQ professionals in healthcare\, related\, and allied fields. Our welcoming\, award-winning socials are fun\, friendly\, and effective! | Source: Eventbrite NYC Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/lgbtq-professionals-allies-in-healthcare-networking-nyc-tickets-1988633222501
+LOCATION:674 9th Avenue\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/lgbtq-professionals-allies-in-healthcare-networking-nyc-tickets-1988633222501
+END:VEVENT
+BEGIN:VEVENT
+UID:52c702677cc6dea9@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260804T000000Z
+DTEND:20260805T000000Z
+SUMMARY:OPSCON 2026: Atlanta
+DESCRIPTION:The ONLY conference focused on Underwriting & Operations professionals. | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/opscon-2026-atlanta-tickets-1989103782960
+LOCATION:415 East Paces Ferry Road Northeast\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/opscon-2026-atlanta-tickets-1989103782960
+END:VEVENT
+BEGIN:VEVENT
+UID:59dc65701a29ae73@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260904T000000Z
+DTEND:20260905T000000Z
+SUMMARY:THE NEW YORK BLOCKCHAIN FESTIVAL
+DESCRIPTION:Dive into the future of crypto and blockchain with innovators and enthusiasts at THE NEW YORK BLOCKCHAIN FESTIVAL! | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.com/e/the-new-york-blockchain-festival-tickets-1987464678354
+LOCATION:225 Liberty Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/the-new-york-blockchain-festival-tickets-1987464678354
+END:VEVENT
+BEGIN:VEVENT
+UID:5c96ff6cd11ec93c@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260909T000000Z
+DTEND:20260910T000000Z
+SUMMARY:Connect Expo Series
+DESCRIPTION:The Connect Expo Series 2026 unites CX\, AI\, and cloud leaders in Atlanta to explore enterprise technology\, innovation\, and growth. | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/connect-expo-series-tickets-1990467643303
+LOCATION:285 Andrew Young International Boulevard Northwest\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/connect-expo-series-tickets-1990467643303
+END:VEVENT
+BEGIN:VEVENT
+UID:e5dab35c117b82cb@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260910T000000Z
+DTEND:20260910T020000Z
+SUMMARY:Early Pathways Breakfast
+DESCRIPTION:A high-trust breakfast connecting early-career women with senior leaders across diplomacy\, international affairs\, and high-barrier sectors. | Source: Eventbrite NYC Fintech | Tags: fintech | https://www.eventbrite.co.uk/e/early-pathways-breakfast-registration-1980466999107
+LOCATION:TBC\, New York\, NY\, US
+URL:https://www.eventbrite.co.uk/e/early-pathways-breakfast-registration-1980466999107
+END:VEVENT
+BEGIN:VEVENT
+UID:db19e0bc7d4f76f3@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20260916T000000Z
+DTEND:20260916T020000Z
+SUMMARY:Health Connect South 2026 Annual Gathering
+DESCRIPTION:Health Connect South 2026 | Source: Eventbrite Atlanta Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/health-connect-south-2026-annual-gathering-tickets-1975000759437
+LOCATION:225 Baker Street Northwest\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/health-connect-south-2026-annual-gathering-tickets-1975000759437
+END:VEVENT
+BEGIN:VEVENT
+UID:14a83765ac0683d1@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20261006T000000Z
+DTEND:20261006T020000Z
+SUMMARY:IT Security Conference 2026\, NYC
+DESCRIPTION:Get Ready for an immersive Networking experience in the IT Security segment | Source: Eventbrite NYC Cybersecurity | Tags: cyber\, cybersecurity\, security | https://www.eventbrite.com/e/it-security-conference-2026-nyc-tickets-1989629968796
+LOCATION:285 Fulton Street\, New York\, NY\, US
+URL:https://www.eventbrite.com/e/it-security-conference-2026-nyc-tickets-1989629968796
+END:VEVENT
+BEGIN:VEVENT
+UID:63bc95eae1017cf0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20261012T000000Z
+DTEND:20261012T020000Z
+SUMMARY:Fintech: Pre Tech Crunch and Money 2020.
+DESCRIPTION:Two Biggest conference happening back to back. If you are focused on Financial Service disruption the this event is for you to meet others. | Source: Eventbrite SF Fintech | Tags: fintech | https://www.eventbrite.com/e/fintech-pre-tech-crunch-and-money-2020-tickets-1982124219899
+LOCATION:Market street\, San Francisco\, CA\, US
+URL:https://www.eventbrite.com/e/fintech-pre-tech-crunch-and-money-2020-tickets-1982124219899
+END:VEVENT
+BEGIN:VEVENT
+UID:974db574f9ba07c5@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20261012T000000Z
+DTEND:20261013T000000Z
+SUMMARY:Avant South 2026
+DESCRIPTION:Avant South: where Atlanta’s tech community connects\, innovates\, and helps shape one of the nation’s leading tech ecosystems | Source: Eventbrite Atlanta Fintech | Tags: fintech | https://www.eventbrite.com/e/avant-south-2026-tickets-1989311616596
+LOCATION:79 5th St\, Atlanta\, GA\, US
+URL:https://www.eventbrite.com/e/avant-south-2026-tickets-1989311616596
+END:VEVENT
+BEGIN:VEVENT
+UID:02a3a684e3b4e768@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20261024T150000Z
+DTEND:20261025T010000Z
+SUMMARY:Global CISO Summit - Bay Area Edition
+DESCRIPTION:Source: Tejas Cyber Network | Tags: ciso\, cyber\, security | https://luma.com/gqhdvdcj
+LOCATION:Fremont Downtown Event Center\, Fremont\, California\, US
+URL:https://luma.com/gqhdvdcj
+END:VEVENT
+BEGIN:VEVENT
+UID:835cfdb1c354b5fd@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20270310T000000Z
+DTEND:20270310T020000Z
+SUMMARY:Chicago Fintech & Payments Summit
+DESCRIPTION:Join fintech leaders\, payment innovators\, and financial services executives for a day of insights on the future of payments\, digital banking\, and financial technology. Network with industry pioneers and discover emerging trends shaping the future of finance. | Source: Eventbrite Chicago Fintech | Tags: financial services\, fintech | https://www.eventbrite.com/e/chicago-fintech-payments-summit-tickets-1990049758398
+LOCATION:TBD\, Chicago\, IL\, US
+URL:https://www.eventbrite.com/e/chicago-fintech-payments-summit-tickets-1990049758398
+END:VEVENT
+BEGIN:VEVENT
+UID:05954193c59b5ce0@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20270330T000000Z
+DTEND:20270402T000000Z
+SUMMARY:CVE/FIRST VulnCon 2027 & Annual CNA Summit - Save the Date
+DESCRIPTION:Conference | Source: FIRST Events | Tags: security | https://www.first.org/events/
+LOCATION:Scottsdale\, US
+URL:https://www.first.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:2ea6e181105e6a5e@zcyber-gtm.local
+DTSTAMP:20260601T152933Z
+DTSTART:20270424T000000Z
+DTEND:20270424T020000Z
+SUMMARY:Web3 & Blockchain Innovation Forum 2027
+DESCRIPTION:Join blockchain developers\, investors\, entrepreneurs\, fintech professionals\, and technology innovators for a hybrid forum focused on Web3 infrastructure\, decentralized finance\, blockchain security\, NFTs\, crypto adoption\, smart contracts\, and the future of decentralized digital ecosystems. The event features keynote talks\, networking opportunities\, startup showcases\, and live discussions with experienced industry leaders in emerging blockchain technologies.Hybrid Event: Attend in-person or join v | Source: Eventbrite NYC Fintech | Tags: fintech\, security | https://www.eventbrite.com/e/web3-blockchain-innovation-forum-2027-tickets-1990067222634
+LOCATION:Venue TBA\, TBA\, NY\, US
+URL:https://www.eventbrite.com/e/web3-blockchain-innovation-forum-2027-tickets-1990067222634
+END:VEVENT
+END:VCALENDAR
