@@ -34,12 +34,26 @@
       "local meetup"
     ],
     "status": "ok",
-    "parser": "none",
-    "raw_events_found": 0,
-    "accepted": 0,
-    "rejected": {},
-    "sample_raw_titles": [],
-    "sample_accepted_titles": []
+    "parser": "jsonld",
+    "raw_events_found": 6,
+    "accepted": 4,
+    "rejected": {
+      "non_us": 2
+    },
+    "sample_raw_titles": [
+      "AI Security Meetup with Hack Miami",
+      "AI Security Meetup with Hack Miami",
+      "AI Security Night",
+      "AI Security Night",
+      "Underground Hacks",
+      "Underground Hacks"
+    ],
+    "sample_accepted_titles": [
+      "AI Security Meetup with Hack Miami",
+      "AI Security Meetup with Hack Miami",
+      "Underground Hacks",
+      "Underground Hacks"
+    ]
   },
   {
     "source": "East Bay Cyber",
@@ -57,24 +71,24 @@
       "non_us": 3
     },
     "sample_raw_titles": [
-      "AI Salon: From Hype to Durable Innovation",
-      "Founder & Investor Happy Hour #NYTECHWEEK",
-      "UPSCALE CONF Hackathon",
-      "Global Startup Pitch Night - #NYTechWeek",
-      "Investing in Startups: Live Networking",
-      "GPN CTF 2026",
-      "RPCA CTF 2026",
-      "ZeroDay Heist 2026"
+      "SAS CTF 2026 Quals",
+      "DalCTF 2026",
+      "Breakfast with a VC",
+      "SSMCTF 2026 Qualifiers",
+      "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
+      "Leadership Circle: On building Marketscapes",
+      "30 Day Founder Content Challenge ($5K Prize Pool) - Zoom",
+      "[Fireside Discussion] From Tokens to Robots"
     ],
     "sample_accepted_titles": [
-      "AI Salon: From Hype to Durable Innovation",
-      "Founder & Investor Happy Hour #NYTECHWEEK",
-      "UPSCALE CONF Hackathon",
-      "Global Startup Pitch Night - #NYTechWeek",
-      "Investing in Startups: Live Networking",
-      "GPN CTF 2026",
-      "RPCA CTF 2026",
-      "ZeroDay Heist 2026"
+      "SAS CTF 2026 Quals",
+      "DalCTF 2026",
+      "Breakfast with a VC",
+      "SSMCTF 2026 Qualifiers",
+      "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
+      "Leadership Circle: On building Marketscapes",
+      "30 Day Founder Content Challenge ($5K Prize Pool) - Zoom",
+      "[Fireside Discussion] From Tokens to Robots"
     ]
   },
   {
@@ -236,29 +250,29 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 30,
-    "accepted": 17,
+    "accepted": 12,
     "rejected": {
-      "non_us": 13
+      "non_us": 18
     },
     "sample_raw_titles": [
-      "NICE Conference & Expo 2026",
-      "InfoQ Dev Summit Boston 2026",
-      "Computerworld Cyber \u200b\u200bBriefing: June 2026",
-      "Trustworthy AI for IoMT (TRUST-AI) 2026",
-      "NDC Copenhagen 2026",
-      "DevOpsCon San Diego 2026",
-      "USENIX Conference on Privacy Engineering Practice and Respect (PEPR) 2026",
-      "fwd:cloudsec North America 2026"
+      "Hak4Kidz Chicago 2026",
+      "BSides Buffalo 2026",
+      "Hak4Kidz 2026",
+      "BSides Fort Wayne 2026",
+      "DevOpsDays: Feira De Santana 2026",
+      "SREday: New York City",
+      "Hack Astra 2026",
+      "Healthcare IT Institute 2026"
     ],
     "sample_accepted_titles": [
-      "NICE Conference & Expo 2026",
-      "Trustworthy AI for IoMT (TRUST-AI) 2026",
-      "DevOpsCon San Diego 2026",
-      "USENIX Conference on Privacy Engineering Practice and Respect (PEPR) 2026",
-      "fwd:cloudsec North America 2026",
-      "Gartner Security & Risk Management Summit North America 2026",
-      "SANS DC Metro June 2026",
-      "QCon AI Boston 2026"
+      "Hak4Kidz Chicago 2026",
+      "BSides Buffalo 2026",
+      "Hak4Kidz 2026",
+      "Healthcare IT Institute 2026",
+      "AI Con 2026",
+      "Pax8 Beyond 2026",
+      "Unhacked 360 Cybersecurity Conference 2026",
+      "ETHConf 2026"
     ]
   },
   {
@@ -289,8 +303,8 @@
     "sample_accepted_titles": [
       "Staying Secure in a Digital World: Building Cyber-Aware Communities",
       "Staying Secure in a Digital World: Building Cyber-Aware Communities",
-      "Fmr NATO Dep. Sec. General Rose Gottemoeller: Security Through Cooperation",
-      "Fmr NATO Dep. Sec. General Rose Gottemoeller: Security Through Cooperation"
+      "CyberSpecialists: Elevate Your Career at CyberConnect - Global Networking & Growth - San Francisco",
+      "CyberSpecialists: Elevate Your Career at CyberConnect - Global Networking & Growth - San Francisco"
     ]
   },
   {
@@ -315,8 +329,8 @@
       "Fintech: Pre Tech Crunch and Money 2020.",
       "SF Women in Tech: Founders & Professionals Networking Night",
       "SF Women in Tech: Founders & Professionals Networking Night",
-      "The Future of AI & Crypto - A panel discussion",
-      "The Future of AI & Crypto - A panel discussion"
+      "Tech Startup Networking San Francisco Series A Venture Capital Event",
+      "Tech Startup Networking San Francisco Series A Venture Capital Event"
     ],
     "sample_accepted_titles": [
       "SF Women in Tech: Founders & Professionals Networking Night",
@@ -325,8 +339,8 @@
       "Fintech: Pre Tech Crunch and Money 2020.",
       "SF Women in Tech: Founders & Professionals Networking Night",
       "SF Women in Tech: Founders & Professionals Networking Night",
-      "The Future of AI & Crypto - A panel discussion",
-      "The Future of AI & Crypto - A panel discussion"
+      "Tech Startup Networking San Francisco Series A Venture Capital Event",
+      "Tech Startup Networking San Francisco Series A Venture Capital Event"
     ]
   },
   {
@@ -345,20 +359,20 @@
       "excluded_keyword": 34
     },
     "sample_raw_titles": [
-      "San Francisco Healthcare, Pharma & Business Networking Event",
-      "San Francisco Healthcare, Pharma & Business Networking Event",
-      "Healthcare IT Data Visualization with Tableau: 1 Day Course, San Francisco",
-      "Healthcare IT Data Visualization with Tableau: 1 Day Course, San Francisco",
       "HealthTech & MedTech: Healthcare Industry Networking Night SF",
       "HealthTech & MedTech: Healthcare Industry Networking Night SF",
-      "Healthcare IT Domain: 1 Day Basics to Intermediate Course, San Francisco",
-      "Healthcare IT Domain: 1 Day Basics to Intermediate Course, San Francisco"
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, San Francisco",
+      "Healthcare IT Data Visualization with Tableau: 1 Day Course, San Francisco",
+      "San Francisco Healthcare, Pharma & Business Networking Event",
+      "San Francisco Healthcare, Pharma & Business Networking Event",
+      "US Healthcare Industry: Changes& Opportunities\u2013 1 Day Course, San Francisco",
+      "US Healthcare Industry: Changes& Opportunities\u2013 1 Day Course, San Francisco"
     ],
     "sample_accepted_titles": [
-      "San Francisco Healthcare, Pharma & Business Networking Event",
-      "San Francisco Healthcare, Pharma & Business Networking Event",
       "HealthTech & MedTech: Healthcare Industry Networking Night SF",
       "HealthTech & MedTech: Healthcare Industry Networking Night SF",
+      "San Francisco Healthcare, Pharma & Business Networking Event",
+      "San Francisco Healthcare, Pharma & Business Networking Event",
       "Healthcare and Business Networking | Elevating Your Potential - SF",
       "Healthcare and Business Networking | Elevating Your Potential - SF"
     ]
@@ -374,13 +388,13 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 36,
-    "accepted": 6,
+    "accepted": 8,
     "rejected": {
-      "excluded_keyword": 30
+      "excluded_keyword": 28
     },
     "sample_raw_titles": [
-      "Cyber Security Overview 1 Day Training in Woodbridge, NJ",
-      "Cyber Security Overview 1 Day Training in Woodbridge, NJ",
+      "Cyber Security Overview 1 Day Training in New Jersey, NJ",
+      "Cyber Security Overview 1 Day Training in New Jersey, NJ",
       "Cyber Security: 2 Days Workshop in New York, NY",
       "Cyber Security: 2 Days Workshop in New York, NY",
       "Cyber Security 1-Day Workshop | New York City, NY",
@@ -394,7 +408,9 @@
       "Executive Security Leadership Panel by ZeroEyes & Axis Communications",
       "Executive Security Leadership Panel by ZeroEyes & Axis Communications",
       "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
-      "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM"
+      "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
+      "Soho Forum Debate: Simon Hankinson vs. Bryan Caplan",
+      "Soho Forum Debate: Simon Hankinson vs. Bryan Caplan"
     ]
   },
   {
@@ -413,24 +429,24 @@
       "excluded_keyword": 6
     },
     "sample_raw_titles": [
-      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
-      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
-      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
-      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
       "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
       "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
       "NYC Women in Tech: Founders & Professionals Networking Night",
-      "NYC Women in Tech: Founders & Professionals Networking Night"
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "Winning the Decade: Banking on Revenue-Centric Transformation",
+      "Winning the Decade: Banking on Revenue-Centric Transformation"
     ],
     "sample_accepted_titles": [
-      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
-      "FinTech Startups, Investors & Professionals Networking Mixer NYC",
-      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
-      "NYC FinTech Networking Mixer for Startups, Entrepreneurs and Investors",
       "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
       "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
       "NYC Women in Tech: Founders & Professionals Networking Night",
-      "NYC Women in Tech: Founders & Professionals Networking Night"
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "NYC Women in Tech: Founders & Professionals Networking Night",
+      "Winning the Decade: Banking on Revenue-Centric Transformation",
+      "Winning the Decade: Banking on Revenue-Centric Transformation"
     ]
   },
   {
@@ -443,28 +459,28 @@
     ],
     "status": "ok",
     "parser": "jsonld",
-    "raw_events_found": 38,
-    "accepted": 18,
+    "raw_events_found": 40,
+    "accepted": 20,
     "rejected": {
       "excluded_keyword": 20
     },
     "sample_raw_titles": [
+      "Healthcare Inner Circle Presents",
+      "Healthcare Inner Circle Presents",
       "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
       "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
       "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
       "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
-      "New York City Healthcare, Pharma & Business Networking Event",
-      "New York City Healthcare, Pharma & Business Networking Event",
       "Healthcare IT Data Visualization with Tableau: 1 Day Course, New York",
       "Healthcare IT Data Visualization with Tableau: 1 Day Course, New York"
     ],
     "sample_accepted_titles": [
+      "Healthcare Inner Circle Presents",
+      "Healthcare Inner Circle Presents",
       "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
       "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
       "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
       "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
-      "New York City Healthcare, Pharma & Business Networking Event",
-      "New York City Healthcare, Pharma & Business Networking Event",
       "Healthcare and Business Networking - Long Island City",
       "Healthcare and Business Networking - Long Island City"
     ]
@@ -480,23 +496,25 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 40,
-    "accepted": 2,
+    "accepted": 4,
     "rejected": {
-      "excluded_keyword": 38
+      "excluded_keyword": 36
     },
     "sample_raw_titles": [
-      "Cyber Security Overview 1 Day Training in Atlanta, GA",
-      "Cyber Security Overview 1 Day Training in Atlanta, GA",
       "Cyber Security Training \u2013 Atlanta, GA | In-Person & Live Virtual",
       "Cyber Security Training \u2013 Atlanta, GA | In-Person & Live Virtual",
+      "Cyber Security Overview 1 Day Training in Atlanta, GA",
+      "Cyber Security Overview 1 Day Training in Atlanta, GA",
       "Cyber Security: 2 Days Workshop in Atlanta, GA",
       "Cyber Security: 2 Days Workshop in Atlanta, GA",
       "Cyber Security 1-Day Workshop | Atlanta, GA",
       "Cyber Security 1-Day Workshop | Atlanta, GA"
     ],
     "sample_accepted_titles": [
-      "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA",
-      "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA"
+      "CyberSpecialists: CyberConnect - Unlocking Your Cyber Future - Atlanta",
+      "CyberSpecialists: CyberConnect - Unlocking Your Cyber Future - Atlanta",
+      "Converged Security Summit (CSS) 2026",
+      "Converged Security Summit (CSS) 2026"
     ]
   },
   {
@@ -582,9 +600,9 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 40,
-    "accepted": 4,
+    "accepted": 6,
     "rejected": {
-      "excluded_keyword": 36
+      "excluded_keyword": 34
     },
     "sample_raw_titles": [
       "Cyber Security Training \u2013 Chicago, IL | In-Person & Live Virtual",
@@ -597,10 +615,12 @@
       "Healthcare Cyber Threat Readiness: 1 Day Security Training, Chicago, IL"
     ],
     "sample_accepted_titles": [
-      "Internet Privacy and Safety",
-      "Internet Privacy and Safety",
+      "CyberSpecialists: Elevate Your Expertise at CyberConnect - Chicago",
+      "CyberSpecialists: Elevate Your Expertise at CyberConnect - Chicago",
       "Cyber Summer Social",
-      "Cyber Summer Social"
+      "Cyber Summer Social",
+      "Safe(r) Shopping Online",
+      "Safe(r) Shopping Online"
     ]
   },
   {
@@ -614,27 +634,27 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 40,
-    "accepted": 30,
+    "accepted": 32,
     "rejected": {
-      "excluded_keyword": 10
+      "excluded_keyword": 8
     },
     "sample_raw_titles": [
       "Chicago Women in Tech: Founders & Professionals Networking Night",
       "Chicago Women in Tech: Founders & Professionals Networking Night",
-      "Chicago Fintech & Payments Summit",
-      "Chicago Fintech & Payments Summit",
       "Chicago Women in Tech: Founders & Professionals Networking Night",
       "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Fintech & Payments Summit",
+      "Chicago Fintech & Payments Summit",
       "Chicago AI Week",
       "Chicago AI Week"
     ],
     "sample_accepted_titles": [
       "Chicago Women in Tech: Founders & Professionals Networking Night",
       "Chicago Women in Tech: Founders & Professionals Networking Night",
-      "Chicago Fintech & Payments Summit",
-      "Chicago Fintech & Payments Summit",
       "Chicago Women in Tech: Founders & Professionals Networking Night",
       "Chicago Women in Tech: Founders & Professionals Networking Night",
+      "Chicago Fintech & Payments Summit",
+      "Chicago Fintech & Payments Summit",
       "Chicago AI Week",
       "Chicago AI Week"
     ]
@@ -650,29 +670,29 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 38,
-    "accepted": 12,
+    "accepted": 14,
     "rejected": {
-      "excluded_keyword": 26
+      "excluded_keyword": 24
     },
     "sample_raw_titles": [
-      "Chicago Healthcare, Pharma & Business Networking Event",
-      "Chicago Healthcare, Pharma & Business Networking Event",
       "Healthcare IT Data Visualization with Tableau: 1 Day Course, Chicago",
       "Healthcare IT Data Visualization with Tableau: 1 Day Course, Chicago",
-      "Modern Healthcare in Industry: 1 Day Training in Chicago, IL",
-      "Modern Healthcare in Industry: 1 Day Training in Chicago, IL",
-      "Healthcare IT Domain: 1 Day Fundamentals to Intermediate Course, Chicago",
-      "Healthcare IT Domain: 1 Day Fundamentals to Intermediate Course, Chicago"
+      "Chicago Healthcare, Pharma & Business Networking Event",
+      "Chicago Healthcare, Pharma & Business Networking Event",
+      "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
+      "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
+      "US Healthcare Industry: Changes & Opportunities \u2013 1 Day Course, Chicago, IL",
+      "US Healthcare Industry: Changes & Opportunities \u2013 1 Day Course, Chicago, IL"
     ],
     "sample_accepted_titles": [
       "Chicago Healthcare, Pharma & Business Networking Event",
       "Chicago Healthcare, Pharma & Business Networking Event",
       "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
       "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
-      "Healthcare and Business Networking | Elevating Your Potential - Chicago",
-      "Healthcare and Business Networking | Elevating Your Potential - Chicago",
-      "HealthTech & MedTech Professionals & Industry Networking in Chicago",
-      "HealthTech & MedTech Professionals & Industry Networking in Chicago"
+      "NAHSE Chicago C-Suite Roundtable: Innovation & Equity in Healthcare",
+      "NAHSE Chicago C-Suite Roundtable: Innovation & Equity in Healthcare",
+      "Healthcare and Business Networking | Elevating Your Potential -Lincoln Park",
+      "Healthcare and Business Networking | Elevating Your Potential -Lincoln Park"
     ]
   },
   {
