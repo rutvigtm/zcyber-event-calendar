@@ -100,12 +100,34 @@
       "local meetup"
     ],
     "status": "ok",
-    "parser": "none",
+    "parser": "meetup_group",
     "raw_events_found": 0,
     "accepted": 0,
     "rejected": {},
     "sample_raw_titles": [],
     "sample_accepted_titles": []
+  },
+  {
+    "source": "ISACA San Francisco",
+    "url": "https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdashboard",
+    "region": "Bay Area",
+    "focus": [
+      "governance",
+      "risk",
+      "security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "isaca_calendar",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "The Unique Role of the IT Audit-Savvy Internal Auditors in Solving a Major Unmanaged Risk"
+    ],
+    "sample_accepted_titles": [
+      "The Unique Role of the IT Audit-Savvy Internal Auditors in Solving a Major Unmanaged Risk"
+    ]
   },
   {
     "source": "BSidesSF",
@@ -240,6 +262,613 @@
     ]
   },
   {
+    "source": "Luma SF Discover",
+    "url": "https://web.luma.com/sf",
+    "region": "Bay Area",
+    "focus": [
+      "ai",
+      "tech",
+      "broad security",
+      "local discovery"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 12,
+    "rejected": {
+      "missing_keyword": 28
+    },
+    "sample_raw_titles": [
+      "WeaveHacks 4: Multi-Agent Orchestration Hackathon with Weights & Biases",
+      "WeaveHacks 4: Multi-Agent Orchestration Hackathon with Weights & Biases",
+      "415 Coffee Club: Cafecito Blanco",
+      "415 Coffee Club: Cafecito Blanco",
+      "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
+      "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
+      "Booked, Busy & Buttered",
+      "Booked, Busy & Buttered"
+    ],
+    "sample_accepted_titles": [
+      "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
+      "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
+      "The AI Night @ WWDC26",
+      "The AI Night @ WWDC26",
+      "Beyond Text: Future of Voice AI",
+      "Beyond Text: Future of Voice AI",
+      "\u2318 + AI + Design: How to prompt like a designer",
+      "\u2318 + AI + Design: How to prompt like a designer"
+    ]
+  },
+  {
+    "source": "Luma NYC Discover",
+    "url": "https://luma.com/nyc",
+    "region": "US",
+    "focus": [
+      "ai",
+      "tech",
+      "broad security",
+      "local discovery"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 0,
+    "rejected": {
+      "missing_keyword": 40
+    },
+    "sample_raw_titles": [
+      "The Ethereal Gala & Fashion Presentation",
+      "The Ethereal Gala & Fashion Presentation",
+      "FHE Run Club",
+      "FHE Run Club",
+      "ALO Brookfield Place: ALO Wellness Walk",
+      "ALO Brookfield Place: ALO Wellness Walk",
+      "PRIDE Community Workout \ud83c\udf08",
+      "PRIDE Community Workout \ud83c\udf08"
+    ],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "OWASP NYC Meetup",
+    "url": "https://www.meetup.com/owasp-new-york-city-chapter/",
+    "region": "US",
+    "focus": [
+      "application security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "meetup_group",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "ISACA New York Metro",
+    "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
+    "region": "US",
+    "focus": [
+      "governance",
+      "risk",
+      "security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "isaca_calendar",
+    "raw_events_found": 3,
+    "accepted": 3,
+    "rejected": {},
+    "sample_raw_titles": [
+      "CISM\u00ae Certification Review Course",
+      "Annual Gala and Wasserman Award Dinner",
+      "Building a Resilient Cybersecurity Strategy"
+    ],
+    "sample_accepted_titles": [
+      "CISM\u00ae Certification Review Course",
+      "Annual Gala and Wasserman Award Dinner",
+      "Building a Resilient Cybersecurity Strategy"
+    ]
+  },
+  {
+    "source": "Luma Chicago Discover",
+    "url": "https://luma.com/chicago",
+    "region": "US",
+    "focus": [
+      "ai",
+      "tech",
+      "broad security",
+      "local discovery"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 40,
+    "accepted": 2,
+    "rejected": {
+      "missing_keyword": 38
+    },
+    "sample_raw_titles": [
+      "Coffee Run | ARC x Fairgrounds",
+      "Coffee Run | ARC x Fairgrounds",
+      "summer reading KICK OFF",
+      "summer reading KICK OFF",
+      "GOLOSA PRIDE EDITION with: TUNJO, SONIDO TRUMBULL SHADOW99, DUVALYN + MARI MARI",
+      "GOLOSA PRIDE EDITION with: TUNJO, SONIDO TRUMBULL SHADOW99, DUVALYN + MARI MARI",
+      "[vibe coded] creators after hours @ switchyards",
+      "[vibe coded] creators after hours @ switchyards"
+    ],
+    "sample_accepted_titles": [
+      "i show my friend how to build his first ai app -- live on stage in chicago",
+      "i show my friend how to build his first ai app -- live on stage in chicago"
+    ]
+  },
+  {
+    "source": "OWASP Chicago",
+    "url": "https://owasp.org/www-chapter-chicago/",
+    "region": "US",
+    "focus": [
+      "application security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "owasp_chapter",
+    "raw_events_found": 1,
+    "accepted": 0,
+    "rejected": {
+      "out_of_window": 1
+    },
+    "sample_raw_titles": [
+      "Application Security & Craft Beer"
+    ],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "Chicagoland Cybersecurity Exchange",
+    "url": "https://www.meetup.com/chicagoland-cybersecurity-exchange/",
+    "region": "US",
+    "focus": [
+      "broad security",
+      "local meetup"
+    ],
+    "status": "ok",
+    "parser": "meetup_group",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "ISACA Chicago",
+    "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+    "region": "US",
+    "focus": [
+      "governance",
+      "risk",
+      "security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "isaca_calendar",
+    "raw_events_found": 14,
+    "accepted": 14,
+    "rejected": {},
+    "sample_raw_titles": [
+      "NIST Cybersecurity Framework 2.0 | SheLeadsTech Virtual Workshop |June 19",
+      "Monthly Meeting | In-Person Event | June 23, 2026",
+      "[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25",
+      "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
+      "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
+      "Monthly Meeting | Virtual Event | July 16, 2026",
+      "Careers & Conversations | August 04, 2026 | @ 4 PM CT",
+      "[Save the Date] ISACA Chicago\u2019s Annual Conference+ | August 27, 2026"
+    ],
+    "sample_accepted_titles": [
+      "NIST Cybersecurity Framework 2.0 | SheLeadsTech Virtual Workshop |June 19",
+      "Monthly Meeting | In-Person Event | June 23, 2026",
+      "[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25",
+      "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
+      "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
+      "Monthly Meeting | Virtual Event | July 16, 2026",
+      "Careers & Conversations | August 04, 2026 | @ 4 PM CT",
+      "[Save the Date] ISACA Chicago\u2019s Annual Conference+ | August 27, 2026"
+    ]
+  },
+  {
+    "source": "Luma Atlanta Discover",
+    "url": "https://luma.com/atlanta",
+    "region": "US",
+    "focus": [
+      "ai",
+      "tech",
+      "broad security",
+      "local discovery"
+    ],
+    "status": "ok",
+    "parser": "jsonld",
+    "raw_events_found": 34,
+    "accepted": 0,
+    "rejected": {
+      "missing_keyword": 34
+    },
+    "sample_raw_titles": [
+      "posh moods pilates party",
+      "posh moods pilates party",
+      "Speed Friending",
+      "Speed Friending",
+      "BYO Craft Night",
+      "BYO Craft Night",
+      "Happy Hour at Obvious",
+      "Happy Hour at Obvious"
+    ],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "OWASP Atlanta",
+    "url": "https://www.meetup.com/owasp-atlanta/",
+    "region": "US",
+    "focus": [
+      "application security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "meetup_group",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "Please Waste My Time: Detection through Deception"
+    ],
+    "sample_accepted_titles": [
+      "Please Waste My Time: Detection through Deception"
+    ]
+  },
+  {
+    "source": "ISSA Atlanta",
+    "url": "https://www.issaatl.org/events",
+    "region": "US",
+    "focus": [
+      "broad security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "CSA Atlanta",
+    "url": "https://csa-atl.org/",
+    "region": "US",
+    "focus": [
+      "cloud security",
+      "local chapter"
+    ],
+    "status": "ok",
+    "parser": "csa_atl",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "Luma AI Category",
+    "url": "https://luma.com/ai?locale=en-US",
+    "region": "US",
+    "focus": [
+      "ai",
+      "tech",
+      "broad discovery"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "Luma Tech Category",
+    "url": "https://luma.com/tech?locale=en-US",
+    "region": "US",
+    "focus": [
+      "ai",
+      "tech",
+      "broad discovery"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "CyberRisk Alliance Events",
+    "url": "https://www.cyberriskalliance.com/events",
+    "region": "US",
+    "focus": [
+      "ciso",
+      "broad security",
+      "executive",
+      "regional summit"
+    ],
+    "status": "ok",
+    "parser": "cra_events",
+    "raw_events_found": 87,
+    "accepted": 87,
+    "rejected": {},
+    "sample_raw_titles": [
+      "Cybersecurity Summit: St. Louis",
+      "Hot Topic Webcast: Attack Surface Management",
+      "CyberRisk CISO Dinner: New York",
+      "Cybersecurity Summit: Austin",
+      "CISO Stories: State of Critical Infrastructure Security",
+      "CyberRisk CISO Dinner: Phoenix",
+      "identiverse-2026 Identiverse",
+      "Identiverse"
+    ],
+    "sample_accepted_titles": [
+      "Cybersecurity Summit: St. Louis",
+      "Hot Topic Webcast: Attack Surface Management",
+      "CyberRisk CISO Dinner: New York",
+      "Cybersecurity Summit: Austin",
+      "CISO Stories: State of Critical Infrastructure Security",
+      "CyberRisk CISO Dinner: Phoenix",
+      "identiverse-2026 Identiverse",
+      "Identiverse"
+    ]
+  },
+  {
+    "source": "Official Cybersecurity Summit Schedule",
+    "url": "https://cybersecuritysummit.com/summits",
+    "region": "US",
+    "focus": [
+      "ciso",
+      "broad security",
+      "executive",
+      "regional summit"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "SC Media Webcasts",
+    "url": "https://www.scworld.com/webcasts",
+    "region": "US",
+    "focus": [
+      "broad security",
+      "threat intelligence",
+      "virtual summit"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "InfoSec World",
+    "url": "https://www.infosecworldusa.com/",
+    "region": "US",
+    "focus": [
+      "ciso",
+      "broad security",
+      "conference"
+    ],
+    "status": "ok",
+    "parser": "configured_event",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "InfoSec World 2026"
+    ],
+    "sample_accepted_titles": [
+      "InfoSec World 2026"
+    ]
+  },
+  {
+    "source": "Evanta CISO Calendar",
+    "url": "https://www.evanta.com/calendar",
+    "region": "US",
+    "focus": [
+      "ciso",
+      "executive",
+      "regional summit",
+      "security leadership"
+    ],
+    "status": "ok",
+    "parser": "evanta_calendar",
+    "raw_events_found": 32,
+    "accepted": 32,
+    "rejected": {},
+    "sample_raw_titles": [
+      "Atlanta CISO Community Executive Summit",
+      "Boston CISO Community Executive Summit",
+      "Detroit CISO Community Executive Summit",
+      "Denver CISO Community Executive Summit",
+      "Seattle CISO Community Executive Summit",
+      "Florida CISO Community Town Hall",
+      "Global CISO Community Town Hall",
+      "Detroit CISO Community Town Hall"
+    ],
+    "sample_accepted_titles": [
+      "Atlanta CISO Community Executive Summit",
+      "Boston CISO Community Executive Summit",
+      "Detroit CISO Community Executive Summit",
+      "Denver CISO Community Executive Summit",
+      "Seattle CISO Community Executive Summit",
+      "Florida CISO Community Town Hall",
+      "Global CISO Community Town Hall",
+      "Detroit CISO Community Town Hall"
+    ]
+  },
+  {
+    "source": "Health-ISAC Summits",
+    "url": "https://health-isac.org/summits/",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "health",
+      "cybersecurity",
+      "isac"
+    ],
+    "status": "ok",
+    "parser": "health_isac_summits",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "Health-ISAC 2026 Fall Americas Summit"
+    ],
+    "sample_accepted_titles": [
+      "Health-ISAC 2026 Fall Americas Summit"
+    ]
+  },
+  {
+    "source": "Health-ISAC Fall Americas Summit",
+    "url": "https://health-isac.org/summit-meeting/2026-fall-americas-summit/",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "health",
+      "cybersecurity",
+      "isac"
+    ],
+    "status": "ok",
+    "parser": "configured_event",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "Health-ISAC 2026 Fall Americas Summit"
+    ],
+    "sample_accepted_titles": [
+      "Health-ISAC 2026 Fall Americas Summit"
+    ]
+  },
+  {
+    "source": "FS-ISAC Events",
+    "url": "https://www.fsisac.com/events",
+    "region": "US",
+    "focus": [
+      "fintech",
+      "financial services",
+      "cybersecurity",
+      "isac"
+    ],
+    "status": "ok",
+    "parser": "none",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": []
+  },
+  {
+    "source": "FS-ISAC Steel Resolve Exercise",
+    "url": "https://www.fsisac.com/events/steel-resolve-2026",
+    "region": "US",
+    "focus": [
+      "fintech",
+      "financial services",
+      "cybersecurity",
+      "isac",
+      "resilience"
+    ],
+    "status": "ok",
+    "parser": "configured_event",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "FS-ISAC Steel Resolve Exercise"
+    ],
+    "sample_accepted_titles": [
+      "FS-ISAC Steel Resolve Exercise"
+    ]
+  },
+  {
+    "source": "FS-ISAC Americas Fall Summit",
+    "url": "https://www.fsisac.com/events/americas-fall-summit",
+    "region": "US",
+    "focus": [
+      "fintech",
+      "financial services",
+      "cybersecurity",
+      "isac",
+      "resilience"
+    ],
+    "status": "ok",
+    "parser": "configured_event",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "FS-ISAC 2026 Americas Fall Summit"
+    ],
+    "sample_accepted_titles": [
+      "FS-ISAC 2026 Americas Fall Summit"
+    ]
+  },
+  {
+    "source": "HIMSS Events Overview",
+    "url": "https://www.himss.org/events-overview/?page=0",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "health",
+      "cybersecurity",
+      "privacy",
+      "conference"
+    ],
+    "status": "error",
+    "parser": "",
+    "raw_events_found": 0,
+    "accepted": 0,
+    "rejected": {},
+    "sample_raw_titles": [],
+    "sample_accepted_titles": [],
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source": "Becker's Health IT Conference",
+    "url": "https://events.beckershospitalreview.com/hit_rcm_2026/",
+    "region": "US",
+    "focus": [
+      "healthcare",
+      "health",
+      "ai",
+      "digital health",
+      "risk"
+    ],
+    "status": "ok",
+    "parser": "configured_event",
+    "raw_events_found": 1,
+    "accepted": 1,
+    "rejected": {},
+    "sample_raw_titles": [
+      "Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health"
+    ],
+    "sample_accepted_titles": [
+      "Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health"
+    ]
+  },
+  {
     "source": "InfoSec Conferences",
     "url": "https://www.infosec-conferences.com/",
     "region": "Global",
@@ -255,24 +884,24 @@
       "non_us": 18
     },
     "sample_raw_titles": [
-      "Hak4Kidz Chicago 2026",
-      "BSides Buffalo 2026",
-      "Hak4Kidz 2026",
-      "BSides Fort Wayne 2026",
-      "DevOpsDays: Feira De Santana 2026",
-      "SREday: New York City",
-      "Hack Astra 2026",
-      "Healthcare IT Institute 2026"
-    ],
-    "sample_accepted_titles": [
-      "Hak4Kidz Chicago 2026",
-      "BSides Buffalo 2026",
-      "Hak4Kidz 2026",
+      "Pax8 Beyond 2026",
+      "IDC: AI & Data Xchange 2026",
       "Healthcare IT Institute 2026",
       "AI Con 2026",
+      "Webinale 2026",
+      "IT Security Conference Dallas 2026",
+      "M3AAWG 67th General Meeting 2026",
+      "Web Summit Rio 2026"
+    ],
+    "sample_accepted_titles": [
       "Pax8 Beyond 2026",
+      "Healthcare IT Institute 2026",
+      "AI Con 2026",
+      "IT Security Conference Dallas 2026",
+      "Rubrik Forward USA 2026",
       "Unhacked 360 Cybersecurity Conference 2026",
-      "ETHConf 2026"
+      "Zenith Live Las Vegas 2026",
+      "ETHConf New York City 2026"
     ]
   },
   {
@@ -388,9 +1017,9 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 36,
-    "accepted": 8,
+    "accepted": 6,
     "rejected": {
-      "excluded_keyword": 28
+      "excluded_keyword": 30
     },
     "sample_raw_titles": [
       "Cyber Security Overview 1 Day Training in New Jersey, NJ",
@@ -405,8 +1034,6 @@
     "sample_accepted_titles": [
       "IT Security Conference 2026, NYC",
       "IT Security Conference 2026, NYC",
-      "Executive Security Leadership Panel by ZeroEyes & Axis Communications",
-      "Executive Security Leadership Panel by ZeroEyes & Axis Communications",
       "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
       "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
       "Soho Forum Debate: Simon Hankinson vs. Bryan Caplan",
@@ -496,9 +1123,9 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 40,
-    "accepted": 4,
+    "accepted": 6,
     "rejected": {
-      "excluded_keyword": 36
+      "excluded_keyword": 34
     },
     "sample_raw_titles": [
       "Cyber Security Training \u2013 Atlanta, GA | In-Person & Live Virtual",
@@ -514,7 +1141,9 @@
       "CyberSpecialists: CyberConnect - Unlocking Your Cyber Future - Atlanta",
       "CyberSpecialists: CyberConnect - Unlocking Your Cyber Future - Atlanta",
       "Converged Security Summit (CSS) 2026",
-      "Converged Security Summit (CSS) 2026"
+      "Converged Security Summit (CSS) 2026",
+      "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA",
+      "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA"
     ]
   },
   {
@@ -609,10 +1238,10 @@
       "Cyber Security Training \u2013 Chicago, IL | In-Person & Live Virtual",
       "Cyber Security: 2 Days Workshop in Chicago, IL",
       "Cyber Security: 2 Days Workshop in Chicago, IL",
-      "Cyber Security 1-Day Workshop | Chicago, IL",
-      "Cyber Security 1-Day Workshop | Chicago, IL",
       "Healthcare Cyber Threat Readiness: 1 Day Security Training, Chicago, IL",
-      "Healthcare Cyber Threat Readiness: 1 Day Security Training, Chicago, IL"
+      "Healthcare Cyber Threat Readiness: 1 Day Security Training, Chicago, IL",
+      "Cyber Security 1-Day Workshop | Chicago, IL",
+      "Cyber Security 1-Day Workshop | Chicago, IL"
     ],
     "sample_accepted_titles": [
       "CyberSpecialists: Elevate Your Expertise at CyberConnect - Chicago",
@@ -721,12 +1350,13 @@
     "focus": [
       "healthcare"
     ],
-    "status": "ok",
-    "parser": "none",
+    "status": "error",
+    "parser": "",
     "raw_events_found": 0,
     "accepted": 0,
     "rejected": {},
     "sample_raw_titles": [],
-    "sample_accepted_titles": []
+    "sample_accepted_titles": [],
+    "error": "HTTP Error 403: Forbidden"
   }
 ]

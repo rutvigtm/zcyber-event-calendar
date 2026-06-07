@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T22:13:25.766914+00:00",
-  "event_count": 149,
+  "generated_at": "2026-06-07T01:28:23.433025+00:00",
+  "event_count": 300,
   "events": [
     {
       "title": "Breakfast with a VC",
@@ -22,54 +22,6 @@
       ],
       "priority_score": 13,
       "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "BSides Buffalo 2026",
-      "start": "2026-06-06T00:00:00+00:00",
-      "date_key": "2026-06-06",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260606-bsides-buffalo-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Buffalo, New York, US",
-      "description": "BSides Buffalo is an annual, community-focused information security and technology conference held in Buffalo, New York. This event brings together professionals, enthusiasts, and newcomers to explore the evolving landscape of cybersecurity. The fifth edition of BSides Buffalo is set for June 6, 2026, at Canisius University\u2019s Science Hall, offering a",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Hak4Kidz Chicago 2026",
-      "start": "2026-06-06T00:00:00+00:00",
-      "date_key": "2026-06-06",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260606-hak4kidz-chicago-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Chicago, Illinois, US",
-      "description": "Key Takeaways First youth-focused ethical hacking conference in Chicago Hands-on introduction to cybersecurity and STEM for children and teens Interactive activities, puzzles, and Capture The Flag competitions Promotes responsible digital citizenship and technical skills Designed for students, parents, educators, and youth group leaders Hak4Kidz is a pioneering event dedicated to",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "chicago",
       "topic": "broad"
     },
     {
@@ -95,28 +47,6 @@
       "topic": "broad"
     },
     {
-      "title": "Hak4Kidz 2026",
-      "start": "2026-06-06T00:00:00+00:00",
-      "date_key": "2026-06-06",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260606-hak4kidz-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Chicago, Illinois, US",
-      "description": "Hak4Kidz is an initiative dedicated to introducing children and young adults to the field of ethical hacking and information security. By offering a platform that simulates professional white hat hacking conferences, Hak4Kidz seeks to nurture educational growth and build a strong sense of community among young technology enthusiasts. The event",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
       "title": "SAS CTF 2026 Quals",
       "start": "2026-06-06T00:00:00+00:00",
       "date_key": "2026-06-06",
@@ -136,6 +66,30 @@
       ],
       "priority_score": 2,
       "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "CISM\u00ae Certification Review Course",
+      "start": "2026-06-06T13:00:00+00:00",
+      "date_key": "2026-06-06",
+      "end": "2026-06-20T21:00:00+00:00",
+      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
+      "source": "ISACA New York Metro",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
       "topic": "broad"
     },
     {
@@ -293,6 +247,29 @@
         "security"
       ],
       "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
+      "start": "2026-06-07T18:30:00+00:00",
+      "date_key": "2026-06-07",
+      "end": "2026-06-09T00:30:00+00:00",
+      "url": "https://luma.com/flipthescript26",
+      "source": "Luma SF Discover",
+      "location": "AGI House, Hillsborough, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
       "city": "sf",
       "topic": "broad"
     },
@@ -612,6 +589,55 @@
       "topic": "broad"
     },
     {
+      "title": "The AI Night @ WWDC26",
+      "start": "2026-06-08T02:00:00+00:00",
+      "date_key": "2026-06-07",
+      "end": "2026-06-08T06:00:00+00:00",
+      "url": "https://luma.com/ai-night-wwdc-26",
+      "source": "Luma SF Discover",
+      "location": "San Jose, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "American CIO & Cybersecurity Summit 2026",
+      "start": "2026-06-09T00:00:00+00:00",
+      "date_key": "2026-06-09",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260609-american-cio-and-cybersecurity-summit-2026/",
+      "source": "InfoSec Conferences",
+      "location": "San Francisco, California, US",
+      "description": "Key Takeaways Annual, invitation-only summit for senior IT and cybersecurity executives Focus on digital transformation, cybersecurity resilience, and AI adoption Peer-driven sessions, curated networking, and actionable benchmarking Addresses operational challenges in data governance, compliance, and risk management Exclusive access to decision-makers from leading global enterprises The American CIO & Cybersecurity",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "compliance",
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "risk",
+        "security"
+      ],
+      "priority_score": 20,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "SF Tech Startups, Investors, Professionals Networking & Pitch Event",
       "start": "2026-06-09T00:00:00+00:00",
       "date_key": "2026-06-09",
@@ -630,6 +656,33 @@
       ],
       "priority_score": 19,
       "city": "sf",
+      "topic": "fintech"
+    },
+    {
+      "title": "CEFPro Vendor & Third Party Risk USA 2026",
+      "start": "2026-06-09T00:00:00+00:00",
+      "date_key": "2026-06-09",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260609-cefpro-vendor-and-third-party-risk-usa-2026/",
+      "source": "InfoSec Conferences",
+      "location": "New York City, New York, US",
+      "description": "Key Takeaways Focuses on the latest challenges and innovations in third-party risk management (TPRM) Addresses regulatory shifts, cybersecurity threats, and the integration of AI in vendor oversight Designed for senior professionals in risk, compliance, audit, and cybersecurity within financial services Features practitioner-led sessions, case studies, and peer networking Supported by",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "compliance",
+        "cyber",
+        "cybersecurity",
+        "financial services",
+        "infosec",
+        "risk",
+        "security"
+      ],
+      "priority_score": 14,
+      "city": "nyc",
       "topic": "fintech"
     },
     {
@@ -655,6 +708,59 @@
       "topic": "broad"
     },
     {
+      "title": "Cybersecurity Summit: St. Louis",
+      "start": "2026-06-09T00:00:00+00:00",
+      "date_key": "2026-06-09",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "St. Louis, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Hot Topic Webcast: Attack Surface Management",
+      "start": "2026-06-09T00:00:00+00:00",
+      "date_key": "2026-06-09",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Tech Connect: Startups, Investors, Professionals Networking Event Chicago",
       "start": "2026-06-09T00:00:00+00:00",
       "date_key": "2026-06-09",
@@ -674,6 +780,76 @@
       "priority_score": 8,
       "city": "chicago",
       "topic": "fintech"
+    },
+    {
+      "title": "ITS America Conference & Expo 2026",
+      "start": "2026-06-09T00:00:00+00:00",
+      "date_key": "2026-06-09",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260609-its-america-conference-and-expo-2026/",
+      "source": "InfoSec Conferences",
+      "location": "Detroit, Michigan, US",
+      "description": "Key Takeaways Explores the latest advancements in intelligent transportation systems (ITS) and smart mobility Features live demonstrations, hands-on workshops, and over 100 conference sessions Brings together more than 3,000 industry professionals and 170+ exhibitors Covers topics such as AI in mobility, automated vehicles, digital infrastructure, V2X, and cybersecurity Focuses on",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 4,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Beyond Text: Future of Voice AI",
+      "start": "2026-06-09T00:00:00+00:00",
+      "date_key": "2026-06-08",
+      "end": "2026-06-09T03:00:00+00:00",
+      "url": "https://luma.com/smallest-hpyc",
+      "source": "Luma SF Discover",
+      "location": "Menlo Park, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "\u2318 + AI + Design: How to prompt like a designer",
+      "start": "2026-06-09T00:30:00+00:00",
+      "date_key": "2026-06-08",
+      "end": "2026-06-09T03:00:00+00:00",
+      "url": "https://luma.com/717techseries-sfdesignweek-aidesign",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "Tejas Seattle Chapter: Security & Privacy Leaders Dinner Meetup (Self Paid)",
@@ -744,6 +920,55 @@
       "topic": "fintech"
     },
     {
+      "title": "CyberRisk CISO Dinner: New York",
+      "start": "2026-06-10T00:00:00+00:00",
+      "date_key": "2026-06-10",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "New York, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "Reimagining Creative Work in the Age of AI w/ Emmett Shine",
+      "start": "2026-06-10T00:00:00+00:00",
+      "date_key": "2026-06-09",
+      "end": "2026-06-10T02:30:00+00:00",
+      "url": "https://luma.com/61aoo5la",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "AI Tech Startup & Investor Networking by AstraTech I Manhattan, New York",
       "start": "2026-06-10T00:00:00+00:00",
       "date_key": "2026-06-10",
@@ -765,6 +990,30 @@
       "topic": "fintech"
     },
     {
+      "title": "Atlanta CISO Community Executive Summit",
+      "start": "2026-06-10T00:00:00+00:00",
+      "date_key": "2026-06-10",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Atlanta, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
       "title": "Atlanta Tech & Finance Networking Event",
       "start": "2026-06-10T00:00:00+00:00",
       "date_key": "2026-06-10",
@@ -784,6 +1033,30 @@
       "priority_score": 8,
       "city": "atlanta",
       "topic": "fintech"
+    },
+    {
+      "title": "Boston CISO Community Executive Summit",
+      "start": "2026-06-10T00:00:00+00:00",
+      "date_key": "2026-06-10",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Boston, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Women + Tech Meetup",
@@ -830,6 +1103,29 @@
       "topic": "broad"
     },
     {
+      "title": "Designing AI for Kids: What It Actually Takes",
+      "start": "2026-06-10T00:30:00+00:00",
+      "date_key": "2026-06-09",
+      "end": "2026-06-10T03:00:00+00:00",
+      "url": "https://luma.com/v2gu7zft",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Vector Space Day San Francisco",
       "start": "2026-06-11T00:00:00+00:00",
       "date_key": "2026-06-11",
@@ -852,6 +1148,33 @@
       "topic": "broad"
     },
     {
+      "title": "Cybersecurity Summit: Austin",
+      "start": "2026-06-11T00:00:00+00:00",
+      "date_key": "2026-06-11",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Austin, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Introduction to Docker & Containerization for Beginners",
       "start": "2026-06-11T00:00:00+00:00",
       "date_key": "2026-06-11",
@@ -871,6 +1194,58 @@
       "priority_score": 11,
       "city": "other-us",
       "topic": "fintech"
+    },
+    {
+      "title": "CISO Stories: State of Critical Infrastructure Security",
+      "start": "2026-06-11T00:00:00+00:00",
+      "date_key": "2026-06-11",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Phoenix",
+      "start": "2026-06-11T00:00:00+00:00",
+      "date_key": "2026-06-11",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Phoenix, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Napa Tech Summit",
@@ -937,29 +1312,6 @@
       "priority_score": 9,
       "city": "atlanta",
       "topic": "health"
-    },
-    {
-      "title": "Executive Security Leadership Panel by ZeroEyes & Axis Communications",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/executive-security-leadership-panel-by-zeroeyes-axis-communications-tickets-1989845586715",
-      "source": "Eventbrite NYC Cybersecurity",
-      "location": "12 East 49th Street, New York, NY, US",
-      "description": "Join us to learn more about Axis and ZeroEyes",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 6,
-      "city": "nyc",
-      "topic": "broad"
     },
     {
       "title": "EBCK Cyber Security Practitioner Happy Hour",
@@ -1070,6 +1422,29 @@
       "priority_score": 4,
       "city": "nyc",
       "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA",
+      "start": "2026-06-12T00:00:00+00:00",
+      "date_key": "2026-06-12",
+      "end": "",
+      "url": "https://www.eventbrite.sg/e/cybersecurity-fraud-prevention-1-day-banking-session-in-atlanta-ga-tickets-1978208269185",
+      "source": "Eventbrite Atlanta Cybersecurity",
+      "location": "260 Peachtree Street NW Suite 2200, Atlanta, GA, US",
+      "description": "Understand common cyber threats and learn practical ways to prevent breaches, detect fraud, and improve digital security.",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "atlanta",
+      "topic": "fintech"
     },
     {
       "title": "boroCTF 2026",
@@ -1334,6 +1709,58 @@
       "topic": "fintech"
     },
     {
+      "title": "Identiverse",
+      "start": "2026-06-15T00:00:00+00:00",
+      "date_key": "2026-06-15",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "identiverse-2026 Identiverse",
+      "start": "2026-06-15T00:00:00+00:00",
+      "date_key": "2026-06-15",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "AI-Native Foundations",
       "start": "2026-06-15T00:00:00+00:00",
       "date_key": "2026-06-15",
@@ -1460,6 +1887,29 @@
       "topic": "fintech"
     },
     {
+      "title": "i show my friend how to build his first ai app -- live on stage in chicago",
+      "start": "2026-06-15T23:00:00+00:00",
+      "date_key": "2026-06-15",
+      "end": "2026-06-16T01:00:00+00:00",
+      "url": "https://luma.com/vo0685d6",
+      "source": "Luma Chicago Discover",
+      "location": "433 W Van Buren St, Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
       "title": "SF Real Estate & Construction Pitch & Networking Mixer",
       "start": "2026-06-16T00:00:00+00:00",
       "date_key": "2026-06-16",
@@ -1547,6 +1997,30 @@
       "topic": "health"
     },
     {
+      "title": "Detroit CISO Community Executive Summit",
+      "start": "2026-06-17T00:00:00+00:00",
+      "date_key": "2026-06-17",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Detroit, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Sieberrsec CTF 7.0",
       "start": "2026-06-17T00:00:00+00:00",
       "date_key": "2026-06-17",
@@ -1588,6 +2062,30 @@
       ],
       "priority_score": 2,
       "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Annual Gala and Wasserman Award Dinner",
+      "start": "2026-06-17T22:00:00+00:00",
+      "date_key": "2026-06-17",
+      "end": "",
+      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
+      "source": "ISACA New York Metro",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
       "topic": "broad"
     },
     {
@@ -1698,6 +2196,32 @@
       ],
       "priority_score": 2,
       "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "NIST Cybersecurity Framework 2.0 | SheLeadsTech Virtual Workshop |June 19",
+      "start": "2026-06-19T14:00:00+00:00",
+      "date_key": "2026-06-19",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 7,
+      "city": "other-us",
       "topic": "broad"
     },
     {
@@ -1854,6 +2378,59 @@
       "topic": "health"
     },
     {
+      "title": "Cybersecurity Summit: Pittsburgh",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Pittsburgh, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Charlotte",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Charlotte, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Chicago HealthTech, MedTech Networking Mixer and Elevator Pitch",
       "start": "2026-06-23T00:00:00+00:00",
       "date_key": "2026-06-23",
@@ -1986,6 +2563,78 @@
       "topic": "health"
     },
     {
+      "title": "Denver CISO Community Executive Summit",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Denver, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Seattle CISO Community Executive Summit",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Seattle, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Monthly Meeting | In-Person Event | June 23, 2026",
+      "start": "2026-06-23T20:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "AI Tech Startup & Investor Networking by AstraTech I San Francisco",
       "start": "2026-06-24T00:00:00+00:00",
       "date_key": "2026-06-24",
@@ -2050,6 +2699,58 @@
       "topic": "broad"
     },
     {
+      "title": "CyberRisk CISO Dinner: Los Angeles",
+      "start": "2026-06-24T00:00:00+00:00",
+      "date_key": "2026-06-24",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Los Angeles, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: AI for next-gen SOC",
+      "start": "2026-06-24T00:00:00+00:00",
+      "date_key": "2026-06-24",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Atlanta Healthcare, Pharma & Business Networking Event",
       "start": "2026-06-24T00:00:00+00:00",
       "date_key": "2026-06-24",
@@ -2093,6 +2794,30 @@
       "topic": "fintech"
     },
     {
+      "title": "[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25",
+      "start": "2026-06-24T14:00:00+00:00",
+      "date_key": "2026-06-24",
+      "end": "2026-06-25T22:00:00+00:00",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Underground Hacks",
       "start": "2026-06-24T15:00:00+00:00",
       "date_key": "2026-06-24",
@@ -2112,6 +2837,29 @@
       ],
       "priority_score": 16,
       "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Please Waste My Time: Detection through Deception",
+      "start": "2026-06-24T22:00:00+00:00",
+      "date_key": "2026-06-24",
+      "end": "",
+      "url": "https://www.meetup.com/owasp-atlanta/events/314667793/?eventOrigin=group_upcoming_events",
+      "source": "OWASP Atlanta",
+      "location": "Hybrid SandboxATL, 483 Moreland Ave NE, Third Floor, Atlanta, GA, US Red teamers rely on predictability; predictable enumeration paths, predictable credential locations, predictable network behavior. Deception defense exploits exactly that. This talk+workshop is a practical guide to wasting a red teamer's time, told by someone who has been on both sides of it. I've tripped honeypots mid-engagement. I've also built them. That dual perspective shapes everything in this session. We'll cover a tiered deception stack: Active Directory honey users and honey SPNs designed to catch Kerberoasting and lateral movement; canary tokens embedded in documents, file shares, and source code repositories; honey API endpoints and SSRF detection triggers for AppSec teams; and \u2014 newer territory \u2014 deception techniques purpose-built for AI systems, including canary instructions in LLM system prompts, honey documents in RAG pipelines, and fake AI API keys that alert when someone finds them. The talk includes hands-on exercises. Attendees will generate, plant, and trigger their own canary tokens during the session and leave with a working mental model for building a deception program, not just deploying a one-off trick.",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "application security",
+        "local chapter"
+      ],
+      "tags": [
+        "application security",
+        "appsec",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "atlanta",
       "topic": "broad"
     },
     {
@@ -2350,6 +3098,33 @@
       "topic": "broad"
     },
     {
+      "title": "Cybersecurity Summit: Minneapolis",
+      "start": "2026-06-30T00:00:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Minneapolis, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "AI & Machine Learning Startups, Investors, Innovators Networking in Chicago",
       "start": "2026-06-30T00:00:00+00:00",
       "date_key": "2026-06-30",
@@ -2411,6 +3186,30 @@
       "priority_score": 8,
       "city": "atlanta",
       "topic": "fintech"
+    },
+    {
+      "title": "The Unique Role of the IT Audit-Savvy Internal Auditors in Solving a Major Unmanaged Risk",
+      "start": "2026-07-01T19:00:00+00:00",
+      "date_key": "2026-07-01",
+      "end": "",
+      "url": "https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdashboard",
+      "source": "ISACA San Francisco",
+      "location": "",
+      "description": "ISACA San Francisco Chapter Event is On Hold The administrator has placed this event on hold. While on hold, it is inaccessible by anyone except the administrator. Close Engage Online Community",
+      "region": "Bay Area",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "CyberSpecialists: Elevate Your Career at CyberConnect - Global Networking & Growth - San Francisco",
@@ -2633,6 +3432,30 @@
       "topic": "broad"
     },
     {
+      "title": "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
+      "start": "2026-07-07T21:00:00+00:00",
+      "date_key": "2026-07-07",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Chicago Healthcare, Pharma & Business Networking Event",
       "start": "2026-07-08T00:00:00+00:00",
       "date_key": "2026-07-08",
@@ -2675,6 +3498,33 @@
       "priority_score": 9,
       "city": "chicago",
       "topic": "health"
+    },
+    {
+      "title": "CISO Stories: AI Security (Black Hat Preview)",
+      "start": "2026-07-09T00:00:00+00:00",
+      "date_key": "2026-07-09",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ai security",
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 14,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "San Francisco Healthcare, Pharma & Business Networking Event",
@@ -2721,6 +3571,30 @@
       "topic": "health"
     },
     {
+      "title": "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
+      "start": "2026-07-10T14:00:00+00:00",
+      "date_key": "2026-07-10",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Healthcare and Business Networking | Elevating Your Potential - SF",
       "start": "2026-07-15T00:00:00+00:00",
       "date_key": "2026-07-15",
@@ -2741,6 +3615,33 @@
       "priority_score": 20,
       "city": "sf",
       "topic": "health"
+    },
+    {
+      "title": "Cybersecurity Summit: Raleigh",
+      "start": "2026-07-15T00:00:00+00:00",
+      "date_key": "2026-07-15",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Raleigh, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
@@ -2809,6 +3710,54 @@
       "topic": "health"
     },
     {
+      "title": "Florida CISO Community Town Hall",
+      "start": "2026-07-16T00:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Florida, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Monthly Meeting | Virtual Event | July 16, 2026",
+      "start": "2026-07-16T20:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "2026 CCFY - Remix & Rewear: Youth Fashion & Printmaking Lab",
       "start": "2026-07-20T00:00:00+00:00",
       "date_key": "2026-07-20",
@@ -2828,6 +3777,32 @@
       "priority_score": 8,
       "city": "other-us",
       "topic": "fintech"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Detroit",
+      "start": "2026-07-21T00:00:00+00:00",
+      "date_key": "2026-07-21",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Detroit, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Healthcare Advocacy: Empowering Voices for Better Care, New York city",
@@ -2852,6 +3827,58 @@
       "topic": "health"
     },
     {
+      "title": "CyberRisk CISO Dinner: Twin Cities",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Twin Cities, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Boston",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Boston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Healthcare and Business Networking | Elevating Your Potential - NYC",
       "start": "2026-07-22T00:00:00+00:00",
       "date_key": "2026-07-22",
@@ -2874,6 +3901,30 @@
       "topic": "health"
     },
     {
+      "title": "Global CISO Community Town Hall",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "US, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "July 2026: A History of the Login Box and Why It Still Sucks",
       "start": "2026-07-22T00:30:00+00:00",
       "date_key": "2026-07-21",
@@ -2892,6 +3943,59 @@
       ],
       "priority_score": 1,
       "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: DC Metro",
+      "start": "2026-07-23T00:00:00+00:00",
+      "date_key": "2026-07-23",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "DC Metro, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Dallas",
+      "start": "2026-07-23T00:00:00+00:00",
+      "date_key": "2026-07-23",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Dallas, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
       "topic": "broad"
     },
     {
@@ -2917,6 +4021,112 @@
       "topic": "health"
     },
     {
+      "title": "Building a Resilient Cybersecurity Strategy",
+      "start": "2026-07-23T13:00:00+00:00",
+      "date_key": "2026-07-23",
+      "end": "",
+      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
+      "source": "ISACA New York Metro",
+      "location": "",
+      "description": "ISACA New York Metropolitan Chapter Event is On Hold The administrator has placed this event on hold. While on hold, it is inaccessible by anyone except the administrator. Close",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 7,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "FS-ISAC Steel Resolve Exercise",
+      "start": "2026-07-28T00:00:00+00:00",
+      "date_key": "2026-07-28",
+      "end": "2026-07-29T00:00:00+00:00",
+      "url": "https://www.fsisac.com/events/steel-resolve-2026",
+      "source": "FS-ISAC Steel Resolve Exercise",
+      "location": "Online",
+      "description": "FS-ISAC sector-wide functional exercise for financial infrastructure resilience",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "financial services",
+        "cybersecurity",
+        "isac",
+        "resilience"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "financial services",
+        "fintech",
+        "security"
+      ],
+      "priority_score": 12,
+      "city": "other-us",
+      "topic": "fintech"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Philadelphia",
+      "start": "2026-07-28T00:00:00+00:00",
+      "date_key": "2026-07-28",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Philadelphia, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: State of Vulnerability Management",
+      "start": "2026-07-29T00:00:00+00:00",
+      "date_key": "2026-07-29",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "OPSCON 2026: Atlanta",
       "start": "2026-08-04T00:00:00+00:00",
       "date_key": "2026-08-04",
@@ -2936,6 +4146,210 @@
       "priority_score": 8,
       "city": "atlanta",
       "topic": "fintech"
+    },
+    {
+      "title": "Careers & Conversations | August 04, 2026 | @ 4 PM CT",
+      "start": "2026-08-04T21:00:00+00:00",
+      "date_key": "2026-08-04",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CISO Stories: Attack Surface Management",
+      "start": "2026-08-13T00:00:00+00:00",
+      "date_key": "2026-08-13",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Nashville",
+      "start": "2026-08-13T00:00:00+00:00",
+      "date_key": "2026-08-13",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Nashville, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Detroit",
+      "start": "2026-08-18T00:00:00+00:00",
+      "date_key": "2026-08-18",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Detroit, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Portland",
+      "start": "2026-08-19T00:00:00+00:00",
+      "date_key": "2026-08-19",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Portland, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Detroit CISO Community Town Hall",
+      "start": "2026-08-19T00:00:00+00:00",
+      "date_key": "2026-08-19",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Detroit, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Florida CISO Community Town Hall",
+      "start": "2026-08-20T00:00:00+00:00",
+      "date_key": "2026-08-20",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Florida, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Salt Lake City",
+      "start": "2026-08-25T00:00:00+00:00",
+      "date_key": "2026-08-25",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Salt Lake City, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "AI Executive Dinner",
@@ -2960,6 +4374,281 @@
       "topic": "broad"
     },
     {
+      "title": "CyberRisk CISO Dinner: Atlanta",
+      "start": "2026-08-26T00:00:00+00:00",
+      "date_key": "2026-08-26",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Atlanta, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Cincinnati",
+      "start": "2026-08-26T00:00:00+00:00",
+      "date_key": "2026-08-26",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Cincinnati, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Threat Intelligence Exchange",
+      "start": "2026-08-26T00:00:00+00:00",
+      "date_key": "2026-08-26",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Houston",
+      "start": "2026-08-27T00:00:00+00:00",
+      "date_key": "2026-08-27",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Houston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "[Save the Date] ISACA Chicago\u2019s Annual Conference+ | August 27, 2026",
+      "start": "2026-08-27T13:00:00+00:00",
+      "date_key": "2026-08-27",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "320 Events, 320 S Canal St, Chicago, IL 60606",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Boston CISO Community Inner Circle",
+      "start": "2026-09-01T00:00:00+00:00",
+      "date_key": "2026-09-01",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Boston, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Columbus",
+      "start": "2026-09-02T00:00:00+00:00",
+      "date_key": "2026-09-02",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Columbus, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Chicago CISO Community Inner Circle",
+      "start": "2026-09-02T00:00:00+00:00",
+      "date_key": "2026-09-02",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Chicago, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Dallas CISO Community Inner Circle",
+      "start": "2026-09-02T00:00:00+00:00",
+      "date_key": "2026-09-02",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Dallas, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Florida CISO Community Inner Circle",
+      "start": "2026-09-02T00:00:00+00:00",
+      "date_key": "2026-09-02",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Florida, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Denver CISO Community Inner Circle",
+      "start": "2026-09-03T00:00:00+00:00",
+      "date_key": "2026-09-03",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Denver, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "THE NEW YORK BLOCKCHAIN FESTIVAL",
       "start": "2026-09-04T00:00:00+00:00",
       "date_key": "2026-09-04",
@@ -2979,6 +4668,30 @@
       "priority_score": 8,
       "city": "nyc",
       "topic": "fintech"
+    },
+    {
+      "title": "Careers & Conversations | September 08, 2026 | @ 4 PM CT",
+      "start": "2026-09-08T21:00:00+00:00",
+      "date_key": "2026-09-08",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Connect Expo Series",
@@ -3002,6 +4715,85 @@
       "topic": "fintech"
     },
     {
+      "title": "Cybersecurity Summit: San Diego",
+      "start": "2026-09-10T00:00:00+00:00",
+      "date_key": "2026-09-10",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "San Diego, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CISO Stories: State of Vulnerability Management",
+      "start": "2026-09-10T00:00:00+00:00",
+      "date_key": "2026-09-10",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Seattle/Bellevue",
+      "start": "2026-09-10T00:00:00+00:00",
+      "date_key": "2026-09-10",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Seattle/Bellevue, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Early Pathways Breakfast",
       "start": "2026-09-10T00:00:00+00:00",
       "date_key": "2026-09-10",
@@ -3021,6 +4813,56 @@
       "priority_score": 8,
       "city": "nyc",
       "topic": "fintech"
+    },
+    {
+      "title": "Ohio CISO Community Inner Circle",
+      "start": "2026-09-10T00:00:00+00:00",
+      "date_key": "2026-09-10",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Ohio, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health",
+      "start": "2026-09-14T00:00:00+00:00",
+      "date_key": "2026-09-14",
+      "end": "2026-09-17T00:00:00+00:00",
+      "url": "https://events.beckershospitalreview.com/hit_rcm_2026/",
+      "source": "Becker's Health IT Conference",
+      "location": "Chicago, IL, US",
+      "description": "Becker's Healthcare conference for health system IT, digital health, AI, and revenue cycle leaders",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "health",
+        "ai",
+        "digital health",
+        "risk"
+      ],
+      "tags": [
+        "health",
+        "healthcare",
+        "risk"
+      ],
+      "priority_score": 13,
+      "city": "chicago",
+      "topic": "health"
     },
     {
       "title": "C3 Davos of Healthcare\u2122 NYC Summit",
@@ -3045,6 +4887,59 @@
       "topic": "health"
     },
     {
+      "title": "Cybersecurity Summit: Chicago",
+      "start": "2026-09-15T00:00:00+00:00",
+      "date_key": "2026-09-15",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Chicago, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Attack Surface Management",
+      "start": "2026-09-16T00:00:00+00:00",
+      "date_key": "2026-09-16",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Health Connect South 2026 Annual Gathering",
       "start": "2026-09-16T00:00:00+00:00",
       "date_key": "2026-09-16",
@@ -3065,6 +4960,279 @@
       "priority_score": 9,
       "city": "atlanta",
       "topic": "health"
+    },
+    {
+      "title": "Atlanta CISO Community Inner Circle",
+      "start": "2026-09-16T00:00:00+00:00",
+      "date_key": "2026-09-16",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Atlanta, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Philadelphia",
+      "start": "2026-09-17T00:00:00+00:00",
+      "date_key": "2026-09-17",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Philadelphia, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Portland",
+      "start": "2026-09-17T00:00:00+00:00",
+      "date_key": "2026-09-17",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Portland, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Minneapolis CISO Community Inner Circle",
+      "start": "2026-09-17T00:00:00+00:00",
+      "date_key": "2026-09-17",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Minneapolis, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Monthly Meeting | In-Person Event | September 17, 2026",
+      "start": "2026-09-17T20:00:00+00:00",
+      "date_key": "2026-09-17",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Phoenix",
+      "start": "2026-09-22T00:00:00+00:00",
+      "date_key": "2026-09-22",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Phoenix, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Detroit CISO Community Inner Circle",
+      "start": "2026-09-22T00:00:00+00:00",
+      "date_key": "2026-09-22",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Detroit, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Houston CISO Community Inner Circle",
+      "start": "2026-09-22T00:00:00+00:00",
+      "date_key": "2026-09-22",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Houston, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Seattle CISO Community Inner Circle",
+      "start": "2026-09-22T00:00:00+00:00",
+      "date_key": "2026-09-22",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Seattle, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Los Angeles",
+      "start": "2026-09-24T00:00:00+00:00",
+      "date_key": "2026-09-24",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Los Angeles, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Global CISO Community Executive Summit",
+      "start": "2026-09-28T00:00:00+00:00",
+      "date_key": "2026-09-28",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "US, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Converged Security Summit (CSS) 2026",
@@ -3090,6 +5258,84 @@
       "topic": "broad"
     },
     {
+      "title": "CyberRisk CISO Dinner: Charlotte",
+      "start": "2026-09-30T00:00:00+00:00",
+      "date_key": "2026-09-30",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Charlotte, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: NY Metro",
+      "start": "2026-09-30T00:00:00+00:00",
+      "date_key": "2026-09-30",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "NY Metro, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Identity",
+      "start": "2026-09-30T00:00:00+00:00",
+      "date_key": "2026-09-30",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Haiti Tech Summit 10th Annual Edition (UNGA Week)",
       "start": "2026-09-30T00:00:00+00:00",
       "date_key": "2026-09-30",
@@ -3109,6 +5355,59 @@
       "priority_score": 8,
       "city": "nyc",
       "topic": "fintech"
+    },
+    {
+      "title": "Cybersecurity Summit: Seattle/Bellevue",
+      "start": "2026-10-01T00:00:00+00:00",
+      "date_key": "2026-10-01",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Seattle/Bellevue, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Houston",
+      "start": "2026-10-01T00:00:00+00:00",
+      "date_key": "2026-10-01",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Houston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "IT Security Conference 2026, NYC",
@@ -3134,6 +5433,161 @@
       "topic": "broad"
     },
     {
+      "title": "Careers & Conversations | October 06, 2026 | @ 4 PM CT",
+      "start": "2026-10-06T21:00:00+00:00",
+      "date_key": "2026-10-06",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Bay Area",
+      "start": "2026-10-07T00:00:00+00:00",
+      "date_key": "2026-10-07",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Bay Area, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 18,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Philadelphia",
+      "start": "2026-10-07T00:00:00+00:00",
+      "date_key": "2026-10-07",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Philadelphia, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Boston",
+      "start": "2026-10-08T00:00:00+00:00",
+      "date_key": "2026-10-08",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Boston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CISO Stories: Exposure Management",
+      "start": "2026-10-08T00:00:00+00:00",
+      "date_key": "2026-10-08",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Cincinnati",
+      "start": "2026-10-08T00:00:00+00:00",
+      "date_key": "2026-10-08",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Cincinnati, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Fintech: Pre Tech Crunch and Money 2020.",
       "start": "2026-10-12T00:00:00+00:00",
       "date_key": "2026-10-12",
@@ -3153,6 +5607,59 @@
       "priority_score": 19,
       "city": "sf",
       "topic": "fintech"
+    },
+    {
+      "title": "InfoSec World",
+      "start": "2026-10-12T00:00:00+00:00",
+      "date_key": "2026-10-12",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "infosec",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "InfoSec World 2026",
+      "start": "2026-10-12T00:00:00+00:00",
+      "date_key": "2026-10-12",
+      "end": "2026-10-14T00:00:00+00:00",
+      "url": "https://www.infosecworldusa.com/",
+      "source": "InfoSec World",
+      "location": "Kissimmee, Florida, US",
+      "description": "CyberRisk Alliance InfoSec World conference",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "conference"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "infosec",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Avant South 2026",
@@ -3176,6 +5683,212 @@
       "topic": "fintech"
     },
     {
+      "title": "CyberRisk Leadership Exchange: Bay Area",
+      "start": "2026-10-13T00:00:00+00:00",
+      "date_key": "2026-10-13",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Bay Area, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 18,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Silicon Valley",
+      "start": "2026-10-13T00:00:00+00:00",
+      "date_key": "2026-10-13",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Silicon Valley, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Boston",
+      "start": "2026-10-13T00:00:00+00:00",
+      "date_key": "2026-10-13",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Boston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Hot Topic Webcast: Network Security",
+      "start": "2026-10-13T00:00:00+00:00",
+      "date_key": "2026-10-13",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: FinSec",
+      "start": "2026-10-14T00:00:00+00:00",
+      "date_key": "2026-10-14",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Monthly Meeting | Virtual Event | October 15, 2026",
+      "start": "2026-10-15T20:00:00+00:00",
+      "date_key": "2026-10-15",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Charlotte",
+      "start": "2026-10-20T00:00:00+00:00",
+      "date_key": "2026-10-20",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Charlotte, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Boston CISO Community Town Hall",
+      "start": "2026-10-21T00:00:00+00:00",
+      "date_key": "2026-10-21",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Boston, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Global CISO Summit - Bay Area Edition",
       "start": "2026-10-24T15:00:00+00:00",
       "date_key": "2026-10-24",
@@ -3197,6 +5910,1139 @@
       ],
       "priority_score": 14,
       "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "FS-ISAC 2026 Americas Fall Summit",
+      "start": "2026-10-26T00:00:00+00:00",
+      "date_key": "2026-10-26",
+      "end": "2026-10-29T00:00:00+00:00",
+      "url": "https://www.fsisac.com/events/americas-fall-summit",
+      "source": "FS-ISAC Americas Fall Summit",
+      "location": "Austin, TX, US",
+      "description": "FS-ISAC financial sector cybersecurity and resilience summit",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "financial services",
+        "cybersecurity",
+        "isac",
+        "resilience"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "financial services",
+        "fintech",
+        "security"
+      ],
+      "priority_score": 12,
+      "city": "other-us",
+      "topic": "fintech"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Chicago",
+      "start": "2026-10-28T00:00:00+00:00",
+      "date_key": "2026-10-28",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Chicago, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Network Security",
+      "start": "2026-10-28T00:00:00+00:00",
+      "date_key": "2026-10-28",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Minneapolis CISO Community Town Hall",
+      "start": "2026-10-28T00:00:00+00:00",
+      "date_key": "2026-10-28",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Minneapolis, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Dallas",
+      "start": "2026-10-29T00:00:00+00:00",
+      "date_key": "2026-10-29",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Dallas, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Dallas",
+      "start": "2026-10-29T00:00:00+00:00",
+      "date_key": "2026-10-29",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Dallas, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Los Angeles",
+      "start": "2026-11-02T00:00:00+00:00",
+      "date_key": "2026-11-02",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Los Angeles, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Salt Lake City",
+      "start": "2026-11-03T00:00:00+00:00",
+      "date_key": "2026-11-03",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Salt Lake City, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Careers & Conversations | November 03, 2026 | @ 4 PM CT",
+      "start": "2026-11-03T21:00:00+00:00",
+      "date_key": "2026-11-03",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Cybersecurity Summit Nationwide Virtual Conference",
+      "start": "2026-11-04T00:00:00+00:00",
+      "date_key": "2026-11-04",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Dallas CISO Community Executive Summit",
+      "start": "2026-11-04T00:00:00+00:00",
+      "date_key": "2026-11-04",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Dallas, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Nashville",
+      "start": "2026-11-05T00:00:00+00:00",
+      "date_key": "2026-11-05",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Nashville, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: San Antonio",
+      "start": "2026-11-05T00:00:00+00:00",
+      "date_key": "2026-11-05",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "San Antonio, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Twin Cities",
+      "start": "2026-11-05T00:00:00+00:00",
+      "date_key": "2026-11-05",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Twin Cities, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Hot Topic Webcast: Threat Intel Futures",
+      "start": "2026-11-10T00:00:00+00:00",
+      "date_key": "2026-11-10",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Florida CISO Community Executive Summit",
+      "start": "2026-11-10T00:00:00+00:00",
+      "date_key": "2026-11-10",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Florida, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Chicago",
+      "start": "2026-11-11T00:00:00+00:00",
+      "date_key": "2026-11-11",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Chicago, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Houston",
+      "start": "2026-11-12T00:00:00+00:00",
+      "date_key": "2026-11-12",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Houston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CISO Stories: Network Security",
+      "start": "2026-11-12T00:00:00+00:00",
+      "date_key": "2026-11-12",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Los Angeles",
+      "start": "2026-11-12T00:00:00+00:00",
+      "date_key": "2026-11-12",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Los Angeles, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: New York",
+      "start": "2026-11-17T00:00:00+00:00",
+      "date_key": "2026-11-17",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "New York, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Seattle/Bellevue",
+      "start": "2026-11-17T00:00:00+00:00",
+      "date_key": "2026-11-17",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Seattle/Bellevue, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "MSSP Alert Live",
+      "start": "2026-11-17T00:00:00+00:00",
+      "date_key": "2026-11-17",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Washington, DC CISO Community Executive Summit",
+      "start": "2026-11-17T00:00:00+00:00",
+      "date_key": "2026-11-17",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Washington, DC, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Government Security",
+      "start": "2026-11-18T00:00:00+00:00",
+      "date_key": "2026-11-18",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Vancouver",
+      "start": "2026-11-19T00:00:00+00:00",
+      "date_key": "2026-11-19",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Vancouver, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Atlanta CISO Community Executive Summit",
+      "start": "2026-11-19T00:00:00+00:00",
+      "date_key": "2026-11-19",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Atlanta, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
+      "title": "Monthly Meeting | In-Person Event | November 19, 2026",
+      "start": "2026-11-19T20:00:00+00:00",
+      "date_key": "2026-11-19",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA Chicago Chapter Event is On Hold The administrator has placed this event on hold. While on hold, it is inaccessible by anyone except the administrator. Close",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Health-ISAC 2026 Fall Americas Summit",
+      "start": "2026-11-30T00:00:00+00:00",
+      "date_key": "2026-11-30",
+      "end": "2026-12-04T00:00:00+00:00",
+      "url": "https://health-isac.org/summits/",
+      "source": "Health-ISAC Summits",
+      "location": "Tucson, AZ, USA",
+      "description": "Health-ISAC Americas summit",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "health",
+        "cybersecurity",
+        "isac"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "health",
+        "healthcare",
+        "security"
+      ],
+      "priority_score": 12,
+      "city": "other-us",
+      "topic": "health"
+    },
+    {
+      "title": "Health-ISAC 2026 Fall Americas Summit",
+      "start": "2026-11-30T00:00:00+00:00",
+      "date_key": "2026-11-30",
+      "end": "2026-12-04T00:00:00+00:00",
+      "url": "https://health-isac.org/summit-meeting/2026-fall-americas-summit/",
+      "source": "Health-ISAC Fall Americas Summit",
+      "location": "Tucson, AZ, US",
+      "description": "Health-ISAC Americas summit for health sector security and resilience",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "health",
+        "cybersecurity",
+        "isac"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "health",
+        "healthcare",
+        "security"
+      ],
+      "priority_score": 12,
+      "city": "other-us",
+      "topic": "health"
+    },
+    {
+      "title": "Hot Topic Webcast: Zero Trust",
+      "start": "2026-12-01T00:00:00+00:00",
+      "date_key": "2026-12-01",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Houston CISO Community Executive Summit",
+      "start": "2026-12-01T00:00:00+00:00",
+      "date_key": "2026-12-01",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Houston, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Seattle CISO Community Executive Summit",
+      "start": "2026-12-01T00:00:00+00:00",
+      "date_key": "2026-12-01",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Seattle, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Cloud Security",
+      "start": "2026-12-02T00:00:00+00:00",
+      "date_key": "2026-12-02",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cloud security",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 14,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Atlanta",
+      "start": "2026-12-02T00:00:00+00:00",
+      "date_key": "2026-12-02",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Atlanta, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Phoenix",
+      "start": "2026-12-02T00:00:00+00:00",
+      "date_key": "2026-12-02",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Phoenix, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Chicago CISO Community Executive Summit",
+      "start": "2026-12-02T00:00:00+00:00",
+      "date_key": "2026-12-02",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Chicago, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Portland",
+      "start": "2026-12-03T00:00:00+00:00",
+      "date_key": "2026-12-03",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Portland, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Boston CISO Community Executive Summit",
+      "start": "2026-12-03T00:00:00+00:00",
+      "date_key": "2026-12-03",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Boston, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk Leadership Exchange: Detroit",
+      "start": "2026-12-08T00:00:00+00:00",
+      "date_key": "2026-12-08",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Detroit, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Minneapolis CISO Community Executive Summit",
+      "start": "2026-12-09T00:00:00+00:00",
+      "date_key": "2026-12-09",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Minneapolis, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CISO Stories: Cloud Security: The AI effect and how to proceed",
+      "start": "2026-12-10T00:00:00+00:00",
+      "date_key": "2026-12-10",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cloud security",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 14,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Charlotte",
+      "start": "2026-12-10T00:00:00+00:00",
+      "date_key": "2026-12-10",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Charlotte, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Virtual Summit: Compliance",
+      "start": "2026-12-16T00:00:00+00:00",
+      "date_key": "2026-12-16",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Online",
+      "description": "CyberRisk Alliance Virtual event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "compliance",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
       "topic": "broad"
     },
     {
@@ -3265,5 +7111,16 @@
       "topic": "fintech"
     }
   ],
-  "source_errors": []
+  "source_errors": [
+    {
+      "source": "HIMSS Events Overview",
+      "url": "https://www.himss.org/events-overview/?page=0",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "HIMSS Events",
+      "url": "https://www.himss.org/events",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
 }
