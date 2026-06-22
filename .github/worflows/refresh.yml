@@ -1,0 +1,45 @@
+name: Refresh event calendar
+
+on:
+  schedule:
+    # 13:00 UTC = 8:00am Central during CDT (spring/summer).
+    # GitHub cron is UTC and ignores daylight saving, so in winter (CST)
+    # this lands at 7:00am. Change to "0 14 * * 1" if you want 8am in winter.
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}   # gives you a manual "Run workflow" button to test
+
+permissions:
+  contents: write          # lets the action push the refreshed files
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install python-dateutil
+
+      - name: Generate the calendar
+        run: python update_calendar.py
+
+      - name: Copy generated files to the repo root
+        run: cp output/* .
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add events.csv events.json index.html priority_events.csv source_debug.json source_report.html zcyber_security_events.ics
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "Auto-refresh event calendar"
+            git push
+          fi
