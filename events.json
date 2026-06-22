@@ -1,2295 +1,7 @@
 {
-  "generated_at": "2026-06-07T01:28:23.433025+00:00",
-  "event_count": 300,
+  "generated_at": "2026-06-22T04:00:35.654057+00:00",
+  "event_count": 256,
   "events": [
-    {
-      "title": "Breakfast with a VC",
-      "start": "2026-06-06T00:00:00+00:00",
-      "date_key": "2026-06-06",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "Hilton San Francisco Union Square, 333 O'Farrell St, San Francisco, CA 94102, USA",
-      "description": "Meetup via AI Salon Bay Area",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "DalCTF 2026",
-      "start": "2026-06-06T00:00:00+00:00",
-      "date_key": "2026-06-06",
-      "end": "",
-      "url": "https://ctftime.org/event/3320/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via HTTP Status 418",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "SAS CTF 2026 Quals",
-      "start": "2026-06-06T00:00:00+00:00",
-      "date_key": "2026-06-06",
-      "end": "",
-      "url": "https://ctftime.org/event/3109/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via Drovosec",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "CISM\u00ae Certification Review Course",
-      "start": "2026-06-06T13:00:00+00:00",
-      "date_key": "2026-06-06",
-      "end": "2026-06-20T21:00:00+00:00",
-      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
-      "source": "ISACA New York Metro",
-      "location": "",
-      "description": "ISACA",
-      "region": "US",
-      "focus": [
-        "governance",
-        "risk",
-        "security",
-        "local chapter"
-      ],
-      "tags": [
-        "risk",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Healthcare IT Institute 2026",
-      "start": "2026-06-07T00:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260607-healthcare-it-institute-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Los Angeles, California, US",
-      "description": "Key Takeaways Executive-level event focused on healthcare IT leadership and digital transformation Addresses secure, interoperable, and innovative health IT strategies Covers AI adoption, cybersecurity, analytics, and clinician burden reduction Emphasizes cross-sector collaboration and workforce intelligence Designed for senior healthcare IT professionals and executives The Healthcare IT Institute 2026 is a",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "health",
-        "healthcare",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 16,
-      "city": "other-us",
-      "topic": "health"
-    },
-    {
-      "title": "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
-      "start": "2026-06-07T00:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "AGI House, 1868 Floribunda Ave, Hillsborough, CA 94010, USA",
-      "description": "Meetup via Bay Area Tech / AGI House",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "3 AI Income Streams You Can Start This Month",
-      "start": "2026-06-07T00:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/3-ai-income-streams-you-can-start-this-month-tickets-1989915236038",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "576 Lee Street Southwest, Atlanta, GA, US",
-      "description": "Discover easy AI hacks to start making money fast with 3 cool income ideas you can kick off right away.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Master AI Entrepreneurship - From A to Z Masterclass",
-      "start": "2026-06-07T00:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-masterclass-tickets-1981481287872",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Manhattan, New York, NY, US",
-      "description": "Master AI Entrepreneurship - From A to Z Masterclass",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Pax8 Beyond 2026",
-      "start": "2026-06-07T00:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260607-pax8-beyond-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Salt Lake City, Utah, US",
-      "description": "Flagship in-person conference for the Pax8 community Focus on cloud technology, cybersecurity, and IT channel innovation Over 70 hours of educational content and hands-on workshops Dynamic exhibit hall featuring leading technology vendors Networking opportunities for MSPs, IT service providers, and channel partners Deep dives into new Pax8 platform and marketplace",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "AI Con 2026",
-      "start": "2026-06-07T00:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260607-ai-con-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Seattle, Washington, US",
-      "description": "Key Takeaways Premier conference focused on Artificial Intelligence and Machine Learning Emphasis on real-world AI applications and enterprise adoption Features keynotes, tutorials, workshops, and an expo Targets tech leaders, researchers, and AI professionals Hybrid format: in-person in Seattle and virtual attendance options AI Con USA 2026 stands as a leading",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "SSMCTF 2026 Qualifiers",
-      "start": "2026-06-07T00:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "",
-      "url": "https://ctftime.org/event/2913/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via yes but oh wait shit what's our team name again",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Flip the Script: WWDC Watch Party + Mac Dev Conference on Building, Distributing & Monetizing AI Apps by MacPaw",
-      "start": "2026-06-07T18:30:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "2026-06-09T00:30:00+00:00",
-      "url": "https://luma.com/flipthescript26",
-      "source": "Luma SF Discover",
-      "location": "AGI House, Hillsborough, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "SF Women in Tech: Founders & Professionals Networking Night",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1988408096142",
-      "source": "Eventbrite SF Fintech",
-      "location": "557 Haight Street, San Francisco, CA, US",
-      "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "IT Security Conference Dallas 2026",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260608-it-security-conference-dallas-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Dallas, Texas, US",
-      "description": "The annual elite conference stands as a premier event for senior-level professionals from a wide array of industries. Designed to promote knowledge exchange and foster collaboration, the conference brings together leaders from sectors such as Healthcare, Retail, Banking, Financial Services, Credit Unions, Insurance, Education, Transportation, Manufacturing, Automotive, and Telecommunications. By",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "financial services",
-        "health",
-        "healthcare",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 16,
-      "city": "other-us",
-      "topic": "health"
-    },
-    {
-      "title": "30 Day Founder Content Challenge ($5K Prize Pool) - Zoom",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-vtdlrpq37FiIHKX",
-      "description": "Meetup via Bay Area Tech / AGI House",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Leadership Circle: On building Marketscapes",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-wsptGC5b0YQvBnu",
-      "description": "Meetup via AI Salon Bay Area",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Unhacked 360 Cybersecurity Conference 2026",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260608-unhacked-360-cybersecurity-conference-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Atlanta, Georgia, US",
-      "description": "Key Takeaways Focus on actionable cybersecurity strategies, not theory Deep dives into AI governance, Zero Trust, and cloud security Sessions led by global experts with real-world experience Emphasis on critical infrastructure, compliance, and workforce development Curated networking for senior professionals and decision-makers Unhacked 360 Cybersecurity Conference brings together a select",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cloud security",
-        "compliance",
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 9,
-      "city": "atlanta",
-      "topic": "broad"
-    },
-    {
-      "title": "ATL Money Monday Mixer",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/atl-money-monday-mixer-tickets-1983589591866",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "504 Fair Street Southwest, Atlanta, GA, US",
-      "description": "Join us for a laid-back evening of networking and collaboration with fellow entrepreneurs in Atlanta. Come out and share what you do!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Chicago Women in Tech: Founders & Professionals Networking Night",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-women-in-tech-founders-professionals-networking-night-tickets-1988315361771",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "25 South Halsted Street, Chicago, IL, US",
-      "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "NYC Women in Tech: Founders & Professionals Networking Night",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-1988315143117",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Madam Mikette's,987 2nd Avenue, New York, NY, US",
-      "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch NYC",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/women-in-tech-fintech-ai-startups-networking-event-elevator-pitch-nyc-tickets-1986976025781",
-      "source": "Eventbrite NYC Fintech",
-      "location": "987 2nd Avenue, New York, NY, US",
-      "description": "Join the Tech Startups Networking Event to connect with service providers and build partnerships to accelerate your growth!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Zenith Live Las Vegas 2026",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260608-zenith-live-las-vegas-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Las Vegas, Nevada, US",
-      "description": "Key Takeaways Premier conference dedicated to AI security and zero trust frameworks Expert-led sessions, hands-on workshops, and certification opportunities Focus on securing data, workforce, branches, and cloud environments Designed for cybersecurity professionals, IT leaders, and executives Showcases innovations from leading sponsors and technology vendors Zenith Live stands as a leading",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "ai security",
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 8,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Rubrik Forward USA 2026",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260608-rubrik-forward-usa-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Las Vegas, Nevada, US",
-      "description": "Rubrik Forward 2026 stands as a leading industry conference dedicated to advancing cyber resilience and enterprise data security. This annual gathering brings together IT leaders, security professionals, and technology practitioners to explore innovative strategies for safeguarding critical data in an increasingly complex digital environment. The event is designed to provide",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Soho Forum Debate: Simon Hankinson vs. Bryan Caplan",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/soho-forum-debate-simon-hankinson-vs-bryan-caplan-tickets-1983570732457",
-      "source": "Eventbrite NYC Cybersecurity",
-      "location": "18 Bleecker Street, New York, NY, US",
-      "description": "An Oxford-style debate about Immigration and Customs Enforcement.",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "ETHConf 2026",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260608-ethconf-2026/",
-      "source": "InfoSec Conferences",
-      "location": "New York City, New York, US",
-      "description": "ETHConf stands as a premier three-day conference dedicated to advancing the Ethereum ecosystem. Hosted in New York City, the event attracts a diverse group of professionals and organizations focused on blockchain technology. The conference is structured to encourage collaboration, spark innovation, and provide a comprehensive platform for sharing expertise among",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "ETHConf New York City 2026",
-      "start": "2026-06-08T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260608-ethconf-new-york-city-2026/",
-      "source": "InfoSec Conferences",
-      "location": "New York City, New York, US",
-      "description": "ETHConf New York City is a prominent event that brings together Ethereum developers, infrastructure engineers, and industry leaders. The conference serves as a platform for in-depth discussions on the latest advancements in decentralized technologies and the broader blockchain ecosystem. Attendees gain valuable insights into the ongoing evolution of distributed systems",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "The AI Night @ WWDC26",
-      "start": "2026-06-08T02:00:00+00:00",
-      "date_key": "2026-06-07",
-      "end": "2026-06-08T06:00:00+00:00",
-      "url": "https://luma.com/ai-night-wwdc-26",
-      "source": "Luma SF Discover",
-      "location": "San Jose, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "American CIO & Cybersecurity Summit 2026",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260609-american-cio-and-cybersecurity-summit-2026/",
-      "source": "InfoSec Conferences",
-      "location": "San Francisco, California, US",
-      "description": "Key Takeaways Annual, invitation-only summit for senior IT and cybersecurity executives Focus on digital transformation, cybersecurity resilience, and AI adoption Peer-driven sessions, curated networking, and actionable benchmarking Addresses operational challenges in data governance, compliance, and risk management Exclusive access to decision-makers from leading global enterprises The American CIO & Cybersecurity",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "compliance",
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "risk",
-        "security"
-      ],
-      "priority_score": 20,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "SF Tech Startups, Investors, Professionals Networking & Pitch Event",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-tech-startups-investors-professionals-networking-pitch-event-tickets-1988469292181",
-      "source": "Eventbrite SF Fintech",
-      "location": "46 Geary Street, San Francisco, CA, US",
-      "description": "Join the Tech Startups Networking Event to connect and and build partnerships, for live pitches and meaningful networking.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "CEFPro Vendor & Third Party Risk USA 2026",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260609-cefpro-vendor-and-third-party-risk-usa-2026/",
-      "source": "InfoSec Conferences",
-      "location": "New York City, New York, US",
-      "description": "Key Takeaways Focuses on the latest challenges and innovations in third-party risk management (TPRM) Addresses regulatory shifts, cybersecurity threats, and the integration of AI in vendor oversight Designed for senior professionals in risk, compliance, audit, and cybersecurity within financial services Features practitioner-led sessions, case studies, and peer networking Supported by",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "compliance",
-        "cyber",
-        "cybersecurity",
-        "financial services",
-        "infosec",
-        "risk",
-        "security"
-      ],
-      "priority_score": 14,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "[Fireside Discussion] From Tokens to Robots",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "625 2nd St, San Francisco, CA 94107, USA",
-      "description": "Meetup via SF Tech Events",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Cybersecurity Summit: St. Louis",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "St. Louis, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "cybersecurity",
-        "risk",
-        "security"
-      ],
-      "priority_score": 11,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Hot Topic Webcast: Attack Surface Management",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Online",
-      "description": "CyberRisk Alliance Virtual event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Tech Connect: Startups, Investors, Professionals Networking Event Chicago",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-connect-startups-investors-professionals-networking-event-chicago-tickets-1988619149408",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "Lottie Pub, 1925 West Cortland Street, Chicago, IL, US",
-      "description": "Join us at Chicago Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "ITS America Conference & Expo 2026",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260609-its-america-conference-and-expo-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Detroit, Michigan, US",
-      "description": "Key Takeaways Explores the latest advancements in intelligent transportation systems (ITS) and smart mobility Features live demonstrations, hands-on workshops, and over 100 conference sessions Brings together more than 3,000 industry professionals and 170+ exhibitors Covers topics such as AI in mobility, automated vehicles, digital infrastructure, V2X, and cybersecurity Focuses on",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Beyond Text: Future of Voice AI",
-      "start": "2026-06-09T00:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "2026-06-09T03:00:00+00:00",
-      "url": "https://luma.com/smallest-hpyc",
-      "source": "Luma SF Discover",
-      "location": "Menlo Park, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "\u2318 + AI + Design: How to prompt like a designer",
-      "start": "2026-06-09T00:30:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "2026-06-09T03:00:00+00:00",
-      "url": "https://luma.com/717techseries-sfdesignweek-aidesign",
-      "source": "Luma SF Discover",
-      "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Tejas Seattle Chapter: Security & Privacy Leaders Dinner Meetup (Self Paid)",
-      "start": "2026-06-09T01:00:00+00:00",
-      "date_key": "2026-06-08",
-      "end": "2026-06-09T04:00:00+00:00",
-      "url": "https://luma.com/tejas-hu26",
-      "source": "Tejas Cyber Network",
-      "location": "Caspian Bellevue, Bellevue, Washington, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "privacy",
-        "security"
-      ],
-      "priority_score": 7,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "AI Inference Hack Day",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "AWS Builder Loft, 525 Market St, San Francisco, CA 94105, USA",
-      "description": "Meetup via SF Tech Events",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Winning the Decade: Banking on Revenue-Centric Transformation",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/winning-the-decade-banking-on-revenue-centric-transformation-tickets-1989027122667",
-      "source": "Eventbrite NYC Fintech",
-      "location": "122 5th Avenue, New York, NY, US",
-      "description": "Join us in person to unlock next-level banking strategies and boost your revenue game for the decade ahead!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 11,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "CyberRisk CISO Dinner: New York",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "New York, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Reimagining Creative Work in the Age of AI w/ Emmett Shine",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "2026-06-10T02:30:00+00:00",
-      "url": "https://luma.com/61aoo5la",
-      "source": "Luma SF Discover",
-      "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "AI Tech Startup & Investor Networking by AstraTech I Manhattan, New York",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-tech-startup-investor-networking-by-astratech-i-manhattan-new-york-tickets-1989839517562",
-      "source": "Eventbrite NYC Fintech",
-      "location": "77 East 7th Street, New York, NY, US",
-      "description": "A curated room for AI and Tech founders, investors, and professionals.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Atlanta CISO Community Executive Summit",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.evanta.com/calendar",
-      "source": "Evanta CISO Calendar",
-      "location": "Atlanta, US",
-      "description": "Evanta Gartner CISO community event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "executive",
-        "regional summit",
-        "security leadership"
-      ],
-      "tags": [
-        "ciso",
-        "security"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "broad"
-    },
-    {
-      "title": "Atlanta Tech & Finance Networking Event",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/atlanta-tech-finance-networking-event-tickets-1986235491824",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3301 Lenox Parkway, Atlanta, GA, US",
-      "description": "Meet Established Professionals In Tech & Finance!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Boston CISO Community Executive Summit",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.evanta.com/calendar",
-      "source": "Evanta CISO Calendar",
-      "location": "Boston, US",
-      "description": "Evanta Gartner CISO community event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "executive",
-        "regional summit",
-        "security leadership"
-      ],
-      "tags": [
-        "ciso",
-        "security"
-      ],
-      "priority_score": 8,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Women + Tech Meetup",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/women-tech-meetup-tickets-1979762616279",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3423 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "Join us for the 2026 Women + Tech Meetup series! We're hosting once-a-month gatherings for learning and networking in our tech ecosystem.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Cyber Summer Social",
-      "start": "2026-06-10T00:00:00+00:00",
-      "date_key": "2026-06-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/cyber-summer-social-tickets-1990585243047",
-      "source": "Eventbrite Chicago Cybersecurity",
-      "location": "200 East Randolph Street, Chicago, IL, US",
-      "description": "Join us for a day of coworking, lunch, Desk Yoga, Cocktails, and Fireworks hosted by Darktrace, Keysight, and Versa!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "Designing AI for Kids: What It Actually Takes",
-      "start": "2026-06-10T00:30:00+00:00",
-      "date_key": "2026-06-09",
-      "end": "2026-06-10T03:00:00+00:00",
-      "url": "https://luma.com/v2gu7zft",
-      "source": "Luma SF Discover",
-      "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Vector Space Day San Francisco",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "The Midway, 900 Marin St, San Francisco, CA 94124, USA",
-      "description": "Meetup via SF Tech Events",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Cybersecurity Summit: Austin",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Austin, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "cybersecurity",
-        "risk",
-        "security"
-      ],
-      "priority_score": 11,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Introduction to Docker & Containerization for Beginners",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://www.eventbrite.co.uk/e/introduction-to-docker-containerization-for-beginners-tickets-1990947695151",
-      "source": "Eventbrite SF Fintech",
-      "location": "Adeniji johnson,  Oriflame Ikeja, Lagos, Nigeria, Ikeja, Lagos, NG",
-      "description": "Get ready to dive into the world of Docker and containers with easy, beginner-friendly tips and tricks!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 11,
-      "city": "other-us",
-      "topic": "fintech"
-    },
-    {
-      "title": "CISO Stories: State of Critical Infrastructure Security",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Online",
-      "description": "CyberRisk Alliance Virtual event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "CyberRisk CISO Dinner: Phoenix",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Phoenix, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Napa Tech Summit",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-HWrGK3HKlz0hYTC",
-      "description": "Meetup via Bay Area Tech / AGI House",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "HealthSpecialists: HealthCareConnect - Cultivating Your Career Path - Chicago",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthspecialists-healthcareconnect-cultivating-your-career-path-chicago-tickets-1989380516678",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "TBD, Chicago, IL, US",
-      "description": "Experience healthspecialists healthcareconnect networking in Chicago on 11 Jun 2026, 4 PM CDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "HealthSpecialists: HealthCareConnect - Elevate Your Career in Healthcare! - Atlanta",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthspecialists-healthcareconnect-elevate-your-career-in-healthcare-atlanta-tickets-1989378415393",
-      "source": "Eventbrite Atlanta Healthcare",
-      "location": "TBD, Atlanta, GA, US",
-      "description": "Don't miss healthspecialists healthcareconnect networking in Atlanta on 11 Jun 2026, 4 PM EDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "atlanta",
-      "topic": "health"
-    },
-    {
-      "title": "EBCK Cyber Security Practitioner Happy Hour",
-      "start": "2026-06-11T00:00:00+00:00",
-      "date_key": "2026-06-11",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "Danville, CA, USA",
-      "description": "Meetup via East Bay Cyber Community",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Staying Secure in a Digital World: Building Cyber-Aware Communities",
-      "start": "2026-06-12T00:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "",
-      "url": "https://www.eventbrite.co.uk/e/staying-secure-in-a-digital-world-building-cyber-aware-communities-tickets-1990632455260",
-      "source": "Eventbrite SF Fintech",
-      "location": "Hotel De Lapez, Aba, Aba, Abia, NG",
-      "description": "Join us to learn cool tips on staying safe online and help build smarter, cyber-aware communities together!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "fintech"
-      ],
-      "priority_score": 12,
-      "city": "other-us",
-      "topic": "fintech"
-    },
-    {
-      "title": "FinTech & Crypto Networking dinner",
-      "start": "2026-06-12T00:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373609993",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "Join us for a chill FinTech & Crypto dinner to network, share ideas, and meet fellow innovators in person!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Tech, AI & Startups Roundtable Discussion Dinner",
-      "start": "2026-06-12T00:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-tickets-1988373811596",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "A candid roundtable for tech, AI, and startup leaders to exchange ideas, insights, and real-world lessons.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
-      "start": "2026-06-12T00:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-cybersecurity-infosec-social-mixer-every-friday-7pm-tickets-1507681238169",
-      "source": "Eventbrite NYC Cybersecurity",
-      "location": "17 John Street, New York, NY, US",
-      "description": "Calling all cybersecurity professionals, ethical hackers, SOC analysts",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Cybersecurity & Fraud Prevention: 1 Day Banking Session in Atlanta, GA",
-      "start": "2026-06-12T00:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "",
-      "url": "https://www.eventbrite.sg/e/cybersecurity-fraud-prevention-1-day-banking-session-in-atlanta-ga-tickets-1978208269185",
-      "source": "Eventbrite Atlanta Cybersecurity",
-      "location": "260 Peachtree Street NW Suite 2200, Atlanta, GA, US",
-      "description": "Understand common cyber threats and learn practical ways to prevent breaches, detect fraud, and improve digital security.",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "boroCTF 2026",
-      "start": "2026-06-12T00:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "",
-      "url": "https://ctftime.org/event/3309/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via KyteBytes",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Career Warmup for Cyber Professionals",
-      "start": "2026-06-12T19:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "2026-06-12T20:00:00+00:00",
-      "url": "https://luma.com/tejas-31bs",
-      "source": "Tejas Cyber Network",
-      "location": "https://luma.com/tejas-31bs",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "security"
-      ],
-      "priority_score": 6,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Healthcare Inner Circle Presents",
-      "start": "2026-06-13T00:00:00+00:00",
-      "date_key": "2026-06-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-inner-circle-presents-tickets-1990785432820",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "404 Broadway, New York, NY, US",
-      "description": "Join us for Healthcare Inner Circle Presents \u2014 Mixer where healthcare providers connect, share insider insights, and make new friends!",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "Business, Branding & Technology - World Cup Networking Business Sessions",
-      "start": "2026-06-13T00:00:00+00:00",
-      "date_key": "2026-06-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/business-branding-technology-world-cup-networking-business-sessions-tickets-1979945204405",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "1055 Howell Mill Road Northwest, Atlanta, GA, US",
-      "description": "Join us in person for epic networking at the Business, Branding & Tech World Cup sessions!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Friend and Fintan",
-      "start": "2026-06-13T00:00:00+00:00",
-      "date_key": "2026-06-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/friend-and-fintan-tickets-1990538132137",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "3018 West Hollywood Avenue, Chicago, IL, US",
-      "description": "Friend and Fintan is a Chicago-based live music duo featuring cellist Veronica Kolegas and guitarist/vocalist Ben McMunn |ShooBooty Studios",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Anti-Slop CTF 2026",
-      "start": "2026-06-13T00:00:00+00:00",
-      "date_key": "2026-06-13",
-      "end": "",
-      "url": "https://ctftime.org/event/3272/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via hackme",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Tejas Bay Area Chapter : Cyber Leaders Meetup : Sunnyvale Edition",
-      "start": "2026-06-13T01:00:00+00:00",
-      "date_key": "2026-06-12",
-      "end": "2026-06-13T03:30:00+00:00",
-      "url": "https://luma.com/7ewoqsih",
-      "source": "Tejas Cyber Network",
-      "location": "Sunnyvale, Sunnyvale, California, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "security"
-      ],
-      "priority_score": 14,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "AI Security Meetup with Hack Miami",
-      "start": "2026-06-13T19:00:00+00:00",
-      "date_key": "2026-06-13",
-      "end": "2026-06-13T21:00:00+00:00",
-      "url": "https://www.meetup.com/ai-security-engineers-miami/events/315050047/?slug=ai-security-engineers-miami&eventId=315050047",
-      "source": "AI Security Engineers SF Bay Area",
-      "location": "100 South Andrews Ave",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai security",
-        "local meetup"
-      ],
-      "tags": [
-        "ai security",
-        "security"
-      ],
-      "priority_score": 16,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "38th Annual FIRST Conference",
-      "start": "2026-06-14T00:00:00+00:00",
-      "date_key": "2026-06-14",
-      "end": "2026-06-19T00:00:00+00:00",
-      "url": "http://www.first.org/conference/2026",
-      "source": "FIRST Events",
-      "location": "Denver, US",
-      "description": "Conference",
-      "region": "Global",
-      "focus": [
-        "incident response",
-        "broad security"
-      ],
-      "tags": [
-        "security"
-      ],
-      "priority_score": 1,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Training @ FIRSTCON26",
-      "start": "2026-06-14T00:00:00+00:00",
-      "date_key": "2026-06-14",
-      "end": "",
-      "url": "https://www.first.org/conference/2026/training/",
-      "source": "FIRST Events",
-      "location": "Denver, US",
-      "description": "Training",
-      "region": "Global",
-      "focus": [
-        "incident response",
-        "broad security"
-      ],
-      "tags": [
-        "security"
-      ],
-      "priority_score": 1,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "BioTech , MedTech, Pharma Networking & Pitch Event SF",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-sf-tickets-1988827955954",
-      "source": "Eventbrite SF Fintech",
-      "location": "Upcider bar, 1160 Polk Street, San Francisco, CA, US",
-      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "SF BioTech, Pharma, MedTech Networking & Pitch Mixer",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-biotech-pharma-medtech-networking-pitch-mixer-tickets-1988826210734",
-      "source": "Eventbrite SF Fintech",
-      "location": "557 Haight Street, San Francisco, CA, US",
-      "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "Identiverse",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "identiverse-2026 Identiverse",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "AI-Native Foundations",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "2026-06-16T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/ai-native-foundations-registration-1978841501199",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3595 Cumberland Boulevard Southeast, Atlanta, GA, US",
-      "description": "AI-Native Foundations",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "BioTech , MedTech, Pharma Networking & Pitch Event Chicago",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-chicago-tickets-1988828108410",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "Rye Deli & Drink, 25 South Halsted Street, Chicago, IL, US",
-      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "BioTech Startups, Investors & Professionals Networking Event NYC",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/biotech-startups-investors-professionals-networking-event-nyc-tickets-1987009268210",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Fl\u00fbte Champagne Bar, 205 West 54th Street, New York, NY, US",
-      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Chicago BioTech, Pharma, MedTech Networking & Pitch Mixer",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-biotech-pharma-medtech-networking-pitch-mixer-tickets-1988826353160",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "25 South Halsted Street, Chicago, IL, US",
-      "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "NYC BioTech and Pharma Startups, Investors & Professionals Networking",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-biotech-and-pharma-startups-investors-professionals-networking-tickets-1986975642635",
-      "source": "Eventbrite NYC Fintech",
-      "location": "1355 2nd Avenue, New York, NY, US",
-      "description": "Come meet Biotech startups, investors, and innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Networking Mixer | Private Equity | Venture Capital | Law | Fintech",
-      "start": "2026-06-15T00:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/networking-mixer-private-equity-venture-capital-law-fintech-tickets-1986255857739",
-      "source": "Eventbrite NYC Fintech",
-      "location": "340 Lexington Avenue, New York, NY, US",
-      "description": "Join us for a fun Spring Networking Mixer in Midtown Manhattan -- a great opportunity to expand your community and raise capital.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "i show my friend how to build his first ai app -- live on stage in chicago",
-      "start": "2026-06-15T23:00:00+00:00",
-      "date_key": "2026-06-15",
-      "end": "2026-06-16T01:00:00+00:00",
-      "url": "https://luma.com/vo0685d6",
-      "source": "Luma Chicago Discover",
-      "location": "433 W Van Buren St, Chicago, Illinois, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "SF Real Estate & Construction Pitch & Networking Mixer",
-      "start": "2026-06-16T00:00:00+00:00",
-      "date_key": "2026-06-16",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-real-estate-construction-pitch-networking-mixer-tickets-1989141690342",
-      "source": "Eventbrite SF Fintech",
-      "location": "557 Haight Street, San Francisco, CA, US",
-      "description": "Join property developers, investors & industry players for rapid-fire pitches & networking focused on real estate opportunities.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "Codex Community Meetup - San Francisco",
-      "start": "2026-06-17T00:00:00+00:00",
-      "date_key": "2026-06-17",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "625 2nd St, San Francisco, CA 94107, USA",
-      "description": "Meetup via SF Tech Events",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Healthcare and Business Networking - Long Island City",
-      "start": "2026-06-17T00:00:00+00:00",
-      "date_key": "2026-06-17",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-long-island-city-tickets-1985312557302",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "42-51 27th Street, Queens, NY, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at The Beast Next Door! Event is 21+.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "other-us",
-      "topic": "health"
-    },
-    {
-      "title": "Healthcare and Business Networking | Elevating Your Potential - Chicago",
-      "start": "2026-06-17T00:00:00+00:00",
-      "date_key": "2026-06-17",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-chicago-tickets-1985288283699",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "110 West Hubbard Street, Chicago, IL, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Hubbard Inn! Event is 21+. Limited Ticket",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "Detroit CISO Community Executive Summit",
-      "start": "2026-06-17T00:00:00+00:00",
-      "date_key": "2026-06-17",
-      "end": "",
-      "url": "https://www.evanta.com/calendar",
-      "source": "Evanta CISO Calendar",
-      "location": "Detroit, US",
-      "description": "Evanta Gartner CISO community event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "executive",
-        "regional summit",
-        "security leadership"
-      ],
-      "tags": [
-        "ciso",
-        "security"
-      ],
-      "priority_score": 8,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Sieberrsec CTF 7.0",
-      "start": "2026-06-17T00:00:00+00:00",
-      "date_key": "2026-06-17",
-      "end": "",
-      "url": "https://ctftime.org/event/3299/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via sieberr.live",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "June 2026 Event: Defending the Future - Securing AI in an Era of Cyber Threats",
-      "start": "2026-06-17T00:30:00+00:00",
-      "date_key": "2026-06-16",
-      "end": "2026-06-17T03:30:00+00:00",
-      "url": "https://luma.com/ibdabawz",
-      "source": "Silicon Valley ISSA",
-      "location": "Redwood City, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Annual Gala and Wasserman Award Dinner",
-      "start": "2026-06-17T22:00:00+00:00",
-      "date_key": "2026-06-17",
-      "end": "",
-      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
-      "source": "ISACA New York Metro",
-      "location": "",
-      "description": "ISACA",
-      "region": "US",
-      "focus": [
-        "governance",
-        "risk",
-        "security",
-        "local chapter"
-      ],
-      "tags": [
-        "risk",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Black Health Connect | Bridging Healthcare Communities: NYC - Q2 Mixer",
-      "start": "2026-06-18T00:00:00+00:00",
-      "date_key": "2026-06-18",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-nyc-q2-mixer-tickets-1988340934259",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "621 West 46th Street, New York, NY, US",
-      "description": "COMING TOGETHER TODAY FOR A MORE SUCCESSFUL TOMORROW.RSVP at Blackhealthconnect.com",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 12,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "AI Executive Dinner",
-      "start": "2026-06-18T00:00:00+00:00",
-      "date_key": "2026-06-18",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-kp7YPfwn9QM1kOF",
-      "description": "Meetup via AI Salon Bay Area",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "BCACTF 7.0",
-      "start": "2026-06-19T00:00:00+00:00",
-      "date_key": "2026-06-19",
-      "end": "",
-      "url": "https://ctftime.org/event/3246/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via Bing Chilling Academies",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Google Capture The Flag 2026",
-      "start": "2026-06-19T00:00:00+00:00",
-      "date_key": "2026-06-19",
-      "end": "",
-      "url": "https://ctftime.org/event/3222/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via Google CTF",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "RIFFHACK: Black Market Break-In",
-      "start": "2026-06-19T00:00:00+00:00",
-      "date_key": "2026-06-19",
-      "end": "",
-      "url": "https://ctftime.org/event/3297/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via Biterra",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "NIST Cybersecurity Framework 2.0 | SheLeadsTech Virtual Workshop |June 19",
-      "start": "2026-06-19T14:00:00+00:00",
-      "date_key": "2026-06-19",
-      "end": "",
-      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
-      "source": "ISACA Chicago",
-      "location": "",
-      "description": "ISACA",
-      "region": "US",
-      "focus": [
-        "governance",
-        "risk",
-        "security",
-        "local chapter"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "risk",
-        "security"
-      ],
-      "priority_score": 7,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Build, Deploy and Harden an MCP Server from Scratch",
-      "start": "2026-06-19T19:00:00+00:00",
-      "date_key": "2026-06-19",
-      "end": "2026-06-19T20:30:00+00:00",
-      "url": "https://luma.com/tejas-505m",
-      "source": "Tejas Cyber Network",
-      "location": "https://luma.com/tejas-505m",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "security"
-      ],
-      "priority_score": 6,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Sponsorship - Google Pay",
-      "start": "2026-06-20T00:00:00+00:00",
-      "date_key": "2026-06-20",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sponsorship-google-pay-tickets-946565120757",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "555 Main St, Atlanta, GA, US",
-      "description": "Google Pay's Sponsorship event is designed to showcase its fast, easy, and safe way to pay in applications, on web pages, and in stores. The event offers an engaging platform for users to learn about Google Pay's cutting-edge technology services, its advantages, and how it can integrate seamlessly into one's life. Attendees will get a chance to gain better understanding of how to make digital payment easier and faster with Google Pay. (Note: It should be noted the details of this event might var",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "iContact the tactile tech opera",
-      "start": "2026-06-21T00:00:00+00:00",
-      "date_key": "2026-06-21",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/icontact-the-tactile-tech-opera-tickets-1982861003639",
-      "source": "Eventbrite SF Fintech",
-      "location": "94107 1661 Tennessee Street, San Francisco, CA, US",
-      "description": "An immersive performance exploring our relationship with technology, Nature and each other.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
     {
       "title": "SF Tech Startups, Investors, Innovators Networking with Elevator Pitch",
       "start": "2026-06-22T00:00:00+00:00",
@@ -2312,6 +24,120 @@
       "topic": "fintech"
     },
     {
+      "title": "Tech Connect: Startups, Investors, Professionals Networking San Francisco",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/tech-connect-startups-investors-professionals-networking-san-francisco-tickets-1989297723040",
+      "source": "Eventbrite SF Fintech",
+      "location": "Casements Bar, 2351 Mission Street, San Francisco, CA, US",
+      "description": "Join us at San Francisco Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 19,
+      "city": "sf",
+      "topic": "fintech"
+    },
+    {
+      "title": "International Workshop on Security in Machine Learning and its Applications (SiMLA) 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-international-workshop-on-security-in-machine-learning-and/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Key Takeaways Focuses on security and privacy challenges in machine learning (ML) systems Explores adversarial learning, robust algorithms, and privacy-preserving techniques Addresses risks related to Artificial General Intelligence (AGI) and mis/disinformation Targets academic researchers, industry professionals, and practitioners in ML/AI security Emphasizes bridging theoretical advances with real-world secure ML applications",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "ai security",
+        "infosec",
+        "privacy",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-international-workshop-on-artificial-intelligence-and-industrial-iot/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Key Takeaways Focuses on the intersection of Artificial Intelligence, Industrial IoT, and cybersecurity Explores security, privacy, and resilience in AIoT and Cyber-Physical Systems Targets academic researchers, industry experts, and technical professionals Addresses challenges such as adversarial machine learning and risk management Emphasizes research sharing, collaboration, and academic networking The 8th",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "privacy",
+        "risk",
+        "security"
+      ],
+      "priority_score": 9,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "ATL Money Monday Mixer",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/atl-money-monday-mixer-tickets-1983589593872",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "504 Fair Street Southwest, Atlanta, GA, US",
+      "description": "Join us for a laid-back evening of networking and collaboration with fellow entrepreneurs in Atlanta. Come out and share what you do!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "Chicago Tech Startups, Investors, Innovators Networking with Elevator Pitch",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/chicago-tech-startups-investors-innovators-networking-with-elevator-pitch-tickets-1989219312512",
+      "source": "Eventbrite Chicago Fintech",
+      "location": "25 South Halsted Street, Chicago, IL, US",
+      "description": "Connect with tech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "fintech"
+    },
+    {
       "title": "Tech Connect: Startups, Investors, Professionals Networking Event Chicago",
       "start": "2026-06-22T00:00:00+00:00",
       "date_key": "2026-06-22",
@@ -2331,6 +157,195 @@
       "priority_score": 8,
       "city": "chicago",
       "topic": "fintech"
+    },
+    {
+      "title": "SecureIT Summit Tampa 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-secureit-summit-tampa-2026/",
+      "source": "InfoSec Conferences",
+      "location": "Tampa, Florida, US",
+      "description": "Key Takeaways Premier event for cloud computing, hosting, and internet infrastructure professionals Focus on cloud services, cybersecurity, AI, and digital transformation Opportunities for networking, business development, and industry collaboration Features keynotes, panels, workshops, and expo sessions Addresses challenges in cloud infrastructure, security, and emerging technologies CloudFest USA 2024 brings together",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 7,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "ACNS Workshop on Intelligent and Secure Computing (ACNS-ISC) 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-acns-workshop-on-intelligent-and-secure-computing-acns-isc/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Focuses on the intersection of intelligent computing and secure computing Explores AI-driven systems in security-critical environments Covers topics such as adversarial machine learning and privacy-preserving model training Targets academic researchers, industry professionals, and security architects Promotes interdisciplinary collaboration in AI, cryptography, and cybersecurity The 1st ACNS Workshop on Intelligent and",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "privacy",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "International Conference on Applied Cryptography and Network Security (ACNS) 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-international-conference-on-applied-cryptography-and-network-security/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Key Takeaways Annual conference focused on applied cryptography, cybersecurity, and privacy Brings together academic researchers and industry professionals Covers both theoretical research and practical implementations Features workshops, poster sessions, and paper presentations Emphasizes knowledge exchange and collaboration between academia and industry The Applied Cryptography and Network Security (ACNS) 2026 conference",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "privacy",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "International Workshop on Critical Infrastructure and Maritime Systems Security (CIMSS) 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-international-workshop-on-critical-infrastructure-and-maritime-systems/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Focuses on security and resilience of critical infrastructure and maritime systems Highlights Industry 4.0 and Maritime 4.0 technologies Brings together researchers, professionals, and industry stakeholders Addresses cybersecurity frameworks and compliance standards Emphasizes collaboration between academia and industry CIMSS 2026, the 6th International Workshop on Critical Infrastructure and Maritime Systems Security,",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "compliance",
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "Artificial Intelligence in Hardware Security (AIHWS) 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-artificial-intelligence-in-hardware-security-aihws-2026/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Key Takeaways Academic workshop focused on artificial intelligence and hardware security Brings together researchers and industry professionals from AI and security domains Covers topics such as side-channel attacks, trustworthy manufacturing, and AI-based cryptanalysis Emphasizes collaboration, knowledge sharing, and advancing state-of-the-art research Held in conjunction with ACNS 2026 in Stony Brook,",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "infosec",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2026",
+      "start": "2026-06-22T00:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260622-ieeeifip-international-conference-on-dependable-systems-and-networks/",
+      "source": "InfoSec Conferences",
+      "location": "Charlotte, North Carolina, US",
+      "description": "Key Takeaways Premier international conference on dependable systems and networks Focus on robustness, resilience, safety, and security in computing Brings together academic and industry leaders Covers research, tools, and best practices for system dependability Designed for researchers, engineers, and technical executives The 56th Annual IEEE/IFIP International Conference on Dependable Systems",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "infosec",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Deep Tech Morning Boost \u23fb: Pickleball & Breakfast",
+      "start": "2026-06-22T17:00:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "2026-06-22T19:00:00+00:00",
+      "url": "https://luma.com/ph4wpuzn",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "The Global State of Deep Tech",
+      "start": "2026-06-22T19:30:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "2026-06-23T00:00:00+00:00",
+      "url": "https://luma.com/tjz6cxz2",
+      "source": "Luma SF Discover",
+      "location": "945 Market Street, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "HealthTech & MedTech: Healthcare Industry Networking Night SF",
@@ -2376,6 +391,30 @@
       "priority_score": 20,
       "city": "sf",
       "topic": "health"
+    },
+    {
+      "title": "Confidential Computing Summit 2026",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260623-confidential-computing-summit-2026/",
+      "source": "InfoSec Conferences",
+      "location": "San Francisco, California, US",
+      "description": "Key Takeaways Focuses on advancing secure, privacy-preserving AI infrastructure for enterprises Brings together leaders from technology, finance, government, and cloud sectors Explores confidential computing, compliance standards, and production-ready AI Highlights real-world implementations and operational challenges in secure AI Features major industry sponsors and live networking opportunities The Confidential Computing Summit",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "compliance",
+        "infosec",
+        "privacy",
+        "security"
+      ],
+      "priority_score": 12,
+      "city": "sf",
+      "topic": "fintech"
     },
     {
       "title": "Cybersecurity Summit: Pittsburgh",
@@ -2437,7 +476,7 @@
       "end": "",
       "url": "https://www.eventbrite.com/e/chicago-healthtech-medtech-networking-mixer-and-elevator-pitch-tickets-1986528868321",
       "source": "Eventbrite Chicago Fintech",
-      "location": "1925 West Cortland Street, Chicago, IL, US",
+      "location": "415 North Dearborn Street, Chicago, IL, US",
       "description": "Connect with HealthTech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
       "region": "US",
       "focus": [
@@ -2459,7 +498,7 @@
       "end": "",
       "url": "https://www.eventbrite.com/e/healthtech-medtech-professionals-industry-networking-in-chicago-tickets-1989091466120",
       "source": "Eventbrite Chicago Healthcare",
-      "location": "Lottie Pub, 1925 West Cortland Street, Chicago, IL, US",
+      "location": "Ghost Donkey, 415 North Dearborn Street, Chicago, IL, US",
       "description": "Chicago HealthTech Connect: a night of networking with Health and MedTech startups, investors, entrepreneurs, and professionals",
       "region": "US",
       "focus": [
@@ -2502,17 +541,17 @@
       "date_key": "2026-06-23",
       "end": "",
       "url": "https://www.eventbrite.com/e/medtech-startups-investors-innovators-networking-event-nyc-tickets-1988351361447",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "San Babila, 1355 2nd Avenue, New York, NY, US",
+      "source": "Eventbrite NYC Fintech",
+      "location": "The Back Room, 102 Norfolk Street, New York, NY, US",
       "description": "NYC MedTech Connect: a night of networking with Health and MedTech startups, investors, entrepreneurs, and professionals",
       "region": "US",
       "focus": [
-        "healthcare",
+        "fintech",
         "local meetup"
       ],
       "tags": [
-        "health",
-        "healthcare"
+        "fintech",
+        "health"
       ],
       "priority_score": 9,
       "city": "nyc",
@@ -2541,13 +580,35 @@
       "topic": "health"
     },
     {
+      "title": "NYC HealthTech & MedTech Startups, Investors, Innovators Networking Event",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/nyc-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1988350632266",
+      "source": "Eventbrite NYC Fintech",
+      "location": "102 Norfolk Street, New York, NY, US",
+      "description": "Come meet other tech startups, investors, and innovators, and practice your elevator pitch at our networking event!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech",
+        "health"
+      ],
+      "priority_score": 9,
+      "city": "nyc",
+      "topic": "health"
+    },
+    {
       "title": "NYC HealthTech, MedTech Startups Networking & Pitch Event",
       "start": "2026-06-23T00:00:00+00:00",
       "date_key": "2026-06-23",
       "end": "",
       "url": "https://www.eventbrite.com/e/nyc-healthtech-medtech-startups-networking-pitch-event-tickets-1989091793098",
       "source": "Eventbrite NYC Fintech",
-      "location": "1355 2nd Avenue, New York, NY, US",
+      "location": "102 Norfolk Street, New York, NY, US",
       "description": "Connect with HealthTech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
       "region": "US",
       "focus": [
@@ -2611,13 +672,176 @@
       "topic": "broad"
     },
     {
-      "title": "Monthly Meeting | In-Person Event | June 23, 2026",
-      "start": "2026-06-23T20:00:00+00:00",
+      "title": "International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260623-international-workshop-on-artificial-intelligence-and-industrial-iot/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Key Takeaways Focuses on the intersection of Artificial Intelligence, Industrial IoT, and cybersecurity Explores security, privacy, and resilience in AIoT and cyber-physical systems Highlights emerging research on adversarial machine learning, federated learning, and applied cryptography Brings together academic and industry experts for collaborative discussion Addresses operational challenges in securing intelligent,",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "privacy",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "CyAD Summit: Cybersecurity Across Disciplines 2026",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260623-cyad-summit-cybersecurity-across-disciplines-2026/",
+      "source": "InfoSec Conferences",
+      "location": "Palos Hills, Illinois, US",
+      "description": "Key Takeaways Focuses on the intersection of cybersecurity, education, and workforce development across all critical infrastructure sectors Brings together academia, industry, and government to address cross-disciplinary challenges Highlights the integration of emerging technologies such as AI and quantum computing in cybersecurity Emphasizes collaborative approaches to curriculum innovation and sector resilience",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 4,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "NextG Networks Cryptography and Security (NextG-Sec) 2026",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260623-nextg-networks-cryptography-and-security-nextg-sec-2026/",
+      "source": "InfoSec Conferences",
+      "location": "Stony Brook, New York, US",
+      "description": "Key Takeaways Specialized workshop on security and cryptography for NextG wireless networks Focus on 5G, 6G, and future network technologies Emphasis on post-quantum cryptography and quantum-resilient solutions Brings together researchers, industry professionals, and government representatives Addresses urgent security, privacy, and defense challenges in distributed network environments The NextG Networks Cryptography",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "infosec",
+        "privacy",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "Summerfest Tech 2026",
+      "start": "2026-06-23T00:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260623-summerfest-tech-2026/",
+      "source": "InfoSec Conferences",
+      "location": "Milwaukee, Wisconsin, US",
+      "description": "Key Takeaways Annual technology and innovation conference held in Milwaukee, Wisconsin Brings together tech professionals, entrepreneurs, and business leaders from across the Midwest Focuses on emerging technologies, entrepreneurship, and business growth Features keynote speakers, technical workshops, partner programming, and a live pitch competition Designed to foster networking, collaboration, and the",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "infosec",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "\ud83c\uddef\ud83c\uddf5 Japan \u00d7 Global Tech Meetup: pre-Config networking \ud83c\udf10 \u65e5\u672c \u00d7 \u30b0\u30ed\u30fc\u30d0\u30eb \u30c6\u30c3\u30af\u4ea4\u6d41\u4f1a",
+      "start": "2026-06-23T01:30:00+00:00",
+      "date_key": "2026-06-22",
+      "end": "2026-06-23T04:30:00+00:00",
+      "url": "https://luma.com/wu78sd6q",
+      "source": "Luma SF Discover",
+      "location": "ZO\u00cb, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "NVIDIA x AI Builders: Coffee & Conversation",
+      "start": "2026-06-23T14:30:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "2026-06-23T15:30:00+00:00",
+      "url": "https://luma.com/1871-k10l",
+      "source": "Luma Chicago Discover",
+      "location": "Edelman, Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Physical AI Investor Mixer",
+      "start": "2026-06-23T17:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "2026-06-23T19:00:00+00:00",
+      "url": "https://luma.com/deep-2pbu",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "ISACA Chicago Chapter Monthly Meeting | In-Person Event | June 23, 2026",
+      "start": "2026-06-23T19:30:00+00:00",
       "date_key": "2026-06-23",
       "end": "",
       "url": "https://engage.isaca.org/chicagochapter/events/calendar",
       "source": "ISACA Chicago",
-      "location": "",
+      "location": "CME Center - Zo Conference room, 10 S. Wacker Drive, Chicago, IL 60606",
       "description": "ISACA",
       "region": "US",
       "focus": [
@@ -2631,7 +855,76 @@
         "security"
       ],
       "priority_score": 5,
-      "city": "other-us",
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Civic tech meetup @ Config 2026",
+      "start": "2026-06-23T22:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "2026-06-24T00:00:00+00:00",
+      "url": "https://luma.com/lz66ve3n",
+      "source": "Luma SF Discover",
+      "location": "Moscone Center, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Beauty in Balance Tech for Creatives NYC Panel: Hosted at TikTok NY HQ",
+      "start": "2026-06-23T22:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "2026-06-24T00:00:00+00:00",
+      "url": "https://luma.com/lu9xsy8h",
+      "source": "Luma NYC Discover",
+      "location": "151 W 42nd St, New York, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "Kleiner Perkins \u00d7 OpenEvidence: AI Engineers at the Frontier",
+      "start": "2026-06-23T22:30:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "2026-06-24T00:30:00+00:00",
+      "url": "https://luma.com/wmlvds6k",
+      "source": "Luma NYC Discover",
+      "location": "New York, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
       "topic": "broad"
     },
     {
@@ -2675,28 +968,6 @@
       "priority_score": 19,
       "city": "sf",
       "topic": "fintech"
-    },
-    {
-      "title": "AI Salon: From Hype to Durable Innovation",
-      "start": "2026-06-24T00:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-jRl7P5CgVWmJP9f",
-      "description": "Meetup via AI Salon Bay Area",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
     },
     {
       "title": "CyberRisk CISO Dinner: Los Angeles",
@@ -2773,25 +1044,50 @@
       "topic": "health"
     },
     {
-      "title": "Women in AI Forum (WiAI) at Chicago AI Week",
-      "start": "2026-06-24T00:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/women-in-ai-forum-wiai-at-chicago-ai-week-tickets-1990752644750",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "22 West Washington Street, Chicago, IL, US",
-      "description": "It is a flagship gathering celebrating the leadership, innovation, and impact of women at the forefront of artificial intelligence.",
-      "region": "US",
+      "title": "Deep Tech Undergound by Alta, Stifel & Sequoia",
+      "start": "2026-06-24T00:30:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "2026-06-24T03:30:00+00:00",
+      "url": "https://luma.com/ew1byl0d",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
       "focus": [
-        "fintech",
-        "local meetup"
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
       ],
       "tags": [
-        "fintech"
+        "tech"
       ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "How AI-Native Collaboration Is Changing How Teams Build",
+      "start": "2026-06-24T01:00:00+00:00",
+      "date_key": "2026-06-23",
+      "end": "2026-06-24T04:00:00+00:00",
+      "url": "https://luma.com/0h79d4y3",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25",
@@ -2840,6 +1136,29 @@
       "topic": "broad"
     },
     {
+      "title": "Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy",
+      "start": "2026-06-24T21:00:00+00:00",
+      "date_key": "2026-06-24",
+      "end": "2026-06-25T00:00:00+00:00",
+      "url": "https://luma.com/qydwq3g4",
+      "source": "Luma NYC Discover",
+      "location": "New York, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "agentic"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
       "title": "Please Waste My Time: Detection through Deception",
       "start": "2026-06-24T22:00:00+00:00",
       "date_key": "2026-06-24",
@@ -2863,6 +1182,73 @@
       "topic": "broad"
     },
     {
+      "title": "AI Engineers Presents: Fonzi's Founders to Follow",
+      "start": "2026-06-24T22:00:00+00:00",
+      "date_key": "2026-06-24",
+      "end": "2026-06-25T00:30:00+00:00",
+      "url": "https://luma.com/lo17rr1c",
+      "source": "Luma NYC Discover",
+      "location": "Brooklyn, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "NYC AI Demos #10: VENTURE SPOTLIGHT",
+      "start": "2026-06-24T22:00:00+00:00",
+      "date_key": "2026-06-24",
+      "end": "2026-06-25T00:00:00+00:00",
+      "url": "https://luma.com/nyc10",
+      "source": "Luma NYC Discover",
+      "location": "The Refinery at Domino Offices, Brooklyn, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "SF Startup & Tech Mixer 2026",
+      "start": "2026-06-25T00:00:00+00:00",
+      "date_key": "2026-06-25",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/sf-startup-tech-mixer-2026-tickets-1989115014554",
+      "source": "Eventbrite SF Fintech",
+      "location": "52 Belden Place, San Francisco, CA, US",
+      "description": "THE BEST NETWORKING IN SF!!!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 19,
+      "city": "sf",
+      "topic": "fintech"
+    },
+    {
       "title": "New York EVO VC & Startups Social",
       "start": "2026-06-25T00:00:00+00:00",
       "date_key": "2026-06-25",
@@ -2882,6 +1268,28 @@
       "priority_score": 11,
       "city": "sf",
       "topic": "fintech"
+    },
+    {
+      "title": "NYC | The Session: Healthcare Mixer",
+      "start": "2026-06-25T00:00:00+00:00",
+      "date_key": "2026-06-25",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/nyc-the-session-healthcare-mixer-tickets-1991988442053",
+      "source": "Eventbrite NYC Healthcare",
+      "location": "987 2nd Avenue, New York, NY, US",
+      "description": "The Session is a high-density, unhosted social designed for Healthcare professionals who value authentic connection.",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "nyc",
+      "topic": "health"
     },
     {
       "title": "13th Annual Columbia Venture Community Pitch Night NYC",
@@ -2905,14 +1313,14 @@
       "topic": "fintech"
     },
     {
-      "title": "Chicago AI Week",
+      "title": "Chicago Tech Mixer 2026",
       "start": "2026-06-25T00:00:00+00:00",
       "date_key": "2026-06-25",
-      "end": "2026-06-26T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/chicago-ai-week-tickets-1981473535685",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/chicago-tech-mixer-2026-tickets-1990585873934",
       "source": "Eventbrite Chicago Fintech",
-      "location": "200 East Randolph Street, Chicago, IL, US",
-      "description": "Chicago AI Week 2026 marks the fourth edition of this premier gathering of global AI leaders from industry, government, and academia.",
+      "location": "168 North Michigan Avenue, Chicago, IL, US",
+      "description": "THE BEST NETWORKING IN Chicago!!!",
       "region": "US",
       "focus": [
         "fintech",
@@ -2926,14 +1334,35 @@
       "topic": "fintech"
     },
     {
-      "title": "Chicago Tech Mixer 2026",
+      "title": "Master AI Entrepreneurship - From A to Z Masterclass",
       "start": "2026-06-25T00:00:00+00:00",
       "date_key": "2026-06-25",
       "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-tech-mixer-2026-tickets-1990585873934",
+      "url": "https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-masterclass-tickets-1981481292887",
+      "source": "Eventbrite NYC Fintech",
+      "location": "Manhattan, New York, NY, US",
+      "description": "Master AI Entrepreneurship - From A to Z Masterclass",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "nyc",
+      "topic": "fintech"
+    },
+    {
+      "title": "TechSpecialists: AIDataTech TechNetworking Mixer - Connect & Grow! - Chicago",
+      "start": "2026-06-25T00:00:00+00:00",
+      "date_key": "2026-06-25",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/techspecialists-aidatatech-technetworking-mixer-connect-grow-chicago-tickets-1990487698288",
       "source": "Eventbrite Chicago Fintech",
-      "location": "168 North Michigan Avenue, Chicago, IL, US",
-      "description": "THE BEST NETWORKING IN Chicago!!!",
+      "location": "TBD, Chicago, IL, US",
+      "description": "Join us for techspecialists aidatatech networking in Chicago on 25 Jun 2026, 5 PM CDT. Connect with professionals!",
       "region": "US",
       "focus": [
         "fintech",
@@ -2989,48 +1418,136 @@
       "topic": "fintech"
     },
     {
-      "title": "SekaiCTF 2026",
-      "start": "2026-06-27T00:00:00+00:00",
-      "date_key": "2026-06-27",
+      "title": "FinTech & Crypto Networking dinner",
+      "start": "2026-06-26T00:00:00+00:00",
+      "date_key": "2026-06-26",
       "end": "",
-      "url": "https://ctftime.org/event/3113/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via Project Sekai",
-      "region": "Bay Area",
+      "url": "https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373611999",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
+      "description": "Join us for a chill FinTech & Crypto dinner to network, share ideas, and meet fellow innovators in person!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "Tech, AI & Startups Roundtable Discussion Dinner",
+      "start": "2026-06-26T00:00:00+00:00",
+      "date_key": "2026-06-26",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-tickets-1988373813602",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
+      "description": "A candid roundtable for tech, AI, and startup leaders to exchange ideas, insights, and real-world lessons.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
+      "start": "2026-06-26T00:00:00+00:00",
+      "date_key": "2026-06-26",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/nyc-cybersecurity-infosec-social-mixer-every-friday-7pm-tickets-1507681258229",
+      "source": "Eventbrite NYC Cybersecurity",
+      "location": "17 John Street, New York, NY, US",
+      "description": "Calling all cybersecurity professionals, ethical hackers, SOC analysts",
+      "region": "US",
       "focus": [
         "broad security",
-        "local calendar"
+        "local meetup"
       ],
       "tags": [
         "cyber",
+        "cybersecurity",
+        "infosec",
         "security"
       ],
-      "priority_score": 2,
-      "city": "sf",
+      "priority_score": 4,
+      "city": "nyc",
       "topic": "broad"
     },
     {
-      "title": "V1T CTF 2026",
+      "title": "Business, Branding & Technology - World Cup Networking Business Sessions",
       "start": "2026-06-27T00:00:00+00:00",
       "date_key": "2026-06-27",
       "end": "",
-      "url": "https://ctftime.org/event/3249/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via R4wr",
-      "region": "Bay Area",
+      "url": "https://www.eventbrite.com/e/business-branding-technology-world-cup-networking-business-sessions-tickets-1979945204405",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "1055 Howell Mill Road Northwest, Atlanta, GA, US",
+      "description": "Join us in person for epic networking at the Business, Branding & Tech World Cup sessions!",
+      "region": "US",
       "focus": [
-        "broad security",
-        "local calendar"
+        "fintech",
+        "local meetup"
       ],
       "tags": [
-        "cyber",
-        "security"
+        "fintech"
       ],
-      "priority_score": 2,
-      "city": "sf",
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "Community Crossover: Fitness x Tech Crawl\ud83d\udc5f\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udcbb",
+      "start": "2026-06-28T15:00:00+00:00",
+      "date_key": "2026-06-28",
+      "end": "2026-06-28T18:00:00+00:00",
+      "url": "https://luma.com/30pgedh4",
+      "source": "Luma Chicago Discover",
+      "location": "Real Authentic Wellness (R.A.W.) | Chicago, Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 1,
+      "city": "chicago",
       "topic": "broad"
+    },
+    {
+      "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer San Francisco",
+      "start": "2026-06-29T00:00:00+00:00",
+      "date_key": "2026-06-29",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-san-francisco-tickets-1990169892723",
+      "source": "Eventbrite SF Fintech",
+      "location": "Casements Bar, 2351 Mission Street, San Francisco, CA, US",
+      "description": "Connect with health, fitness, beauty, and wellness founders, startups, and professionals to network, collaborate, and grow your business.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech",
+        "health"
+      ],
+      "priority_score": 20,
+      "city": "sf",
+      "topic": "health"
     },
     {
       "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer Chicago",
@@ -3076,28 +1593,6 @@
       "topic": "fintech"
     },
     {
-      "title": "Runpod Flash Hack Day",
-      "start": "2026-06-30T00:00:00+00:00",
-      "date_key": "2026-06-30",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "625 2nd St, San Francisco, CA 94107, USA",
-      "description": "Meetup via SF Tech Events",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
       "title": "Cybersecurity Summit: Minneapolis",
       "start": "2026-06-30T00:00:00+00:00",
       "date_key": "2026-06-30",
@@ -3131,7 +1626,7 @@
       "end": "",
       "url": "https://www.eventbrite.com/e/ai-machine-learning-startups-investors-innovators-networking-in-chicago-tickets-1990646012811",
       "source": "Eventbrite Chicago Fintech",
-      "location": "1925 West Cortland Street, Chicago, IL, US",
+      "location": "415 North Dearborn Street, Chicago, IL, US",
       "description": "Discover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.",
       "region": "US",
       "focus": [
@@ -3164,6 +1659,48 @@
       ],
       "priority_score": 8,
       "city": "nyc",
+      "topic": "fintech"
+    },
+    {
+      "title": "AI Tech Founders, Investors & Pitch Night by AstraTech I San Francisco",
+      "start": "2026-07-01T00:00:00+00:00",
+      "date_key": "2026-07-01",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-night-by-astratech-i-san-francisco-tickets-1991276815559",
+      "source": "Eventbrite SF Fintech",
+      "location": "775 Frederick Street, San Francisco, CA, US",
+      "description": "A curated room for AI and Tech founders, investors, and professionals.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 19,
+      "city": "sf",
+      "topic": "fintech"
+    },
+    {
+      "title": "AI Tech Founders, Investors & Pitch Night by AstraTech I Chicago",
+      "start": "2026-07-01T00:00:00+00:00",
+      "date_key": "2026-07-01",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-night-by-astratech-i-chicago-tickets-1991290215639",
+      "source": "Eventbrite Chicago Fintech",
+      "location": "2137 West Walnut Street, Chicago, IL, US",
+      "description": "A curated room for AI and Tech founders, investors, and professionals.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
       "topic": "fintech"
     },
     {
@@ -3210,6 +1747,30 @@
       "priority_score": 13,
       "city": "sf",
       "topic": "broad"
+    },
+    {
+      "title": "Patch Your Wallet : A Peer Personal Finance Learning Session for Cyber Professionals",
+      "start": "2026-07-01T19:00:00+00:00",
+      "date_key": "2026-07-01",
+      "end": "2026-07-01T20:00:00+00:00",
+      "url": "https://luma.com/tejas-hbkq",
+      "source": "Tejas Cyber Network",
+      "location": "https://luma.com/tejas-hbkq",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "security"
+      ],
+      "priority_score": 6,
+      "city": "other-us",
+      "topic": "fintech"
     },
     {
       "title": "CyberSpecialists: Elevate Your Career at CyberConnect - Global Networking & Growth - San Francisco",
@@ -3278,50 +1839,6 @@
       ],
       "priority_score": 3,
       "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "No Hack No CTF 2026",
-      "start": "2026-07-04T00:00:00+00:00",
-      "date_key": "2026-07-04",
-      "end": "",
-      "url": "https://ctftime.org/event/3180/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via ICEDTEA",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "R3CTF 2026",
-      "start": "2026-07-04T00:00:00+00:00",
-      "date_key": "2026-07-04",
-      "end": "",
-      "url": "https://ctftime.org/event/3149/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via r3kapig",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
       "topic": "broad"
     },
     {
@@ -3394,7 +1911,7 @@
       "end": "",
       "url": "https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-1990780745801",
       "source": "Eventbrite NYC Fintech",
-      "location": "205 West 54th Street, New York, NY, US",
+      "location": "14 East 33rd Street, New York, NY, US",
       "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
       "region": "US",
       "focus": [
@@ -3407,29 +1924,6 @@
       "priority_score": 8,
       "city": "nyc",
       "topic": "fintech"
-    },
-    {
-      "title": "Safe(r) Shopping Online",
-      "start": "2026-07-07T00:00:00+00:00",
-      "date_key": "2026-07-07",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/safer-shopping-online-tickets-1990014216090",
-      "source": "Eventbrite Chicago Cybersecurity",
-      "location": "2400 Des Plaines Avenue, North Riverside, IL, US",
-      "description": "Learn how to shop online like a pro and dodge scams with tips that keep your info safe and your cart happy.",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "other-us",
-      "topic": "broad"
     },
     {
       "title": "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
@@ -3500,6 +1994,27 @@
       "topic": "health"
     },
     {
+      "title": "Women + Tech Meetup",
+      "start": "2026-07-08T00:00:00+00:00",
+      "date_key": "2026-07-08",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/women-tech-meetup-tickets-1979762620291",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "3423 Piedmont Road Northeast, Atlanta, GA, US",
+      "description": "Join us for the 2026 Women + Tech Meetup series! We're hosting once-a-month gatherings for learning and networking in our tech ecosystem.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
       "title": "CISO Stories: AI Security (Black Hat Preview)",
       "start": "2026-07-09T00:00:00+00:00",
       "date_key": "2026-07-09",
@@ -3524,6 +2039,29 @@
       ],
       "priority_score": 14,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "July Tech Square Game Day + Lunch",
+      "start": "2026-07-09T16:00:00+00:00",
+      "date_key": "2026-07-09",
+      "end": "2026-07-09T17:00:00+00:00",
+      "url": "https://luma.com/ygomjain",
+      "source": "Luma Atlanta Discover",
+      "location": "Biltmore Innovation Center, Atlanta, Georgia, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 1,
+      "city": "atlanta",
       "topic": "broad"
     },
     {
@@ -3593,6 +2131,219 @@
       "priority_score": 5,
       "city": "other-us",
       "topic": "broad"
+    },
+    {
+      "title": "The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed",
+      "start": "2026-07-10T19:00:00+00:00",
+      "date_key": "2026-07-10",
+      "end": "2026-07-10T20:00:00+00:00",
+      "url": "https://luma.com/tejas-oegm",
+      "source": "Tejas Cyber Network",
+      "location": "https://luma.com/tejas-oegm",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "security"
+      ],
+      "priority_score": 6,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals SF",
+      "start": "2026-07-13T00:00:00+00:00",
+      "date_key": "2026-07-13",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-sf-tickets-1991200091074",
+      "source": "Eventbrite SF Fintech",
+      "location": "Noc Noc, 557 Haight Street, San Francisco, CA, US",
+      "description": "Join us at San Francisco Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 19,
+      "city": "sf",
+      "topic": "fintech"
+    },
+    {
+      "title": "AI: Strategy. Automation. Growth.",
+      "start": "2026-07-13T00:00:00+00:00",
+      "date_key": "2026-07-13",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/ai-strategy-automation-growth-tickets-1991200304713",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "504 Fair Street Southwest, Atlanta, GA, US",
+      "description": "An AI Masterclass for Entrepreneurs and Business Leaders Ready to harness the power of Artificial Intelligence to work smarter, grow faster",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "Chicago Tech Startups, Investors, Experts Networking & Pitch Event",
+      "start": "2026-07-13T00:00:00+00:00",
+      "date_key": "2026-07-13",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/chicago-tech-startups-investors-experts-networking-pitch-event-tickets-1991191399076",
+      "source": "Eventbrite Chicago Fintech",
+      "location": "1925 West Cortland Street, Chicago, IL, US",
+      "description": "Connect with tech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "fintech"
+    },
+    {
+      "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals Chicago",
+      "start": "2026-07-13T00:00:00+00:00",
+      "date_key": "2026-07-13",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-chicago-tickets-1991199815249",
+      "source": "Eventbrite Chicago Fintech",
+      "location": "Lottie Pub, 1925 West Cortland Street, Chicago, IL, US",
+      "description": "Join us at Chicago Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "fintech"
+    },
+    {
+      "title": "BioTech, MedTech, Pharma Networking & Pitch Event SF",
+      "start": "2026-07-14T00:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-sf-tickets-1991270256942",
+      "source": "Eventbrite SF Fintech",
+      "location": "Hawthorn , 46 Geary Street, San Francisco, CA, US",
+      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 19,
+      "city": "sf",
+      "topic": "fintech"
+    },
+    {
+      "title": "SF BioTech, Pharma, MedTech Networking & Pitch Mixer",
+      "start": "2026-07-14T00:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/sf-biotech-pharma-medtech-networking-pitch-mixer-tickets-1991270240894",
+      "source": "Eventbrite SF Fintech",
+      "location": "46 Geary Street, San Francisco, CA, US",
+      "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 19,
+      "city": "sf",
+      "topic": "fintech"
+    },
+    {
+      "title": "BioTech, MedTech, Pharma Networking & Pitch Event Chicago",
+      "start": "2026-07-14T00:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-chicago-tickets-1991270232870",
+      "source": "Eventbrite Chicago Fintech",
+      "location": "Lottie Pub, 1925 West Cortland Street, Chicago, IL, US",
+      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "fintech"
+    },
+    {
+      "title": "BioTech, MedTech, Pharma Networking & Pitch Event NYC",
+      "start": "2026-07-14T00:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-nyc-tickets-1991270305086",
+      "source": "Eventbrite NYC Fintech",
+      "location": "The Laurels, 231 2nd Avenue, New York, NY, US",
+      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "nyc",
+      "topic": "fintech"
+    },
+    {
+      "title": "Chicago BioTech, Pharma, MedTech Networking & Pitch Mixer",
+      "start": "2026-07-14T00:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/chicago-biotech-pharma-medtech-networking-pitch-mixer-tickets-1991270220834",
+      "source": "Eventbrite Chicago Fintech",
+      "location": "1925 West Cortland Street, Chicago, IL, US",
+      "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "fintech"
     },
     {
       "title": "Healthcare and Business Networking | Elevating Your Potential - SF",
@@ -3734,6 +2485,29 @@
       "topic": "broad"
     },
     {
+      "title": "Securitas Integrated Security Showcase: Discover the Future of Security",
+      "start": "2026-07-16T00:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/securitas-integrated-security-showcase-discover-the-future-of-security-tickets-1989931316134",
+      "source": "Eventbrite NYC Cybersecurity",
+      "location": "12 East 49th Street, New York, NY, US",
+      "description": "Reimagine your ideal security program across an array of security, intelligence and technology solutions.",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
       "title": "Monthly Meeting | Virtual Event | July 16, 2026",
       "start": "2026-07-16T20:00:00+00:00",
       "date_key": "2026-07-16",
@@ -3777,6 +2551,29 @@
       "priority_score": 8,
       "city": "other-us",
       "topic": "fintech"
+    },
+    {
+      "title": "UChicago Deep Tech Demo Day",
+      "start": "2026-07-20T17:00:00+00:00",
+      "date_key": "2026-07-20",
+      "end": "2026-07-20T23:00:00+00:00",
+      "url": "https://luma.com/polsky-07-20-2026-event-1686",
+      "source": "Luma Chicago Discover",
+      "location": "Gleacher Conference Center, Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 1,
+      "city": "chicago",
+      "topic": "broad"
     },
     {
       "title": "CyberRisk CISO Dinner: Detroit",
@@ -3825,6 +2622,30 @@
       "priority_score": 9,
       "city": "nyc",
       "topic": "health"
+    },
+    {
+      "title": "Chicago CISO Community Town Hall",
+      "start": "2026-07-21T00:00:00+00:00",
+      "date_key": "2026-07-21",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Chicago, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "broad"
     },
     {
       "title": "CyberRisk CISO Dinner: Twin Cities",
@@ -3922,6 +2743,50 @@
       ],
       "priority_score": 8,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Network to Net Worth: Sales, Entrepreneurship, & Business Growth",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/network-to-net-worth-sales-entrepreneurship-business-growth-tickets-1991580872000",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "3550 Lenox Road Northeast, Atlanta, GA, US",
+      "description": "Join us for an evening of networking, wine & charcuterie, and actionable business insights from featured speaker, Keith Pinder.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "Cyber Summer Social",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/cyber-summer-social-tickets-1992104147130",
+      "source": "Eventbrite Chicago Cybersecurity",
+      "location": "200 East Randolph Street, Chicago, IL, US",
+      "description": "Join us for Cyber Summer Social, a fun in-person hangout to geek out, network, and chill with fellow techies!",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "chicago",
       "topic": "broad"
     },
     {
@@ -4047,6 +2912,27 @@
       "topic": "broad"
     },
     {
+      "title": "Networking Mixer | Private Equity | Venture Capital | Law | Fintech",
+      "start": "2026-07-27T00:00:00+00:00",
+      "date_key": "2026-07-27",
+      "end": "2026-07-28T00:00:00+00:00",
+      "url": "https://www.eventbrite.com/e/networking-mixer-private-equity-venture-capital-law-fintech-tickets-1986255857739",
+      "source": "Eventbrite NYC Fintech",
+      "location": "340 Lexington Avenue, New York, NY, US",
+      "description": "Join us for a fun Spring Networking Mixer in Midtown Manhattan -- a great opportunity to expand your community and raise capital.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "nyc",
+      "topic": "fintech"
+    },
+    {
       "title": "FS-ISAC Steel Resolve Exercise",
       "start": "2026-07-28T00:00:00+00:00",
       "date_key": "2026-07-28",
@@ -4125,6 +3011,50 @@
       "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
+    },
+    {
+      "title": "Healthcare and Business Networking - Long Island City",
+      "start": "2026-07-29T00:00:00+00:00",
+      "date_key": "2026-07-29",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-long-island-city-tickets-1985312557302",
+      "source": "Eventbrite NYC Healthcare",
+      "location": "42-51 27th Street, Queens, NY, US",
+      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at The Beast Next Door! Event is 21+.",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "other-us",
+      "topic": "health"
+    },
+    {
+      "title": "Healthcare and Business Networking | Elevating Your Potential - Chicago",
+      "start": "2026-07-29T00:00:00+00:00",
+      "date_key": "2026-07-29",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-chicago-tickets-1985288283699",
+      "source": "Eventbrite Chicago Healthcare",
+      "location": "110 West Hubbard Street, Chicago, IL, US",
+      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Hubbard Inn! Event is 21+. Limited Ticket",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "chicago",
+      "topic": "health"
     },
     {
       "title": "OPSCON 2026: Atlanta",
@@ -4278,6 +3208,32 @@
       "topic": "broad"
     },
     {
+      "title": "CyberRisk CISO Dinner: Houston",
+      "start": "2026-08-19T00:00:00+00:00",
+      "date_key": "2026-08-19",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Houston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "Detroit CISO Community Town Hall",
       "start": "2026-08-19T00:00:00+00:00",
       "date_key": "2026-08-19",
@@ -4326,6 +3282,32 @@
       "topic": "broad"
     },
     {
+      "title": "CyberRisk CISO Dinner: Chicago",
+      "start": "2026-08-25T00:00:00+00:00",
+      "date_key": "2026-08-25",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Chicago, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
       "title": "CyberRisk CISO Dinner: Salt Lake City",
       "start": "2026-08-25T00:00:00+00:00",
       "date_key": "2026-08-25",
@@ -4349,28 +3331,6 @@
       ],
       "priority_score": 10,
       "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "AI Executive Dinner",
-      "start": "2026-08-26T00:00:00+00:00",
-      "date_key": "2026-08-26",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-6kaGvIafYG2IWLm",
-      "description": "Meetup via AI Salon Bay Area",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
       "topic": "broad"
     },
     {
@@ -4452,33 +3412,7 @@
       "topic": "broad"
     },
     {
-      "title": "CyberRisk CISO Dinner: Houston",
-      "start": "2026-08-27T00:00:00+00:00",
-      "date_key": "2026-08-27",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Houston, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "[Save the Date] ISACA Chicago\u2019s Annual Conference+ | August 27, 2026",
+      "title": "ISACA Chicago\u2019s Annual Conference+ | August 27, 2026 | Registration is Now Open",
       "start": "2026-08-27T13:00:00+00:00",
       "date_key": "2026-08-27",
       "end": "",
@@ -4522,6 +3456,31 @@
         "security"
       ],
       "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)",
+      "start": "2026-09-01T19:00:00+00:00",
+      "date_key": "2026-09-01",
+      "end": "2026-09-01T20:00:00+00:00",
+      "url": "https://luma.com/tejas-5tht",
+      "source": "Tejas Cyber Network",
+      "location": "https://luma.com/tejas-5tht",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "ai security",
+        "ciso",
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
     },
@@ -5211,6 +4170,27 @@
       "topic": "broad"
     },
     {
+      "title": "Blockchain Tech Summit (4th Annual)",
+      "start": "2026-09-25T00:00:00+00:00",
+      "date_key": "2026-09-25",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349",
+      "source": "Eventbrite NYC Fintech",
+      "location": "TBA, New York, NY, US",
+      "description": "Blockchain Tech Summit is the world\u2019s most exclusive event featuring hundreds of entrepreneurs, investors, pioneers, and creatives together.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "nyc",
+      "topic": "fintech"
+    },
+    {
       "title": "Global CISO Community Executive Summit",
       "start": "2026-09-28T00:00:00+00:00",
       "date_key": "2026-09-28",
@@ -5232,29 +4212,6 @@
       ],
       "priority_score": 8,
       "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Converged Security Summit (CSS) 2026",
-      "start": "2026-09-29T00:00:00+00:00",
-      "date_key": "2026-09-29",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/converged-security-summit-css-2026-tickets-1988492715240",
-      "source": "Eventbrite Atlanta Cybersecurity",
-      "location": "1 AMB Drive Northwest, Atlanta, GA, US",
-      "description": "Step into CSS 2026 to explore cutting-edge security tech, hear from experts, and connect with leaders shaping what\u2019s next.",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "atlanta",
       "topic": "broad"
     },
     {
@@ -5410,6 +4367,29 @@
       "topic": "broad"
     },
     {
+      "title": "Hacker Halted 2026",
+      "start": "2026-10-04T00:00:00+00:00",
+      "date_key": "2026-10-04",
+      "end": "2026-10-09T00:00:00+00:00",
+      "url": "https://www.eventbrite.com/e/hacker-halted-2026-tickets-1991717193742",
+      "source": "Eventbrite Atlanta Cybersecurity",
+      "location": "210 Peachtree Street Northwest, Atlanta, GA, US",
+      "description": "Get ready for Hacker Halted 2026 in Atlanta, GA!",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
       "title": "IT Security Conference 2026, NYC",
       "start": "2026-10-06T00:00:00+00:00",
       "date_key": "2026-10-06",
@@ -5454,32 +4434,6 @@
       ],
       "priority_score": 5,
       "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "CyberRisk Leadership Exchange: Bay Area",
-      "start": "2026-10-07T00:00:00+00:00",
-      "date_key": "2026-10-07",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Bay Area, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 18,
-      "city": "sf",
       "topic": "broad"
     },
     {
@@ -5736,32 +4690,6 @@
       "topic": "broad"
     },
     {
-      "title": "CyberRisk CISO Dinner: Boston",
-      "start": "2026-10-13T00:00:00+00:00",
-      "date_key": "2026-10-13",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Boston, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
       "title": "Hot Topic Webcast: Network Security",
       "start": "2026-10-13T00:00:00+00:00",
       "date_key": "2026-10-13",
@@ -5784,6 +4712,30 @@
         "security"
       ],
       "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Denver CISO Community Town Hall",
+      "start": "2026-10-13T00:00:00+00:00",
+      "date_key": "2026-10-13",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "Denver, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
       "city": "other-us",
       "topic": "broad"
     },
@@ -5885,6 +4837,32 @@
         "security"
       ],
       "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "CyberRisk CISO Dinner: Boston",
+      "start": "2026-10-22T00:00:00+00:00",
+      "date_key": "2026-10-22",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Boston, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
     },
@@ -6611,6 +5589,27 @@
       "topic": "broad"
     },
     {
+      "title": "Ghana Tech Summit - 2026 Ai Edition",
+      "start": "2026-11-19T00:00:00+00:00",
+      "date_key": "2026-11-19",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719",
+      "source": "Eventbrite NYC Fintech",
+      "location": "150 West 62nd Street, New York, NY, US",
+      "description": "Ghana Tech Summit",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "nyc",
+      "topic": "fintech"
+    },
+    {
       "title": "Monthly Meeting | In-Person Event | November 19, 2026",
       "start": "2026-11-19T20:00:00+00:00",
       "date_key": "2026-11-19",
@@ -7112,6 +6111,11 @@
     }
   ],
   "source_errors": [
+    {
+      "source": "East Bay Cyber",
+      "url": "https://eastbaycyber.org/",
+      "error": "HTTP Error 403: Forbidden"
+    },
     {
       "source": "HIMSS Events Overview",
       "url": "https://www.himss.org/events-overview/?page=0",
