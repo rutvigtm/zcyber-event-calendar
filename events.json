@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-06-22T04:18:52.486179+00:00",
-  "event_count": 256,
+  "generated_at": "2026-06-22T17:43:57.399530+00:00",
+  "event_count": 169,
   "events": [
-    {
-      "title": "SF Tech Startups, Investors, Innovators Networking with Elevator Pitch",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-tech-startups-investors-innovators-networking-with-elevator-pitch-tickets-1989219723742",
-      "source": "Eventbrite SF Fintech",
-      "location": "2351 Mission Street, San Francisco, CA, US",
-      "description": "Connect with tech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "Tech Connect: Startups, Investors, Professionals Networking San Francisco",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-connect-startups-investors-professionals-networking-san-francisco-tickets-1989297723040",
-      "source": "Eventbrite SF Fintech",
-      "location": "Casements Bar, 2351 Mission Street, San Francisco, CA, US",
-      "description": "Join us at San Francisco Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
     {
       "title": "International Workshop on Security in Machine Learning and its Applications (SiMLA) 2026",
       "start": "2026-06-22T00:00:00+00:00",
@@ -94,69 +52,6 @@
       "priority_score": 9,
       "city": "nyc",
       "topic": "broad"
-    },
-    {
-      "title": "ATL Money Monday Mixer",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/atl-money-monday-mixer-tickets-1983589593872",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "504 Fair Street Southwest, Atlanta, GA, US",
-      "description": "Join us for a laid-back evening of networking and collaboration with fellow entrepreneurs in Atlanta. Come out and share what you do!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Chicago Tech Startups, Investors, Innovators Networking with Elevator Pitch",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-tech-startups-investors-innovators-networking-with-elevator-pitch-tickets-1989219312512",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "25 South Halsted Street, Chicago, IL, US",
-      "description": "Connect with tech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Tech Connect: Startups, Investors, Professionals Networking Event Chicago",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-connect-startups-investors-professionals-networking-event-chicago-tickets-1989298002877",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "Rye Deli & Drink, 25 South Halsted Street, Chicago, IL, US",
-      "description": "Join us at Chicago Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
     },
     {
       "title": "SecureIT Summit Tampa 2026",
@@ -348,51 +243,6 @@
       "topic": "broad"
     },
     {
-      "title": "HealthTech & MedTech: Healthcare Industry Networking Night SF",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthtech-medtech-healthcare-industry-networking-night-sf-tickets-1989092270526",
-      "source": "Eventbrite SF Fintech",
-      "location": "Hawthorn , 46 Geary Street, San Francisco, CA, US",
-      "description": "SF MedTech Connect: a night of networking with Health and MedTech startups, investors, entrepreneurs, and professionals",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 28,
-      "city": "sf",
-      "topic": "health"
-    },
-    {
-      "title": "SF HealthTech, MedTech Startups, Investors, Innovators Networking Event",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1989092034821",
-      "source": "Eventbrite SF Fintech",
-      "location": "46 Geary Street, San Francisco, CA, US",
-      "description": "Connect with HealthTech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health"
-      ],
-      "priority_score": 20,
-      "city": "sf",
-      "topic": "health"
-    },
-    {
       "title": "Confidential Computing Summit 2026",
       "start": "2026-06-23T00:00:00+00:00",
       "date_key": "2026-06-23",
@@ -468,160 +318,6 @@
       "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Chicago HealthTech, MedTech Networking Mixer and Elevator Pitch",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-healthtech-medtech-networking-mixer-and-elevator-pitch-tickets-1986528868321",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "415 North Dearborn Street, Chicago, IL, US",
-      "description": "Connect with HealthTech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "HealthTech & MedTech Professionals & Industry Networking in Chicago",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthtech-medtech-professionals-industry-networking-in-chicago-tickets-1989091466120",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "Ghost Donkey, 415 North Dearborn Street, Chicago, IL, US",
-      "description": "Chicago HealthTech Connect: a night of networking with Health and MedTech startups, investors, entrepreneurs, and professionals",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "HealthTech & MedTech: Healthcare Professionals & Industry Networking NYC",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthtech-medtech-healthcare-professionals-industry-networking-nyc-tickets-1989092230406",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "San Babila, 1355 2nd Avenue, New York, NY, US",
-      "description": "NYC MedTech Connect: a night of networking with Health and MedTech startups, investors, entrepreneurs, and professionals",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "MedTech Startups, Investors, Innovators Networking Event NYC",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/medtech-startups-investors-innovators-networking-event-nyc-tickets-1988351361447",
-      "source": "Eventbrite NYC Fintech",
-      "location": "The Back Room, 102 Norfolk Street, New York, NY, US",
-      "description": "NYC MedTech Connect: a night of networking with Health and MedTech startups, investors, entrepreneurs, and professionals",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "NAHSE Chicago C-Suite Roundtable: Innovation & Equity in Healthcare",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nahse-chicago-c-suite-roundtable-innovation-equity-in-healthcare-tickets-1990834826558",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "5841 South Maryland Avenue, Chicago, IL, US",
-      "description": "C-Suite Roundtable: Innovation & Equity in Healthcare",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "NYC HealthTech & MedTech Startups, Investors, Innovators Networking Event",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1988350632266",
-      "source": "Eventbrite NYC Fintech",
-      "location": "102 Norfolk Street, New York, NY, US",
-      "description": "Come meet other tech startups, investors, and innovators, and practice your elevator pitch at our networking event!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "NYC HealthTech, MedTech Startups Networking & Pitch Event",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-healthtech-medtech-startups-networking-pitch-event-tickets-1989091793098",
-      "source": "Eventbrite NYC Fintech",
-      "location": "102 Norfolk Street, New York, NY, US",
-      "description": "Connect with HealthTech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
     },
     {
       "title": "Denver CISO Community Executive Summit",
@@ -928,48 +624,6 @@
       "topic": "broad"
     },
     {
-      "title": "AI Tech Startup & Investor Networking by AstraTech I San Francisco",
-      "start": "2026-06-24T00:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-tech-startup-investor-networking-by-astratech-i-san-francisco-tickets-1989838310953",
-      "source": "Eventbrite SF Fintech",
-      "location": "775 Frederick Street, San Francisco, CA, US",
-      "description": "A curated room for AI and Tech founders, investors, and professionals.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "Tech Startup Networking San Francisco Series A Venture Capital Event",
-      "start": "2026-06-24T00:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://www.eventbrite.co.uk/e/tech-startup-networking-san-francisco-series-a-venture-capital-event-tickets-1985173693958",
-      "source": "Eventbrite SF Fintech",
-      "location": "San Francisco, San Francisco, CA, US",
-      "description": "Tech Startup Networking San Francisco- Series A / Venture Capital Scale up Networking Event",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
       "title": "CyberRisk CISO Dinner: Los Angeles",
       "start": "2026-06-24T00:00:00+00:00",
       "date_key": "2026-06-24",
@@ -1020,28 +674,6 @@
       "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Atlanta Healthcare, Pharma & Business Networking Event",
-      "start": "2026-06-24T00:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/atlanta-healthcare-pharma-business-networking-event-tickets-1989857928630",
-      "source": "Eventbrite Atlanta Healthcare",
-      "location": "3301 Lenox Parkway, Atlanta, GA, US",
-      "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "atlanta",
-      "topic": "health"
     },
     {
       "title": "Deep Tech Undergound by Alta, Stifel & Sequoia",
@@ -1228,283 +860,6 @@
       "topic": "broad"
     },
     {
-      "title": "SF Startup & Tech Mixer 2026",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-startup-tech-mixer-2026-tickets-1989115014554",
-      "source": "Eventbrite SF Fintech",
-      "location": "52 Belden Place, San Francisco, CA, US",
-      "description": "THE BEST NETWORKING IN SF!!!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "New York EVO VC & Startups Social",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/new-york-evo-vc-startups-social-tickets-1991030601125",
-      "source": "Eventbrite NYC Fintech",
-      "location": "1535 Broadway, New York, NY, US",
-      "description": "\u200b\u200b\u200bWe are a community of 19000+ Startup Founders and Investors. We are active in NYC, Miami, Boston, DC, Atlanta, Dubai, Sydney and SF.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 11,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "NYC | The Session: Healthcare Mixer",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-the-session-healthcare-mixer-tickets-1991988442053",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "987 2nd Avenue, New York, NY, US",
-      "description": "The Session is a high-density, unhosted social designed for Healthcare professionals who value authentic connection.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "13th Annual Columbia Venture Community Pitch Night NYC",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/13th-annual-columbia-venture-community-pitch-night-nyc-tickets-1988733837443",
-      "source": "Eventbrite NYC Fintech",
-      "location": "1251 6th Avenue, New York, NY, US",
-      "description": "Join Columbia Venture Community NYC in-person for our 13 Annual NYC Pitch Night! RSVP required.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Chicago Tech Mixer 2026",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-tech-mixer-2026-tickets-1990585873934",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "168 North Michigan Avenue, Chicago, IL, US",
-      "description": "THE BEST NETWORKING IN Chicago!!!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Master AI Entrepreneurship - From A to Z Masterclass",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-masterclass-tickets-1981481292887",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Manhattan, New York, NY, US",
-      "description": "Master AI Entrepreneurship - From A to Z Masterclass",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "TechSpecialists: AIDataTech TechNetworking Mixer - Connect & Grow! - Chicago",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/techspecialists-aidatatech-technetworking-mixer-connect-grow-chicago-tickets-1990487698288",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "TBD, Chicago, IL, US",
-      "description": "Join us for techspecialists aidatatech networking in Chicago on 25 Jun 2026, 5 PM CDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Women in Tech Chicago 2026",
-      "start": "2026-06-25T00:00:00+00:00",
-      "date_key": "2026-06-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/women-in-tech-chicago-2026-tickets-1990585877946",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "168 North Michigan Avenue, Chicago, IL, US",
-      "description": "THE BEST NETWORKING IN CHICAGO!!!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Aligned High Level Networking & Panel Discussion",
-      "start": "2026-06-26T00:00:00+00:00",
-      "date_key": "2026-06-26",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/aligned-high-level-networking-panel-discussion-tickets-1990638280684",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "504 Fair Street Southwest, Atlanta, GA, US",
-      "description": "Learn how AI can help you attract clients, save time, simplify systems, and supercharge your business at Aligned June 26.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "FinTech & Crypto Networking dinner",
-      "start": "2026-06-26T00:00:00+00:00",
-      "date_key": "2026-06-26",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373611999",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "Join us for a chill FinTech & Crypto dinner to network, share ideas, and meet fellow innovators in person!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Tech, AI & Startups Roundtable Discussion Dinner",
-      "start": "2026-06-26T00:00:00+00:00",
-      "date_key": "2026-06-26",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-tickets-1988373813602",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "A candid roundtable for tech, AI, and startup leaders to exchange ideas, insights, and real-world lessons.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "\ufe0f NYC Cybersecurity & InfoSec Social Mixer \u2013 Every Friday @ 7PM",
-      "start": "2026-06-26T00:00:00+00:00",
-      "date_key": "2026-06-26",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-cybersecurity-infosec-social-mixer-every-friday-7pm-tickets-1507681258229",
-      "source": "Eventbrite NYC Cybersecurity",
-      "location": "17 John Street, New York, NY, US",
-      "description": "Calling all cybersecurity professionals, ethical hackers, SOC analysts",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Business, Branding & Technology - World Cup Networking Business Sessions",
-      "start": "2026-06-27T00:00:00+00:00",
-      "date_key": "2026-06-27",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/business-branding-technology-world-cup-networking-business-sessions-tickets-1979945204405",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "1055 Howell Mill Road Northwest, Atlanta, GA, US",
-      "description": "Join us in person for epic networking at the Business, Branding & Tech World Cup sessions!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
       "title": "Community Crossover: Fitness x Tech Crawl\ud83d\udc5f\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udcbb",
       "start": "2026-06-28T15:00:00+00:00",
       "date_key": "2026-06-28",
@@ -1526,71 +881,6 @@
       "priority_score": 1,
       "city": "chicago",
       "topic": "broad"
-    },
-    {
-      "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer San Francisco",
-      "start": "2026-06-29T00:00:00+00:00",
-      "date_key": "2026-06-29",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-san-francisco-tickets-1990169892723",
-      "source": "Eventbrite SF Fintech",
-      "location": "Casements Bar, 2351 Mission Street, San Francisco, CA, US",
-      "description": "Connect with health, fitness, beauty, and wellness founders, startups, and professionals to network, collaborate, and grow your business.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health"
-      ],
-      "priority_score": 20,
-      "city": "sf",
-      "topic": "health"
-    },
-    {
-      "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer Chicago",
-      "start": "2026-06-29T00:00:00+00:00",
-      "date_key": "2026-06-29",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-chicago-tickets-1990170036152",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "Rye Deli + Drink, 25 South Halsted Street, Chicago, IL, US",
-      "description": "Connect with health, fitness, beauty, and wellness founders, startups, and professionals to network, collaborate, and grow your business.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "health"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "AI & Machine Learning Startups, Investors, Innovators Networking Mixer SF",
-      "start": "2026-06-30T00:00:00+00:00",
-      "date_key": "2026-06-30",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-machine-learning-startups-investors-innovators-networking-mixer-sf-tickets-1990646228456",
-      "source": "Eventbrite SF Fintech",
-      "location": "557 Haight Street, San Francisco, CA, US",
-      "description": "Discover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
     },
     {
       "title": "Cybersecurity Summit: Minneapolis",
@@ -1618,111 +908,6 @@
       "priority_score": 11,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "AI & Machine Learning Startups, Investors, Innovators Networking in Chicago",
-      "start": "2026-06-30T00:00:00+00:00",
-      "date_key": "2026-06-30",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-machine-learning-startups-investors-innovators-networking-in-chicago-tickets-1990646012811",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "415 North Dearborn Street, Chicago, IL, US",
-      "description": "Discover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "The Creativity Leap: A Celebration of the 2nd Edition",
-      "start": "2026-06-30T00:00:00+00:00",
-      "date_key": "2026-06-30",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/the-creativity-leap-a-celebration-of-the-2nd-edition-tickets-1990986633617",
-      "source": "Eventbrite NYC Fintech",
-      "location": "44 W 4th Street, New York, NY, US",
-      "description": "A conversation on creativity, leadership, and the future of work with Natalie Nixon, PhD, creativity strategist and CEO of Figure 8 Thinking",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "AI Tech Founders, Investors & Pitch Night by AstraTech I San Francisco",
-      "start": "2026-07-01T00:00:00+00:00",
-      "date_key": "2026-07-01",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-night-by-astratech-i-san-francisco-tickets-1991276815559",
-      "source": "Eventbrite SF Fintech",
-      "location": "775 Frederick Street, San Francisco, CA, US",
-      "description": "A curated room for AI and Tech founders, investors, and professionals.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "AI Tech Founders, Investors & Pitch Night by AstraTech I Chicago",
-      "start": "2026-07-01T00:00:00+00:00",
-      "date_key": "2026-07-01",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-tech-founders-investors-pitch-night-by-astratech-i-chicago-tickets-1991290215639",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "2137 West Walnut Street, Chicago, IL, US",
-      "description": "A curated room for AI and Tech founders, investors, and professionals.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "TechSpecialists: Global TechConnect for Data & AI Innovators - Atlanta",
-      "start": "2026-07-01T00:00:00+00:00",
-      "date_key": "2026-07-01",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/techspecialists-global-techconnect-for-data-ai-innovators-atlanta-tickets-1990936141594",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "TBD, Atlanta, GA, US",
-      "description": "Join us for techspecialists global networking in Atlanta on 1 Jul 2026, 4 PM EDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
     },
     {
       "title": "The Unique Role of the IT Audit-Savvy Internal Auditors in Solving a Major Unmanaged Risk",
@@ -1773,159 +958,6 @@
       "topic": "fintech"
     },
     {
-      "title": "CyberSpecialists: Elevate Your Career at CyberConnect - Global Networking & Growth - San Francisco",
-      "start": "2026-07-02T00:00:00+00:00",
-      "date_key": "2026-07-02",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/cyberspecialists-elevate-your-career-at-cyberconnect-global-networking-growth-san-francisco-tickets-1990974100129",
-      "source": "Eventbrite SF Cybersecurity",
-      "location": "TBD, San Francisco, CA, US",
-      "description": "Join us for cyberspecialists elevate networking in San Francisco on 2 Jul 2026, 4 PM PDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 14,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "CyberSpecialists: CyberConnect - Unlocking Your Cyber Future - Atlanta",
-      "start": "2026-07-02T00:00:00+00:00",
-      "date_key": "2026-07-02",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/cyberspecialists-cyberconnect-unlocking-your-cyber-future-atlanta-tickets-1990974080069",
-      "source": "Eventbrite Atlanta Cybersecurity",
-      "location": "TBD, Atlanta, GA, US",
-      "description": "Don't miss cyberspecialists cyberconnect networking in Atlanta on 2 Jul 2026, 4 PM EDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "atlanta",
-      "topic": "broad"
-    },
-    {
-      "title": "CyberSpecialists: Elevate Your Expertise at CyberConnect - Chicago",
-      "start": "2026-07-02T00:00:00+00:00",
-      "date_key": "2026-07-02",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/cyberspecialists-elevate-your-expertise-at-cyberconnect-chicago-tickets-1990971276684",
-      "source": "Eventbrite Chicago Cybersecurity",
-      "location": "TBD, Chicago, IL, US",
-      "description": "Connect at cyberspecialists elevate networking in Chicago on 2 Jul 2026, 4 PM CDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "SF Women in Tech: Founders & Professionals Networking Night",
-      "start": "2026-07-07T00:00:00+00:00",
-      "date_key": "2026-07-07",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1990781858128",
-      "source": "Eventbrite SF Fintech",
-      "location": "1160 Polk Street, San Francisco, CA, US",
-      "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "BioTech Fermenter: Chicago's Biotechnology Meetup",
-      "start": "2026-07-07T00:00:00+00:00",
-      "date_key": "2026-07-07",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/biotech-fermenter-chicagos-biotechnology-meetup-tickets-1990818887885",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "2137 West Walnut Street, Chicago, IL, US",
-      "description": "Social night for biotechnologists to meetup and discuss our industry in Chicagoland and to create a social network for area professionals.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Chicago Women in Tech: Founders & Professionals Networking Night",
-      "start": "2026-07-07T00:00:00+00:00",
-      "date_key": "2026-07-07",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-women-in-tech-founders-professionals-networking-night-tickets-1990781280400",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "1925 West Cortland Street, Chicago, IL, US",
-      "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "NYC Women in Tech: Founders & Professionals Networking Night",
-      "start": "2026-07-07T00:00:00+00:00",
-      "date_key": "2026-07-07",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networking-night-tickets-1990780745801",
-      "source": "Eventbrite NYC Fintech",
-      "location": "14 East 33rd Street, New York, NY, US",
-      "description": "Connect with women in tech, startups, and innovation. Network, share ideas, and build meaningful professional relationships.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
       "title": "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
       "start": "2026-07-07T21:00:00+00:00",
       "date_key": "2026-07-07",
@@ -1948,71 +980,6 @@
       "priority_score": 5,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Chicago Healthcare, Pharma & Business Networking Event",
-      "start": "2026-07-08T00:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/chicago-healthcare-pharma-business-networking-event-tickets-1990807738537",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "112 West Hubbard Street, Chicago, IL, US",
-      "description": "SUM OF FIVE | Meet Established Professionals In Healthcare, Pharma & Business",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "Healthcare and Business Networking | Elevating Your Potential -Lincoln Park",
-      "start": "2026-07-08T00:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-lincoln-park-tickets-1989847355004",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "950 West Wrightwood Avenue, Chicago, IL, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Parlay's! Event is 21+. Limited Tickets.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "Women + Tech Meetup",
-      "start": "2026-07-08T00:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/women-tech-meetup-tickets-1979762620291",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3423 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "Join us for the 2026 Women + Tech Meetup series! We're hosting once-a-month gatherings for learning and networking in our tech ecosystem.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
     },
     {
       "title": "CISO Stories: AI Security (Black Hat Preview)",
@@ -2065,50 +1032,6 @@
       "topic": "broad"
     },
     {
-      "title": "San Francisco Healthcare, Pharma & Business Networking Event",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-networking-event-tickets-1991014623335",
-      "source": "Eventbrite SF Healthcare",
-      "location": "3089 16th Street, San Francisco, CA, US",
-      "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 20,
-      "city": "sf",
-      "topic": "health"
-    },
-    {
-      "title": "New York City Healthcare, Pharma & Business Networking Event",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/new-york-city-healthcare-pharma-business-networking-event-tickets-1991014615311",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "7 East 36th Street, New York, NY, US",
-      "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
       "title": "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
       "start": "2026-07-10T14:00:00+00:00",
       "date_key": "2026-07-10",
@@ -2157,217 +1080,6 @@
       "topic": "broad"
     },
     {
-      "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals SF",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-sf-tickets-1991200091074",
-      "source": "Eventbrite SF Fintech",
-      "location": "Noc Noc, 557 Haight Street, San Francisco, CA, US",
-      "description": "Join us at San Francisco Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "AI: Strategy. Automation. Growth.",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-strategy-automation-growth-tickets-1991200304713",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "504 Fair Street Southwest, Atlanta, GA, US",
-      "description": "An AI Masterclass for Entrepreneurs and Business Leaders Ready to harness the power of Artificial Intelligence to work smarter, grow faster",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Chicago Tech Startups, Investors, Experts Networking & Pitch Event",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-tech-startups-investors-experts-networking-pitch-event-tickets-1991191399076",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "1925 West Cortland Street, Chicago, IL, US",
-      "description": "Connect with tech startups, investors, and industry experts for an evening of rapid-fire pitches, conversations and opportunities.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals Chicago",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-chicago-tickets-1991199815249",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "Lottie Pub, 1925 West Cortland Street, Chicago, IL, US",
-      "description": "Join us at Chicago Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "BioTech, MedTech, Pharma Networking & Pitch Event SF",
-      "start": "2026-07-14T00:00:00+00:00",
-      "date_key": "2026-07-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-sf-tickets-1991270256942",
-      "source": "Eventbrite SF Fintech",
-      "location": "Hawthorn , 46 Geary Street, San Francisco, CA, US",
-      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "SF BioTech, Pharma, MedTech Networking & Pitch Mixer",
-      "start": "2026-07-14T00:00:00+00:00",
-      "date_key": "2026-07-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-biotech-pharma-medtech-networking-pitch-mixer-tickets-1991270240894",
-      "source": "Eventbrite SF Fintech",
-      "location": "46 Geary Street, San Francisco, CA, US",
-      "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "BioTech, MedTech, Pharma Networking & Pitch Event Chicago",
-      "start": "2026-07-14T00:00:00+00:00",
-      "date_key": "2026-07-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-chicago-tickets-1991270232870",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "Lottie Pub, 1925 West Cortland Street, Chicago, IL, US",
-      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "BioTech, MedTech, Pharma Networking & Pitch Event NYC",
-      "start": "2026-07-14T00:00:00+00:00",
-      "date_key": "2026-07-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-nyc-tickets-1991270305086",
-      "source": "Eventbrite NYC Fintech",
-      "location": "The Laurels, 231 2nd Avenue, New York, NY, US",
-      "description": "Connect with BioTech innovators! Network, collaborate, and grow with like-minded professionals and industry leaders.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Chicago BioTech, Pharma, MedTech Networking & Pitch Mixer",
-      "start": "2026-07-14T00:00:00+00:00",
-      "date_key": "2026-07-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-biotech-pharma-medtech-networking-pitch-mixer-tickets-1991270220834",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "1925 West Cortland Street, Chicago, IL, US",
-      "description": "Connect with founders, investors & experts in BioTech and Pharma for live pitches and meaningful networking.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
-      "title": "Healthcare and Business Networking | Elevating Your Potential - SF",
-      "start": "2026-07-15T00:00:00+00:00",
-      "date_key": "2026-07-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-sf-tickets-1987336116823",
-      "source": "Eventbrite SF Healthcare",
-      "location": "1268 Grant Avenue, San Francisco, CA, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at The Showdown! Limited Tickets.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 20,
-      "city": "sf",
-      "topic": "health"
-    },
-    {
       "title": "Cybersecurity Summit: Raleigh",
       "start": "2026-07-15T00:00:00+00:00",
       "date_key": "2026-07-15",
@@ -2395,72 +1107,6 @@
       "topic": "broad"
     },
     {
-      "title": "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
-      "start": "2026-07-15T00:00:00+00:00",
-      "date_key": "2026-07-15",
-      "end": "",
-      "url": "https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better-care-in-chicago-tickets-1990463687471",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "111 West Jackson Boulevard#Downtown, Suite 1700, Chicago, IL, US",
-      "description": "Stand out in healthcare - champion your patients, elevate outcomes, and navigate the U.S. system with clarity and confidence.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "Healthcare and Business Networking |Elevating Your Potential - Midtown, ATL",
-      "start": "2026-07-15T00:00:00+00:00",
-      "date_key": "2026-07-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-midtown-atl-tickets-1987101749825",
-      "source": "Eventbrite Atlanta Healthcare",
-      "location": "1133 Huff Road Northwest, Atlanta, GA, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at The Whelan! Event is 21+. Limited Tickets",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "atlanta",
-      "topic": "health"
-    },
-    {
-      "title": "Black Health Connect | Bridging Healthcare Communities: Atlanta - Q3 Mixer",
-      "start": "2026-07-16T00:00:00+00:00",
-      "date_key": "2026-07-16",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-atlanta-q3-mixer-tickets-1988348416639",
-      "source": "Eventbrite Atlanta Healthcare",
-      "location": "1115 Howell Mill Road, Atlanta, GA, US",
-      "description": "COMING TOGETHER TODAY FOR A MORE SUCCESSFUL TOMORROW.RSVP at Blackhealthconnect.com",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 12,
-      "city": "atlanta",
-      "topic": "health"
-    },
-    {
       "title": "Florida CISO Community Town Hall",
       "start": "2026-07-16T00:00:00+00:00",
       "date_key": "2026-07-16",
@@ -2482,29 +1128,6 @@
       ],
       "priority_score": 8,
       "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Securitas Integrated Security Showcase: Discover the Future of Security",
-      "start": "2026-07-16T00:00:00+00:00",
-      "date_key": "2026-07-16",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/securitas-integrated-security-showcase-discover-the-future-of-security-tickets-1989931316134",
-      "source": "Eventbrite NYC Cybersecurity",
-      "location": "12 East 49th Street, New York, NY, US",
-      "description": "Reimagine your ideal security program across an array of security, intelligence and technology solutions.",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "nyc",
       "topic": "broad"
     },
     {
@@ -2530,27 +1153,6 @@
       "priority_score": 5,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "2026 CCFY - Remix & Rewear: Youth Fashion & Printmaking Lab",
-      "start": "2026-07-20T00:00:00+00:00",
-      "date_key": "2026-07-20",
-      "end": "2026-07-25T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/2026-ccfy-remix-rewear-youth-fashion-printmaking-lab-tickets-1990523323845",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "2148 Newnan Street, East Point, GA, US",
-      "description": "2026 Creative Careers for Youth Arts Intensive Series at ArtsXchange | $125 | Ages 11 - 18 | 6 Classes",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "other-us",
-      "topic": "fintech"
     },
     {
       "title": "UChicago Deep Tech Demo Day",
@@ -2600,28 +1202,6 @@
       "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Healthcare Advocacy: Empowering Voices for Better Care, New York city",
-      "start": "2026-07-21T00:00:00+00:00",
-      "date_key": "2026-07-21",
-      "end": "",
-      "url": "https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better-care-new-york-city-tickets-1990462846957",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "100 Church Street Tribeca, 8th Floor, New York, NY, US",
-      "description": "Stand out in healthcare - champion your patients, elevate outcomes, and navigate the U.S. system with clarity and confidence.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
     },
     {
       "title": "Chicago CISO Community Town Hall",
@@ -2700,28 +1280,6 @@
       "topic": "broad"
     },
     {
-      "title": "Healthcare and Business Networking | Elevating Your Potential - NYC",
-      "start": "2026-07-22T00:00:00+00:00",
-      "date_key": "2026-07-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-nyc-tickets-1988338509005",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "7 East 36th Street, New York, NY, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at 5th&Mad! Event is 21+.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
       "title": "Global CISO Community Town Hall",
       "start": "2026-07-22T00:00:00+00:00",
       "date_key": "2026-07-22",
@@ -2743,50 +1301,6 @@
       ],
       "priority_score": 8,
       "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Network to Net Worth: Sales, Entrepreneurship, & Business Growth",
-      "start": "2026-07-22T00:00:00+00:00",
-      "date_key": "2026-07-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/network-to-net-worth-sales-entrepreneurship-business-growth-tickets-1991580872000",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3550 Lenox Road Northeast, Atlanta, GA, US",
-      "description": "Join us for an evening of networking, wine & charcuterie, and actionable business insights from featured speaker, Keith Pinder.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Cyber Summer Social",
-      "start": "2026-07-22T00:00:00+00:00",
-      "date_key": "2026-07-22",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/cyber-summer-social-tickets-1992104147130",
-      "source": "Eventbrite Chicago Cybersecurity",
-      "location": "200 East Randolph Street, Chicago, IL, US",
-      "description": "Join us for Cyber Summer Social, a fun in-person hangout to geek out, network, and chill with fellow techies!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "chicago",
       "topic": "broad"
     },
     {
@@ -2864,28 +1378,6 @@
       "topic": "broad"
     },
     {
-      "title": "LGBTQ+ Professionals + Allies in Healthcare Networking - NYC",
-      "start": "2026-07-23T00:00:00+00:00",
-      "date_key": "2026-07-23",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/lgbtq-professionals-allies-in-healthcare-networking-nyc-tickets-1988633222501",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "674 9th Avenue, New York, NY, US",
-      "description": "Meet LGBTQ professionals in healthcare, related, and allied fields. Our welcoming, award-winning socials are fun, friendly, and effective!",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
       "title": "Building a Resilient Cybersecurity Strategy",
       "start": "2026-07-23T13:00:00+00:00",
       "date_key": "2026-07-23",
@@ -2910,27 +1402,6 @@
       "priority_score": 7,
       "city": "nyc",
       "topic": "broad"
-    },
-    {
-      "title": "Networking Mixer | Private Equity | Venture Capital | Law | Fintech",
-      "start": "2026-07-27T00:00:00+00:00",
-      "date_key": "2026-07-27",
-      "end": "2026-07-28T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/networking-mixer-private-equity-venture-capital-law-fintech-tickets-1986255857739",
-      "source": "Eventbrite NYC Fintech",
-      "location": "340 Lexington Avenue, New York, NY, US",
-      "description": "Join us for a fun Spring Networking Mixer in Midtown Manhattan -- a great opportunity to expand your community and raise capital.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
     },
     {
       "title": "FS-ISAC Steel Resolve Exercise",
@@ -3011,71 +1482,6 @@
       "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Healthcare and Business Networking - Long Island City",
-      "start": "2026-07-29T00:00:00+00:00",
-      "date_key": "2026-07-29",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-long-island-city-tickets-1985312557302",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "42-51 27th Street, Queens, NY, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at The Beast Next Door! Event is 21+.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "other-us",
-      "topic": "health"
-    },
-    {
-      "title": "Healthcare and Business Networking | Elevating Your Potential - Chicago",
-      "start": "2026-07-29T00:00:00+00:00",
-      "date_key": "2026-07-29",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-your-potential-chicago-tickets-1985288283699",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "110 West Hubbard Street, Chicago, IL, US",
-      "description": "Strive welcomes you to 'Healthcare and Business Networking', an event for tenured and newcomers at Hubbard Inn! Event is 21+. Limited Ticket",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "OPSCON 2026: Atlanta",
-      "start": "2026-08-04T00:00:00+00:00",
-      "date_key": "2026-08-04",
-      "end": "2026-08-05T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/opscon-2026-atlanta-tickets-1989103782960",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "4000 Summit Boulevard Northeast, Atlanta, GA, US",
-      "description": "The ONLY conference focused on Underwriting & Operations professionals.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
     },
     {
       "title": "Careers & Conversations | August 04, 2026 | @ 4 PM CT",
@@ -3608,27 +2014,6 @@
       "topic": "broad"
     },
     {
-      "title": "THE NEW YORK BLOCKCHAIN FESTIVAL",
-      "start": "2026-09-04T00:00:00+00:00",
-      "date_key": "2026-09-04",
-      "end": "2026-09-05T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/the-new-york-blockchain-festival-tickets-1987464678354",
-      "source": "Eventbrite NYC Fintech",
-      "location": "225 Liberty Street, New York, NY, US",
-      "description": "Dive into the future of crypto and blockchain with innovators and enthusiasts at THE NEW YORK BLOCKCHAIN FESTIVAL!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
       "title": "Careers & Conversations | September 08, 2026 | @ 4 PM CT",
       "start": "2026-09-08T21:00:00+00:00",
       "date_key": "2026-09-08",
@@ -3651,27 +2036,6 @@
       "priority_score": 5,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Connect Expo Series",
-      "start": "2026-09-09T00:00:00+00:00",
-      "date_key": "2026-09-09",
-      "end": "2026-09-10T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/connect-expo-series-tickets-1990467643303",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "285 Andrew Young International Boulevard Northwest, Atlanta, GA, US",
-      "description": "The Connect Expo Series 2026 unites CX, AI, and cloud leaders in Atlanta to explore enterprise technology, innovation, and growth.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
     },
     {
       "title": "Cybersecurity Summit: San Diego",
@@ -3753,27 +2117,6 @@
       "topic": "broad"
     },
     {
-      "title": "Early Pathways Breakfast",
-      "start": "2026-09-10T00:00:00+00:00",
-      "date_key": "2026-09-10",
-      "end": "",
-      "url": "https://www.eventbrite.co.uk/e/early-pathways-breakfast-registration-1980466999107",
-      "source": "Eventbrite NYC Fintech",
-      "location": "TBC, New York, NY, US",
-      "description": "A high-trust breakfast connecting early-career women with senior leaders across diplomacy, international affairs, and high-barrier sectors.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
       "title": "Ohio CISO Community Inner Circle",
       "start": "2026-09-10T00:00:00+00:00",
       "date_key": "2026-09-10",
@@ -3821,28 +2164,6 @@
       ],
       "priority_score": 13,
       "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "C3 Davos of Healthcare\u2122 NYC Summit",
-      "start": "2026-09-14T00:00:00+00:00",
-      "date_key": "2026-09-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/c3-davos-of-healthcaretm-nyc-summit-tickets-1990822324163",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "38 East 37th Street, New York, NY, US",
-      "description": "C3 Davos of Healthcare\u2122 NYC Summit featuring General David Petraeus, Dr. Samuel Waksal & Secretary Wilbur Ross anchored by KFSHRC.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
       "topic": "health"
     },
     {
@@ -3897,28 +2218,6 @@
       "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Health Connect South 2026 Annual Gathering",
-      "start": "2026-09-16T00:00:00+00:00",
-      "date_key": "2026-09-16",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/health-connect-south-2026-annual-gathering-tickets-1975000759437",
-      "source": "Eventbrite Atlanta Healthcare",
-      "location": "225 Baker Street Northwest, Atlanta, GA, US",
-      "description": "Health Connect South 2026",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "atlanta",
-      "topic": "health"
     },
     {
       "title": "Atlanta CISO Community Inner Circle",
@@ -4144,6 +2443,32 @@
       "topic": "broad"
     },
     {
+      "title": "CyberRisk CISO Dinner: Bay Area",
+      "start": "2026-09-24T00:00:00+00:00",
+      "date_key": "2026-09-24",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Bay Area, US",
+      "description": "CyberRisk Alliance In-Person event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "risk",
+        "security"
+      ],
+      "priority_score": 18,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "CyberRisk CISO Dinner: Los Angeles",
       "start": "2026-09-24T00:00:00+00:00",
       "date_key": "2026-09-24",
@@ -4168,27 +2493,6 @@
       "priority_score": 10,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Blockchain Tech Summit (4th Annual)",
-      "start": "2026-09-25T00:00:00+00:00",
-      "date_key": "2026-09-25",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349",
-      "source": "Eventbrite NYC Fintech",
-      "location": "TBA, New York, NY, US",
-      "description": "Blockchain Tech Summit is the world\u2019s most exclusive event featuring hundreds of entrepreneurs, investors, pioneers, and creatives together.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
     },
     {
       "title": "Global CISO Community Executive Summit",
@@ -4293,27 +2597,6 @@
       "topic": "broad"
     },
     {
-      "title": "Haiti Tech Summit 10th Annual Edition (UNGA Week)",
-      "start": "2026-09-30T00:00:00+00:00",
-      "date_key": "2026-09-30",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/haiti-tech-summit-10th-annual-edition-unga-week-tickets-1985988046709",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Location Virtual, New York, NY, US",
-      "description": "Deemed the \u201cDavos of the Caribbean\u201dHaiti Tech Summit brings together thousands of entrepreneurs, investors, pioneers, and creatives together",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
       "title": "Cybersecurity Summit: Seattle/Bellevue",
       "start": "2026-10-01T00:00:00+00:00",
       "date_key": "2026-10-01",
@@ -4364,52 +2647,6 @@
       ],
       "priority_score": 10,
       "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Hacker Halted 2026",
-      "start": "2026-10-04T00:00:00+00:00",
-      "date_key": "2026-10-04",
-      "end": "2026-10-09T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/hacker-halted-2026-tickets-1991717193742",
-      "source": "Eventbrite Atlanta Cybersecurity",
-      "location": "210 Peachtree Street Northwest, Atlanta, GA, US",
-      "description": "Get ready for Hacker Halted 2026 in Atlanta, GA!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "atlanta",
-      "topic": "broad"
-    },
-    {
-      "title": "IT Security Conference 2026, NYC",
-      "start": "2026-10-06T00:00:00+00:00",
-      "date_key": "2026-10-06",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/it-security-conference-2026-nyc-tickets-1989629968796",
-      "source": "Eventbrite NYC Cybersecurity",
-      "location": "285 Fulton Street, New York, NY, US",
-      "description": "Get Ready for an immersive Networking experience in the IT Security segment",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "nyc",
       "topic": "broad"
     },
     {
@@ -4542,27 +2779,6 @@
       "topic": "broad"
     },
     {
-      "title": "Fintech: Pre Tech Crunch and Money 2020.",
-      "start": "2026-10-12T00:00:00+00:00",
-      "date_key": "2026-10-12",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/fintech-pre-tech-crunch-and-money-2020-tickets-1982124219899",
-      "source": "Eventbrite SF Fintech",
-      "location": "Market street, San Francisco, CA, US",
-      "description": "Two Biggest conference happening back to back. If you are focused on Financial Service disruption the this event is for you to meet others.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
       "title": "InfoSec World",
       "start": "2026-10-12T00:00:00+00:00",
       "date_key": "2026-10-12",
@@ -4614,27 +2830,6 @@
       "priority_score": 11,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Avant South 2026",
-      "start": "2026-10-12T00:00:00+00:00",
-      "date_key": "2026-10-12",
-      "end": "2026-10-13T00:00:00+00:00",
-      "url": "https://www.eventbrite.com/e/avant-south-2026-tickets-1989311616596",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "79 5th St, Atlanta, GA, US",
-      "description": "Avant South: where Atlanta\u2019s tech community connects, innovates, and helps shape one of the nation\u2019s leading tech ecosystems",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
     },
     {
       "title": "CyberRisk Leadership Exchange: Bay Area",
@@ -5589,27 +3784,6 @@
       "topic": "broad"
     },
     {
-      "title": "Ghana Tech Summit - 2026 Ai Edition",
-      "start": "2026-11-19T00:00:00+00:00",
-      "date_key": "2026-11-19",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-1362903052719",
-      "source": "Eventbrite NYC Fintech",
-      "location": "150 West 62nd Street, New York, NY, US",
-      "description": "Ghana Tech Summit",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
       "title": "Monthly Meeting | In-Person Event | November 19, 2026",
       "start": "2026-11-19T20:00:00+00:00",
       "date_key": "2026-11-19",
@@ -6045,28 +4219,6 @@
       "topic": "broad"
     },
     {
-      "title": "Chicago Fintech & Payments Summit",
-      "start": "2027-03-10T00:00:00+00:00",
-      "date_key": "2027-03-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-fintech-payments-summit-tickets-1990049758398",
-      "source": "Eventbrite Chicago Fintech",
-      "location": "TBD, Chicago, IL, US",
-      "description": "Join fintech leaders, payment innovators, and financial services executives for a day of insights on the future of payments, digital banking, and financial technology. Network with industry pioneers and discover emerging trends shaping the future of finance.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "financial services",
-        "fintech"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "fintech"
-    },
-    {
       "title": "CVE/FIRST VulnCon 2027 & Annual CNA Summit - Save the Date",
       "start": "2027-03-30T00:00:00+00:00",
       "date_key": "2027-03-30",
@@ -6086,28 +4238,6 @@
       "priority_score": 1,
       "city": "other-us",
       "topic": "broad"
-    },
-    {
-      "title": "Web3 & Blockchain Innovation Forum 2027",
-      "start": "2027-04-24T00:00:00+00:00",
-      "date_key": "2027-04-24",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/web3-blockchain-innovation-forum-2027-tickets-1990067222634",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Venue TBA, TBA, NY, US",
-      "description": "Join blockchain developers, investors, entrepreneurs, fintech professionals, and technology innovators for a hybrid forum focused on Web3 infrastructure, decentralized finance, blockchain security, NFTs, crypto adoption, smart contracts, and the future of decentralized digital ecosystems. The event features keynote talks, networking opportunities, startup showcases, and live discussions with experienced industry leaders in emerging blockchain technologies.Hybrid Event: Attend in-person or join v",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech",
-        "security"
-      ],
-      "priority_score": 9,
-      "city": "other-us",
-      "topic": "fintech"
     }
   ],
   "source_errors": [
@@ -6120,6 +4250,66 @@
       "source": "HIMSS Events Overview",
       "url": "https://www.himss.org/events-overview/?page=0",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Eventbrite SF Cybersecurity",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/cybersecurity/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite SF Fintech",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/fintech/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite SF Healthcare",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/healthcare/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite NYC Cybersecurity",
+      "url": "https://www.eventbrite.com/d/ny--new-york/cybersecurity/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite NYC Fintech",
+      "url": "https://www.eventbrite.com/d/ny--new-york/fintech/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite NYC Healthcare",
+      "url": "https://www.eventbrite.com/d/ny--new-york/healthcare/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite Atlanta Cybersecurity",
+      "url": "https://www.eventbrite.com/d/ga--atlanta/cybersecurity/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite Atlanta Fintech",
+      "url": "https://www.eventbrite.com/d/ga--atlanta/fintech/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite Atlanta Healthcare",
+      "url": "https://www.eventbrite.com/d/ga--atlanta/healthcare/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite Chicago Cybersecurity",
+      "url": "https://www.eventbrite.com/d/il--chicago/cybersecurity/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite Chicago Fintech",
+      "url": "https://www.eventbrite.com/d/il--chicago/fintech/",
+      "error": "HTTP Error 405: Not Allowed"
+    },
+    {
+      "source": "Eventbrite Chicago Healthcare",
+      "url": "https://www.eventbrite.com/d/il--chicago/healthcare/",
+      "error": "HTTP Error 405: Not Allowed"
     },
     {
       "source": "HIMSS Events",
