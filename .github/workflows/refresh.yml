@@ -6,10 +6,10 @@ on:
     # GitHub cron is UTC and ignores daylight saving, so in winter (CST)
     # this lands at 7:00am. Change to "0 14 * * 1" if you want 8am in winter.
     - cron: "0 13 * * 1"
-  workflow_dispatch: {}   # gives you a manual "Run workflow" button to test
+  workflow_dispatch: {}
 
 permissions:
-  contents: write          # lets the action push the refreshed files
+  contents: write
 
 jobs:
   refresh:
@@ -43,3 +43,18 @@ jobs:
             git commit -m "Auto-refresh event calendar"
             git push
           fi
+
+      - name: Email the team the updated calendar link
+        if: github.event_name == 'schedule'
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          curl -sS -X POST https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "from": "Z Cyber GTM <rutvi@ztekcyber.com>",
+              "to": ["neal@ztekcyber.com", "jai@ztekcyber.com", "jason@ztekcyber.com"],
+              "subject": "Z Cyber security event radar: updated for the week",
+              "html": "<p>The security event radar refreshed for the week.</p><p>Calendar: <a href=\"https://rutvigtm.github.io/zcyber-event-calendar/\">https://rutvigtm.github.io/zcyber-event-calendar/</a></p>"
+            }'
