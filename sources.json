@@ -1,0 +1,488 @@
+{
+  "keywords": {
+    "include": [
+      "security",
+      "cyber",
+      "cybersecurity",
+      "ciso",
+      "infosec",
+      "application security",
+      "appsec",
+      "cloud security",
+      "ai security",
+      "privacy",
+      "risk",
+      "grc",
+      "compliance",
+      "healthcare",
+      "health",
+      "hipaa",
+      "fintech",
+      "financial services"
+    ],
+    "priority": [
+      "ciso",
+      "security leader",
+      "healthcare",
+      "hipaa",
+      "fintech",
+      "ai security",
+      "cloud security",
+      "grc",
+      "risk",
+      "bay area",
+      "san francisco",
+      "sf"
+    ],
+    "exclude": [
+      "webinar replay",
+      "recording available",
+      "job fair"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Silicon Valley ISSA",
+      "url": "https://luma.com/sv-issa",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["broad security", "local meetup"]
+    },
+    {
+      "name": "AI Security Engineers SF Bay Area",
+      "url": "https://luma.com/aiseceng",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["ai security", "local meetup"]
+    },
+    {
+      "name": "East Bay Cyber",
+      "url": "https://eastbaycyber.org/",
+      "type": "html",
+      "parser": "eastbay",
+      "region": "Bay Area",
+      "focus": ["broad security", "local calendar"]
+    },
+    {
+      "name": "OWASP Bay Area",
+      "url": "https://www.meetup.com/Bay-Area-OWASP/events/",
+      "type": "html",
+      "parser": "meetup_group",
+      "region": "Bay Area",
+      "focus": ["application security", "local meetup"]
+    },
+    {
+      "name": "ISACA San Francisco",
+      "url": "https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdashboard",
+      "type": "html",
+      "parser": "isaca_calendar",
+      "region": "Bay Area",
+      "focus": ["governance", "risk", "security", "local chapter"]
+    },
+    {
+      "name": "BSidesSF",
+      "url": "https://bsidessf.org/",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["broad security", "conference"]
+    },
+    {
+      "name": "Women in Security and Privacy",
+      "url": "https://www.wisporg.com/upcoming-events",
+      "type": "html",
+      "region": "US",
+      "focus": ["privacy", "security", "community"]
+    },
+    {
+      "name": "NIST Cybersecurity Events",
+      "url": "https://www.nist.gov/cybersecurity/cybersecurity-privacy-events",
+      "type": "html",
+      "region": "US",
+      "focus": ["standards", "broad security"]
+    },
+    {
+      "name": "NIST NICE Events",
+      "url": "https://www.nist.gov/itl/applied-cybersecurity/nice/events",
+      "type": "html",
+      "region": "US",
+      "focus": ["cybersecurity workforce", "broad security"]
+    },
+    {
+      "name": "FIRST Events",
+      "url": "https://www.first.org/events/",
+      "type": "html",
+      "parser": "first_microdata",
+      "region": "Global",
+      "focus": ["incident response", "broad security"]
+    },
+    {
+      "name": "Tejas Cyber Network",
+      "url": "https://luma.com/tejascybernetwork",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "broad security", "local meetup"]
+    },
+    {
+      "name": "Luma SF Discover",
+      "url": "https://web.luma.com/sf",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["ai", "tech", "broad security", "local discovery"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "Luma NYC Discover",
+      "url": "https://luma.com/nyc",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad security", "local discovery"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "OWASP NYC Meetup",
+      "url": "https://www.meetup.com/owasp-new-york-city-chapter/",
+      "type": "html",
+      "parser": "meetup_group",
+      "region": "US",
+      "focus": ["application security", "local chapter"]
+    },
+    {
+      "name": "ISACA New York Metro",
+      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
+      "type": "html",
+      "parser": "isaca_calendar",
+      "region": "US",
+      "focus": ["governance", "risk", "security", "local chapter"]
+    },
+    {
+      "name": "Luma Chicago Discover",
+      "url": "https://luma.com/chicago",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad security", "local discovery"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "OWASP Chicago",
+      "url": "https://owasp.org/www-chapter-chicago/",
+      "type": "html",
+      "parser": "owasp_chapter",
+      "region": "US",
+      "focus": ["application security", "local chapter"]
+    },
+    {
+      "name": "Chicagoland Cybersecurity Exchange",
+      "url": "https://www.meetup.com/chicagoland-cybersecurity-exchange/",
+      "type": "html",
+      "parser": "meetup_group",
+      "region": "US",
+      "focus": ["broad security", "local meetup"]
+    },
+    {
+      "name": "ISACA Chicago",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "type": "html",
+      "parser": "isaca_calendar",
+      "region": "US",
+      "focus": ["governance", "risk", "security", "local chapter"]
+    },
+    {
+      "name": "Luma Atlanta Discover",
+      "url": "https://luma.com/atlanta",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad security", "local discovery"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "OWASP Atlanta",
+      "url": "https://www.meetup.com/owasp-atlanta/",
+      "type": "html",
+      "parser": "meetup_group",
+      "region": "US",
+      "focus": ["application security", "local chapter"]
+    },
+    {
+      "name": "ISSA Atlanta",
+      "url": "https://www.issaatl.org/events",
+      "type": "html",
+      "parser": "jsonld",
+      "region": "US",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "CSA Atlanta",
+      "url": "https://csa-atl.org/",
+      "type": "html",
+      "parser": "csa_atl",
+      "region": "US",
+      "focus": ["cloud security", "local chapter"]
+    },
+    {
+      "name": "Luma AI Category",
+      "url": "https://luma.com/ai?locale=en-US",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad discovery"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "Luma Tech Category",
+      "url": "https://luma.com/tech?locale=en-US",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad discovery"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "CyberRisk Alliance Events",
+      "url": "https://www.cyberriskalliance.com/events",
+      "type": "html",
+      "parser": "cra_events",
+      "region": "US",
+      "focus": ["ciso", "broad security", "executive", "regional summit"]
+    },
+    {
+      "name": "Official Cybersecurity Summit Schedule",
+      "url": "https://cybersecuritysummit.com/summits",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "broad security", "executive", "regional summit"]
+    },
+    {
+      "name": "SC Media Webcasts",
+      "url": "https://www.scworld.com/webcasts",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "threat intelligence", "virtual summit"]
+    },
+    {
+      "name": "InfoSec World",
+      "url": "https://www.infosecworldusa.com/",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["ciso", "broad security", "conference"],
+      "event": {
+        "title": "InfoSec World 2026",
+        "start": "October 12, 2026",
+        "end": "October 14, 2026",
+        "location": "Kissimmee, Florida, US",
+        "description": "CyberRisk Alliance InfoSec World conference"
+      }
+    },
+    {
+      "name": "Evanta CISO Calendar",
+      "url": "https://www.evanta.com/calendar",
+      "type": "html",
+      "parser": "evanta_calendar",
+      "region": "US",
+      "focus": ["ciso", "executive", "regional summit", "security leadership"]
+    },
+    {
+      "name": "Health-ISAC Summits",
+      "url": "https://health-isac.org/summits/",
+      "type": "html",
+      "parser": "health_isac_summits",
+      "region": "US",
+      "focus": ["healthcare", "health", "cybersecurity", "isac"]
+    },
+    {
+      "name": "Health-ISAC Fall Americas Summit",
+      "url": "https://health-isac.org/summit-meeting/2026-fall-americas-summit/",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["healthcare", "health", "cybersecurity", "isac"],
+      "event": {
+        "title": "Health-ISAC 2026 Fall Americas Summit",
+        "start": "November 30, 2026",
+        "end": "December 4, 2026",
+        "location": "Tucson, AZ, US",
+        "description": "Health-ISAC Americas summit for health sector security and resilience"
+      }
+    },
+    {
+      "name": "FS-ISAC Events",
+      "url": "https://www.fsisac.com/events",
+      "type": "html",
+      "region": "US",
+      "focus": ["fintech", "financial services", "cybersecurity", "isac"]
+    },
+    {
+      "name": "FS-ISAC Steel Resolve Exercise",
+      "url": "https://www.fsisac.com/events/steel-resolve-2026",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["fintech", "financial services", "cybersecurity", "isac", "resilience"],
+      "event": {
+        "title": "FS-ISAC Steel Resolve Exercise",
+        "start": "July 28, 2026",
+        "end": "July 29, 2026",
+        "location": "Online",
+        "description": "FS-ISAC sector-wide functional exercise for financial infrastructure resilience"
+      }
+    },
+    {
+      "name": "FS-ISAC Americas Fall Summit",
+      "url": "https://www.fsisac.com/events/americas-fall-summit",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["fintech", "financial services", "cybersecurity", "isac", "resilience"],
+      "event": {
+        "title": "FS-ISAC 2026 Americas Fall Summit",
+        "start": "October 26, 2026",
+        "end": "October 29, 2026",
+        "location": "Austin, TX, US",
+        "description": "FS-ISAC financial sector cybersecurity and resilience summit"
+      }
+    },
+    {
+      "name": "HIMSS Events Overview",
+      "url": "https://www.himss.org/events-overview/?page=0",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "health", "cybersecurity", "privacy", "conference"]
+    },
+    {
+      "name": "Becker's Health IT Conference",
+      "url": "https://events.beckershospitalreview.com/hit_rcm_2026/",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["healthcare", "health", "ai", "digital health", "risk"],
+      "event": {
+        "title": "Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health",
+        "start": "September 14, 2026",
+        "end": "September 17, 2026",
+        "location": "Chicago, IL, US",
+        "description": "Becker's Healthcare conference for health system IT, digital health, AI, and revenue cycle leaders"
+      }
+    },
+    {
+      "name": "InfoSec Conferences",
+      "url": "https://www.infosec-conferences.com/",
+      "type": "html",
+      "region": "Global",
+      "focus": ["conference", "broad security"]
+    },
+    {
+      "name": "Eventbrite SF Cybersecurity",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/cybersecurity/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite SF Fintech",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/fintech/",
+      "type": "html",
+      "region": "US",
+      "focus": ["fintech", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite SF Healthcare",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/healthcare/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite NYC Cybersecurity",
+      "url": "https://www.eventbrite.com/d/ny--new-york/cybersecurity/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite NYC Fintech",
+      "url": "https://www.eventbrite.com/d/ny--new-york/fintech/",
+      "type": "html",
+      "region": "US",
+      "focus": ["fintech", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite NYC Healthcare",
+      "url": "https://www.eventbrite.com/d/ny--new-york/healthcare/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Atlanta Cybersecurity",
+      "url": "https://www.eventbrite.com/d/ga--atlanta/cybersecurity/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Atlanta Fintech",
+      "url": "https://www.eventbrite.com/d/ga--atlanta/fintech/",
+      "type": "html",
+      "region": "US",
+      "focus": ["fintech", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Atlanta Healthcare",
+      "url": "https://www.eventbrite.com/d/ga--atlanta/healthcare/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Chicago Cybersecurity",
+      "url": "https://www.eventbrite.com/d/il--chicago/cybersecurity/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Chicago Fintech",
+      "url": "https://www.eventbrite.com/d/il--chicago/fintech/",
+      "type": "html",
+      "region": "US",
+      "focus": ["fintech", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Chicago Healthcare",
+      "url": "https://www.eventbrite.com/d/il--chicago/healthcare/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "local meetup"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "FinTech Meetup",
+      "url": "https://fintechmeetup.com/",
+      "type": "html",
+      "region": "US",
+      "focus": ["fintech"]
+    },
+    {
+      "name": "HIMSS Events",
+      "url": "https://www.himss.org/events",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare"]
+    }
+  ]
+}
