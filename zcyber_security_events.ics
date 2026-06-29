@@ -6,378 +6,28 @@ METHOD:PUBLISH
 X-WR-CALNAME:Z Cyber Security Event Radar
 X-WR-CALDESC:Cybersecurity, healthcare security, fintech security, and Bay Area security events.
 BEGIN:VEVENT
-UID:f5d7f0883a8cf4a4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:International Workshop on Security in Machine Learning and its Applications (SiMLA) 2026
-DESCRIPTION:Key Takeaways Focuses on security and privacy challenges in machine learning (ML) systems Explores adversarial learning\, robust algorithms\, and privacy-preserving techniques Addresses risks related to Artificial General Intelligence (AGI) and mis/disinformation Targets academic researchers\, industry professionals\, and practitioners in ML/AI security Emphasizes bridging theoretical advances with real-world secure ML applications | Source: InfoSec Conferences | Tags: ai security\, infosec\, privacy\, risk\, security | https://infosec-conferences.com/event/20260622-international-workshop-on-security-in-machine-learning-and/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260622-international-workshop-on-security-in-machine-learning-and/
-END:VEVENT
-BEGIN:VEVENT
-UID:7e8b78a5f5eedcd2@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026
-DESCRIPTION:Key Takeaways Focuses on the intersection of Artificial Intelligence\, Industrial IoT\, and cybersecurity Explores security\, privacy\, and resilience in AIoT and Cyber-Physical Systems Targets academic researchers\, industry experts\, and technical professionals Addresses challenges such as adversarial machine learning and risk management Emphasizes research sharing\, collaboration\, and academic networking The 8th | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, privacy\, risk\, security | https://infosec-conferences.com/event/20260622-international-workshop-on-artificial-intelligence-and-industrial-iot/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260622-international-workshop-on-artificial-intelligence-and-industrial-iot/
-END:VEVENT
-BEGIN:VEVENT
-UID:7388c40cd3bacf11@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:SecureIT Summit Tampa 2026
-DESCRIPTION:Key Takeaways Premier event for cloud computing\, hosting\, and internet infrastructure professionals Focus on cloud services\, cybersecurity\, AI\, and digital transformation Opportunities for networking\, business development\, and industry collaboration Features keynotes\, panels\, workshops\, and expo sessions Addresses challenges in cloud infrastructure\, security\, and emerging technologies CloudFest USA 2024 brings together | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, security | https://infosec-conferences.com/event/20260622-secureit-summit-tampa-2026/
-LOCATION:Tampa\, Florida\, US
-URL:https://infosec-conferences.com/event/20260622-secureit-summit-tampa-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:8f2338bf03f5565e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:ACNS Workshop on Intelligent and Secure Computing (ACNS-ISC) 2026
-DESCRIPTION:Focuses on the intersection of intelligent computing and secure computing Explores AI-driven systems in security-critical environments Covers topics such as adversarial machine learning and privacy-preserving model training Targets academic researchers\, industry professionals\, and security architects Promotes interdisciplinary collaboration in AI\, cryptography\, and cybersecurity The 1st ACNS Workshop on Intelligent and | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, privacy\, security | https://infosec-conferences.com/event/20260622-acns-workshop-on-intelligent-and-secure-computing-acns-isc/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260622-acns-workshop-on-intelligent-and-secure-computing-acns-isc/
-END:VEVENT
-BEGIN:VEVENT
-UID:1cf647fd290455ba@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:International Conference on Applied Cryptography and Network Security (ACNS) 2026
-DESCRIPTION:Key Takeaways Annual conference focused on applied cryptography\, cybersecurity\, and privacy Brings together academic researchers and industry professionals Covers both theoretical research and practical implementations Features workshops\, poster sessions\, and paper presentations Emphasizes knowledge exchange and collaboration between academia and industry The Applied Cryptography and Network Security (ACNS) 2026 conference | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, privacy\, security | https://infosec-conferences.com/event/20260622-international-conference-on-applied-cryptography-and-network-security/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260622-international-conference-on-applied-cryptography-and-network-security/
-END:VEVENT
-BEGIN:VEVENT
-UID:3062d4b52dbd4409@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:International Workshop on Critical Infrastructure and Maritime Systems Security (CIMSS) 2026
-DESCRIPTION:Focuses on security and resilience of critical infrastructure and maritime systems Highlights Industry 4.0 and Maritime 4.0 technologies Brings together researchers\, professionals\, and industry stakeholders Addresses cybersecurity frameworks and compliance standards Emphasizes collaboration between academia and industry CIMSS 2026\, the 6th International Workshop on Critical Infrastructure and Maritime Systems Security\, | Source: InfoSec Conferences | Tags: compliance\, cyber\, cybersecurity\, infosec\, security | https://infosec-conferences.com/event/20260622-international-workshop-on-critical-infrastructure-and-maritime-systems/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260622-international-workshop-on-critical-infrastructure-and-maritime-systems/
-END:VEVENT
-BEGIN:VEVENT
-UID:df4304d2ede69149@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:Artificial Intelligence in Hardware Security (AIHWS) 2026
-DESCRIPTION:Key Takeaways Academic workshop focused on artificial intelligence and hardware security Brings together researchers and industry professionals from AI and security domains Covers topics such as side-channel attacks\, trustworthy manufacturing\, and AI-based cryptanalysis Emphasizes collaboration\, knowledge sharing\, and advancing state-of-the-art research Held in conjunction with ACNS 2026 in Stony Brook\, | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260622-artificial-intelligence-in-hardware-security-aihws-2026/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260622-artificial-intelligence-in-hardware-security-aihws-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:3d4540827f01c9d7@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T000000Z
-DTEND:20260622T020000Z
-SUMMARY:IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2026
-DESCRIPTION:Key Takeaways Premier international conference on dependable systems and networks Focus on robustness\, resilience\, safety\, and security in computing Brings together academic and industry leaders Covers research\, tools\, and best practices for system dependability Designed for researchers\, engineers\, and technical executives The 56th Annual IEEE/IFIP International Conference on Dependable Systems | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260622-ieeeifip-international-conference-on-dependable-systems-and-networks/
-LOCATION:Charlotte\, North Carolina\, US
-URL:https://infosec-conferences.com/event/20260622-ieeeifip-international-conference-on-dependable-systems-and-networks/
-END:VEVENT
-BEGIN:VEVENT
-UID:5112857c18a09e46@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T170000Z
-DTEND:20260622T190000Z
-SUMMARY:Deep Tech Morning Boost ⏻: Pickleball & Breakfast
-DESCRIPTION:Source: Luma SF Discover | Tags: tech | https://luma.com/ph4wpuzn
+UID:80700180fc8c1a41@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260629T000000Z
+DTEND:20260629T020000Z
+SUMMARY:AUTO.AI USA 2026
+DESCRIPTION:Key Takeaways Focus on AI\, machine learning\, and neural networks for Level 4 and 5 autonomous vehicles Industry leaders and decision-makers gather to discuss deep learning and perception systems Exploration of self-supervised and behavioral learning\, scalable machine learning\, and reinforcement learning Benchmarking and advancing computer vision for highly autonomous driving | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260629-autoai-usa-2026/
 LOCATION:San Francisco\, California\, US
-URL:https://luma.com/ph4wpuzn
+URL:https://infosec-conferences.com/event/20260629-autoai-usa-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:a5ab0e0600a694b5@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260622T193000Z
-DTEND:20260623T000000Z
-SUMMARY:The Global State of Deep Tech
-DESCRIPTION:Source: Luma SF Discover | Tags: tech | https://luma.com/tjz6cxz2
-LOCATION:945 Market Street\, San Francisco\, California\, US
-URL:https://luma.com/tjz6cxz2
-END:VEVENT
-BEGIN:VEVENT
-UID:dd9697b34c5354a3@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:Confidential Computing Summit 2026
-DESCRIPTION:Key Takeaways Focuses on advancing secure\, privacy-preserving AI infrastructure for enterprises Brings together leaders from technology\, finance\, government\, and cloud sectors Explores confidential computing\, compliance standards\, and production-ready AI Highlights real-world implementations and operational challenges in secure AI Features major industry sponsors and live networking opportunities The Confidential Computing Summit | Source: InfoSec Conferences | Tags: compliance\, infosec\, privacy\, security | https://infosec-conferences.com/event/20260623-confidential-computing-summit-2026/
+UID:fc9310e721cb2953@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260629T000000Z
+DTEND:20260629T020000Z
+SUMMARY:Safety.Ad USA 2026
+DESCRIPTION:Key Takeaways Focus on functional\, system\, and operational safety for highly to fully automated vehicles Industry leaders and technical experts gather to discuss AD and ADAS safety challenges Latest updates on standards\, technical innovations\, and regulatory trends Emphasis on Level 3+ vehicle safety systems and real-world operational issues Safety.AD USA | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260629-safetyad-usa-2026/
 LOCATION:San Francisco\, California\, US
-URL:https://infosec-conferences.com/event/20260623-confidential-computing-summit-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:77287560c0de0440@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:Cybersecurity Summit: Pittsburgh
-DESCRIPTION:CyberRisk Alliance In-Person event | Source: CyberRisk Alliance Events | Tags: ciso\, cyber\, cybersecurity\, risk\, security | https://www.cyberriskalliance.com/events
-LOCATION:Pittsburgh\, US
-URL:https://www.cyberriskalliance.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:7e61bf16c5e8889e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:CyberRisk Leadership Exchange: Charlotte
-DESCRIPTION:CyberRisk Alliance In-Person event | Source: CyberRisk Alliance Events | Tags: ciso\, cyber\, risk\, security | https://www.cyberriskalliance.com/events
-LOCATION:Charlotte\, US
-URL:https://www.cyberriskalliance.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:624edf6ec6bdc772@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:Denver CISO Community Executive Summit
-DESCRIPTION:Evanta Gartner CISO community event | Source: Evanta CISO Calendar | Tags: ciso\, security | https://www.evanta.com/calendar
-LOCATION:Denver\, US
-URL:https://www.evanta.com/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:f6b48b21a867b8a5@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:Seattle CISO Community Executive Summit
-DESCRIPTION:Evanta Gartner CISO community event | Source: Evanta CISO Calendar | Tags: ciso\, security | https://www.evanta.com/calendar
-LOCATION:Seattle\, US
-URL:https://www.evanta.com/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:7d70e0134460f86e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026
-DESCRIPTION:Key Takeaways Focuses on the intersection of Artificial Intelligence\, Industrial IoT\, and cybersecurity Explores security\, privacy\, and resilience in AIoT and cyber-physical systems Highlights emerging research on adversarial machine learning\, federated learning\, and applied cryptography Brings together academic and industry experts for collaborative discussion Addresses operational challenges in securing intelligent\, | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, privacy\, security | https://infosec-conferences.com/event/20260623-international-workshop-on-artificial-intelligence-and-industrial-iot/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260623-international-workshop-on-artificial-intelligence-and-industrial-iot/
-END:VEVENT
-BEGIN:VEVENT
-UID:32bd3f3b7fd947b0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:CyAD Summit: Cybersecurity Across Disciplines 2026
-DESCRIPTION:Key Takeaways Focuses on the intersection of cybersecurity\, education\, and workforce development across all critical infrastructure sectors Brings together academia\, industry\, and government to address cross-disciplinary challenges Highlights the integration of emerging technologies such as AI and quantum computing in cybersecurity Emphasizes collaborative approaches to curriculum innovation and sector resilience | Source: InfoSec Conferences | Tags: cyber\, cybersecurity\, infosec\, security | https://infosec-conferences.com/event/20260623-cyad-summit-cybersecurity-across-disciplines-2026/
-LOCATION:Palos Hills\, Illinois\, US
-URL:https://infosec-conferences.com/event/20260623-cyad-summit-cybersecurity-across-disciplines-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:8ac0216409354cd7@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:NextG Networks Cryptography and Security (NextG-Sec) 2026
-DESCRIPTION:Key Takeaways Specialized workshop on security and cryptography for NextG wireless networks Focus on 5G\, 6G\, and future network technologies Emphasis on post-quantum cryptography and quantum-resilient solutions Brings together researchers\, industry professionals\, and government representatives Addresses urgent security\, privacy\, and defense challenges in distributed network environments The NextG Networks Cryptography | Source: InfoSec Conferences | Tags: infosec\, privacy\, security | https://infosec-conferences.com/event/20260623-nextg-networks-cryptography-and-security-nextg-sec-2026/
-LOCATION:Stony Brook\, New York\, US
-URL:https://infosec-conferences.com/event/20260623-nextg-networks-cryptography-and-security-nextg-sec-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:05dc8efcd27d4566@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T000000Z
-DTEND:20260623T020000Z
-SUMMARY:Summerfest Tech 2026
-DESCRIPTION:Key Takeaways Annual technology and innovation conference held in Milwaukee\, Wisconsin Brings together tech professionals\, entrepreneurs\, and business leaders from across the Midwest Focuses on emerging technologies\, entrepreneurship\, and business growth Features keynote speakers\, technical workshops\, partner programming\, and a live pitch competition Designed to foster networking\, collaboration\, and the | Source: InfoSec Conferences | Tags: infosec\, security | https://infosec-conferences.com/event/20260623-summerfest-tech-2026/
-LOCATION:Milwaukee\, Wisconsin\, US
-URL:https://infosec-conferences.com/event/20260623-summerfest-tech-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:8139c105d71b8d2e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T013000Z
-DTEND:20260623T043000Z
-SUMMARY:🇯🇵 Japan × Global Tech Meetup: pre-Config networking 🌐 日本 × グローバル テック交流会
-DESCRIPTION:Source: Luma SF Discover | Tags: tech | https://luma.com/wu78sd6q
-LOCATION:ZOË\, San Francisco\, California\, US
-URL:https://luma.com/wu78sd6q
-END:VEVENT
-BEGIN:VEVENT
-UID:c97fe111943b28e0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T143000Z
-DTEND:20260623T153000Z
-SUMMARY:NVIDIA x AI Builders: Coffee & Conversation
-DESCRIPTION:Source: Luma Chicago Discover | Tags: ai | https://luma.com/1871-k10l
-LOCATION:Edelman\, Chicago\, Illinois\, US
-URL:https://luma.com/1871-k10l
-END:VEVENT
-BEGIN:VEVENT
-UID:6fec687cbd05d640@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T170000Z
-DTEND:20260623T190000Z
-SUMMARY:Physical AI Investor Mixer
-DESCRIPTION:Source: Luma SF Discover | Tags: ai | https://luma.com/deep-2pbu
-LOCATION:San Francisco\, California\, US
-URL:https://luma.com/deep-2pbu
-END:VEVENT
-BEGIN:VEVENT
-UID:72ccf076de212bcb@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T193000Z
-DTEND:20260623T213000Z
-SUMMARY:ISACA Chicago Chapter Monthly Meeting | In-Person Event | June 23\, 2026
-DESCRIPTION:ISACA | Source: ISACA Chicago | Tags: risk\, security | https://engage.isaca.org/chicagochapter/events/calendar
-LOCATION:CME Center - Zo Conference room\, 10 S. Wacker Drive\, Chicago\, IL 60606
-URL:https://engage.isaca.org/chicagochapter/events/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:dbbe5a5d37857c69@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T220000Z
-DTEND:20260624T000000Z
-SUMMARY:Civic tech meetup @ Config 2026
-DESCRIPTION:Source: Luma SF Discover | Tags: tech | https://luma.com/lz66ve3n
-LOCATION:Moscone Center\, San Francisco\, California\, US
-URL:https://luma.com/lz66ve3n
-END:VEVENT
-BEGIN:VEVENT
-UID:413995f4474a2642@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T220000Z
-DTEND:20260624T000000Z
-SUMMARY:Beauty in Balance Tech for Creatives NYC Panel: Hosted at TikTok NY HQ
-DESCRIPTION:Source: Luma NYC Discover | Tags: tech | https://luma.com/lu9xsy8h
-LOCATION:151 W 42nd St\, New York\, New York\, US
-URL:https://luma.com/lu9xsy8h
-END:VEVENT
-BEGIN:VEVENT
-UID:7670347b286d032e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260623T223000Z
-DTEND:20260624T003000Z
-SUMMARY:Kleiner Perkins × OpenEvidence: AI Engineers at the Frontier
-DESCRIPTION:Source: Luma NYC Discover | Tags: ai | https://luma.com/wmlvds6k
-LOCATION:New York\, New York\, US
-URL:https://luma.com/wmlvds6k
-END:VEVENT
-BEGIN:VEVENT
-UID:593890f32f3adbf3@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T000000Z
-DTEND:20260624T020000Z
-SUMMARY:CyberRisk CISO Dinner: Los Angeles
-DESCRIPTION:CyberRisk Alliance In-Person event | Source: CyberRisk Alliance Events | Tags: ciso\, cyber\, risk\, security | https://www.cyberriskalliance.com/events
-LOCATION:Los Angeles\, US
-URL:https://www.cyberriskalliance.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:3d4d6aeb2598e8c0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T000000Z
-DTEND:20260624T020000Z
-SUMMARY:Virtual Summit: AI for next-gen SOC
-DESCRIPTION:CyberRisk Alliance Virtual event | Source: CyberRisk Alliance Events | Tags: ciso\, cyber\, risk\, security | https://www.cyberriskalliance.com/events
-LOCATION:Online
-URL:https://www.cyberriskalliance.com/events
-END:VEVENT
-BEGIN:VEVENT
-UID:df33736394a5a37e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T003000Z
-DTEND:20260624T033000Z
-SUMMARY:Deep Tech Undergound by Alta\, Stifel & Sequoia
-DESCRIPTION:Source: Luma SF Discover | Tags: tech | https://luma.com/ew1byl0d
-LOCATION:San Francisco\, California\, US
-URL:https://luma.com/ew1byl0d
-END:VEVENT
-BEGIN:VEVENT
-UID:4f7a70df1bf0ba9a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T010000Z
-DTEND:20260624T040000Z
-SUMMARY:How AI-Native Collaboration Is Changing How Teams Build
-DESCRIPTION:Source: Luma SF Discover | Tags: ai | https://luma.com/0h79d4y3
-LOCATION:San Francisco\, California\, US
-URL:https://luma.com/0h79d4y3
-END:VEVENT
-BEGIN:VEVENT
-UID:00c1224b2277dfc1@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T140000Z
-DTEND:20260625T220000Z
-SUMMARY:[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25
-DESCRIPTION:ISACA | Source: ISACA Chicago | Tags: risk\, security | https://engage.isaca.org/chicagochapter/events/calendar
-LOCATION:
-URL:https://engage.isaca.org/chicagochapter/events/calendar
-END:VEVENT
-BEGIN:VEVENT
-UID:98983b4c2c380215@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T150000Z
-DTEND:20260624T170000Z
-SUMMARY:Underground Hacks
-DESCRIPTION:Source: AI Security Engineers SF Bay Area | Tags: ai security\, security | https://luma.com/aiseceng-05sz
-LOCATION:Radocha\, Kraków\, Województwo małopolskie\, PL
-URL:https://luma.com/aiseceng-05sz
-END:VEVENT
-BEGIN:VEVENT
-UID:504baaaa90c38be0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T210000Z
-DTEND:20260625T000000Z
-SUMMARY:Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy
-DESCRIPTION:Source: Luma NYC Discover | Tags: agentic | https://luma.com/qydwq3g4
-LOCATION:New York\, New York\, US
-URL:https://luma.com/qydwq3g4
-END:VEVENT
-BEGIN:VEVENT
-UID:d990e64b3c259c49@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T220000Z
-DTEND:20260625T000000Z
-SUMMARY:Please Waste My Time: Detection through Deception
-DESCRIPTION:Source: OWASP Atlanta | Tags: application security\, appsec\, security | https://www.meetup.com/owasp-atlanta/events/314667793/?eventOrigin=group_upcoming_events
-LOCATION:Hybrid SandboxATL\, 483 Moreland Ave NE\, Third Floor\, Atlanta\, GA\, US Red teamers rely on predictability\; predictable enumeration paths\, predictable credential locations\, predictable network behavior. Deception defense exploits exactly that. This talk+workshop is a practical guide to wasting a red teamer's time\, told by someone who has been on both sides of it. I've tripped honeypots mid-engagement. I've also built them. That dual perspective shapes everything in this session. We'll cover a tiered deception stack: Active Directory honey users and honey SPNs designed to catch Kerberoasting and lateral movement\; canary tokens embedded in documents\, file shares\, and source code repositories\; honey API endpoints and SSRF detection triggers for AppSec teams\; and — newer territory — deception techniques purpose-built for AI systems\, including canary instructions in LLM system prompts\, honey documents in RAG pipelines\, and fake AI API keys that alert when someone finds them. The talk includes hands-on exercises. Attendees will generate\, plant\, and trigger their own canary tokens during the session and leave with a working mental model for building a deception program\, not just deploying a one-off trick.
-URL:https://www.meetup.com/owasp-atlanta/events/314667793/?eventOrigin=group_upcoming_events
-END:VEVENT
-BEGIN:VEVENT
-UID:7b06ec6889460504@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T220000Z
-DTEND:20260625T003000Z
-SUMMARY:AI Engineers Presents: Fonzi's Founders to Follow
-DESCRIPTION:Source: Luma NYC Discover | Tags: ai | https://luma.com/lo17rr1c
-LOCATION:Brooklyn\, New York\, US
-URL:https://luma.com/lo17rr1c
-END:VEVENT
-BEGIN:VEVENT
-UID:3f7bf23179822660@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260624T220000Z
-DTEND:20260625T000000Z
-SUMMARY:NYC AI Demos #10: VENTURE SPOTLIGHT
-DESCRIPTION:Source: Luma NYC Discover | Tags: ai | https://luma.com/nyc10
-LOCATION:The Refinery at Domino Offices\, Brooklyn\, New York\, US
-URL:https://luma.com/nyc10
-END:VEVENT
-BEGIN:VEVENT
-UID:1789f42e0ce6c03d@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
-DTSTART:20260628T150000Z
-DTEND:20260628T180000Z
-SUMMARY:Community Crossover: Fitness x Tech Crawl👟❤️‍🔥💻
-DESCRIPTION:Source: Luma Chicago Discover | Tags: tech | https://luma.com/30pgedh4
-LOCATION:Real Authentic Wellness (R.A.W.) | Chicago\, Chicago\, Illinois\, US
-URL:https://luma.com/30pgedh4
+URL:https://infosec-conferences.com/event/20260629-safetyad-usa-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:c8ec7c32854e9033@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260630T000000Z
 DTEND:20260630T020000Z
 SUMMARY:Cybersecurity Summit: Minneapolis
@@ -386,8 +36,108 @@ LOCATION:Minneapolis\, US
 URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:7c764190e9da5445@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260630T000000Z
+DTEND:20260630T020000Z
+SUMMARY:Wine and Whiskey Tasting focusing on the Cloud Governance Crisis
+DESCRIPTION:Key Takeaways Exclusive gathering for senior cyber security professionals Focus on cloud governance\, security challenges\, and audit readiness Discussion of continuous governance strategies and asset visibility Networking in a private\, invitation-only setting Leaders in cyber security are invited to a private event in Dunwoody\, GA\, designed for those shaping the | Source: InfoSec Conferences | Tags: cyber\, infosec\, security | https://infosec-conferences.com/event/20260630-wine-and-whiskey-tasting-focusing-on-the-cloud/
+LOCATION:Atlanta\, GA\, Georgia\, US
+URL:https://infosec-conferences.com/event/20260630-wine-and-whiskey-tasting-focusing-on-the-cloud/
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d772379468370c@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260630T020000Z
+DTEND:20260630T043000Z
+SUMMARY:PlanetScale x Low Level: Security in the AI era
+DESCRIPTION:Source: Luma SF Discover | Tags: ai\, security | https://luma.com/ow1f82nb
+LOCATION:PlanetScale\, San Francisco\, California\, US
+URL:https://luma.com/ow1f82nb
+END:VEVENT
+BEGIN:VEVENT
+UID:7cc013f32b3b2972@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260630T020000Z
+DTEND:20260630T050000Z
+SUMMARY:THE AI Engineer Afterparty
+DESCRIPTION:Source: Luma SF Discover | Tags: ai | https://luma.com/composio-lh5g
+LOCATION:San Francisco\, California\, US
+URL:https://luma.com/composio-lh5g
+END:VEVENT
+BEGIN:VEVENT
+UID:31ca79a5e2ff5abb@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+SUMMARY:What Makes a Good Life? A Guided Public Discussion on AI
+DESCRIPTION:Source: Luma NYC Discover | Tags: ai | https://luma.com/ai-goodlife
+LOCATION:526 Hudson St\, New York\, New York\, US
+URL:https://luma.com/ai-goodlife
+END:VEVENT
+BEGIN:VEVENT
+UID:9009f2e9d7800387@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260630T220000Z
+DTEND:20260701T050000Z
+SUMMARY:The Agent Open: AI's pickleball tournament
+DESCRIPTION:Source: Luma SF Discover | Tags: ai | https://luma.com/the-agent-open
+LOCATION:San Francisco\, California\, US
+URL:https://luma.com/the-agent-open
+END:VEVENT
+BEGIN:VEVENT
+UID:ea163af8f7843600@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260630T223000Z
+DTEND:20260701T010000Z
+SUMMARY:June Tech Rooftop Mixer (Hosted by Andrew Yeung)
+DESCRIPTION:Source: Luma NYC Discover | Tags: tech | https://luma.com/junetechmixer
+LOCATION:Brooklyn\, New York\, US
+URL:https://luma.com/junetechmixer
+END:VEVENT
+BEGIN:VEVENT
+UID:2af2ac39d0c5df0a@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260701T000000Z
+DTEND:20260701T033000Z
+SUMMARY:[AI Engineer] Frontier Coding Dinner co-hosted by G2i and AI Circle
+DESCRIPTION:Source: Luma SF Discover | Tags: ai | https://luma.com/b33n09v9
+LOCATION:San Francisco\, California\, US
+URL:https://luma.com/b33n09v9
+END:VEVENT
+BEGIN:VEVENT
+UID:e7eb5403ecdb3d51@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260701T003000Z
+DTEND:20260701T030000Z
+SUMMARY:How to get press without a PR agency: a workshop for early-stage founders
+DESCRIPTION:Source: Luma SF Discover | Tags: ai | https://luma.com/ml5i1ves
+LOCATION:Hanwha AI Center\, San Francisco\, California\, US
+URL:https://luma.com/ml5i1ves
+END:VEVENT
+BEGIN:VEVENT
+UID:ed96b445b57a473b@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260701T003000Z
+DTEND:20260701T033000Z
+SUMMARY:Women Tech Meetup: Building Without Permission
+DESCRIPTION:Source: Luma SF Discover | Tags: tech | https://luma.com/womentech-t1cp
+LOCATION:San Francisco\, California\, US
+URL:https://luma.com/womentech-t1cp
+END:VEVENT
+BEGIN:VEVENT
+UID:e233f2531b93c305@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260701T010000Z
+DTEND:20260701T040000Z
+SUMMARY:AI Leaders Dinner - SF\, June 30\, 2026
+DESCRIPTION:Source: Luma SF Discover | Tags: ai | https://luma.com/ai-leaders-dinner-sf
+LOCATION:San Francisco\, California\, US
+URL:https://luma.com/ai-leaders-dinner-sf
+END:VEVENT
+BEGIN:VEVENT
 UID:888d95b0bc00242f@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260701T190000Z
 DTEND:20260701T210000Z
 SUMMARY:The Unique Role of the IT Audit-Savvy Internal Auditors in Solving a Major Unmanaged Risk
@@ -397,7 +147,7 @@ URL:https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdas
 END:VEVENT
 BEGIN:VEVENT
 UID:1baa5e2003e1369b@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260701T190000Z
 DTEND:20260701T200000Z
 SUMMARY:Patch Your Wallet : A Peer Personal Finance Learning Session for Cyber Professionals
@@ -406,8 +156,18 @@ LOCATION:https://luma.com/tejas-hbkq
 URL:https://luma.com/tejas-hbkq
 END:VEVENT
 BEGIN:VEVENT
+UID:02554157664d3920@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260701T220000Z
+DTEND:20260702T020000Z
+SUMMARY:Party with Abaka AI: NYC Launch Night in Manhattan
+DESCRIPTION:Source: Luma NYC Discover | Tags: ai | https://luma.com/abakaai-yx1l
+LOCATION:New York\, New York\, US
+URL:https://luma.com/abakaai-yx1l
+END:VEVENT
+BEGIN:VEVENT
 UID:e21cf480dcc2ae35@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260707T210000Z
 DTEND:20260707T230000Z
 SUMMARY:Careers & Conversations | July 07\, 2026 | @ 4 PM CT
@@ -416,8 +176,28 @@ LOCATION:
 URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:7d00a6a6a119e9e2@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260708T190000Z
+DTEND:20260708T200000Z
+SUMMARY:Agentic AI Identity - A Primer For All by Anshu Gupta
+DESCRIPTION:Source: Tejas Cyber Network | Tags: ciso\, cyber\, security | https://luma.com/tejas-vd3o
+LOCATION:https://luma.com/tejas-vd3o
+URL:https://luma.com/tejas-vd3o
+END:VEVENT
+BEGIN:VEVENT
+UID:a52464590fb99694@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260708T213000Z
+DTEND:20260709T010000Z
+SUMMARY:AI Builders Night New York
+DESCRIPTION:Source: Luma NYC Discover | Tags: ai | https://luma.com/clickh-lz8k
+LOCATION:LOFT39\, New York\, New York\, US
+URL:https://luma.com/clickh-lz8k
+END:VEVENT
+BEGIN:VEVENT
 UID:4de0088487ec2713@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260709T000000Z
 DTEND:20260709T020000Z
 SUMMARY:CISO Stories: AI Security (Black Hat Preview)
@@ -427,7 +207,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:315a15b9eb982ea8@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260709T160000Z
 DTEND:20260709T170000Z
 SUMMARY:July Tech Square Game Day + Lunch
@@ -437,7 +217,7 @@ URL:https://luma.com/ygomjain
 END:VEVENT
 BEGIN:VEVENT
 UID:8a2988cf239979f1@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260710T140000Z
 DTEND:20260710T160000Z
 SUMMARY:Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10\, 2026
@@ -447,7 +227,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:1df1a3f2a616aa5a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260710T190000Z
 DTEND:20260710T200000Z
 SUMMARY:The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed
@@ -456,8 +236,18 @@ LOCATION:https://luma.com/tejas-oegm
 URL:https://luma.com/tejas-oegm
 END:VEVENT
 BEGIN:VEVENT
+UID:0de6761429b13185@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260714T230000Z
+DTEND:20260715T010000Z
+SUMMARY:Flow State: An Evening on AI and Community
+DESCRIPTION:Source: Luma Chicago Discover | Tags: ai | https://luma.com/hy554e2g
+LOCATION:Fabrik Chicago\, Chicago\, Illinois\, US
+URL:https://luma.com/hy554e2g
+END:VEVENT
+BEGIN:VEVENT
 UID:a5877696bde57299@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260715T000000Z
 DTEND:20260715T020000Z
 SUMMARY:Cybersecurity Summit: Raleigh
@@ -466,8 +256,18 @@ LOCATION:Raleigh\, US
 URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:f759aa229ea37f9b@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260715T220000Z
+DTEND:20260716T020000Z
+SUMMARY:Tech Catalyst Summit World Cup Edition
+DESCRIPTION:Source: Luma Atlanta Discover | Tags: tech | https://luma.com/7fujseiq
+LOCATION:No18 Buckhead\, Atlanta\, Georgia\, US
+URL:https://luma.com/7fujseiq
+END:VEVENT
+BEGIN:VEVENT
 UID:dfbab43cc0531218@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260716T000000Z
 DTEND:20260716T020000Z
 SUMMARY:Florida CISO Community Town Hall
@@ -477,7 +277,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:86901f3dcf42d5e6@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260716T200000Z
 DTEND:20260716T220000Z
 SUMMARY:Monthly Meeting | Virtual Event | July 16\, 2026
@@ -487,7 +287,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:4e2485577a26d9a6@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260720T170000Z
 DTEND:20260720T230000Z
 SUMMARY:UChicago Deep Tech Demo Day
@@ -497,7 +297,7 @@ URL:https://luma.com/polsky-07-20-2026-event-1686
 END:VEVENT
 BEGIN:VEVENT
 UID:af56025ad3fae592@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260721T000000Z
 DTEND:20260721T020000Z
 SUMMARY:CyberRisk CISO Dinner: Detroit
@@ -507,7 +307,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:731d3e60d1103294@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260721T000000Z
 DTEND:20260721T020000Z
 SUMMARY:Chicago CISO Community Town Hall
@@ -517,7 +317,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a9b797216a5bdea6@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260722T000000Z
 DTEND:20260722T020000Z
 SUMMARY:CyberRisk CISO Dinner: Twin Cities
@@ -527,7 +327,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:9fa2a19e266a6c4c@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260722T000000Z
 DTEND:20260722T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Boston
@@ -537,7 +337,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c9fe9bf0bed4a2b7@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260722T000000Z
 DTEND:20260722T020000Z
 SUMMARY:Global CISO Community Town Hall
@@ -546,18 +346,18 @@ LOCATION:US\, US
 URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:44da3f3c7c3668bb@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+UID:33d78e7d43b9699e@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
 DTSTART:20260722T003000Z
 DTEND:20260722T030000Z
 SUMMARY:July 2026: A History of the Login Box and Why It Still Sucks
 DESCRIPTION:Source: Silicon Valley ISSA | Tags: security | https://luma.com/n2tmabxa
-LOCATION:
+LOCATION:NetApp\, San Jose\, California\, US
 URL:https://luma.com/n2tmabxa
 END:VEVENT
 BEGIN:VEVENT
 UID:8df365c346bca802@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260723T000000Z
 DTEND:20260723T020000Z
 SUMMARY:Cybersecurity Summit: DC Metro
@@ -567,7 +367,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:17cf4753208f5c45@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260723T000000Z
 DTEND:20260723T020000Z
 SUMMARY:CyberRisk CISO Dinner: Dallas
@@ -576,18 +376,38 @@ LOCATION:Dallas\, US
 URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:75770bf8e28ce237@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260723T123000Z
+DTEND:20260723T143000Z
+SUMMARY:2 See all OWASP NYC Chapter IAM Summit 2026 Event
+DESCRIPTION:Source: OWASP NYC Meetup | Tags: application security\, compliance\, security | https://www.meetup.com/owasp-new-york-city-chapter/
+LOCATION:1345 Avenue of the Americas\, 1345 Avenue of the Americas\, 3rd Floor\, New York\, NY\, US OWASP NYC Chapter Summer IAM Summit 2026 @ Ease Building July 23\, 2026 Join us for this Informative IAM Event. Use code Professional Session with OWASPVIP for our special VIP Complimentary Ticket. Please put OWASP NYC after your last name to confirm you’re a OWASP NYC Member. Everyone is welcomed. www.tinyurl.com/OWASP-NYC-IAM-Summer-Summit Use code Professional Session with OWASPVIP for our special Complimentary Ticket. Join us for the inaugural New York City edition of the Summer IAM Summit to explore the latest in security and compliance through expert-led sessions and interactive discussions. Connect with peers\, address real-world IAM challenges\, and gain practical insights to strengthen your organization's digital identity strategy.Admission offers attendees access to all interactive panels\, discussions\, IAM Happy Hour - Come network and unwind with your peers for a couple of drinks on us! @4:00 pm @Ease Building 1345 6th Avenue New York\, NY 10105 (54th /55th and Avenue of the Americas) Come join Zoe\, Carlos and Guy\, all OWASP NYC
+URL:https://www.meetup.com/owasp-new-york-city-chapter/
+END:VEVENT
+BEGIN:VEVENT
 UID:e8aaf90a6be5b896@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260723T130000Z
 DTEND:20260723T150000Z
 SUMMARY:Building a Resilient Cybersecurity Strategy
-DESCRIPTION:ISACA New York Metropolitan Chapter Event is On Hold The administrator has placed this event on hold. While on hold\, it is inaccessible by anyone except the administrator. Close | Source: ISACA New York Metro | Tags: cyber\, cybersecurity\, risk\, security | https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
+DESCRIPTION:ISACA | Source: ISACA New York Metro | Tags: cyber\, cybersecurity\, risk\, security | https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
 LOCATION:
 URL:https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
+UID:95b655936dfdf6f2@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260724T200000Z
+DTEND:20260724T230000Z
+SUMMARY:Fastest Draw in the 312: Outpacing the Tech Frontier
+DESCRIPTION:Source: Luma Chicago Discover | Tags: tech | https://luma.com/2o7ethm3
+LOCATION:Chicago\, Illinois\, US
+URL:https://luma.com/2o7ethm3
+END:VEVENT
+BEGIN:VEVENT
 UID:9592e4b852bd3bef@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260728T000000Z
 DTEND:20260729T000000Z
 SUMMARY:FS-ISAC Steel Resolve Exercise
@@ -597,7 +417,7 @@ URL:https://www.fsisac.com/events/steel-resolve-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:b2533b0d5156b4a2@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:CyberRisk CISO Dinner: Philadelphia
@@ -607,7 +427,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:7ffbd8c887c8b82e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Virtual Summit: State of Vulnerability Management
@@ -616,8 +436,28 @@ LOCATION:Online
 URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:9c05a41f0ccdc66c@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260729T223000Z
+DTEND:20260730T003000Z
+SUMMARY:Happy Birthday OWASP! 25 Year Anniversary Party
+DESCRIPTION:Source: OWASP Atlanta | Tags: application security\, security | https://www.meetup.com/owasp-atlanta/events/315447074/?eventOrigin=group_upcoming_events
+LOCATION:Manuels Tavern\, 602 North Highland Ave NE\, Atlanta\, GA\, US Join us to celebrate OWASP 25th anniversary! Where: Manuel's Tavern When: 6:30pm Activity: OWASP Trivia --> Come ready to win some prizes! Food and Drinks included
+URL:https://www.meetup.com/owasp-atlanta/events/315447074/?eventOrigin=group_upcoming_events
+END:VEVENT
+BEGIN:VEVENT
+UID:7394e058fdb24344@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260802T130000Z
+DTEND:20260823T210000Z
+SUMMARY:CISA Certification Review Course
+DESCRIPTION:ISACA New York Metropolitan Chapter Event is On Hold The administrator has placed this event on hold. While on hold\, it is inaccessible by anyone except the administrator. Close | Source: ISACA New York Metro | Tags: risk\, security | https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
+LOCATION:
+URL:https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
+END:VEVENT
+BEGIN:VEVENT
 UID:903590d3f633a444@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260804T210000Z
 DTEND:20260804T230000Z
 SUMMARY:Careers & Conversations | August 04\, 2026 | @ 4 PM CT
@@ -627,7 +467,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:0d98b0013fa4bbad@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:CISO Stories: Attack Surface Management
@@ -637,7 +477,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:7a49c61dd802f52a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:CyberRisk CISO Dinner: Nashville
@@ -646,8 +486,18 @@ LOCATION:Nashville\, US
 URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
+UID:c2711c0080f5f994@zcyber-gtm.local
+DTSTAMP:20260629T161317Z
+DTSTART:20260813T230000Z
+DTEND:20260814T020000Z
+SUMMARY:From AI User to AI Builder - Base44 x AI Collective (Chicago)
+DESCRIPTION:Source: Luma Chicago Discover | Tags: ai | https://luma.com/hqwe2s7q
+LOCATION:Chicago\, Illinois\, US
+URL:https://luma.com/hqwe2s7q
+END:VEVENT
+BEGIN:VEVENT
 UID:0d51283a00bc283a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
 SUMMARY:Cybersecurity Summit: Detroit
@@ -657,7 +507,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:525114f686fa270a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:Cybersecurity Summit: Portland
@@ -667,7 +517,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:4a84efc8d5dbaae6@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:CyberRisk CISO Dinner: Houston
@@ -677,7 +527,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:685c2268b127a146@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:Detroit CISO Community Town Hall
@@ -687,7 +537,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:526a50224e07a9e4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260820T000000Z
 DTEND:20260820T020000Z
 SUMMARY:Florida CISO Community Town Hall
@@ -697,7 +547,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:400845035529e39c@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260825T000000Z
 DTEND:20260825T020000Z
 SUMMARY:CyberRisk CISO Dinner: Chicago
@@ -707,7 +557,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:9a0dfad792beb2db@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260825T000000Z
 DTEND:20260825T020000Z
 SUMMARY:CyberRisk CISO Dinner: Salt Lake City
@@ -717,7 +567,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2269296a067377e5@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:CyberRisk CISO Dinner: Atlanta
@@ -727,7 +577,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:65bb3a737d07cd10@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:CyberRisk CISO Dinner: Cincinnati
@@ -737,7 +587,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d6acd12c1d7d6669@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:Virtual Summit: Threat Intelligence Exchange
@@ -747,7 +597,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c49d948bfa719f7a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260827T130000Z
 DTEND:20260827T150000Z
 SUMMARY:ISACA Chicago’s Annual Conference+ | August 27\, 2026 | Registration is Now Open
@@ -757,7 +607,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:eff66853de1a03d3@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260901T000000Z
 DTEND:20260901T020000Z
 SUMMARY:Boston CISO Community Inner Circle
@@ -767,7 +617,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2618552ae3be7408@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260901T190000Z
 DTEND:20260901T200000Z
 SUMMARY:Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)
@@ -777,7 +627,7 @@ URL:https://luma.com/tejas-5tht
 END:VEVENT
 BEGIN:VEVENT
 UID:3b9e52b3b64cd7ee@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Cybersecurity Summit: Columbus
@@ -787,7 +637,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:3eab45994958a404@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Chicago CISO Community Inner Circle
@@ -797,7 +647,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c1bc2971f5d24da3@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Dallas CISO Community Inner Circle
@@ -807,7 +657,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e8514df018dbe77d@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Florida CISO Community Inner Circle
@@ -817,7 +667,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:67c9353bcef09874@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260903T000000Z
 DTEND:20260903T020000Z
 SUMMARY:Denver CISO Community Inner Circle
@@ -827,7 +677,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:04d4e97eb4b03bbc@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260908T210000Z
 DTEND:20260908T230000Z
 SUMMARY:Careers & Conversations | September 08\, 2026 | @ 4 PM CT
@@ -837,7 +687,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:497ac21e3f73c6de@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Cybersecurity Summit: San Diego
@@ -847,7 +697,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:594675e239fa3fd2@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:CISO Stories: State of Vulnerability Management
@@ -857,7 +707,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:1e01c3e105422564@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:CyberRisk CISO Dinner: Seattle/Bellevue
@@ -867,7 +717,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:40e317170ef7f683@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Ohio CISO Community Inner Circle
@@ -877,7 +727,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:687737ba129fc3d6@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260914T000000Z
 DTEND:20260917T000000Z
 SUMMARY:Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health
@@ -887,7 +737,7 @@ URL:https://events.beckershospitalreview.com/hit_rcm_2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:6379ada3dc591c15@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260915T000000Z
 DTEND:20260915T020000Z
 SUMMARY:Cybersecurity Summit: Chicago
@@ -897,7 +747,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:41929b616b608a5b@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260916T000000Z
 DTEND:20260916T020000Z
 SUMMARY:Virtual Summit: Attack Surface Management
@@ -907,7 +757,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:b2891280d0aeb680@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260916T000000Z
 DTEND:20260916T020000Z
 SUMMARY:Atlanta CISO Community Inner Circle
@@ -917,7 +767,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c2711344a752e53f@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:Cybersecurity Summit: Philadelphia
@@ -927,7 +777,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:8c8113a572fe0664@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:CyberRisk CISO Dinner: Portland
@@ -937,7 +787,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6f8c0e6b495bc8@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:Minneapolis CISO Community Inner Circle
@@ -947,7 +797,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e316fdcc20b23be4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260917T200000Z
 DTEND:20260917T220000Z
 SUMMARY:Monthly Meeting | In-Person Event | September 17\, 2026
@@ -957,7 +807,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:07abb153dc558318@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:CyberRisk CISO Dinner: Phoenix
@@ -967,7 +817,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:5a08e40773196676@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:Detroit CISO Community Inner Circle
@@ -977,7 +827,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b5c2073600f92cc0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:Houston CISO Community Inner Circle
@@ -987,7 +837,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e25e5d1ba57cd275@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:Seattle CISO Community Inner Circle
@@ -997,7 +847,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ec81d060a68f04fe@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260924T000000Z
 DTEND:20260924T020000Z
 SUMMARY:CyberRisk CISO Dinner: Bay Area
@@ -1007,7 +857,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:19d313ed920bee1a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260924T000000Z
 DTEND:20260924T020000Z
 SUMMARY:CyberRisk CISO Dinner: Los Angeles
@@ -1017,7 +867,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:e9454d99eec6b4b9@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260928T000000Z
 DTEND:20260928T020000Z
 SUMMARY:Global CISO Community Executive Summit
@@ -1027,7 +877,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:d703135101945bb4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:CyberRisk CISO Dinner: Charlotte
@@ -1037,7 +887,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9a778b9ffb5927@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:CyberRisk Leadership Exchange: NY Metro
@@ -1047,7 +897,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:ce4990b4023983d4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:Virtual Summit: Identity
@@ -1057,7 +907,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:57f6cf5e1dbd9183@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261001T000000Z
 DTEND:20261001T020000Z
 SUMMARY:Cybersecurity Summit: Seattle/Bellevue
@@ -1067,7 +917,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c05024f7fd305302@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261001T000000Z
 DTEND:20261001T020000Z
 SUMMARY:CyberRisk CISO Dinner: Houston
@@ -1077,7 +927,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:0065b12a806c1d09@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261006T210000Z
 DTEND:20261006T230000Z
 SUMMARY:Careers & Conversations | October 06\, 2026 | @ 4 PM CT
@@ -1087,7 +937,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:0878287dd901b1a8@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261007T000000Z
 DTEND:20261007T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Philadelphia
@@ -1097,7 +947,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:24fc46ccbe98f89b@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:Cybersecurity Summit: Boston
@@ -1107,7 +957,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:21eac3de5690bb65@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:CISO Stories: Exposure Management
@@ -1117,7 +967,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:befeab699709ca99@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:CyberRisk CISO Dinner: Cincinnati
@@ -1127,7 +977,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:efa4bd79ac4818df@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261012T000000Z
 DTEND:20261012T020000Z
 SUMMARY:InfoSec World
@@ -1137,7 +987,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:1e9795771ce71317@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261012T000000Z
 DTEND:20261014T000000Z
 SUMMARY:InfoSec World 2026
@@ -1147,7 +997,7 @@ URL:https://www.infosecworldusa.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:09570b24a43be521@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Bay Area
@@ -1157,7 +1007,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:cdd072dc8c1b0c10@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:Cybersecurity Summit: Silicon Valley
@@ -1167,7 +1017,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:bdc97245297c438e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:Hot Topic Webcast: Network Security
@@ -1177,7 +1027,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:63cd620cdf26c198@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:Denver CISO Community Town Hall
@@ -1187,7 +1037,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:49606e73e7d6d02b@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261014T000000Z
 DTEND:20261014T020000Z
 SUMMARY:Virtual Summit: FinSec
@@ -1197,7 +1047,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:0b0e1927fcea4ccb@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261015T200000Z
 DTEND:20261015T220000Z
 SUMMARY:Monthly Meeting | Virtual Event | October 15\, 2026
@@ -1207,7 +1057,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:9de80c8766254705@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261020T000000Z
 DTEND:20261020T020000Z
 SUMMARY:Cybersecurity Summit: Charlotte
@@ -1217,7 +1067,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:fa4a24508f679317@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261021T000000Z
 DTEND:20261021T020000Z
 SUMMARY:Boston CISO Community Town Hall
@@ -1227,7 +1077,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:4428f7ea56aec5a3@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261022T000000Z
 DTEND:20261022T020000Z
 SUMMARY:CyberRisk CISO Dinner: Boston
@@ -1237,7 +1087,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:02a3a684e3b4e768@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261024T150000Z
 DTEND:20261025T010000Z
 SUMMARY:Global CISO Summit - Bay Area Edition
@@ -1247,7 +1097,7 @@ URL:https://luma.com/gqhdvdcj
 END:VEVENT
 BEGIN:VEVENT
 UID:005578b69b51233b@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261026T000000Z
 DTEND:20261029T000000Z
 SUMMARY:FS-ISAC 2026 Americas Fall Summit
@@ -1257,7 +1107,7 @@ URL:https://www.fsisac.com/events/americas-fall-summit
 END:VEVENT
 BEGIN:VEVENT
 UID:9fa419300c35ccc0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261028T000000Z
 DTEND:20261028T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Chicago
@@ -1267,7 +1117,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:523177c8725ce074@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261028T000000Z
 DTEND:20261028T020000Z
 SUMMARY:Virtual Summit: Network Security
@@ -1277,7 +1127,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:815a8883a42c012e@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261028T000000Z
 DTEND:20261028T020000Z
 SUMMARY:Minneapolis CISO Community Town Hall
@@ -1287,7 +1137,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b32ebe85f8c4e0ea@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
 SUMMARY:Cybersecurity Summit: Dallas
@@ -1297,7 +1147,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:38f1c496cd8a61ff@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Dallas
@@ -1307,7 +1157,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c77e800d57066d7b@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261102T000000Z
 DTEND:20261102T020000Z
 SUMMARY:Cybersecurity Summit: Los Angeles
@@ -1317,7 +1167,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:b06fc8b09a26302f@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261103T000000Z
 DTEND:20261103T020000Z
 SUMMARY:CyberRisk CISO Dinner: Salt Lake City
@@ -1327,7 +1177,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:6b8822e8d8d528a0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261103T210000Z
 DTEND:20261103T230000Z
 SUMMARY:Careers & Conversations | November 03\, 2026 | @ 4 PM CT
@@ -1337,7 +1187,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:640ca34cbd9e4760@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:Virtual Summit: Cybersecurity Summit Nationwide Virtual Conference
@@ -1347,7 +1197,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:052cbb5f4aea12ab@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:Dallas CISO Community Executive Summit
@@ -1357,7 +1207,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:8e2328106c5d3c5d@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:CyberRisk CISO Dinner: Nashville
@@ -1367,7 +1217,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:e43a1780bf20e570@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:CyberRisk CISO Dinner: San Antonio
@@ -1377,7 +1227,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:55c3a55b5ddeaa89@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:CyberRisk CISO Dinner: Twin Cities
@@ -1387,7 +1237,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:9b3c7a319ff3abd3@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261110T000000Z
 DTEND:20261110T020000Z
 SUMMARY:Hot Topic Webcast: Threat Intel Futures
@@ -1397,7 +1247,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:5278c10ba0e5b059@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261110T000000Z
 DTEND:20261110T020000Z
 SUMMARY:Florida CISO Community Executive Summit
@@ -1407,7 +1257,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:06172d6aacf30936@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261111T000000Z
 DTEND:20261111T020000Z
 SUMMARY:CyberRisk CISO Dinner: Chicago
@@ -1417,7 +1267,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:22f46e430c3e23b0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261112T000000Z
 DTEND:20261112T020000Z
 SUMMARY:Cybersecurity Summit: Houston
@@ -1427,7 +1277,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c172aac2e8b19a90@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261112T000000Z
 DTEND:20261112T020000Z
 SUMMARY:CISO Stories: Network Security
@@ -1437,7 +1287,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:5b47db9c2bee9240@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261112T000000Z
 DTEND:20261112T020000Z
 SUMMARY:CyberRisk CISO Dinner: Los Angeles
@@ -1447,7 +1297,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:3d05c472d8f024fe@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261117T000000Z
 DTEND:20261117T020000Z
 SUMMARY:Cybersecurity Summit: New York
@@ -1457,7 +1307,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:be88e02cf2c171d4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261117T000000Z
 DTEND:20261117T020000Z
 SUMMARY:CyberRisk CISO Dinner: Seattle/Bellevue
@@ -1467,7 +1317,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:5c3c118d8e4042b9@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261117T000000Z
 DTEND:20261117T020000Z
 SUMMARY:MSSP Alert Live
@@ -1477,7 +1327,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c9f2e5719706140f@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261117T000000Z
 DTEND:20261117T020000Z
 SUMMARY:Washington\, DC CISO Community Executive Summit
@@ -1487,7 +1337,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:60b68bb145c7bbe0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
 SUMMARY:Virtual Summit: Government Security
@@ -1497,7 +1347,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c917854dce3f13d4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
 SUMMARY:Cybersecurity Summit: Vancouver
@@ -1507,7 +1357,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:ec15767e2cd55be8@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
 SUMMARY:Atlanta CISO Community Executive Summit
@@ -1517,7 +1367,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:738f61d1696b9fb8@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261119T200000Z
 DTEND:20261119T220000Z
 SUMMARY:Monthly Meeting | In-Person Event | November 19\, 2026
@@ -1527,7 +1377,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:3bcf836b038cafe2@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261130T000000Z
 DTEND:20261204T000000Z
 SUMMARY:Health-ISAC 2026 Fall Americas Summit
@@ -1537,7 +1387,7 @@ URL:https://health-isac.org/summits/
 END:VEVENT
 BEGIN:VEVENT
 UID:3f4d7518b0800ad5@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261130T000000Z
 DTEND:20261204T000000Z
 SUMMARY:Health-ISAC 2026 Fall Americas Summit
@@ -1547,7 +1397,7 @@ URL:https://health-isac.org/summit-meeting/2026-fall-americas-summit/
 END:VEVENT
 BEGIN:VEVENT
 UID:d484a74ed3a75b3a@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261201T000000Z
 DTEND:20261201T020000Z
 SUMMARY:Hot Topic Webcast: Zero Trust
@@ -1557,7 +1407,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:e8ef4c10f1f542d4@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261201T000000Z
 DTEND:20261201T020000Z
 SUMMARY:Houston CISO Community Executive Summit
@@ -1567,7 +1417,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f54f997b0e10bba5@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261201T000000Z
 DTEND:20261201T020000Z
 SUMMARY:Seattle CISO Community Executive Summit
@@ -1577,7 +1427,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b426ee95a350e6c3@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:Virtual Summit: Cloud Security
@@ -1587,7 +1437,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:eceef63b953f5683@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:CyberRisk CISO Dinner: Atlanta
@@ -1597,7 +1447,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:591e42b3c6ba6622@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:CyberRisk CISO Dinner: Phoenix
@@ -1607,7 +1457,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c31939ef02f21d68@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:Chicago CISO Community Executive Summit
@@ -1617,7 +1467,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:0ba8302db260f197@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261203T000000Z
 DTEND:20261203T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Portland
@@ -1627,7 +1477,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:7d41e1e681eac715@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261203T000000Z
 DTEND:20261203T020000Z
 SUMMARY:Boston CISO Community Executive Summit
@@ -1637,7 +1487,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:77a8cd3aa709ec8b@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261208T000000Z
 DTEND:20261208T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Detroit
@@ -1647,7 +1497,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:6d0cbd17ccbfaa09@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
 SUMMARY:Minneapolis CISO Community Executive Summit
@@ -1657,7 +1507,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:7c2df803dfd334fa@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261210T000000Z
 DTEND:20261210T020000Z
 SUMMARY:CISO Stories: Cloud Security: The AI effect and how to proceed
@@ -1667,7 +1517,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:984b489752876afb@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261210T000000Z
 DTEND:20261210T020000Z
 SUMMARY:CyberRisk CISO Dinner: Charlotte
@@ -1677,7 +1527,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d4fd159d8791ca16@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20261216T000000Z
 DTEND:20261216T020000Z
 SUMMARY:Virtual Summit: Compliance
@@ -1687,7 +1537,7 @@ URL:https://www.cyberriskalliance.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:05954193c59b5ce0@zcyber-gtm.local
-DTSTAMP:20260622T174357Z
+DTSTAMP:20260629T161317Z
 DTSTART:20270330T000000Z
 DTEND:20270402T000000Z
 SUMMARY:CVE/FIRST VulnCon 2027 & Annual CNA Summit - Save the Date

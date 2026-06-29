@@ -31,25 +31,16 @@
     ],
     "status": "ok",
     "parser": "jsonld",
-    "raw_events_found": 8,
-    "accepted": 2,
+    "raw_events_found": 2,
+    "accepted": 0,
     "rejected": {
-      "non_us": 6
+      "non_us": 2
     },
     "sample_raw_titles": [
-      "AI Security Night London",
-      "AI Security Night London",
-      "Underground Hacks",
-      "Underground Hacks",
-      "AI Security Night France",
-      "AI Security Night France",
       "AI Security Night Munich",
       "AI Security Night Munich"
     ],
-    "sample_accepted_titles": [
-      "Underground Hacks",
-      "Underground Hacks"
-    ]
+    "sample_accepted_titles": []
   },
   {
     "source": "East Bay Cyber",
@@ -212,28 +203,28 @@
     ],
     "status": "ok",
     "parser": "jsonld",
-    "raw_events_found": 8,
-    "accepted": 8,
+    "raw_events_found": 10,
+    "accepted": 10,
     "rejected": {},
     "sample_raw_titles": [
       "Patch Your Wallet : A Peer Personal Finance Learning Session for Cyber Professionals",
       "Patch Your Wallet : A Peer Personal Finance Learning Session for Cyber Professionals",
+      "Agentic AI Identity - A Primer For All by Anshu Gupta",
+      "Agentic AI Identity - A Primer For All by Anshu Gupta",
       "The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed",
       "The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed",
       "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)",
-      "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)",
-      "Global CISO Summit - Bay Area Edition",
-      "Global CISO Summit - Bay Area Edition"
+      "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)"
     ],
     "sample_accepted_titles": [
       "Patch Your Wallet : A Peer Personal Finance Learning Session for Cyber Professionals",
       "Patch Your Wallet : A Peer Personal Finance Learning Session for Cyber Professionals",
+      "Agentic AI Identity - A Primer For All by Anshu Gupta",
+      "Agentic AI Identity - A Primer For All by Anshu Gupta",
       "The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed",
       "The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed",
       "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)",
-      "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)",
-      "Global CISO Summit - Bay Area Edition",
-      "Global CISO Summit - Bay Area Edition"
+      "Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)"
     ]
   },
   {
@@ -254,24 +245,24 @@
       "missing_keyword": 26
     },
     "sample_raw_titles": [
-      "Deep Tech Morning Boost \u23fb: Pickleball & Breakfast",
-      "Deep Tech Morning Boost \u23fb: Pickleball & Breakfast",
-      "The Global State of Deep Tech",
-      "The Global State of Deep Tech",
-      "Hops x Props - Config 2026 Edition",
-      "Hops x Props - Config 2026 Edition",
-      "BoltzMol-1, BoltzProt-1 & API Launch - San Francisco",
-      "BoltzMol-1, BoltzProt-1 & API Launch - San Francisco"
+      "Agent Run to Coffee",
+      "Agent Run to Coffee",
+      "The Scaling Laws of Physical Intelligence",
+      "The Scaling Laws of Physical Intelligence",
+      "Artificial Analysis Intelligence Index",
+      "Artificial Analysis Intelligence Index",
+      "Model Independence Day",
+      "Model Independence Day"
     ],
     "sample_accepted_titles": [
-      "Deep Tech Morning Boost \u23fb: Pickleball & Breakfast",
-      "Deep Tech Morning Boost \u23fb: Pickleball & Breakfast",
-      "The Global State of Deep Tech",
-      "The Global State of Deep Tech",
-      "\ud83c\uddef\ud83c\uddf5 Japan \u00d7 Global Tech Meetup: pre-Config networking \ud83c\udf10 \u65e5\u672c \u00d7 \u30b0\u30ed\u30fc\u30d0\u30eb \u30c6\u30c3\u30af\u4ea4\u6d41\u4f1a",
-      "\ud83c\uddef\ud83c\uddf5 Japan \u00d7 Global Tech Meetup: pre-Config networking \ud83c\udf10 \u65e5\u672c \u00d7 \u30b0\u30ed\u30fc\u30d0\u30eb \u30c6\u30c3\u30af\u4ea4\u6d41\u4f1a",
-      "Physical AI Investor Mixer",
-      "Physical AI Investor Mixer"
+      "PlanetScale x Low Level: Security in the AI era",
+      "PlanetScale x Low Level: Security in the AI era",
+      "THE AI Engineer Afterparty",
+      "THE AI Engineer Afterparty",
+      "The Agent Open: AI's pickleball tournament",
+      "The Agent Open: AI's pickleball tournament",
+      "[AI Engineer] Frontier Coding Dinner co-hosted by G2i and AI Circle",
+      "[AI Engineer] Frontier Coding Dinner co-hosted by G2i and AI Circle"
     ]
   },
   {
@@ -287,29 +278,29 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 40,
-    "accepted": 10,
+    "accepted": 8,
     "rejected": {
-      "missing_keyword": 30
+      "missing_keyword": 32
     },
     "sample_raw_titles": [
-      "Perspectives on Modern Creativity: The Artist and The Toolmaker",
-      "Perspectives on Modern Creativity: The Artist and The Toolmaker",
-      "Hudson Yards Power Hour: Dance Cardio",
-      "Hudson Yards Power Hour: Dance Cardio",
-      "Campfire x Replit x J.P.Morgan NYC Finance Hack Lab",
-      "Campfire x Replit x J.P.Morgan NYC Finance Hack Lab",
-      "Beauty in Balance Tech for Creatives NYC Panel: Hosted at TikTok NY HQ",
-      "Beauty in Balance Tech for Creatives NYC Panel: Hosted at TikTok NY HQ"
+      "Kolkata Chai x Bungalow Foods: Happy Hour with Hasan Minhaj & Vikas Khanna",
+      "Kolkata Chai x Bungalow Foods: Happy Hour with Hasan Minhaj & Vikas Khanna",
+      "The CPG Cooldown: A Summer Fancy Food Mixer",
+      "The CPG Cooldown: A Summer Fancy Food Mixer",
+      "Undefined / June 29th 2026",
+      "Undefined / June 29th 2026",
+      "Commerce After Dark",
+      "Commerce After Dark"
     ],
     "sample_accepted_titles": [
-      "Beauty in Balance Tech for Creatives NYC Panel: Hosted at TikTok NY HQ",
-      "Beauty in Balance Tech for Creatives NYC Panel: Hosted at TikTok NY HQ",
-      "Kleiner Perkins \u00d7 OpenEvidence: AI Engineers at the Frontier",
-      "Kleiner Perkins \u00d7 OpenEvidence: AI Engineers at the Frontier",
-      "Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy",
-      "Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy",
-      "AI Engineers Presents: Fonzi's Founders to Follow",
-      "AI Engineers Presents: Fonzi's Founders to Follow"
+      "What Makes a Good Life? A Guided Public Discussion on AI",
+      "What Makes a Good Life? A Guided Public Discussion on AI",
+      "June Tech Rooftop Mixer (Hosted by Andrew Yeung)",
+      "June Tech Rooftop Mixer (Hosted by Andrew Yeung)",
+      "Party with Abaka AI: NYC Launch Night in Manhattan",
+      "Party with Abaka AI: NYC Launch Night in Manhattan",
+      "AI Builders Night New York",
+      "AI Builders Night New York"
     ]
   },
   {
@@ -322,11 +313,15 @@
     ],
     "status": "ok",
     "parser": "meetup_group",
-    "raw_events_found": 0,
-    "accepted": 0,
+    "raw_events_found": 1,
+    "accepted": 1,
     "rejected": {},
-    "sample_raw_titles": [],
-    "sample_accepted_titles": []
+    "sample_raw_titles": [
+      "2 See all OWASP NYC Chapter IAM Summit 2026 Event"
+    ],
+    "sample_accepted_titles": [
+      "2 See all OWASP NYC Chapter IAM Summit 2026 Event"
+    ]
   },
   {
     "source": "ISACA New York Metro",
@@ -340,14 +335,16 @@
     ],
     "status": "ok",
     "parser": "isaca_calendar",
-    "raw_events_found": 1,
-    "accepted": 1,
+    "raw_events_found": 2,
+    "accepted": 2,
     "rejected": {},
     "sample_raw_titles": [
-      "Building a Resilient Cybersecurity Strategy"
+      "Building a Resilient Cybersecurity Strategy",
+      "CISA Certification Review Course"
     ],
     "sample_accepted_titles": [
-      "Building a Resilient Cybersecurity Strategy"
+      "Building a Resilient Cybersecurity Strategy",
+      "CISA Certification Review Course"
     ]
   },
   {
@@ -363,28 +360,30 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 40,
-    "accepted": 6,
+    "accepted": 8,
     "rejected": {
-      "missing_keyword": 32,
+      "missing_keyword": 30,
       "non_us": 2
     },
     "sample_raw_titles": [
-      "NVIDIA x AI Builders: Coffee & Conversation",
-      "NVIDIA x AI Builders: Coffee & Conversation",
-      "Social Club Open Play",
-      "Social Club Open Play",
-      "InOrbit Pizza Hours | Deep Dish Edition",
-      "InOrbit Pizza Hours | Deep Dish Edition",
-      "Chicago: Perelel x Bala Mom Walk",
-      "Chicago: Perelel x Bala Mom Walk"
+      "Curious Labs Vol. 2: The Reset",
+      "Curious Labs Vol. 2: The Reset",
+      "TechWalk | Chicago, 6/30",
+      "TechWalk | Chicago, 6/30",
+      "But I'm a Cheerleader Film Discussion",
+      "But I'm a Cheerleader Film Discussion",
+      "Backgammon Social @ Beermiscuous",
+      "Backgammon Social @ Beermiscuous"
     ],
     "sample_accepted_titles": [
-      "NVIDIA x AI Builders: Coffee & Conversation",
-      "NVIDIA x AI Builders: Coffee & Conversation",
-      "Community Crossover: Fitness x Tech Crawl\ud83d\udc5f\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udcbb",
-      "Community Crossover: Fitness x Tech Crawl\ud83d\udc5f\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udcbb",
+      "Flow State: An Evening on AI and Community",
+      "Flow State: An Evening on AI and Community",
       "UChicago Deep Tech Demo Day",
-      "UChicago Deep Tech Demo Day"
+      "UChicago Deep Tech Demo Day",
+      "Fastest Draw in the 312: Outpacing the Tech Frontier",
+      "Fastest Draw in the 312: Outpacing the Tech Frontier",
+      "From AI User to AI Builder - Base44 x AI Collective (Chicago)",
+      "From AI User to AI Builder - Base44 x AI Collective (Chicago)"
     ]
   },
   {
@@ -435,28 +434,28 @@
     ],
     "status": "ok",
     "parser": "isaca_calendar",
-    "raw_events_found": 13,
-    "accepted": 13,
+    "raw_events_found": 11,
+    "accepted": 11,
     "rejected": {},
     "sample_raw_titles": [
-      "ISACA Chicago Chapter Monthly Meeting | In-Person Event | June 23, 2026",
-      "[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25",
       "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
       "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
       "Monthly Meeting | Virtual Event | July 16, 2026",
       "Careers & Conversations | August 04, 2026 | @ 4 PM CT",
       "ISACA Chicago\u2019s Annual Conference+ | August 27, 2026 | Registration is Now Open",
-      "Careers & Conversations | September 08, 2026 | @ 4 PM CT"
+      "Careers & Conversations | September 08, 2026 | @ 4 PM CT",
+      "Monthly Meeting | In-Person Event | September 17, 2026",
+      "Careers & Conversations | October 06, 2026 | @ 4 PM CT"
     ],
     "sample_accepted_titles": [
-      "ISACA Chicago Chapter Monthly Meeting | In-Person Event | June 23, 2026",
-      "[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25",
       "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
       "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
       "Monthly Meeting | Virtual Event | July 16, 2026",
       "Careers & Conversations | August 04, 2026 | @ 4 PM CT",
       "ISACA Chicago\u2019s Annual Conference+ | August 27, 2026 | Registration is Now Open",
-      "Careers & Conversations | September 08, 2026 | @ 4 PM CT"
+      "Careers & Conversations | September 08, 2026 | @ 4 PM CT",
+      "Monthly Meeting | In-Person Event | September 17, 2026",
+      "Careers & Conversations | October 06, 2026 | @ 4 PM CT"
     ]
   },
   {
@@ -471,24 +470,26 @@
     ],
     "status": "ok",
     "parser": "jsonld",
-    "raw_events_found": 24,
-    "accepted": 2,
+    "raw_events_found": 12,
+    "accepted": 4,
     "rejected": {
-      "missing_keyword": 22
+      "missing_keyword": 8
     },
     "sample_raw_titles": [
-      "Marietta Craft Club : Sip, Craft & Yap",
-      "Marietta Craft Club : Sip, Craft & Yap",
-      "Work Club: Atlanta",
-      "Work Club: Atlanta",
-      "n8n Atlanta: Build, Connect & Automate",
-      "n8n Atlanta: Build, Connect & Automate",
-      "Goodie Nation House for Creators x ATL | Summer of Soccer Edition",
-      "Goodie Nation House for Creators x ATL | Summer of Soccer Edition"
+      "Rob Sets: Independence Day Party \ud83c\udf89",
+      "Rob Sets: Independence Day Party \ud83c\udf89",
+      "Airtable Atlanta | Inaugural Meetup",
+      "Airtable Atlanta | Inaugural Meetup",
+      "July Tech Square Game Day + Lunch",
+      "July Tech Square Game Day + Lunch",
+      "Tech Catalyst Summit World Cup Edition",
+      "Tech Catalyst Summit World Cup Edition"
     ],
     "sample_accepted_titles": [
       "July Tech Square Game Day + Lunch",
-      "July Tech Square Game Day + Lunch"
+      "July Tech Square Game Day + Lunch",
+      "Tech Catalyst Summit World Cup Edition",
+      "Tech Catalyst Summit World Cup Edition"
     ]
   },
   {
@@ -505,10 +506,10 @@
     "accepted": 1,
     "rejected": {},
     "sample_raw_titles": [
-      "Please Waste My Time: Detection through Deception"
+      "Happy Birthday OWASP! 25 Year Anniversary Party"
     ],
     "sample_accepted_titles": [
-      "Please Waste My Time: Detection through Deception"
+      "Happy Birthday OWASP! 25 Year Anniversary Party"
     ]
   },
   {
@@ -589,28 +590,28 @@
     ],
     "status": "ok",
     "parser": "cra_events",
-    "raw_events_found": 80,
-    "accepted": 80,
+    "raw_events_found": 76,
+    "accepted": 76,
     "rejected": {},
     "sample_raw_titles": [
-      "Cybersecurity Summit: Pittsburgh",
-      "CyberRisk Leadership Exchange: Charlotte",
-      "Virtual Summit: AI for next-gen SOC",
-      "CyberRisk CISO Dinner: Los Angeles",
       "Cybersecurity Summit: Minneapolis",
       "CISO Stories: AI Security (Black Hat Preview)",
       "Cybersecurity Summit: Raleigh",
-      "CyberRisk CISO Dinner: Detroit"
+      "CyberRisk CISO Dinner: Detroit",
+      "CyberRisk CISO Dinner: Twin Cities",
+      "CyberRisk Leadership Exchange: Boston",
+      "Cybersecurity Summit: DC Metro",
+      "CyberRisk CISO Dinner: Dallas"
     ],
     "sample_accepted_titles": [
-      "Cybersecurity Summit: Pittsburgh",
-      "CyberRisk Leadership Exchange: Charlotte",
-      "Virtual Summit: AI for next-gen SOC",
-      "CyberRisk CISO Dinner: Los Angeles",
       "Cybersecurity Summit: Minneapolis",
       "CISO Stories: AI Security (Black Hat Preview)",
       "Cybersecurity Summit: Raleigh",
-      "CyberRisk CISO Dinner: Detroit"
+      "CyberRisk CISO Dinner: Detroit",
+      "CyberRisk CISO Dinner: Twin Cities",
+      "CyberRisk Leadership Exchange: Boston",
+      "Cybersecurity Summit: DC Metro",
+      "CyberRisk CISO Dinner: Dallas"
     ]
   },
   {
@@ -681,28 +682,28 @@
     ],
     "status": "ok",
     "parser": "evanta_calendar",
-    "raw_events_found": 31,
-    "accepted": 31,
+    "raw_events_found": 29,
+    "accepted": 29,
     "rejected": {},
     "sample_raw_titles": [
-      "Denver CISO Community Executive Summit",
-      "Seattle CISO Community Executive Summit",
       "Florida CISO Community Town Hall",
       "Chicago CISO Community Town Hall",
       "Global CISO Community Town Hall",
       "Detroit CISO Community Town Hall",
       "Florida CISO Community Town Hall",
-      "Boston CISO Community Inner Circle"
+      "Boston CISO Community Inner Circle",
+      "Chicago CISO Community Inner Circle",
+      "Dallas CISO Community Inner Circle"
     ],
     "sample_accepted_titles": [
-      "Denver CISO Community Executive Summit",
-      "Seattle CISO Community Executive Summit",
       "Florida CISO Community Town Hall",
       "Chicago CISO Community Town Hall",
       "Global CISO Community Town Hall",
       "Detroit CISO Community Town Hall",
       "Florida CISO Community Town Hall",
-      "Boston CISO Community Inner Circle"
+      "Boston CISO Community Inner Circle",
+      "Chicago CISO Community Inner Circle",
+      "Dallas CISO Community Inner Circle"
     ]
   },
   {
@@ -867,29 +868,24 @@
     "status": "ok",
     "parser": "jsonld",
     "raw_events_found": 30,
-    "accepted": 13,
+    "accepted": 3,
     "rejected": {
-      "non_us": 17
+      "non_us": 27
     },
     "sample_raw_titles": [
-      "MLcon Munich 2026",
-      "Artificial Intelligence in Hardware Security (AIHWS) 2026",
-      "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2026",
-      "Inside Quantum Technology (IQT): Nordics 2026",
-      "SecureIT Summit Tampa 2026",
-      "Corporate Risk Minds 2026",
-      "International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026",
-      "Why Automated Pentesting Is Not Enough on Its Own"
+      "Israel Machine Vision Conference (IMVC) 2026",
+      "Safety.Ad USA 2026",
+      "AUTO.AI USA 2026",
+      "European Conference on Cyber Warfare and Security (ECCWS) 2026",
+      "Ransomware Defence Summer Bootcamp by Virtual Routes",
+      "IEEE International Conference on Network Softwarization (IEEE NetSoft) 2026",
+      "The ACM Web Conference 2026",
+      "IT Infrastructure & Operations 2026"
     ],
     "sample_accepted_titles": [
-      "Artificial Intelligence in Hardware Security (AIHWS) 2026",
-      "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2026",
-      "SecureIT Summit Tampa 2026",
-      "International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026",
-      "ACNS Workshop on Intelligent and Secure Computing (ACNS-ISC) 2026",
-      "International Workshop on Critical Infrastructure and Maritime Systems Security (CIMSS) 2026",
-      "International Workshop on Security in Machine Learning and its Applications (SiMLA) 2026",
-      "International Conference on Applied Cryptography and Network Security (ACNS) 2026"
+      "Safety.Ad USA 2026",
+      "AUTO.AI USA 2026",
+      "Wine and Whiskey Tasting focusing on the Cloud Governance Crisis"
     ]
   },
   {
@@ -1122,13 +1118,12 @@
     "focus": [
       "healthcare"
     ],
-    "status": "error",
-    "parser": "",
+    "status": "ok",
+    "parser": "none",
     "raw_events_found": 0,
     "accepted": 0,
     "rejected": {},
     "sample_raw_titles": [],
-    "sample_accepted_titles": [],
-    "error": "HTTP Error 403: Forbidden"
+    "sample_accepted_titles": []
   }
 ]

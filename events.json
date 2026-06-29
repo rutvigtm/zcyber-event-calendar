@@ -1,885 +1,49 @@
 {
-  "generated_at": "2026-06-22T17:43:57.399530+00:00",
-  "event_count": 169,
+  "generated_at": "2026-06-29T16:13:17.684183+00:00",
+  "event_count": 154,
   "events": [
     {
-      "title": "International Workshop on Security in Machine Learning and its Applications (SiMLA) 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
+      "title": "AUTO.AI USA 2026",
+      "start": "2026-06-29T00:00:00+00:00",
+      "date_key": "2026-06-29",
       "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-international-workshop-on-security-in-machine-learning-and/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Key Takeaways Focuses on security and privacy challenges in machine learning (ML) systems Explores adversarial learning, robust algorithms, and privacy-preserving techniques Addresses risks related to Artificial General Intelligence (AGI) and mis/disinformation Targets academic researchers, industry professionals, and practitioners in ML/AI security Emphasizes bridging theoretical advances with real-world secure ML applications",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "ai security",
-        "infosec",
-        "privacy",
-        "risk",
-        "security"
-      ],
-      "priority_score": 11,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-international-workshop-on-artificial-intelligence-and-industrial-iot/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Key Takeaways Focuses on the intersection of Artificial Intelligence, Industrial IoT, and cybersecurity Explores security, privacy, and resilience in AIoT and Cyber-Physical Systems Targets academic researchers, industry experts, and technical professionals Addresses challenges such as adversarial machine learning and risk management Emphasizes research sharing, collaboration, and academic networking The 8th",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "privacy",
-        "risk",
-        "security"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "SecureIT Summit Tampa 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-secureit-summit-tampa-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Tampa, Florida, US",
-      "description": "Key Takeaways Premier event for cloud computing, hosting, and internet infrastructure professionals Focus on cloud services, cybersecurity, AI, and digital transformation Opportunities for networking, business development, and industry collaboration Features keynotes, panels, workshops, and expo sessions Addresses challenges in cloud infrastructure, security, and emerging technologies CloudFest USA 2024 brings together",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 7,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "ACNS Workshop on Intelligent and Secure Computing (ACNS-ISC) 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-acns-workshop-on-intelligent-and-secure-computing-acns-isc/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Focuses on the intersection of intelligent computing and secure computing Explores AI-driven systems in security-critical environments Covers topics such as adversarial machine learning and privacy-preserving model training Targets academic researchers, industry professionals, and security architects Promotes interdisciplinary collaboration in AI, cryptography, and cybersecurity The 1st ACNS Workshop on Intelligent and",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "privacy",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "International Conference on Applied Cryptography and Network Security (ACNS) 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-international-conference-on-applied-cryptography-and-network-security/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Key Takeaways Annual conference focused on applied cryptography, cybersecurity, and privacy Brings together academic researchers and industry professionals Covers both theoretical research and practical implementations Features workshops, poster sessions, and paper presentations Emphasizes knowledge exchange and collaboration between academia and industry The Applied Cryptography and Network Security (ACNS) 2026 conference",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "privacy",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "International Workshop on Critical Infrastructure and Maritime Systems Security (CIMSS) 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-international-workshop-on-critical-infrastructure-and-maritime-systems/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Focuses on security and resilience of critical infrastructure and maritime systems Highlights Industry 4.0 and Maritime 4.0 technologies Brings together researchers, professionals, and industry stakeholders Addresses cybersecurity frameworks and compliance standards Emphasizes collaboration between academia and industry CIMSS 2026, the 6th International Workshop on Critical Infrastructure and Maritime Systems Security,",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "compliance",
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Artificial Intelligence in Hardware Security (AIHWS) 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-artificial-intelligence-in-hardware-security-aihws-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Key Takeaways Academic workshop focused on artificial intelligence and hardware security Brings together researchers and industry professionals from AI and security domains Covers topics such as side-channel attacks, trustworthy manufacturing, and AI-based cryptanalysis Emphasizes collaboration, knowledge sharing, and advancing state-of-the-art research Held in conjunction with ACNS 2026 in Stony Brook,",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2026",
-      "start": "2026-06-22T00:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260622-ieeeifip-international-conference-on-dependable-systems-and-networks/",
-      "source": "InfoSec Conferences",
-      "location": "Charlotte, North Carolina, US",
-      "description": "Key Takeaways Premier international conference on dependable systems and networks Focus on robustness, resilience, safety, and security in computing Brings together academic and industry leaders Covers research, tools, and best practices for system dependability Designed for researchers, engineers, and technical executives The 56th Annual IEEE/IFIP International Conference on Dependable Systems",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Deep Tech Morning Boost \u23fb: Pickleball & Breakfast",
-      "start": "2026-06-22T17:00:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "2026-06-22T19:00:00+00:00",
-      "url": "https://luma.com/ph4wpuzn",
-      "source": "Luma SF Discover",
-      "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "The Global State of Deep Tech",
-      "start": "2026-06-22T19:30:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "2026-06-23T00:00:00+00:00",
-      "url": "https://luma.com/tjz6cxz2",
-      "source": "Luma SF Discover",
-      "location": "945 Market Street, San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Confidential Computing Summit 2026",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260623-confidential-computing-summit-2026/",
+      "url": "https://infosec-conferences.com/event/20260629-autoai-usa-2026/",
       "source": "InfoSec Conferences",
       "location": "San Francisco, California, US",
-      "description": "Key Takeaways Focuses on advancing secure, privacy-preserving AI infrastructure for enterprises Brings together leaders from technology, finance, government, and cloud sectors Explores confidential computing, compliance standards, and production-ready AI Highlights real-world implementations and operational challenges in secure AI Features major industry sponsors and live networking opportunities The Confidential Computing Summit",
+      "description": "Key Takeaways Focus on AI, machine learning, and neural networks for Level 4 and 5 autonomous vehicles Industry leaders and decision-makers gather to discuss deep learning and perception systems Exploration of self-supervised and behavioral learning, scalable machine learning, and reinforcement learning Benchmarking and advancing computer vision for highly autonomous driving",
       "region": "Global",
       "focus": [
         "conference",
         "broad security"
       ],
       "tags": [
-        "compliance",
         "infosec",
-        "privacy",
-        "security"
-      ],
-      "priority_score": 12,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "Cybersecurity Summit: Pittsburgh",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Pittsburgh, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "cybersecurity",
-        "risk",
-        "security"
-      ],
-      "priority_score": 11,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "CyberRisk Leadership Exchange: Charlotte",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Charlotte, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
         "security"
       ],
       "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Denver CISO Community Executive Summit",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.evanta.com/calendar",
-      "source": "Evanta CISO Calendar",
-      "location": "Denver, US",
-      "description": "Evanta Gartner CISO community event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "executive",
-        "regional summit",
-        "security leadership"
-      ],
-      "tags": [
-        "ciso",
-        "security"
-      ],
-      "priority_score": 8,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Seattle CISO Community Executive Summit",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://www.evanta.com/calendar",
-      "source": "Evanta CISO Calendar",
-      "location": "Seattle, US",
-      "description": "Evanta Gartner CISO community event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "executive",
-        "regional summit",
-        "security leadership"
-      ],
-      "tags": [
-        "ciso",
-        "security"
-      ],
-      "priority_score": 8,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260623-international-workshop-on-artificial-intelligence-and-industrial-iot/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Key Takeaways Focuses on the intersection of Artificial Intelligence, Industrial IoT, and cybersecurity Explores security, privacy, and resilience in AIoT and cyber-physical systems Highlights emerging research on adversarial machine learning, federated learning, and applied cryptography Brings together academic and industry experts for collaborative discussion Addresses operational challenges in securing intelligent,",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "privacy",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "CyAD Summit: Cybersecurity Across Disciplines 2026",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260623-cyad-summit-cybersecurity-across-disciplines-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Palos Hills, Illinois, US",
-      "description": "Key Takeaways Focuses on the intersection of cybersecurity, education, and workforce development across all critical infrastructure sectors Brings together academia, industry, and government to address cross-disciplinary challenges Highlights the integration of emerging technologies such as AI and quantum computing in cybersecurity Emphasizes collaborative approaches to curriculum innovation and sector resilience",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "NextG Networks Cryptography and Security (NextG-Sec) 2026",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260623-nextg-networks-cryptography-and-security-nextg-sec-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Stony Brook, New York, US",
-      "description": "Key Takeaways Specialized workshop on security and cryptography for NextG wireless networks Focus on 5G, 6G, and future network technologies Emphasis on post-quantum cryptography and quantum-resilient solutions Brings together researchers, industry professionals, and government representatives Addresses urgent security, privacy, and defense challenges in distributed network environments The NextG Networks Cryptography",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "privacy",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Summerfest Tech 2026",
-      "start": "2026-06-23T00:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://infosec-conferences.com/event/20260623-summerfest-tech-2026/",
-      "source": "InfoSec Conferences",
-      "location": "Milwaukee, Wisconsin, US",
-      "description": "Key Takeaways Annual technology and innovation conference held in Milwaukee, Wisconsin Brings together tech professionals, entrepreneurs, and business leaders from across the Midwest Focuses on emerging technologies, entrepreneurship, and business growth Features keynote speakers, technical workshops, partner programming, and a live pitch competition Designed to foster networking, collaboration, and the",
-      "region": "Global",
-      "focus": [
-        "conference",
-        "broad security"
-      ],
-      "tags": [
-        "infosec",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "\ud83c\uddef\ud83c\uddf5 Japan \u00d7 Global Tech Meetup: pre-Config networking \ud83c\udf10 \u65e5\u672c \u00d7 \u30b0\u30ed\u30fc\u30d0\u30eb \u30c6\u30c3\u30af\u4ea4\u6d41\u4f1a",
-      "start": "2026-06-23T01:30:00+00:00",
-      "date_key": "2026-06-22",
-      "end": "2026-06-23T04:30:00+00:00",
-      "url": "https://luma.com/wu78sd6q",
-      "source": "Luma SF Discover",
-      "location": "ZO\u00cb, San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 9,
       "city": "sf",
       "topic": "broad"
     },
     {
-      "title": "NVIDIA x AI Builders: Coffee & Conversation",
-      "start": "2026-06-23T14:30:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "2026-06-23T15:30:00+00:00",
-      "url": "https://luma.com/1871-k10l",
-      "source": "Luma Chicago Discover",
-      "location": "Edelman, Chicago, Illinois, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "Physical AI Investor Mixer",
-      "start": "2026-06-23T17:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "2026-06-23T19:00:00+00:00",
-      "url": "https://luma.com/deep-2pbu",
-      "source": "Luma SF Discover",
+      "title": "Safety.Ad USA 2026",
+      "start": "2026-06-29T00:00:00+00:00",
+      "date_key": "2026-06-29",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260629-safetyad-usa-2026/",
+      "source": "InfoSec Conferences",
       "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
+      "description": "Key Takeaways Focus on functional, system, and operational safety for highly to fully automated vehicles Industry leaders and technical experts gather to discuss AD and ADAS safety challenges Latest updates on standards, technical innovations, and regulatory trends Emphasis on Level 3+ vehicle safety systems and real-world operational issues Safety.AD USA",
+      "region": "Global",
       "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
+        "conference",
+        "broad security"
       ],
       "tags": [
-        "ai"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "ISACA Chicago Chapter Monthly Meeting | In-Person Event | June 23, 2026",
-      "start": "2026-06-23T19:30:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "",
-      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
-      "source": "ISACA Chicago",
-      "location": "CME Center - Zo Conference room, 10 S. Wacker Drive, Chicago, IL 60606",
-      "description": "ISACA",
-      "region": "US",
-      "focus": [
-        "governance",
-        "risk",
-        "security",
-        "local chapter"
-      ],
-      "tags": [
-        "risk",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "Civic tech meetup @ Config 2026",
-      "start": "2026-06-23T22:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "2026-06-24T00:00:00+00:00",
-      "url": "https://luma.com/lz66ve3n",
-      "source": "Luma SF Discover",
-      "location": "Moscone Center, San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Beauty in Balance Tech for Creatives NYC Panel: Hosted at TikTok NY HQ",
-      "start": "2026-06-23T22:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "2026-06-24T00:00:00+00:00",
-      "url": "https://luma.com/lu9xsy8h",
-      "source": "Luma NYC Discover",
-      "location": "151 W 42nd St, New York, New York, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 1,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Kleiner Perkins \u00d7 OpenEvidence: AI Engineers at the Frontier",
-      "start": "2026-06-23T22:30:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "2026-06-24T00:30:00+00:00",
-      "url": "https://luma.com/wmlvds6k",
-      "source": "Luma NYC Discover",
-      "location": "New York, New York, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "CyberRisk CISO Dinner: Los Angeles",
-      "start": "2026-06-24T00:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Los Angeles, US",
-      "description": "CyberRisk Alliance In-Person event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
+        "infosec",
         "security"
       ],
       "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Virtual Summit: AI for next-gen SOC",
-      "start": "2026-06-24T00:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/events",
-      "source": "CyberRisk Alliance Events",
-      "location": "Online",
-      "description": "CyberRisk Alliance Virtual event",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Deep Tech Undergound by Alta, Stifel & Sequoia",
-      "start": "2026-06-24T00:30:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "2026-06-24T03:30:00+00:00",
-      "url": "https://luma.com/ew1byl0d",
-      "source": "Luma SF Discover",
-      "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 9,
       "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "How AI-Native Collaboration Is Changing How Teams Build",
-      "start": "2026-06-24T01:00:00+00:00",
-      "date_key": "2026-06-23",
-      "end": "2026-06-24T04:00:00+00:00",
-      "url": "https://luma.com/0h79d4y3",
-      "source": "Luma SF Discover",
-      "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "[Summer 2026] ISACA Advanced in AI Audit (AAIA) Certification Review Course | June 24 & 25",
-      "start": "2026-06-24T14:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "2026-06-25T22:00:00+00:00",
-      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
-      "source": "ISACA Chicago",
-      "location": "",
-      "description": "ISACA",
-      "region": "US",
-      "focus": [
-        "governance",
-        "risk",
-        "security",
-        "local chapter"
-      ],
-      "tags": [
-        "risk",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Underground Hacks",
-      "start": "2026-06-24T15:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "2026-06-24T17:00:00+00:00",
-      "url": "https://luma.com/aiseceng-05sz",
-      "source": "AI Security Engineers SF Bay Area",
-      "location": "Radocha, Krak\u00f3w, Wojew\u00f3dztwo ma\u0142opolskie, PL",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai security",
-        "local meetup"
-      ],
-      "tags": [
-        "ai security",
-        "security"
-      ],
-      "priority_score": 16,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Agentic Alpha: Engineering High-Velocity Autonomy in a Millisecond Economy",
-      "start": "2026-06-24T21:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "2026-06-25T00:00:00+00:00",
-      "url": "https://luma.com/qydwq3g4",
-      "source": "Luma NYC Discover",
-      "location": "New York, New York, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "agentic"
-      ],
-      "priority_score": 1,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Please Waste My Time: Detection through Deception",
-      "start": "2026-06-24T22:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "",
-      "url": "https://www.meetup.com/owasp-atlanta/events/314667793/?eventOrigin=group_upcoming_events",
-      "source": "OWASP Atlanta",
-      "location": "Hybrid SandboxATL, 483 Moreland Ave NE, Third Floor, Atlanta, GA, US Red teamers rely on predictability; predictable enumeration paths, predictable credential locations, predictable network behavior. Deception defense exploits exactly that. This talk+workshop is a practical guide to wasting a red teamer's time, told by someone who has been on both sides of it. I've tripped honeypots mid-engagement. I've also built them. That dual perspective shapes everything in this session. We'll cover a tiered deception stack: Active Directory honey users and honey SPNs designed to catch Kerberoasting and lateral movement; canary tokens embedded in documents, file shares, and source code repositories; honey API endpoints and SSRF detection triggers for AppSec teams; and \u2014 newer territory \u2014 deception techniques purpose-built for AI systems, including canary instructions in LLM system prompts, honey documents in RAG pipelines, and fake AI API keys that alert when someone finds them. The talk includes hands-on exercises. Attendees will generate, plant, and trigger their own canary tokens during the session and leave with a working mental model for building a deception program, not just deploying a one-off trick.",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "application security",
-        "local chapter"
-      ],
-      "tags": [
-        "application security",
-        "appsec",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "atlanta",
-      "topic": "broad"
-    },
-    {
-      "title": "AI Engineers Presents: Fonzi's Founders to Follow",
-      "start": "2026-06-24T22:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "2026-06-25T00:30:00+00:00",
-      "url": "https://luma.com/lo17rr1c",
-      "source": "Luma NYC Discover",
-      "location": "Brooklyn, New York, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "NYC AI Demos #10: VENTURE SPOTLIGHT",
-      "start": "2026-06-24T22:00:00+00:00",
-      "date_key": "2026-06-24",
-      "end": "2026-06-25T00:00:00+00:00",
-      "url": "https://luma.com/nyc10",
-      "source": "Luma NYC Discover",
-      "location": "The Refinery at Domino Offices, Brooklyn, New York, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "Community Crossover: Fitness x Tech Crawl\ud83d\udc5f\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udcbb",
-      "start": "2026-06-28T15:00:00+00:00",
-      "date_key": "2026-06-28",
-      "end": "2026-06-28T18:00:00+00:00",
-      "url": "https://luma.com/30pgedh4",
-      "source": "Luma Chicago Discover",
-      "location": "Real Authentic Wellness (R.A.W.) | Chicago, Chicago, Illinois, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 1,
-      "city": "chicago",
       "topic": "broad"
     },
     {
@@ -907,6 +71,237 @@
       ],
       "priority_score": 11,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Wine and Whiskey Tasting focusing on the Cloud Governance Crisis",
+      "start": "2026-06-30T00:00:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "",
+      "url": "https://infosec-conferences.com/event/20260630-wine-and-whiskey-tasting-focusing-on-the-cloud/",
+      "source": "InfoSec Conferences",
+      "location": "Atlanta, GA, Georgia, US",
+      "description": "Key Takeaways Exclusive gathering for senior cyber security professionals Focus on cloud governance, security challenges, and audit readiness Discussion of continuous governance strategies and asset visibility Networking in a private, invitation-only setting Leaders in cyber security are invited to a private event in Dunwoody, GA, designed for those shaping the",
+      "region": "Global",
+      "focus": [
+        "conference",
+        "broad security"
+      ],
+      "tags": [
+        "cyber",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
+      "title": "PlanetScale x Low Level: Security in the AI era",
+      "start": "2026-06-30T02:00:00+00:00",
+      "date_key": "2026-06-29",
+      "end": "2026-06-30T04:30:00+00:00",
+      "url": "https://luma.com/ow1f82nb",
+      "source": "Luma SF Discover",
+      "location": "PlanetScale, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "THE AI Engineer Afterparty",
+      "start": "2026-06-30T02:00:00+00:00",
+      "date_key": "2026-06-29",
+      "end": "2026-06-30T05:00:00+00:00",
+      "url": "https://luma.com/composio-lh5g",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "What Makes a Good Life? A Guided Public Discussion on AI",
+      "start": "2026-06-30T21:00:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "2026-06-30T23:00:00+00:00",
+      "url": "https://luma.com/ai-goodlife",
+      "source": "Luma NYC Discover",
+      "location": "526 Hudson St, New York, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "The Agent Open: AI's pickleball tournament",
+      "start": "2026-06-30T22:00:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "2026-07-01T05:00:00+00:00",
+      "url": "https://luma.com/the-agent-open",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "June Tech Rooftop Mixer (Hosted by Andrew Yeung)",
+      "start": "2026-06-30T22:30:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "2026-07-01T01:00:00+00:00",
+      "url": "https://luma.com/junetechmixer",
+      "source": "Luma NYC Discover",
+      "location": "Brooklyn, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "[AI Engineer] Frontier Coding Dinner co-hosted by G2i and AI Circle",
+      "start": "2026-07-01T00:00:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "2026-07-01T03:30:00+00:00",
+      "url": "https://luma.com/b33n09v9",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "How to get press without a PR agency: a workshop for early-stage founders",
+      "start": "2026-07-01T00:30:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "2026-07-01T03:00:00+00:00",
+      "url": "https://luma.com/ml5i1ves",
+      "source": "Luma SF Discover",
+      "location": "Hanwha AI Center, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Women Tech Meetup: Building Without Permission",
+      "start": "2026-07-01T00:30:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "2026-07-01T03:30:00+00:00",
+      "url": "https://luma.com/womentech-t1cp",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "AI Leaders Dinner - SF, June 30, 2026",
+      "start": "2026-07-01T01:00:00+00:00",
+      "date_key": "2026-06-30",
+      "end": "2026-07-01T04:00:00+00:00",
+      "url": "https://luma.com/ai-leaders-dinner-sf",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 12,
+      "city": "sf",
       "topic": "broad"
     },
     {
@@ -958,6 +353,29 @@
       "topic": "fintech"
     },
     {
+      "title": "Party with Abaka AI: NYC Launch Night in Manhattan",
+      "start": "2026-07-01T22:00:00+00:00",
+      "date_key": "2026-07-01",
+      "end": "2026-07-02T02:00:00+00:00",
+      "url": "https://luma.com/abakaai-yx1l",
+      "source": "Luma NYC Discover",
+      "location": "New York, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
       "title": "Careers & Conversations | July 07, 2026 | @ 4 PM CT",
       "start": "2026-07-07T21:00:00+00:00",
       "date_key": "2026-07-07",
@@ -979,6 +397,53 @@
       ],
       "priority_score": 5,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Agentic AI Identity - A Primer For All by Anshu Gupta",
+      "start": "2026-07-08T19:00:00+00:00",
+      "date_key": "2026-07-08",
+      "end": "2026-07-08T20:00:00+00:00",
+      "url": "https://luma.com/tejas-vd3o",
+      "source": "Tejas Cyber Network",
+      "location": "https://luma.com/tejas-vd3o",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "security"
+      ],
+      "priority_score": 6,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "AI Builders Night New York",
+      "start": "2026-07-08T21:30:00+00:00",
+      "date_key": "2026-07-08",
+      "end": "2026-07-09T01:00:00+00:00",
+      "url": "https://luma.com/clickh-lz8k",
+      "source": "Luma NYC Discover",
+      "location": "LOFT39, New York, New York, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "nyc",
       "topic": "broad"
     },
     {
@@ -1080,6 +545,29 @@
       "topic": "broad"
     },
     {
+      "title": "Flow State: An Evening on AI and Community",
+      "start": "2026-07-14T23:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "2026-07-15T01:00:00+00:00",
+      "url": "https://luma.com/hy554e2g",
+      "source": "Luma Chicago Discover",
+      "location": "Fabrik Chicago, Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
       "title": "Cybersecurity Summit: Raleigh",
       "start": "2026-07-15T00:00:00+00:00",
       "date_key": "2026-07-15",
@@ -1104,6 +592,29 @@
       ],
       "priority_score": 11,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Tech Catalyst Summit World Cup Edition",
+      "start": "2026-07-15T22:00:00+00:00",
+      "date_key": "2026-07-15",
+      "end": "2026-07-16T02:00:00+00:00",
+      "url": "https://luma.com/7fujseiq",
+      "source": "Luma Atlanta Discover",
+      "location": "No18 Buckhead, Atlanta, Georgia, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 1,
+      "city": "atlanta",
       "topic": "broad"
     },
     {
@@ -1310,7 +821,7 @@
       "end": "2026-07-22T03:00:00+00:00",
       "url": "https://luma.com/n2tmabxa",
       "source": "Silicon Valley ISSA",
-      "location": "",
+      "location": "NetApp, San Jose, California, US",
       "description": "",
       "region": "Bay Area",
       "focus": [
@@ -1378,6 +889,29 @@
       "topic": "broad"
     },
     {
+      "title": "2 See all OWASP NYC Chapter IAM Summit 2026 Event",
+      "start": "2026-07-23T12:30:00+00:00",
+      "date_key": "2026-07-23",
+      "end": "",
+      "url": "https://www.meetup.com/owasp-new-york-city-chapter/",
+      "source": "OWASP NYC Meetup",
+      "location": "1345 Avenue of the Americas, 1345 Avenue of the Americas, 3rd Floor, New York, NY, US OWASP NYC Chapter Summer IAM Summit 2026 @ Ease Building July 23, 2026 Join us for this Informative IAM Event. Use code Professional Session with OWASPVIP for our special VIP Complimentary Ticket. Please put OWASP NYC after your last name to confirm you\u2019re a OWASP NYC Member. Everyone is welcomed. www.tinyurl.com/OWASP-NYC-IAM-Summer-Summit Use code Professional Session with OWASPVIP for our special Complimentary Ticket. Join us for the inaugural New York City edition of the Summer IAM Summit to explore the latest in security and compliance through expert-led sessions and interactive discussions. Connect with peers, address real-world IAM challenges, and gain practical insights to strengthen your organization's digital identity strategy.Admission offers attendees access to all interactive panels, discussions, IAM Happy Hour - Come network and unwind with your peers for a couple of drinks on us! @4:00 pm @Ease Building 1345 6th Avenue New York, NY 10105 (54th /55th and Avenue of the Americas) Come join Zoe, Carlos and Guy, all OWASP NYC",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "application security",
+        "local chapter"
+      ],
+      "tags": [
+        "application security",
+        "compliance",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
       "title": "Building a Resilient Cybersecurity Strategy",
       "start": "2026-07-23T13:00:00+00:00",
       "date_key": "2026-07-23",
@@ -1385,7 +919,7 @@
       "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
       "source": "ISACA New York Metro",
       "location": "",
-      "description": "ISACA New York Metropolitan Chapter Event is On Hold The administrator has placed this event on hold. While on hold, it is inaccessible by anyone except the administrator. Close",
+      "description": "ISACA",
       "region": "US",
       "focus": [
         "governance",
@@ -1400,7 +934,30 @@
         "security"
       ],
       "priority_score": 7,
-      "city": "nyc",
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Fastest Draw in the 312: Outpacing the Tech Frontier",
+      "start": "2026-07-24T20:00:00+00:00",
+      "date_key": "2026-07-24",
+      "end": "2026-07-24T23:00:00+00:00",
+      "url": "https://luma.com/2o7ethm3",
+      "source": "Luma Chicago Discover",
+      "location": "Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 1,
+      "city": "chicago",
       "topic": "broad"
     },
     {
@@ -1484,6 +1041,52 @@
       "topic": "broad"
     },
     {
+      "title": "Happy Birthday OWASP! 25 Year Anniversary Party",
+      "start": "2026-07-29T22:30:00+00:00",
+      "date_key": "2026-07-29",
+      "end": "",
+      "url": "https://www.meetup.com/owasp-atlanta/events/315447074/?eventOrigin=group_upcoming_events",
+      "source": "OWASP Atlanta",
+      "location": "Manuels Tavern, 602 North Highland Ave NE, Atlanta, GA, US Join us to celebrate OWASP 25th anniversary! Where: Manuel's Tavern When: 6:30pm Activity: OWASP Trivia --> Come ready to win some prizes! Food and Drinks included",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "application security",
+        "local chapter"
+      ],
+      "tags": [
+        "application security",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
+      "title": "CISA Certification Review Course",
+      "start": "2026-08-02T13:00:00+00:00",
+      "date_key": "2026-08-02",
+      "end": "2026-08-23T21:00:00+00:00",
+      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
+      "source": "ISACA New York Metro",
+      "location": "",
+      "description": "ISACA New York Metropolitan Chapter Event is On Hold The administrator has placed this event on hold. While on hold, it is inaccessible by anyone except the administrator. Close",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "nyc",
+      "topic": "broad"
+    },
+    {
       "title": "Careers & Conversations | August 04, 2026 | @ 4 PM CT",
       "start": "2026-08-04T21:00:00+00:00",
       "date_key": "2026-08-04",
@@ -1557,6 +1160,29 @@
       ],
       "priority_score": 10,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "From AI User to AI Builder - Base44 x AI Collective (Chicago)",
+      "start": "2026-08-13T23:00:00+00:00",
+      "date_key": "2026-08-13",
+      "end": "2026-08-14T02:00:00+00:00",
+      "url": "https://luma.com/hqwe2s7q",
+      "source": "Luma Chicago Discover",
+      "location": "Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 1,
+      "city": "chicago",
       "topic": "broad"
     },
     {
@@ -4310,11 +3936,6 @@
       "source": "Eventbrite Chicago Healthcare",
       "url": "https://www.eventbrite.com/d/il--chicago/healthcare/",
       "error": "HTTP Error 405: Not Allowed"
-    },
-    {
-      "source": "HIMSS Events",
-      "url": "https://www.himss.org/events",
-      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }

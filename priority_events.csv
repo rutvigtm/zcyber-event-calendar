@@ -1,20 +1,17 @@
 start,title,source,region,location,tags,topic,city,priority_score,url
 2026-09-24T00:00:00+00:00,CyberRisk CISO Dinner: Bay Area,CyberRisk Alliance Events,US,"Bay Area, US","ciso, cyber, risk, security",broad,sf,18,https://www.cyberriskalliance.com/events
 2026-10-13T00:00:00+00:00,CyberRisk Leadership Exchange: Bay Area,CyberRisk Alliance Events,US,"Bay Area, US","ciso, cyber, risk, security",broad,sf,18,https://www.cyberriskalliance.com/events
-2026-06-24T15:00:00+00:00,Underground Hacks,AI Security Engineers SF Bay Area,Bay Area,"Radocha, Kraków, Województwo małopolskie, PL","ai security, security",broad,sf,16,https://luma.com/aiseceng-05sz
 2026-07-09T00:00:00+00:00,CISO Stories: AI Security (Black Hat Preview),CyberRisk Alliance Events,US,Online,"ai security, ciso, cyber, risk, security",broad,other-us,14,https://www.cyberriskalliance.com/events
 2026-10-24T15:00:00+00:00,Global CISO Summit - Bay Area Edition,Tejas Cyber Network,US,"Fremont Downtown Event Center, Fremont, California, US","ciso, cyber, security",broad,sf,14,https://luma.com/gqhdvdcj
 2026-12-02T00:00:00+00:00,Virtual Summit: Cloud Security,CyberRisk Alliance Events,US,Online,"ciso, cloud security, cyber, risk, security",broad,other-us,14,https://www.cyberriskalliance.com/events
 2026-12-10T00:00:00+00:00,CISO Stories: Cloud Security: The AI effect and how to proceed,CyberRisk Alliance Events,US,Online,"ciso, cloud security, cyber, risk, security",broad,other-us,14,https://www.cyberriskalliance.com/events
 2026-07-01T19:00:00+00:00,The Unique Role of the IT Audit-Savvy Internal Auditors in Solving a Major Unmanaged Risk,ISACA San Francisco,Bay Area,,"risk, security",broad,sf,13,https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdashboard
 2026-09-14T00:00:00+00:00,Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health,Becker's Health IT Conference,US,"Chicago, IL, US","health, healthcare, risk",health,chicago,13,https://events.beckershospitalreview.com/hit_rcm_2026/
-2026-06-23T00:00:00+00:00,Confidential Computing Summit 2026,InfoSec Conferences,Global,"San Francisco, California, US","compliance, infosec, privacy, security",fintech,sf,12,https://infosec-conferences.com/event/20260623-confidential-computing-summit-2026/
+2026-07-01T01:00:00+00:00,"AI Leaders Dinner - SF, June 30, 2026",Luma SF Discover,Bay Area,"San Francisco, California, US",ai,broad,sf,12,https://luma.com/ai-leaders-dinner-sf
 2026-07-28T00:00:00+00:00,FS-ISAC Steel Resolve Exercise,FS-ISAC Steel Resolve Exercise,US,Online,"cyber, cybersecurity, financial services, fintech, security",fintech,other-us,12,https://www.fsisac.com/events/steel-resolve-2026
 2026-10-26T00:00:00+00:00,FS-ISAC 2026 Americas Fall Summit,FS-ISAC Americas Fall Summit,US,"Austin, TX, US","cyber, cybersecurity, financial services, fintech, security",fintech,other-us,12,https://www.fsisac.com/events/americas-fall-summit
 2026-11-30T00:00:00+00:00,Health-ISAC 2026 Fall Americas Summit,Health-ISAC Summits,US,"Tucson, AZ, USA","cyber, cybersecurity, health, healthcare, security",health,other-us,12,https://health-isac.org/summits/
 2026-11-30T00:00:00+00:00,Health-ISAC 2026 Fall Americas Summit,Health-ISAC Fall Americas Summit,US,"Tucson, AZ, US","cyber, cybersecurity, health, healthcare, security",health,other-us,12,https://health-isac.org/summit-meeting/2026-fall-americas-summit/
-2026-06-22T00:00:00+00:00,International Workshop on Security in Machine Learning and its Applications (SiMLA) 2026,InfoSec Conferences,Global,"Stony Brook, New York, US","ai security, infosec, privacy, risk, security",broad,nyc,11,https://infosec-conferences.com/event/20260622-international-workshop-on-security-in-machine-learning-and/
-2026-06-23T00:00:00+00:00,Cybersecurity Summit: Pittsburgh,CyberRisk Alliance Events,US,"Pittsburgh, US","ciso, cyber, cybersecurity, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/events
 2026-06-30T00:00:00+00:00,Cybersecurity Summit: Minneapolis,CyberRisk Alliance Events,US,"Minneapolis, US","ciso, cyber, cybersecurity, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/events
 2026-07-15T00:00:00+00:00,Cybersecurity Summit: Raleigh,CyberRisk Alliance Events,US,"Raleigh, US","ciso, cyber, cybersecurity, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/events
 2026-07-23T00:00:00+00:00,Cybersecurity Summit: DC Metro,CyberRisk Alliance Events,US,"DC Metro, US","ciso, cyber, cybersecurity, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/events
@@ -37,9 +34,9 @@ start,title,source,region,location,tags,topic,city,priority_score,url
 2026-11-17T00:00:00+00:00,Cybersecurity Summit: New York,CyberRisk Alliance Events,US,"New York, US","ciso, cyber, cybersecurity, risk, security",broad,nyc,11,https://www.cyberriskalliance.com/events
 2026-11-19T00:00:00+00:00,Cybersecurity Summit: Vancouver,CyberRisk Alliance Events,US,"Vancouver, US","ciso, cyber, cybersecurity, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/events
 2026-12-16T00:00:00+00:00,Virtual Summit: Compliance,CyberRisk Alliance Events,US,Online,"ciso, compliance, cyber, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/events
-2026-06-23T00:00:00+00:00,CyberRisk Leadership Exchange: Charlotte,CyberRisk Alliance Events,US,"Charlotte, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
-2026-06-24T00:00:00+00:00,CyberRisk CISO Dinner: Los Angeles,CyberRisk Alliance Events,US,"Los Angeles, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
-2026-06-24T00:00:00+00:00,Virtual Summit: AI for next-gen SOC,CyberRisk Alliance Events,US,Online,"ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
+2026-06-29T00:00:00+00:00,AUTO.AI USA 2026,InfoSec Conferences,Global,"San Francisco, California, US","infosec, security",broad,sf,10,https://infosec-conferences.com/event/20260629-autoai-usa-2026/
+2026-06-29T00:00:00+00:00,Safety.Ad USA 2026,InfoSec Conferences,Global,"San Francisco, California, US","infosec, security",broad,sf,10,https://infosec-conferences.com/event/20260629-safetyad-usa-2026/
+2026-06-30T02:00:00+00:00,PlanetScale x Low Level: Security in the AI era,Luma SF Discover,Bay Area,"PlanetScale, San Francisco, California, US","ai, security",broad,sf,10,https://luma.com/ow1f82nb
 2026-07-21T00:00:00+00:00,CyberRisk CISO Dinner: Detroit,CyberRisk Alliance Events,US,"Detroit, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
 2026-07-22T00:00:00+00:00,CyberRisk CISO Dinner: Twin Cities,CyberRisk Alliance Events,US,"Twin Cities, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
 2026-07-22T00:00:00+00:00,CyberRisk Leadership Exchange: Boston,CyberRisk Alliance Events,US,"Boston, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
@@ -91,16 +88,11 @@ start,title,source,region,location,tags,topic,city,priority_score,url
 2026-12-03T00:00:00+00:00,CyberRisk Leadership Exchange: Portland,CyberRisk Alliance Events,US,"Portland, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
 2026-12-08T00:00:00+00:00,CyberRisk Leadership Exchange: Detroit,CyberRisk Alliance Events,US,"Detroit, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
 2026-12-10T00:00:00+00:00,CyberRisk CISO Dinner: Charlotte,CyberRisk Alliance Events,US,"Charlotte, US","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/events
-2026-06-22T00:00:00+00:00,International Workshop on Artificial Intelligence and Industrial IoT Security (AIoTS) 2026,InfoSec Conferences,Global,"Stony Brook, New York, US","cyber, cybersecurity, infosec, privacy, risk, security",broad,nyc,9,https://infosec-conferences.com/event/20260622-international-workshop-on-artificial-intelligence-and-industrial-iot/
-2026-06-22T17:00:00+00:00,Deep Tech Morning Boost ⏻: Pickleball & Breakfast,Luma SF Discover,Bay Area,"San Francisco, California, US",tech,broad,sf,9,https://luma.com/ph4wpuzn
-2026-06-22T19:30:00+00:00,The Global State of Deep Tech,Luma SF Discover,Bay Area,"945 Market Street, San Francisco, California, US",tech,broad,sf,9,https://luma.com/tjz6cxz2
-2026-06-23T01:30:00+00:00,🇯🇵 Japan × Global Tech Meetup: pre-Config networking 🌐 日本 × グローバル テック交流会,Luma SF Discover,Bay Area,"ZOË, San Francisco, California, US",tech,broad,sf,9,https://luma.com/wu78sd6q
-2026-06-23T17:00:00+00:00,Physical AI Investor Mixer,Luma SF Discover,Bay Area,"San Francisco, California, US",ai,broad,sf,9,https://luma.com/deep-2pbu
-2026-06-23T22:00:00+00:00,Civic tech meetup @ Config 2026,Luma SF Discover,Bay Area,"Moscone Center, San Francisco, California, US",tech,broad,sf,9,https://luma.com/lz66ve3n
-2026-06-24T00:30:00+00:00,"Deep Tech Undergound by Alta, Stifel & Sequoia",Luma SF Discover,Bay Area,"San Francisco, California, US",tech,broad,sf,9,https://luma.com/ew1byl0d
-2026-06-24T01:00:00+00:00,How AI-Native Collaboration Is Changing How Teams Build,Luma SF Discover,Bay Area,"San Francisco, California, US",ai,broad,sf,9,https://luma.com/0h79d4y3
-2026-06-23T00:00:00+00:00,Denver CISO Community Executive Summit,Evanta CISO Calendar,US,"Denver, US","ciso, security",broad,other-us,8,https://www.evanta.com/calendar
-2026-06-23T00:00:00+00:00,Seattle CISO Community Executive Summit,Evanta CISO Calendar,US,"Seattle, US","ciso, security",broad,other-us,8,https://www.evanta.com/calendar
+2026-06-30T02:00:00+00:00,THE AI Engineer Afterparty,Luma SF Discover,Bay Area,"San Francisco, California, US",ai,broad,sf,9,https://luma.com/composio-lh5g
+2026-06-30T22:00:00+00:00,The Agent Open: AI's pickleball tournament,Luma SF Discover,Bay Area,"San Francisco, California, US",ai,broad,sf,9,https://luma.com/the-agent-open
+2026-07-01T00:00:00+00:00,[AI Engineer] Frontier Coding Dinner co-hosted by G2i and AI Circle,Luma SF Discover,Bay Area,"San Francisco, California, US",ai,broad,sf,9,https://luma.com/b33n09v9
+2026-07-01T00:30:00+00:00,How to get press without a PR agency: a workshop for early-stage founders,Luma SF Discover,Bay Area,"Hanwha AI Center, San Francisco, California, US",ai,broad,sf,9,https://luma.com/ml5i1ves
+2026-07-01T00:30:00+00:00,Women Tech Meetup: Building Without Permission,Luma SF Discover,Bay Area,"San Francisco, California, US",tech,broad,sf,9,https://luma.com/womentech-t1cp
 2026-07-16T00:00:00+00:00,Florida CISO Community Town Hall,Evanta CISO Calendar,US,"Florida, US","ciso, security",broad,other-us,8,https://www.evanta.com/calendar
 2026-07-21T00:00:00+00:00,Chicago CISO Community Town Hall,Evanta CISO Calendar,US,"Chicago, US","ciso, security",broad,chicago,8,https://www.evanta.com/calendar
 2026-07-22T00:00:00+00:00,Global CISO Community Town Hall,Evanta CISO Calendar,US,"US, US","ciso, security",broad,other-us,8,https://www.evanta.com/calendar
@@ -130,8 +122,8 @@ start,title,source,region,location,tags,topic,city,priority_score,url
 2026-12-02T00:00:00+00:00,Chicago CISO Community Executive Summit,Evanta CISO Calendar,US,"Chicago, US","ciso, security",broad,chicago,8,https://www.evanta.com/calendar
 2026-12-03T00:00:00+00:00,Boston CISO Community Executive Summit,Evanta CISO Calendar,US,"Boston, US","ciso, security",broad,other-us,8,https://www.evanta.com/calendar
 2026-12-09T00:00:00+00:00,Minneapolis CISO Community Executive Summit,Evanta CISO Calendar,US,"Minneapolis, US","ciso, security",broad,other-us,8,https://www.evanta.com/calendar
-2026-06-22T00:00:00+00:00,SecureIT Summit Tampa 2026,InfoSec Conferences,Global,"Tampa, Florida, US","cyber, cybersecurity, infosec, security",broad,other-us,7,https://infosec-conferences.com/event/20260622-secureit-summit-tampa-2026/
-2026-07-23T13:00:00+00:00,Building a Resilient Cybersecurity Strategy,ISACA New York Metro,US,,"cyber, cybersecurity, risk, security",broad,nyc,7,https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
+2026-07-23T13:00:00+00:00,Building a Resilient Cybersecurity Strategy,ISACA New York Metro,US,,"cyber, cybersecurity, risk, security",broad,other-us,7,https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
 2026-07-01T19:00:00+00:00,Patch Your Wallet : A Peer Personal Finance Learning Session for Cyber Professionals,Tejas Cyber Network,US,https://luma.com/tejas-hbkq,"ciso, cyber, security",fintech,other-us,6,https://luma.com/tejas-hbkq
+2026-07-08T19:00:00+00:00,Agentic AI Identity - A Primer For All by Anshu Gupta,Tejas Cyber Network,US,https://luma.com/tejas-vd3o,"ciso, cyber, security",broad,other-us,6,https://luma.com/tejas-vd3o
 2026-07-10T19:00:00+00:00,The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed,Tejas Cyber Network,US,https://luma.com/tejas-oegm,"ciso, cyber, security",broad,other-us,6,https://luma.com/tejas-oegm
-2026-07-22T00:30:00+00:00,July 2026: A History of the Login Box and Why It Still Sucks,Silicon Valley ISSA,Bay Area,,security,broad,sf,1,https://luma.com/n2tmabxa
+2026-07-22T00:30:00+00:00,July 2026: A History of the Login Box and Why It Still Sucks,Silicon Valley ISSA,Bay Area,"NetApp, San Jose, California, US",security,broad,sf,1,https://luma.com/n2tmabxa
