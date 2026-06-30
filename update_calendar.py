@@ -130,7 +130,7 @@ PRIORITY_CSV = OUTPUT_DIR / "priority_events.csv"
 EVENTS_ICS = OUTPUT_DIR / "zcyber_security_events.ics"
 EVENTS_HTML = OUTPUT_DIR / "index.html"
 
-USER_AGENT = "ZCyberGTMEventCalendar/1.0 (+local research calendar)"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 NOW = datetime.now(timezone.utc)
 LOOKBACK_DAYS = 7
 LOOKAHEAD_DAYS = 370
@@ -205,10 +205,15 @@ def fetch(url: str) -> str:
         url,
         headers={
             "User-Agent": USER_AGENT,
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,text/calendar,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Upgrade-Insecure-Requests": "1",
         },
     )
-    with urllib.request.urlopen(req, timeout=25) as response:
+    with urllib.request.urlopen(req, timeout=12) as response:
         raw = response.read()
         charset = response.headers.get_content_charset() or "utf-8"
         return raw.decode(charset, errors="replace")
@@ -772,6 +777,179 @@ def parse_health_isac_summits(page: str, base_url: str) -> list[dict[str, Any]]:
     return events
 
 
+def parse_tag_events(page: str, base_url: str) -> list[dict[str, Any]]:
+    """Technology Association of Georgia (GrowthZone) calendar. Pairs each
+    schema.org startDate with its nearest preceding event title link."""
+    metas = list(re.finditer(r'itemprop="startDate" content="([^"]+)"', page))
+    ends = list(re.finditer(r'itemprop="endDate" content="([^"]+)"', page))
+    titles = list(
+        re.finditer(
+            r'href="(https://members\.tagonline\.org/calendar/Details/[^"]+)"[^>]*>\s*([A-Z][^<]{4,140}?)\s*</a>',
+            page,
+        )
+    )
+    events: list[dict[str, Any]] = []
+    seen: set[tuple[str, str]] = set()
+    for mt in metas:
+        prev = [t for t in titles if t.end() <= mt.start()]
+        if not prev:
+            continue
+        t = prev[-1]
+        name = html.unescape(t.group(2).strip())
+        start = mt.group(1).strip()
+        if (name, start) in seen:
+            continue
+        seen.add((name, start))
+        end = next((e.group(1).strip() for e in ends if e.start() > mt.start()), "")
+        events.append(
+            {
+                "@type": "Event",
+                "name": name,
+                "startDate": start,
+                "endDate": end,
+                "url": t.group(1),
+                "location": "Atlanta, GA, US",
+                "description": "Technology Association of Georgia event",
+            }
+        )
+    return events
+
+
+def parse_secureworld_events(page: str, base_url: str) -> list[dict[str, Any]]:
+    """SecureWorld /events listing: regional conferences with start/end dates and venues."""
+    events: list[dict[str, Any]] = []
+    for blk in re.split(r'<div class="event upcoming', page)[1:]:
+        blk = blk[:1500]
+        title_m = re.search(r"<h2>\s*([^<]+?)\s*</h2>", blk)
+        start_m = re.search(r'class="start-date">\s*(\d{4}-\d{2}-\d{2})', blk)
+        if not title_m or not start_m:
+            continue
+        end_m = re.search(r'class="end-date">\s*(\d{4}-\d{2}-\d{2})', blk)
+        venue_m = re.search(r'class="venue-name">\s*([^<]+?)\s*</div>', blk, flags=re.S)
+        url_m = re.search(r'href="(https://events\.secureworld\.io/details/[^"]+)"', blk)
+        title = html.unescape(title_m.group(1).strip())
+        venue = html.unescape(venue_m.group(1).strip()) if venue_m else ""
+        location = f"{venue}, {title}" if venue else title
+        events.append(
+            {
+                "@type": "Event",
+                "name": f"SecureWorld {title}",
+                "startDate": start_m.group(1),
+                "endDate": end_m.group(1) if end_m else "",
+                "url": url_m.group(1) if url_m else base_url,
+                "location": location,
+                "description": "SecureWorld regional cybersecurity conference",
+            }
+        )
+    return events
+
+
+def parse_cra_upcoming_events(page: str, base_url: str) -> list[dict[str, Any]]:
+    """CyberRisk Alliance upcoming-events (Webflow CMS list): CISO Dinners,
+    Leadership Exchanges, and Cybersecurity Summits across US cities."""
+    events: list[dict[str, Any]] = []
+    for blk in page.split('role="listitem" class="upcoming-event-list_item')[1:]:
+        blk = blk[:4000]
+        name_m = re.search(r'fs-cmsfilter-field="name"[^>]*>\s*(.*?)\s*</h2>', blk, flags=re.S)
+        date_m = re.search(r'class="text-size-medium">\s*([A-Za-z]{3,9}\.?\s+\d{1,2},\s+\d{4})', blk)
+        if not name_m or not date_m:
+            continue
+        name = re.sub(r"<[^>]+>", "", name_m.group(1)).strip()
+        if not name:
+            continue
+        locs = re.findall(r'fs-cmsfilter-field="locations"[^>]*>\s*([^<]+?)\s*<', blk)
+        location = next(
+            (loc.strip() for loc in locs if loc.strip().lower() not in ("in-person", "virtual", "in person")),
+            "",
+        )
+        fmt_m = re.search(r'fs-cmsfilter-field="format"[^>]*>\s*([^<]+?)\s*<', blk)
+        fmt = fmt_m.group(1).strip() if fmt_m else "Event"
+        events.append(
+            {
+                "@type": "Event",
+                "name": name,
+                "startDate": date_m.group(1),
+                "endDate": "",
+                "url": base_url,
+                "location": location or "United States",
+                "description": f"CyberRisk Alliance {fmt}",
+            }
+        )
+    return events
+
+
+def _ics_unfold(text: str) -> str:
+    # RFC 5545 line folding: a CRLF (or LF) followed by a space or tab continues the previous line.
+    return re.sub(r"\r?\n[ \t]", "", text)
+
+
+def _ics_unescape(value: str) -> str:
+    return (
+        value.replace("\\n", " ")
+        .replace("\\N", " ")
+        .replace("\\,", ",")
+        .replace("\\;", ";")
+        .replace("\\\\", "\\")
+        .strip()
+    )
+
+
+def _ics_datetime_to_iso(value: str) -> str:
+    value = value.strip()
+    match = re.match(r"^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2})(Z)?)?", value)
+    if not match:
+        return value
+    year, month, day, hour, minute, second, zulu = match.groups()
+    if hour is None:
+        return f"{year}-{month}-{day}"
+    iso = f"{year}-{month}-{day}T{hour}:{minute}:{second}"
+    return iso + "+00:00" if zulu else iso
+
+
+def parse_ics_events(page: str, base_url: str) -> list[dict[str, Any]]:
+    """Parse VEVENTs from an iCalendar (.ics) feed, e.g. a public Google Calendar.
+
+    One ICS feed (such as a community-maintained city calendar) often aggregates
+    every local chapter (ISACA, ISSA, ISC2, OWASP, CSA, InfraGard, BSides), so this
+    is the highest-leverage way to cover local chapter events.
+    """
+    text = _ics_unfold(page)
+    events: list[dict[str, Any]] = []
+    for block in re.findall(r"BEGIN:VEVENT(.*?)END:VEVENT", text, flags=re.S):
+        props: dict[str, str] = {}
+        for line in block.splitlines():
+            line = line.strip()
+            if not line or ":" not in line:
+                continue
+            name, _, val = line.partition(":")
+            key = name.split(";", 1)[0].upper()
+            if key in ("SUMMARY", "LOCATION", "DESCRIPTION", "URL"):
+                props[key] = _ics_unescape(val)
+            elif key in ("DTSTART", "DTEND"):
+                props[key] = _ics_datetime_to_iso(val)
+        title = props.get("SUMMARY", "").strip()
+        start = props.get("DTSTART", "")
+        if not title or not start:
+            continue
+        url = props.get("URL") or base_url
+        if not props.get("URL"):
+            link = re.search(r"https?://\S+", props.get("DESCRIPTION", ""))
+            if link:
+                url = link.group(0).rstrip(").,;")
+        events.append(
+            {
+                "@type": "Event",
+                "name": title,
+                "startDate": start,
+                "endDate": props.get("DTEND", ""),
+                "url": url,
+                "location": props.get("LOCATION", ""),
+                "description": props.get("DESCRIPTION", ""),
+            }
+        )
+    return events
+
+
 def parse_raw_events(page: str, source: dict[str, Any]) -> tuple[list[dict[str, Any]], str]:
     parser = source.get("parser", "auto")
     if parser == "configured_event":
@@ -794,6 +972,14 @@ def parse_raw_events(page: str, source: dict[str, Any]) -> tuple[list[dict[str, 
         return parse_evanta_calendar(page, source["url"]), "evanta_calendar"
     if parser == "health_isac_summits":
         return parse_health_isac_summits(page, source["url"]), "health_isac_summits"
+    if parser == "ics":
+        return parse_ics_events(page, source["url"]), "ics"
+    if parser == "cra_upcoming":
+        return parse_cra_upcoming_events(page, source["url"]), "cra_upcoming"
+    if parser == "secureworld":
+        return parse_secureworld_events(page, source["url"]), "secureworld"
+    if parser == "tag":
+        return parse_tag_events(page, source["url"]), "tag"
 
     raw_events = parse_jsonld_events(page)
     if raw_events:
@@ -893,7 +1079,7 @@ def event_topic(title: str, description: str, location: str, focus: list[str], t
 
 def event_city(title: str, description: str, location: str, region: str) -> str:
     text = normalize(" ".join([title, description, location, region]))
-    if any(term in text for term in ["san francisco", "bay area", "moscone", "santa clara", "san jose", "oakland", "berkeley", "burlingame", "palo alto", "mountain view", "sunnyvale"]) or re.search(r"\bsf\b", text):
+    if any(term in text for term in ["san francisco", "bay area", "silicon valley", "east bay", "moscone", "santa clara", "san jose", "oakland", "berkeley", "burlingame", "palo alto", "mountain view", "sunnyvale"]) or re.search(r"\bsf\b", text):
         return "sf"
     if any(term in text for term in ["new york", "nyc", "manhattan", "brooklyn"]):
         return "nyc"
@@ -901,6 +1087,12 @@ def event_city(title: str, description: str, location: str, region: str) -> str:
         return "atlanta"
     if "chicago" in text:
         return "chicago"
+    if any(term in text for term in ["nashville", "brentwood, tn", "franklin, tn", "murfreesboro", "middle tennessee"]):
+        return "nashville"
+    if any(term in text for term in ["orlando", "kissimmee", "winter park", "maitland", "lake mary", "altamonte", "central florida"]):
+        return "orlando"
+    if any(term in text for term in ["detroit", "novi, mi", "troy, mi", "southfield", "dearborn", "livonia", "warren, mi", "auburn hills", "ann arbor", "metro detroit"]):
+        return "detroit"
     return "other-us"
 
 
@@ -934,7 +1126,7 @@ def is_us_event(title: str, description: str, location: str, region: str) -> boo
         return False
     if region in {"Bay Area", "US"}:
         return True
-    if any(term in text for term in ["united states", ", us", " usa", "san francisco", "new york", "atlanta", "chicago", "berkeley", "santa clara", "bellevue", "washington", "california", "maryland", "minnesota", "texas", "virginia", "philadelphia", "san diego", "boston", "arlington"]):
+    if any(term in text for term in ["united states", ", us", " usa", "san francisco", "new york", "atlanta", "chicago", "berkeley", "santa clara", "bellevue", "washington", "california", "maryland", "minnesota", "texas", "virginia", "philadelphia", "san diego", "boston", "arlington", "nashville", "tennessee", "orlando", "florida", "detroit", "michigan", "novi", "kissimmee"]):
         return True
     return False
 
@@ -993,7 +1185,7 @@ def event_from_schema(raw: dict[str, Any], source: dict[str, Any], settings: dic
         focus=source.get("focus", []),
         tags=tags,
         priority_score=score,
-        city=event_city(title, description, location, region),
+        city=event_city(title, description, location, region + " " + " ".join(source.get("focus", []))),
         topic=event_topic(title, description, location, source.get("focus", []), tags),
     ), "accepted"
 
@@ -1006,7 +1198,8 @@ def collect_events(settings: dict[str, Any]) -> tuple[list[Event], list[dict[str
     events: list[Event] = []
     errors: list[dict[str, str]] = []
     debug_rows: list[dict[str, Any]] = []
-    for source in settings["sources"]:
+    total = len(settings["sources"])
+    for idx, source in enumerate(settings["sources"], 1):
         debug = {
             "source": source["name"],
             "url": source["url"],
@@ -1020,8 +1213,9 @@ def collect_events(settings: dict[str, Any]) -> tuple[list[Event], list[dict[str
             "sample_raw_titles": [],
             "sample_accepted_titles": [],
         }
+        print(f"[{idx}/{total}] {source['name']}", file=sys.stderr, flush=True)
         try:
-            page = fetch(source["url"])
+            page = "" if source.get("parser") == "configured_event" else fetch(source["url"])
             raw_events, parser_name = parse_raw_events(page, source)
             debug["parser"] = parser_name
             debug["raw_events_found"] = len(raw_events)
@@ -1473,6 +1667,9 @@ def write_html(events: list[Event], errors: list[dict[str, str]]) -> None:
                     <option value="nyc">NYC</option>
                     <option value="atlanta">Atlanta</option>
                     <option value="chicago">Chicago</option>
+                    <option value="nashville">Nashville</option>
+                    <option value="orlando">Orlando</option>
+                    <option value="detroit">Detroit</option>
                     <option value="other-us">Other US</option>
                   </select>
                 </label>

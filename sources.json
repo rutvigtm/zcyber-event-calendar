@@ -65,9 +65,9 @@
     },
     {
       "name": "OWASP Bay Area",
-      "url": "https://www.meetup.com/Bay-Area-OWASP/events/",
+      "url": "https://www.meetup.com/Bay-Area-OWASP/events/ical",
       "type": "html",
-      "parser": "meetup_group",
+      "parser": "ics",
       "region": "Bay Area",
       "focus": ["application security", "local meetup"]
     },
@@ -142,9 +142,9 @@
     },
     {
       "name": "OWASP NYC Meetup",
-      "url": "https://www.meetup.com/owasp-new-york-city-chapter/",
+      "url": "https://www.meetup.com/owasp-new-york-city-chapter/events/ical",
       "type": "html",
-      "parser": "meetup_group",
+      "parser": "ics",
       "region": "US",
       "focus": ["application security", "local chapter"]
     },
@@ -175,9 +175,9 @@
     },
     {
       "name": "Chicagoland Cybersecurity Exchange",
-      "url": "https://www.meetup.com/chicagoland-cybersecurity-exchange/",
+      "url": "https://www.meetup.com/chicagoland-cybersecurity-exchange/events/ical",
       "type": "html",
-      "parser": "meetup_group",
+      "parser": "ics",
       "region": "US",
       "focus": ["broad security", "local meetup"]
     },
@@ -200,9 +200,9 @@
     },
     {
       "name": "OWASP Atlanta",
-      "url": "https://www.meetup.com/owasp-atlanta/",
+      "url": "https://www.meetup.com/owasp-atlanta/events/ical",
       "type": "html",
-      "parser": "meetup_group",
+      "parser": "ics",
       "region": "US",
       "focus": ["application security", "local chapter"]
     },
@@ -242,9 +242,9 @@
     },
     {
       "name": "CyberRisk Alliance Events",
-      "url": "https://www.cyberriskalliance.com/events",
+      "url": "https://www.cyberriskalliance.com/upcoming-events",
       "type": "html",
-      "parser": "cra_events",
+      "parser": "cra_upcoming",
       "region": "US",
       "focus": ["ciso", "broad security", "executive", "regional summit"]
     },
@@ -346,13 +346,6 @@
       }
     },
     {
-      "name": "HIMSS Events Overview",
-      "url": "https://www.himss.org/events-overview/?page=0",
-      "type": "html",
-      "region": "US",
-      "focus": ["healthcare", "health", "cybersecurity", "privacy", "conference"]
-    },
-    {
       "name": "Becker's Health IT Conference",
       "url": "https://events.beckershospitalreview.com/hit_rcm_2026/",
       "type": "html",
@@ -366,13 +359,6 @@
         "location": "Chicago, IL, US",
         "description": "Becker's Healthcare conference for health system IT, digital health, AI, and revenue cycle leaders"
       }
-    },
-    {
-      "name": "InfoSec Conferences",
-      "url": "https://www.infosec-conferences.com/",
-      "type": "html",
-      "region": "Global",
-      "focus": ["conference", "broad security"]
     },
     {
       "name": "Eventbrite SF Cybersecurity",
@@ -483,6 +469,638 @@
       "type": "html",
       "region": "US",
       "focus": ["healthcare"]
+    },
+
+    {
+      "name": "Chicago InfoSec Events Calendar",
+      "url": "https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/public/basic.ics",
+      "type": "ics",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["broad security", "local chapter", "community calendar"]
+    },
+    {
+      "name": "ISC2 Chicago",
+      "url": "https://isc2chicago.org/events",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "ISSA Chicago",
+      "url": "https://www.issa-chicago.org/events",
+      "type": "html",
+      "parser": "jsonld",
+      "region": "US",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "InfraGard Chicago",
+      "url": "https://chicagoinfragard.org/events",
+      "type": "html",
+      "region": "US",
+      "focus": ["critical infrastructure", "broad security", "local chapter"]
+    },
+    {
+      "name": "CSA Chicago",
+      "url": "https://circle.cloudsecurityalliance.org/chicago/events/calendar",
+      "type": "html",
+      "region": "US",
+      "focus": ["cloud security", "local chapter"]
+    },
+    {
+      "name": "BurbSec Chicago",
+      "url": "https://www.meetup.com/burbsec/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["broad security", "local meetup"]
+    },
+    {
+      "name": "ISACA Atlanta",
+      "url": "https://engage.isaca.org/atlantachapter/events/calendar",
+      "type": "html",
+      "parser": "isaca_calendar",
+      "region": "US",
+      "focus": ["governance", "risk", "security", "local chapter"]
+    },
+    {
+      "name": "ISC2 Atlanta",
+      "url": "https://atl-isc2.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "InfraGard Atlanta",
+      "url": "https://infragardatlanta.org/whats-new/",
+      "type": "html",
+      "region": "US",
+      "focus": ["critical infrastructure", "broad security", "local chapter"]
+    },
+    {
+      "name": "ISACA Middle Tennessee",
+      "url": "https://engage.isaca.org/middletennesseechapter/events/calendar",
+      "type": "html",
+      "parser": "isaca_calendar",
+      "region": "US",
+      "focus": ["governance", "risk", "security", "local chapter", "nashville"]
+    },
+    {
+      "name": "ISC2 Middle Tennessee",
+      "url": "https://www.isc2midtn.org/events/events",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local chapter", "nashville"]
+    },
+    {
+      "name": "ISSA Middle Tennessee",
+      "url": "https://issamidtn.org/",
+      "type": "html",
+      "parser": "jsonld",
+      "region": "US",
+      "focus": ["broad security", "local chapter", "nashville"]
+    },
+    {
+      "name": "OWASP Nashville",
+      "url": "https://owasp.org/www-chapter-nashville/",
+      "type": "html",
+      "parser": "owasp_chapter",
+      "region": "US",
+      "focus": ["application security", "local chapter", "nashville"]
+    },
+    {
+      "name": "NashSec",
+      "url": "https://www.meetup.com/nashsec/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "nashville"]
+    },
+    {
+      "name": "Nashville Cyber Security for Control Systems",
+      "url": "https://www.meetup.com/nashville-cyber-security-for-control-systems/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["ot security", "ics", "broad security", "local meetup", "nashville"]
+    },
+    {
+      "name": "Eventbrite Nashville Cybersecurity",
+      "url": "https://www.eventbrite.com/d/tn--nashville/cybersecurity/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "nashville"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Nashville Healthcare",
+      "url": "https://www.eventbrite.com/d/tn--nashville/healthcare/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "local meetup", "nashville"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Luma Nashville Discover",
+      "url": "https://luma.com/nashville",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad security", "local discovery", "nashville"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "ISSA Central Florida",
+      "url": "https://centralflorida.issa.org/upcoming-events/",
+      "type": "html",
+      "parser": "jsonld",
+      "region": "US",
+      "focus": ["broad security", "local chapter", "orlando"]
+    },
+    {
+      "name": "OWASP Orlando",
+      "url": "https://owasp.org/www-chapter-orlando/",
+      "type": "html",
+      "parser": "owasp_chapter",
+      "region": "US",
+      "focus": ["application security", "local chapter", "orlando"]
+    },
+    {
+      "name": "Eventbrite Orlando Cybersecurity",
+      "url": "https://www.eventbrite.com/d/fl--orlando/cybersecurity/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "orlando"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Orlando Healthcare",
+      "url": "https://www.eventbrite.com/d/fl--orlando/healthcare/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "local meetup", "orlando"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Luma Orlando Discover",
+      "url": "https://luma.com/orlando",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad security", "local discovery", "orlando"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+    {
+      "name": "ISACA Detroit",
+      "url": "https://engage.isaca.org/detroitchapter/events/calendar",
+      "type": "html",
+      "parser": "isaca_calendar",
+      "region": "US",
+      "focus": ["governance", "risk", "security", "local chapter", "detroit"]
+    },
+    {
+      "name": "ISC2 Greater Detroit",
+      "url": "https://www.isc2greaterdetroit.org/events",
+      "type": "html",
+      "parser": "jsonld",
+      "region": "US",
+      "focus": ["broad security", "local chapter", "detroit"]
+    },
+    {
+      "name": "ISSA Motor City",
+      "url": "https://www.eventbrite.com/o/issa-motor-city-chapter-18504048947",
+      "type": "html",
+      "parser": "jsonld",
+      "region": "US",
+      "focus": ["broad security", "local chapter", "detroit"]
+    },
+    {
+      "name": "OWASP Detroit",
+      "url": "https://owasp.org/www-chapter-detroit/",
+      "type": "html",
+      "parser": "owasp_chapter",
+      "region": "US",
+      "focus": ["application security", "local chapter", "detroit"]
+    },
+    {
+      "name": "OWASP Oakland County",
+      "url": "https://owasp.org/www-chapter-oakland-county/",
+      "type": "html",
+      "parser": "owasp_chapter",
+      "region": "US",
+      "focus": ["application security", "local chapter", "detroit"]
+    },
+    {
+      "name": "InfraGard Michigan",
+      "url": "https://www.michiganinfragard.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["critical infrastructure", "broad security", "local chapter", "detroit"]
+    },
+    {
+      "name": "Eventbrite Detroit Cybersecurity",
+      "url": "https://www.eventbrite.com/d/mi--detroit/cybersecurity/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "detroit"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Eventbrite Detroit Healthcare",
+      "url": "https://www.eventbrite.com/d/mi--detroit/healthcare/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "local meetup", "detroit"],
+      "exclude_keywords": ["course", "training", "certification", "bootcamp", "workshop"]
+    },
+    {
+      "name": "Luma Detroit Discover",
+      "url": "https://luma.com/detroit",
+      "type": "html",
+      "region": "US",
+      "focus": ["ai", "tech", "broad security", "local discovery", "detroit"],
+      "extra_include_keywords": ["ai", "artificial intelligence", "genai", "llm", "agentic", "tech"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "risk", "grc", "compliance", "healthcare", "health", "hipaa", "fintech", "financial services", "ai", "artificial intelligence", "genai", "llm", "agentic", "tech"]
+    },
+
+    {
+      "name": "FutureCon Events",
+      "url": "https://futureconevents.com/events/",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "broad security", "regional summit", "conference"]
+    },
+    {
+      "name": "SecureWorld Events",
+      "url": "https://www.secureworld.io/events",
+      "type": "html",
+      "parser": "secureworld",
+      "region": "US",
+      "focus": ["ciso", "broad security", "regional summit"]
+    },
+    {
+      "name": "HMG Strategy Summits",
+      "url": "https://hmgstrategy.com/upcoming-summits-calendar/",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "executive", "leadership summit"]
+    },
+    {
+      "name": "ISMG Summits",
+      "url": "https://ismg.events/summits/",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "broad security", "summit"]
+    },
+    {
+      "name": "Apex Assembly",
+      "url": "https://apexassembly.com/assemblies/",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "executive", "summit"]
+    },
+    {
+      "name": "CISO XC",
+      "url": "https://www.cisoxc.com/events-calendar",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "executive", "summit"]
+    },
+    {
+      "name": "Michigan Cyber Summit",
+      "url": "https://events.govtech.com/Michigan-Cyber-Summit",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "broad security", "government", "detroit"]
+    },
+    {
+      "name": "TAG Information Security Society",
+      "url": "https://members.tagonline.org/calendar",
+      "type": "html",
+      "parser": "tag",
+      "region": "US",
+      "focus": ["broad security", "local community", "atlanta"],
+      "require_any_keyword": ["security", "cyber", "cybersecurity", "ciso", "infosec", "privacy", "grc", "compliance", "governance", "zero trust", "threat", "hipaa", "ransomware", "vulnerability"]
+    },
+    {
+      "name": "BSides Atlanta",
+      "url": "https://bsidesatl.info/",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["broad security", "conference", "local", "atlanta"],
+      "event": {
+        "title": "BSides Atlanta 2026",
+        "start": "October 3, 2026",
+        "end": "October 3, 2026",
+        "location": "Georgia Tech Hotel & Conference Center, Atlanta, GA, US",
+        "description": "Community security conference in Midtown Atlanta"
+      }
+    },
+    {
+      "name": "DC404 Atlanta",
+      "url": "https://dc404.org/calendar/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "atlanta"]
+    },
+    {
+      "name": "WiCyS Events",
+      "url": "https://www.wicys.org/events/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "community", "women in security"]
+    },
+    {
+      "name": "FutureCon Atlanta",
+      "url": "https://futureconevents.com/events/atlanta-ga-2026/",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["ciso", "broad security", "conference", "atlanta"],
+      "event": {
+        "title": "FutureCon Atlanta 2026",
+        "start": "December 10, 2026",
+        "end": "December 10, 2026",
+        "location": "Grand Hyatt Atlanta in Buckhead, Atlanta, GA, US",
+        "description": "FutureCon regional cybersecurity conference, Atlanta edition"
+      }
+    },
+    {
+      "name": "Hygieia Conference Atlanta",
+      "url": "https://events.issa.com/events/hygieia-conference-atlanta-2026/",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["healthcare", "health", "security", "conference", "atlanta"],
+      "event": {
+        "title": "Hygieia Healthcare Security Conference 2026",
+        "start": "August 12, 2026",
+        "end": "August 13, 2026",
+        "location": "Georgia-Pacific Center, Atlanta, GA, US",
+        "description": "ISSA healthcare cybersecurity conference in Atlanta"
+      }
+    },
+    {
+      "name": "BSides Nashville",
+      "url": "https://bsidesnash.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "conference", "local", "nashville"]
+    },
+    {
+      "name": "DC615 Nashville",
+      "url": "https://dc615.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "nashville"]
+    },
+    {
+      "name": "WiCyS Tennessee",
+      "url": "https://www.wicystennessee.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "community", "nashville"]
+    },
+    {
+      "name": "Nashville Health Care Council",
+      "url": "https://insights.healthcarecouncil.com/public-events",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "health", "executive", "nashville"]
+    },
+    {
+      "name": "HIMSS Tennessee",
+      "url": "https://www.tnhimss.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "health", "local chapter", "nashville"]
+    },
+    {
+      "name": "FutureCon Nashville",
+      "url": "https://futureconevents.com/events/nashville-tn-2026/",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "broad security", "conference", "nashville"]
+    },
+    {
+      "name": "BSides Orlando",
+      "url": "https://bsidesorlando.org/",
+      "type": "html",
+      "parser": "configured_event",
+      "region": "US",
+      "focus": ["broad security", "conference", "local", "orlando"],
+      "event": {
+        "title": "BSides Orlando 2026",
+        "start": "September 25, 2026",
+        "end": "September 26, 2026",
+        "location": "Orlando, FL, US",
+        "description": "Community security conference in Orlando"
+      }
+    },
+    {
+      "name": "DC407 Orlando",
+      "url": "https://dc407.com/category/meetings/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "orlando"]
+    },
+    {
+      "name": "WiCyS Florida",
+      "url": "https://www.wicys.org/organizer/women-in-cybersecurity-florida-affiliate/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "community", "orlando"]
+    },
+    {
+      "name": "FutureCon Orlando",
+      "url": "https://futureconevents.com/events/orlando-fl-2026/",
+      "type": "html",
+      "region": "US",
+      "focus": ["ciso", "broad security", "conference", "orlando"]
+    },
+    {
+      "name": "BSides Detroit",
+      "url": "https://www.bsidesdetroit.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "conference", "local", "detroit"]
+    },
+    {
+      "name": "DC313 Detroit",
+      "url": "https://www.meetup.com/defcon313/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "detroit"]
+    },
+    {
+      "name": "WiCyS Michigan",
+      "url": "https://sites.google.com/wicys.org/wicys-michigan-affiliate/home",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "community", "detroit"]
+    },
+    {
+      "name": "dev.events Nashville",
+      "url": "https://dev.events/NA/US/TN/Nashville/security",
+      "type": "html",
+      "region": "US",
+      "focus": ["conference", "broad security", "nashville"]
+    },
+    {
+      "name": "dev.events Detroit",
+      "url": "https://dev.events/NA/US/MI/Detroit/security",
+      "type": "html",
+      "region": "US",
+      "focus": ["conference", "broad security", "detroit"]
+    },
+
+    {
+      "name": "ISC2 Silicon Valley",
+      "url": "https://www.isc2-siliconvalley-chapter.org/calendar",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "ISC2 East Bay",
+      "url": "https://isc2-eastbay-chapter.org/category/events/",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "InfraGard SF Bay Area",
+      "url": "https://sfbayinfragard.org/",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["critical infrastructure", "broad security", "local chapter"]
+    },
+    {
+      "name": "CSA San Francisco",
+      "url": "https://www.meetup.com/csa-san-francisco/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "Bay Area",
+      "focus": ["cloud security", "local chapter"]
+    },
+    {
+      "name": "WiCyS Silicon Valley",
+      "url": "https://www.wicyssiliconvalley.org/events",
+      "type": "html",
+      "region": "Bay Area",
+      "focus": ["broad security", "community"]
+    },
+    {
+      "name": "DC415 San Francisco",
+      "url": "https://www.meetup.com/noisebridge/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "Bay Area",
+      "focus": ["broad security", "local meetup"]
+    },
+    {
+      "name": "dev.events San Francisco",
+      "url": "https://dev.events/NA/US/CA/San-Francisco/security",
+      "type": "html",
+      "region": "US",
+      "focus": ["conference", "broad security"]
+    },
+    {
+      "name": "ISSA NY Metro",
+      "url": "https://www.nymissa.org/category/event-calendar/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "ISC2 New York City & Long Island",
+      "url": "https://isc2chapter-liny.org/all-events/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local chapter"]
+    },
+    {
+      "name": "InfraGard NY Metro",
+      "url": "https://www.nym-infragard.us/events.htm",
+      "type": "html",
+      "region": "US",
+      "focus": ["critical infrastructure", "broad security", "local chapter"]
+    },
+    {
+      "name": "CSA NY Metro",
+      "url": "https://www.meetup.com/cloud-security-alliance-ny-metro/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["cloud security", "local chapter"]
+    },
+    {
+      "name": "BSidesNYC",
+      "url": "https://bsidesnyc.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "conference", "local"]
+    },
+    {
+      "name": "DC212 New York",
+      "url": "https://www.meetup.com/defcon212/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["broad security", "local meetup"]
+    },
+    {
+      "name": "WiCyS NY Metro",
+      "url": "https://www.meetup.com/WiCyS-NY-Metro-Affiliate/events/ical",
+      "type": "html",
+      "parser": "ics",
+      "region": "US",
+      "focus": ["broad security", "community"]
+    },
+    {
+      "name": "HIMSS New York State",
+      "url": "https://nyshimsschapter.org/HIMSS_NYS_Events_Schedule_",
+      "type": "html",
+      "region": "US",
+      "focus": ["healthcare", "health", "local chapter"]
+    },
+    {
+      "name": "dev.events New York",
+      "url": "https://dev.events/NA/US/NY/New-York/security",
+      "type": "html",
+      "region": "US",
+      "focus": ["conference", "broad security"]
+    },
+    {
+      "name": "BSides Chicago",
+      "url": "https://bsides312.org/schedule.html",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "conference", "local", "chicago"]
+    },
+    {
+      "name": "DC312 Chicago",
+      "url": "https://dc312.org/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "local meetup", "chicago"]
+    },
+    {
+      "name": "WiCyS Chicago",
+      "url": "https://www.wicys.org/organizer/wicys-chicago/",
+      "type": "html",
+      "region": "US",
+      "focus": ["broad security", "community", "chicago"]
+    },
+    {
+      "name": "dev.events Chicago",
+      "url": "https://dev.events/NA/US/IL/Chicago/security",
+      "type": "html",
+      "region": "US",
+      "focus": ["conference", "broad security", "chicago"]
     }
   ]
 }
