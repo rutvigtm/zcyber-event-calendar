@@ -24,7 +24,13 @@ start,title,source,region,location,tags,topic,city,priority_score,url
 2026-07-09T00:00:00+00:00,CISO Stories: AI Security (Black Hat Preview),CyberRisk Alliance Events,US,United States,"ai security, ciso, cyber, risk, security",broad,other-us,14,https://www.cyberriskalliance.com/upcoming-events
 2026-07-20T00:00:00+00:00,"AI Security Intelligence Lab 1 Day in Oakland, CA",Eventbrite SF Cybersecurity,US,"Oakland, CA, Oakland, CA, CA, US","ai security, cyber, cybersecurity, risk, security",broad,sf,14,https://www.eventbrite.com/e/ai-security-intelligence-lab-1-day-in-oakland-ca-tickets-1992632598743
 2026-10-24T15:00:00+00:00,Global CISO Summit - Bay Area Edition,Tejas Cyber Network,US,"Fremont Downtown Event Center, Fremont, California, US","ciso, cyber, security",broad,sf,14,https://luma.com/gqhdvdcj
+2026-07-08T00:00:00+00:00,AI Hack Day: Codex & More,East Bay Cyber,Bay Area,"AWS Builder Loft, 525 Market St, San Francisco, CA 94105, USA","cyber, security",broad,sf,13,https://lu.ma/
+2026-07-08T00:00:00+00:00,OpenAI Codex Event at Bright Data,East Bay Cyber,Bay Area,"625 2nd St, San Francisco, CA 94107, USA","cyber, security",broad,sf,13,https://lu.ma/
 2026-07-15T19:00:00+00:00,Rethinking New Risks in the AI Age,ISACA San Francisco,Bay Area,,"risk, security",broad,sf,13,https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdashboard
+2026-07-16T00:00:00+00:00,Battle Bots Hack Night & Watch Party,East Bay Cyber,Bay Area,"625 2nd St, San Francisco, CA 94107, USA","cyber, security",broad,sf,13,https://lu.ma/
+2026-07-17T00:00:00+00:00,ElevenLabs x Sauna Hack Night,East Bay Cyber,Bay Area,"1185 Mason St, San Francisco, CA 94123, USA","cyber, security",broad,sf,13,https://lu.ma/
+2026-07-18T00:00:00+00:00,Agents Hack Day at Bright Data,East Bay Cyber,Bay Area,"625 2nd St, San Francisco, CA 94107, USA","cyber, security",broad,sf,13,https://lu.ma/
+2026-07-24T00:00:00+00:00,SF AI Tech Stack Hack Night,East Bay Cyber,Bay Area,"625 2nd St, San Francisco, CA 94107, USA","cyber, security",broad,sf,13,https://lu.ma/
 2026-09-14T00:00:00+00:00,Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health,Becker's Health IT Conference,US,"Chicago, IL, US","health, healthcare, risk",health,chicago,13,https://events.beckershospitalreview.com/hit_rcm_2026/
 2026-07-10T00:00:00+00:00,Black Health Connect | Bridging Healthcare Communities: Cen Flo - Q3 Mixer,Eventbrite Orlando Healthcare,US,"9101 International Drive, Orlando, FL, US","health, healthcare",health,orlando,12,https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-cen-flo-q3-mixer-tickets-1988343812869
 2026-07-15T12:00:00+00:00,(CS)²AI Fellow Fireside Chat: Leadership Talks on ICS/OT Incident Response,Nashville Cyber Security for Control Systems,US,,"ciso, compliance, cyber, cybersecurity, risk, security",broad,nashville,12,https://www.meetup.com/nashville-cyber-security-for-control-systems/events/315520686/
@@ -57,10 +63,16 @@ start,title,source,region,location,tags,topic,city,priority_score,url
 2026-10-13T00:00:00+00:00,Cybersecurity Summit: Silicon Valley,CyberRisk Alliance Events,US,"Silicon Valley, CA","ciso, cyber, cybersecurity, risk, security",broad,sf,11,https://www.cyberriskalliance.com/upcoming-events
 2026-10-20T00:00:00+00:00,Cybersecurity Summit: Charlotte,CyberRisk Alliance Events,US,"Charlotte, NC","ciso, cyber, cybersecurity, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/upcoming-events
 2026-10-29T00:00:00+00:00,Cybersecurity Summit: Dallas,CyberRisk Alliance Events,US,"Dallas, TX","ciso, cyber, cybersecurity, risk, security",broad,other-us,11,https://www.cyberriskalliance.com/upcoming-events
+2026-07-08T00:00:00+00:00,Session with a VC: Invest in AI Startups [Online],East Bay Cyber,Bay Area,https://luma.com/event/evt-TLledLKW2KYkvTg,"cyber, security",broad,sf,10,https://lu.ma/
+2026-07-10T00:00:00+00:00,Making a break into Venture Capital: Live Networking,East Bay Cyber,Bay Area,https://luma.com/event/evt-mX2CAvbKiuGP9QX,"cyber, security",broad,sf,10,https://lu.ma/
+2026-07-10T00:00:00+00:00,"The GTM Summit for Founders, Investors, and Creators by Founder Social Club and Anwar Enterprises",East Bay Cyber,Bay Area,https://luma.com/event/evt-bU9QXNjXmOZVjA4,"cyber, security",broad,sf,10,https://lu.ma/
+2026-07-15T00:00:00+00:00,Claude Code & Coffee @ Corgi Cafe,East Bay Cyber,Bay Area,https://luma.com/event/evt-IJAuASheOIi0gV7,"cyber, security",broad,sf,10,https://lu.ma/
+2026-07-17T00:00:00+00:00,GTM Hackathon,East Bay Cyber,Bay Area,https://luma.com/event/evt-GsMaZm0ckmRM7KJ,"cyber, security",broad,sf,10,https://lu.ma/
 2026-07-21T00:00:00+00:00,CyberRisk CISO Dinner: Detroit,CyberRisk Alliance Events,US,"Detroit, MI","ciso, cyber, risk, security",broad,detroit,10,https://www.cyberriskalliance.com/upcoming-events
 2026-07-22T00:00:00+00:00,CyberRisk CISO Dinner: Twin Cities,CyberRisk Alliance Events,US,"Twin Cities, MN","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
 2026-07-22T00:00:00+00:00,CyberRisk Leadership Exchange: Boston,CyberRisk Alliance Events,US,"Boston, MA","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
 2026-07-23T00:00:00+00:00,CyberRisk CISO Dinner: Dallas,CyberRisk Alliance Events,US,"Dallas, TX","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
+2026-07-24T00:00:00+00:00,July Tech Rooftop Mixer,East Bay Cyber,Bay Area,https://luma.com/event/evt-aZhDVElqL8bYeba,"cyber, security",broad,sf,10,https://lu.ma/
 2026-07-28T00:00:00+00:00,CyberRisk CISO Dinner: Philadelphia,CyberRisk Alliance Events,US,"Philadelphia, PA","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
 2026-07-29T00:00:00+00:00,Virtual Summit: State of Vulnerability Management,CyberRisk Alliance Events,US,United States,"ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
 2026-08-13T00:00:00+00:00,CISO Stories: Attack Surface Management,CyberRisk Alliance Events,US,United States,"ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
@@ -78,6 +90,7 @@ start,title,source,region,location,tags,topic,city,priority_score,url
 2026-09-17T00:00:00+00:00,CyberRisk CISO Dinner: Portland,CyberRisk Alliance Events,US,"Portland, OR","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
 2026-09-22T00:00:00+00:00,CyberRisk CISO Dinner: Phoenix,CyberRisk Alliance Events,US,"Phoenix, AZ","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
 2026-09-24T00:00:00+00:00,CyberRisk CISO Dinner: Los Angeles,CyberRisk Alliance Events,US,"Los Angeles, CA","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
+2026-09-27T00:00:00+00:00,AI Executive Dinner,East Bay Cyber,Bay Area,https://luma.com/event/evt-S9hBTTvXJvPNM1f,"cyber, security",broad,sf,10,https://lu.ma/
 2026-09-30T00:00:00+00:00,CyberRisk CISO Dinner: Charlotte,CyberRisk Alliance Events,US,"Charlotte, NC","ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
 2026-09-30T00:00:00+00:00,CyberRisk Leadership Exchange: NY Metro,CyberRisk Alliance Events,US,"New York, NY","ciso, cyber, risk, security",broad,nyc,10,https://www.cyberriskalliance.com/upcoming-events
 2026-09-30T00:00:00+00:00,Virtual Summit: Identity,CyberRisk Alliance Events,US,United States,"ciso, cyber, risk, security",broad,other-us,10,https://www.cyberriskalliance.com/upcoming-events
@@ -251,10 +264,28 @@ start,title,source,region,location,tags,topic,city,priority_score,url
 2026-07-15T19:00:00+00:00,Ideas That Move People: The Science and Art of Executive Communication,Tejas Cyber Network,US,https://luma.com/tejas-ercg,"ciso, cyber, security",broad,other-us,6,https://luma.com/tejas-ercg
 2026-07-16T00:00:00+00:00,WiCyS | Executive Leaders Network,WiCyS Events,US,Virtual,"cyber, cybersecurity, security",broad,other-us,6,https://www.wicys.org/event/wicys-senior-leaders-network-2-2-2/2026-07-16/
 2026-07-21T22:00:00+00:00,Chicago CISO of the Year - Third Mixer,Chicago InfoSec Events Calendar,US,TBD,"ciso, infosec, security",broad,chicago,6,https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/public/basic.ics
+2026-08-06T19:00:00+00:00,Tejas: Global Cyber Leaders Power Circle,Tejas Cyber Network,US,"Mandalay Bay Convention Center, Las Vegas, Nevada, US","ciso, cyber, security",broad,other-us,6,https://luma.com/tejas-2kw0
 2026-08-18T22:00:00+00:00,Chicago CISO of the Year - Fourth Mixer,Chicago InfoSec Events Calendar,US,"Metropolitan Club, Oak Room, 67th Floor, Willis Tower 233 S Wacker Drive, Chicago IL 60606","ciso, infosec, security",broad,chicago,6,https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/public/basic.ics
 2026-10-08T14:00:00+00:00,Camp IT: Enterprise Risk / Security Management,Chicago InfoSec Events Calendar,US,"Donald E. Stephens Convention Center, 5555 N River Rd, Rosemont, IL 60018, USA","infosec, risk, security",broad,other-us,6,"https://campitsince1984.com/upcoming-on-site-events/upcoming-on-site-events-ersm100826/"">https://campitsince1984.com/upcoming-on-site-events/upcoming-on-site-events-ersm100826/</a>"
 2026-10-13T12:30:00+00:00,Chicago CISO of the Year - Awards Breakfast!,Chicago InfoSec Events Calendar,US,"Metropolitan Club, Oak Room, 67th Floor, Willis Tower 233 S Wacker Drive, Chicago IL 60606","ciso, infosec, security",broad,chicago,6,https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/public/basic.ics
 2026-10-15T08:00:00+00:00,Michigan Cyber Summit 2026,Michigan Cyber Summit,US,"46100 Grand River Ave, Novi, MI, US","ciso, cyber, security",broad,detroit,6,https://events.govtech.com/Michigan-Cyber-Summit
 2026-11-05T15:00:00+00:00,Camp IT: Cloud Security Strategies,Chicago InfoSec Events Calendar,US,"Donald E. Stephens Convention Center, 5555 N River Rd, Rosemont, IL 60018, USA","cloud security, infosec, security",broad,other-us,6,"https://campitsince1984.com/upcoming-on-site-events/cloudsecurity110526/"">https://campitsince1984.com/upcoming-on-site-events/cloudsecurity110526/</a>"
 2026-12-02T15:00:00+00:00,Camp IT: Identity Access Management (IAM) – Reducing Risk and Giving Better CX to Users,Chicago InfoSec Events Calendar,US,"Donald E. Stephens Convention Center, 5555 N River Rd, Rosemont, IL 60018, USA","infosec, risk, security",broad,other-us,6,"https://campitsince1984.com/upcoming-on-site-events/upcoming-on-site-events-idm-iam120326/"">https://campitsince1984.com/upcoming-on-site-events/upcoming-on-site-events-idm-iam120326/</a>"
+2026-07-17T00:00:00+00:00,Qualcomm Arduino Uno Q Hack Night,East Bay Cyber,Bay Area,"Qualcomm, 3165 Kifer Rd, Santa Clara, CA 95051, USA","cyber, security",broad,sf,5,https://lu.ma/
+2026-07-22T00:00:00+00:00,Codex Community Meetup,East Bay Cyber,Bay Area,https://luma.com/event/evt-dTFkcFk3F9U4lGq,"cyber, security",broad,sf,5,https://lu.ma/
+2026-07-10T00:00:00+00:00,L3akCTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3061/
+2026-07-11T00:00:00+00:00,BroncoCTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3144/
+2026-07-11T00:00:00+00:00,Junior.Crypt.2026 CTF,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3335/
+2026-07-17T00:00:00+00:00,DownUnderCTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3112/
+2026-07-17T00:00:00+00:00,EYCC CTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3353/
+2026-07-17T00:00:00+00:00,OmniCTF 2026 Quals,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3104/
+2026-07-18T00:00:00+00:00,DAMCTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3124/
+2026-07-18T00:00:00+00:00,ENOWARS 10,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3324/
+2026-07-18T00:00:00+00:00,HACKSIUM BUSAN 2026 Quals,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3287/
+2026-07-23T00:00:00+00:00,Codegate CTF 2026 Finals,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3292/
+2026-07-24T00:00:00+00:00,jailCTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3286/
+2026-07-25T00:00:00+00:00,DIVER OSINT CTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3268/
+2026-07-25T00:00:00+00:00,D^3CTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3201/
+2026-07-25T00:00:00+00:00,UIUCTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3148/
+2026-07-31T00:00:00+00:00,DeadSec CTF 2026,East Bay Cyber,Bay Area,Online,"cyber, security",broad,sf,2,https://ctftime.org/event/3303/
 2026-07-22T00:30:00+00:00,July 2026: A History of the Login Box and Why It Still Sucks,Silicon Valley ISSA,Bay Area,"NetApp, San Jose, California, US",security,broad,sf,1,https://luma.com/n2tmabxa

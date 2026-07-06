@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T16:25:17.148719+00:00",
-  "event_count": 345,
+  "generated_at": "2026-07-06T17:54:27.316346+00:00",
+  "event_count": 376,
   "events": [
     {
       "title": "ATL Money Monday Mixer",
@@ -421,6 +421,72 @@
       "topic": "fintech"
     },
     {
+      "title": "AI Hack Day: Codex & More",
+      "start": "2026-07-08T00:00:00+00:00",
+      "date_key": "2026-07-08",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "AWS Builder Loft, 525 Market St, San Francisco, CA 94105, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "OpenAI Codex Event at Bright Data",
+      "start": "2026-07-08T00:00:00+00:00",
+      "date_key": "2026-07-08",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "625 2nd St, San Francisco, CA 94107, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Session with a VC: Invest in AI Startups [Online]",
+      "start": "2026-07-08T00:00:00+00:00",
+      "date_key": "2026-07-08",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-TLledLKW2KYkvTg",
+      "description": "Meetup via AI Salon Bay Area",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Chicago Healthcare, Pharma & Business Networking Event",
       "start": "2026-07-08T00:00:00+00:00",
       "date_key": "2026-07-08",
@@ -742,14 +808,14 @@
       "topic": "broad"
     },
     {
-      "title": "BurbSec Southeast - Sponsored by Lumu and Inversion6!",
+      "title": "BurbSec Southeast - Sponsored by Lumu!",
       "start": "2026-07-09T17:00:00+00:00",
       "date_key": "2026-07-09",
       "end": "2026-07-09T20:00:00+00:00",
       "url": "https://www.meetup.com/burbsec/events/315280152/",
       "source": "BurbSec Chicago",
       "location": "",
-      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events ## Thank you to our sponsors [Lumu](https://lumu.io) and [Inversion6!](https://inversion6.com)!! \ud83d\ude80\ud83d\udd10 **Unlock the Excitement at Burbsec Southeast! \ud83c\udf7b\ud83c\udf89** Are you ready for a night of geeking out, making new friends, and expanding your network in the world of infosec? Look no further\u2014Burbsec Southeast is the place to be, and everyone is welcome! \ud83d\udc65 **A Community Just Like You:** We're just like you, and you'll fit right in! Whether you're passionate about infosec, love indulging in memes, enjoy a good beer, or appreciate compliance jokes (among other things), we've got you covered. Our diverse skill set ranges from novice to expert, and yes, we even dabble in paper hat making! \ud83c\udfa9\u2728 \ud83e\udd1d **Connections That Matter:** At Burbsec Southeast, you'll find more than just like-minded people. You'll make valuable contacts, form genuine friendships, and expand your network of professional connections. These are the kinds of connections that come in handy when you're tackling that thorny problem at work, at home, or in the job market. \ud83d\udca1 **Knowledge Exchange:** Whether you're seeking answers to tough questions or ready to share your expertise, there's always someone at Burbsec Southeast who's got your back. We thrive in a collaborative atmosphere where knowledge flows freely, and camaraderie is key. \ud83d\udd55 **Flexible Timing:** Don't worry about being fashionably late! People will start rolling in after work around 5 pm, and we keep the vibe going for a few hours. \ud83c\udf10 **Stay Connected:** Don't miss out on the latest updates and community banter! Join the BurbSec Discord and follow us on Twitter for all the behind-the-scenes action and event sneak peeks. * BurbSec Discord: [https://discord.gg/invite/VVYDZYmd2w](https://discord.gg/invite/VVYDZYmd2w) (Bridged with Slack!) * Web: [burbsec.com](http://burbsec.com/) * Twitter:[ @burbsecSE](https://x.com/burbsecSE) * BlueSky: [@southeast.burbsec.com](https://bsky.app/profile/burbsecsoutheast.bsky.social) Get ready for a night of laughs, geekiness, and unforgettable moments! See you there!",
+      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events ## Thank you to our sponsors [Lumu](https://lumu.io)!!! \ud83d\ude80\ud83d\udd10 **Unlock the Excitement at Burbsec Southeast! \ud83c\udf7b\ud83c\udf89** Are you ready for a night of geeking out, making new friends, and expanding your network in the world of infosec? Look no further\u2014Burbsec Southeast is the place to be, and everyone is welcome! \ud83d\udc65 **A Community Just Like You:** We're just like you, and you'll fit right in! Whether you're passionate about infosec, love indulging in memes, enjoy a good beer, or appreciate compliance jokes (among other things), we've got you covered. Our diverse skill set ranges from novice to expert, and yes, we even dabble in paper hat making! \ud83c\udfa9\u2728 \ud83e\udd1d **Connections That Matter:** At Burbsec Southeast, you'll find more than just like-minded people. You'll make valuable contacts, form genuine friendships, and expand your network of professional connections. These are the kinds of connections that come in handy when you're tackling that thorny problem at work, at home, or in the job market. \ud83d\udca1 **Knowledge Exchange:** Whether you're seeking answers to tough questions or ready to share your expertise, there's always someone at Burbsec Southeast who's got your back. We thrive in a collaborative atmosphere where knowledge flows freely, and camaraderie is key. \ud83d\udd55 **Flexible Timing:** Don't worry about being fashionably late! People will start rolling in after work around 5 pm, and we keep the vibe going for a few hours. \ud83c\udf10 **Stay Connected:** Don't miss out on the latest updates and community banter! Join the BurbSec Discord and follow us on Twitter for all the behind-the-scenes action and event sneak peeks. * BurbSec Discord: [https://discord.gg/invite/VVYDZYmd2w](https://discord.gg/invite/VVYDZYmd2w) (Bridged with Slack!) * Web: [burbsec.com](http://burbsec.com/) * Twitter:[ @burbsecSE](https://x.com/burbsecSE) * BlueSky: [@southeast.burbsec.com](https://bsky.app/profile/burbsecsoutheast.bsky.social) Get ready for a night of laughs, geekiness, and unforgettable moments! See you there!",
       "region": "US",
       "focus": [
         "broad security",
@@ -907,6 +973,50 @@
       "topic": "health"
     },
     {
+      "title": "Making a break into Venture Capital: Live Networking",
+      "start": "2026-07-10T00:00:00+00:00",
+      "date_key": "2026-07-10",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-mX2CAvbKiuGP9QX",
+      "description": "Meetup via AI Salon Bay Area",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "The GTM Summit for Founders, Investors, and Creators by Founder Social Club and Anwar Enterprises",
+      "start": "2026-07-10T00:00:00+00:00",
+      "date_key": "2026-07-10",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-bU9QXNjXmOZVjA4",
+      "description": "Meetup via Bay Area Tech / AGI House",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "New York City Healthcare, Pharma & Business Networking Event",
       "start": "2026-07-10T00:00:00+00:00",
       "date_key": "2026-07-10",
@@ -969,6 +1079,28 @@
       "priority_score": 8,
       "city": "atlanta",
       "topic": "fintech"
+    },
+    {
+      "title": "L3akCTF 2026",
+      "start": "2026-07-10T00:00:00+00:00",
+      "date_key": "2026-07-10",
+      "end": "",
+      "url": "https://ctftime.org/event/3061/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via L3ak",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
@@ -1082,6 +1214,50 @@
       "priority_score": 8,
       "city": "atlanta",
       "topic": "fintech"
+    },
+    {
+      "title": "BroncoCTF 2026",
+      "start": "2026-07-11T00:00:00+00:00",
+      "date_key": "2026-07-11",
+      "end": "",
+      "url": "https://ctftime.org/event/3144/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via BroncoSec",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Junior.Crypt.2026 CTF",
+      "start": "2026-07-11T00:00:00+00:00",
+      "date_key": "2026-07-11",
+      "end": "",
+      "url": "https://ctftime.org/event/3335/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via Beavers0",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "Hike & Connect: Tejas Project H (Health) Beginner Hike at Coyote Hills",
@@ -1725,6 +1901,28 @@
       "topic": "broad"
     },
     {
+      "title": "Claude Code & Coffee @ Corgi Cafe",
+      "start": "2026-07-15T00:00:00+00:00",
+      "date_key": "2026-07-15",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-IJAuASheOIi0gV7",
+      "description": "Meetup via Bay Area Tech / AGI House",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "HealthSpecialists: HealthCareCareers - Connect, Collaborate, & Grow! - Orlando",
       "start": "2026-07-15T00:00:00+00:00",
       "date_key": "2026-07-15",
@@ -2048,6 +2246,28 @@
       "topic": "broad"
     },
     {
+      "title": "Battle Bots Hack Night & Watch Party",
+      "start": "2026-07-16T00:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "625 2nd St, San Francisco, CA 94107, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Black Health Connect | Bridging Healthcare Communities: Atlanta - Q3 Mixer",
       "start": "2026-07-16T00:00:00+00:00",
       "date_key": "2026-07-16",
@@ -2236,6 +2456,160 @@
       "topic": "broad"
     },
     {
+      "title": "ElevenLabs x Sauna Hack Night",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "1185 Mason St, San Francisco, CA 94123, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "GTM Hackathon",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-GsMaZm0ckmRM7KJ",
+      "description": "Meetup via Bay Area Tech / AGI House",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Qualcomm Arduino Uno Q Hack Night",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "Qualcomm, 3165 Kifer Rd, Santa Clara, CA 95051, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "DownUnderCTF 2026",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://ctftime.org/event/3112/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via DownUnderCTF",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "EYCC CTF 2026",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://ctftime.org/event/3353/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via Mont5ab El2hwa",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "OmniCTF 2026 Quals",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://ctftime.org/event/3104/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via OmniCTF",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Agents Hack Day at Bright Data",
+      "start": "2026-07-18T00:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "625 2nd St, San Francisco, CA 94107, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "2026 Fibroid Awareness Conversation Event",
       "start": "2026-07-18T00:00:00+00:00",
       "date_key": "2026-07-18",
@@ -2257,6 +2631,72 @@
       "priority_score": 9,
       "city": "nashville",
       "topic": "health"
+    },
+    {
+      "title": "DAMCTF 2026",
+      "start": "2026-07-18T00:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "",
+      "url": "https://ctftime.org/event/3124/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via OSUSEC",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "ENOWARS 10",
+      "start": "2026-07-18T00:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "",
+      "url": "https://ctftime.org/event/3324/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via ENOFLAG",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "HACKSIUM BUSAN 2026 Quals",
+      "start": "2026-07-18T00:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "",
+      "url": "https://ctftime.org/event/3287/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via HACKSIUM BUSAN",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "WiCyS Austin Affiliate | Monthly Social",
@@ -2935,6 +3375,28 @@
       "topic": "broad"
     },
     {
+      "title": "Codex Community Meetup",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-dTFkcFk3F9U4lGq",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Cyber Summer Social",
       "start": "2026-07-22T00:00:00+00:00",
       "date_key": "2026-07-22",
@@ -3075,6 +3537,28 @@
       "priority_score": 9,
       "city": "nyc",
       "topic": "health"
+    },
+    {
+      "title": "Codegate CTF 2026 Finals",
+      "start": "2026-07-23T00:00:00+00:00",
+      "date_key": "2026-07-23",
+      "end": "",
+      "url": "https://ctftime.org/event/3292/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via CODEGATE",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "OWASP NYC Chapter IAM Summit 2026 Event",
@@ -3270,6 +3754,72 @@
       "topic": "broad"
     },
     {
+      "title": "SF AI Tech Stack Hack Night",
+      "start": "2026-07-24T00:00:00+00:00",
+      "date_key": "2026-07-24",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "625 2nd St, San Francisco, CA 94107, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "July Tech Rooftop Mixer",
+      "start": "2026-07-24T00:00:00+00:00",
+      "date_key": "2026-07-24",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-aZhDVElqL8bYeba",
+      "description": "Meetup via Bay Area Tech / AGI House",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "jailCTF 2026",
+      "start": "2026-07-24T00:00:00+00:00",
+      "date_key": "2026-07-24",
+      "end": "",
+      "url": "https://ctftime.org/event/3286/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via jailctf",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Chicago InfoSec Manager Workshop - Downtown Chicago (UIC)",
       "start": "2026-07-24T17:00:00+00:00",
       "date_key": "2026-07-24",
@@ -3317,6 +3867,72 @@
       "priority_score": 9,
       "city": "orlando",
       "topic": "health"
+    },
+    {
+      "title": "DIVER OSINT CTF 2026",
+      "start": "2026-07-25T00:00:00+00:00",
+      "date_key": "2026-07-25",
+      "end": "",
+      "url": "https://ctftime.org/event/3268/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via diver_osint",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "D^3CTF 2026",
+      "start": "2026-07-25T00:00:00+00:00",
+      "date_key": "2026-07-25",
+      "end": "",
+      "url": "https://ctftime.org/event/3201/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via D^3CTF Organizers",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "UIUCTF 2026",
+      "start": "2026-07-25T00:00:00+00:00",
+      "date_key": "2026-07-25",
+      "end": "",
+      "url": "https://ctftime.org/event/3148/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via SIGPwny",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "MedTech, HealthTech Startups, Investors, Innovators Networking Event SF",
@@ -3959,6 +4575,28 @@
       "topic": "fintech"
     },
     {
+      "title": "DeadSec CTF 2026",
+      "start": "2026-07-31T00:00:00+00:00",
+      "date_key": "2026-07-31",
+      "end": "",
+      "url": "https://ctftime.org/event/3303/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via DeadSec",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Black Hat",
       "start": "2026-08-01T00:00:00+00:00",
       "date_key": "2026-08-01",
@@ -4342,6 +4980,30 @@
       ],
       "priority_score": 5,
       "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Tejas: Global Cyber Leaders Power Circle",
+      "start": "2026-08-06T19:00:00+00:00",
+      "date_key": "2026-08-06",
+      "end": "2026-08-06T20:00:00+00:00",
+      "url": "https://luma.com/tejas-2kw0",
+      "source": "Tejas Cyber Network",
+      "location": "Mandalay Bay Convention Center, Las Vegas, Nevada, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "security"
+      ],
+      "priority_score": 6,
+      "city": "other-us",
       "topic": "broad"
     },
     {
@@ -6120,6 +6782,28 @@
       ],
       "priority_score": 1,
       "city": "orlando",
+      "topic": "broad"
+    },
+    {
+      "title": "AI Executive Dinner",
+      "start": "2026-09-27T00:00:00+00:00",
+      "date_key": "2026-09-27",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-S9hBTTvXJvPNM1f",
+      "description": "Meetup via AI Salon Bay Area",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
       "topic": "broad"
     },
     {
@@ -8129,14 +8813,9 @@
   ],
   "source_errors": [
     {
-      "source": "East Bay Cyber",
-      "url": "https://eastbaycyber.org/",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
       "source": "ISC2 Middle Tennessee",
       "url": "https://www.isc2midtn.org/events/events",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "source": "OWASP Detroit",
@@ -8146,7 +8825,7 @@
     {
       "source": "DC615 Nashville",
       "url": "https://dc615.org/",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "source": "DC313 Detroit",
@@ -8177,11 +8856,6 @@
       "source": "WiCyS NY Metro",
       "url": "https://www.meetup.com/WiCyS-NY-Metro-Affiliate/events/ical",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "source": "HIMSS New York State",
-      "url": "https://nyshimsschapter.org/HIMSS_NYS_Events_Schedule_",
-      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }

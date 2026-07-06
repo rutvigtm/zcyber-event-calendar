@@ -55,14 +55,31 @@
       "broad security",
       "local calendar"
     ],
-    "status": "error",
-    "parser": "",
-    "raw_events_found": 0,
-    "accepted": 0,
+    "status": "ok",
+    "parser": "eastbay",
+    "raw_events_found": 30,
+    "accepted": 30,
     "rejected": {},
-    "sample_raw_titles": [],
-    "sample_accepted_titles": [],
-    "error": "HTTP Error 403: Forbidden"
+    "sample_raw_titles": [
+      "OpenAI Codex Event at Bright Data",
+      "AI Hack Day: Codex & More",
+      "Session with a VC: Invest in AI Startups [Online]",
+      "The GTM Summit for Founders, Investors, and Creators by Founder Social Club and Anwar Enterprises",
+      "L3akCTF 2026",
+      "Making a break into Venture Capital: Live Networking",
+      "Junior.Crypt.2026 CTF",
+      "BroncoCTF 2026"
+    ],
+    "sample_accepted_titles": [
+      "OpenAI Codex Event at Bright Data",
+      "AI Hack Day: Codex & More",
+      "Session with a VC: Invest in AI Startups [Online]",
+      "The GTM Summit for Founders, Investors, and Creators by Founder Social Club and Anwar Enterprises",
+      "L3akCTF 2026",
+      "Making a break into Venture Capital: Live Networking",
+      "Junior.Crypt.2026 CTF",
+      "BroncoCTF 2026"
+    ]
   },
   {
     "source": "OWASP Bay Area",
@@ -208,8 +225,8 @@
     ],
     "status": "ok",
     "parser": "jsonld",
-    "raw_events_found": 12,
-    "accepted": 12,
+    "raw_events_found": 14,
+    "accepted": 14,
     "rejected": {},
     "sample_raw_titles": [
       "Agentic AI Identity - A Primer For All by Anshu Gupta",
@@ -1242,10 +1259,10 @@
       "Chicago Healthcare, Pharma & Business Networking Event",
       "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
       "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
-      "Healthcare and Business Networking | Elevating Your Potential -Lincoln Park",
-      "Healthcare and Business Networking | Elevating Your Potential -Lincoln Park",
       "MedTech, HealthTech Startups, Investors, Innovators Networking Event Chicago",
-      "MedTech, HealthTech Startups, Investors, Innovators Networking Event Chicago"
+      "MedTech, HealthTech Startups, Investors, Innovators Networking Event Chicago",
+      "Healthcare and Business Networking | Elevating Your Potential -Lincoln Park",
+      "Healthcare and Business Networking | Elevating Your Potential -Lincoln Park"
     ]
   },
   {
@@ -1300,24 +1317,24 @@
       "non_us": 6
     },
     "sample_raw_titles": [
-      "Hak4Kidz",
-      "AJ Yawn GRC Your Way Book Signing Tour and Happy Hour",
-      "AI2030: Tech Pulse 2030-Designing Collaborative Intelligence Campus: Human + AI Skills for Illinois\u2019 AI Workforce",
-      "ISSA-Chicago starring Hector \"Sabu\" Monsegur",
-      "ISACA monthly chapter meeting",
       "The CISO Society Rooftop Happy Hour - INVITE ONLY",
-      "Chicago CyberRisk Collaborative Q1 CISO Dinner",
-      "Protect your Digital Life Workshop (In-Person)"
+      "ISC2: When Security Sucks: Lessons from the Robot Vacuum Breach",
+      "Camp IT: Enterprise Risk / Security Management",
+      "InfraGard Chicago - Q3 Meeting",
+      "BlackHat - Las Vegas",
+      "ISACA: [Spring 2025] CISM Certification Review Course - Bootcamp | May 6, 7, 8, & 9",
+      "Managing AI in the Financial Sector",
+      "ISC2 Chicago Professional Event: Mitigating Modern Software Supply Chain Attacks"
     ],
     "sample_accepted_titles": [
-      "InfraGard Chicago - Q4 Meeting",
-      "Camp IT: Identity Access Management (IAM) \u2013 Reducing Risk and Giving Better CX to Users",
-      "Annual Mindfluence Leadership Event - Septemeber 20-22, 2026",
-      "Chicago CISO of the Year - Fourth Mixer",
-      "Chicago CISO of the Year - Third Mixer",
-      "ISC2 Networking Event @ Theory",
       "InfraGard Chicago - Q3 Meeting",
-      "Camp IT: Enterprise Risk / Security Management"
+      "Infragard Chicago Summer Social",
+      "Chicago CISO of the Year - Third Mixer",
+      "Camp IT: Data Breaches: Defense and Response",
+      "DEF CON Group Chicago",
+      "Camp IT: Cloud Security Strategies",
+      "Chicago CISO of the Year - Fourth Mixer",
+      "Chicagoland CISO Chips for Charity Event"
     ]
   },
   {
@@ -1411,7 +1428,7 @@
     "accepted": 10,
     "rejected": {},
     "sample_raw_titles": [
-      "BurbSec Southeast - Sponsored by Lumu and Inversion6!",
+      "BurbSec Southeast - Sponsored by Lumu!",
       "Burbsec North - Sponsored by Torq",
       "Burbsec South - Sponsors Wanted",
       "BurbSec West - Sponsored by DTEX.ai!",
@@ -1421,7 +1438,7 @@
       "CigarSec - Co-Working & Cigars before Prime!"
     ],
     "sample_accepted_titles": [
-      "BurbSec Southeast - Sponsored by Lumu and Inversion6!",
+      "BurbSec Southeast - Sponsored by Lumu!",
       "Burbsec North - Sponsored by Torq",
       "Burbsec South - Sponsors Wanted",
       "BurbSec West - Sponsored by DTEX.ai!",
@@ -1517,7 +1534,7 @@
     "rejected": {},
     "sample_raw_titles": [],
     "sample_accepted_titles": [],
-    "error": "<urlopen error [Errno -2] Name or service not known>"
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
   },
   {
     "source": "ISSA Middle Tennessee",
@@ -2405,7 +2422,7 @@
     "rejected": {},
     "sample_raw_titles": [],
     "sample_accepted_titles": [],
-    "error": "<urlopen error [Errno -2] Name or service not known>"
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
   },
   {
     "source": "WiCyS Tennessee",
@@ -2898,14 +2915,13 @@
       "health",
       "local chapter"
     ],
-    "status": "error",
-    "parser": "",
+    "status": "ok",
+    "parser": "none",
     "raw_events_found": 0,
     "accepted": 0,
     "rejected": {},
     "sample_raw_titles": [],
-    "sample_accepted_titles": [],
-    "error": "HTTP Error 403: Forbidden"
+    "sample_accepted_titles": []
   },
   {
     "source": "dev.events New York",
