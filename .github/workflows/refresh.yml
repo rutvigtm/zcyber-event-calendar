@@ -93,11 +93,12 @@ jobs:
   notify:
     needs: deploy
     runs-on: ubuntu-latest
-    # Email once the site is actually live. On a Mac push, notify the team.
-    # On a manual run, only email if asked.
+    # Email once the site is actually live, and only when the push is the weekly
+    # run: the commit message carries "[notify]", which the Mac adds on Mondays only.
+    # Mid-week test / re-run pushes still deploy but do not email the team.
     if: >
       needs.deploy.outputs.deployed == 'true' &&
-      ( github.event_name == 'push' ||
+      ( contains(github.event.head_commit.message, '[notify]') ||
         github.event.inputs.send_team_email == 'true' ||
         github.event.inputs.test_email == 'true' )
     steps:
