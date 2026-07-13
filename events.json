@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T19:41:54.040513+00:00",
-  "event_count": 382,
+  "generated_at": "2026-07-13T16:00:10.503624+00:00",
+  "event_count": 390,
   "events": [
     {
       "title": "DEF CON Group Chicago",
@@ -23,322 +23,6 @@
       ],
       "priority_score": 2,
       "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "Startup Tech & AI Networking in San Francisco",
-      "start": "2026-07-08T00:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-san-francisco-tickets-1992503678138",
-      "source": "Eventbrite SF Fintech",
-      "location": "579 Howard Street, San Francisco, CA, US",
-      "description": "Dive into tech with other professionals! Network and build strong relationships with investors, tech experts, and entrepreneurs in SF.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "AI Hack Day: Codex & More",
-      "start": "2026-07-08T00:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "AWS Builder Loft, 525 Market St, San Francisco, CA 94105, USA",
-      "description": "Meetup via SF Tech Events",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Session with a VC: Invest in AI Startups [Online]",
-      "start": "2026-07-08T00:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-TLledLKW2KYkvTg",
-      "description": "Meetup via AI Salon Bay Area",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Chicago Healthcare, Pharma & Business Networking Event",
-      "start": "2026-07-08T00:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/chicago-healthcare-pharma-business-networking-event-tickets-1990807738537",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "112 West Hubbard Street, Chicago, IL, US",
-      "description": "SUM OF FIVE | Meet Established Professionals In Healthcare, Pharma & Business",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
-    },
-    {
-      "title": "Gamebridge Game Development Meetup",
-      "start": "2026-07-08T19:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "2026-07-08T21:00:00+00:00",
-      "url": "https://www.meetup.com/noisebridge/events/315323740/",
-      "source": "DC415 San Francisco",
-      "location": "",
-      "description": "Noisebridge Hackerspace THE MEETUP IS HAPPENING IN PERSON AND ONLINE VIA STREAMING ON OUR DISCORD SERVER. (https://discord.gg/R9GkDjk) IN THE \"Church Classroom\" CHANNEL. Learn to make games, music and art in free beginner-friendly class meetups with tutorials! (https://gamebridgeu.wordpress.com/tutorials) and projects (https://gamebridgeu.wordpress.com/projects). WHEN: 7-9ish PM PST Wednesdays WHERE: Noisebridge Hackerspace, (https://noisebridge.net) 272 Capp St, San Francisco, CA 94110 WE ARE IN THE DISCORD!! ^__^ https://discord.gg/R9GkDjk \u2022 Noisebridge Hackerspace Meeting (https://noisebridge.net/meeting): 7-7:30pm every Tuesday. meet Noisebridge members & participate in the broader community! \u2022 What to bring: a laptop, Unity, Unreal, Godot, or any game engine of choice, game, art and music tools!(http://gamebridgeu.wordpress.com/resources). .",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "security"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Agentic AI Identity - A Primer For All by Anshu Gupta",
-      "start": "2026-07-08T19:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "2026-07-08T20:00:00+00:00",
-      "url": "https://luma.com/tejas-vd3o",
-      "source": "Tejas Cyber Network",
-      "location": "https://luma.com/tejas-vd3o",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "security"
-      ],
-      "priority_score": 6,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Leadership Continuum 2.0 - Learn, Earn, and Return",
-      "start": "2026-07-08T21:30:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "",
-      "url": "https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar",
-      "source": "ISACA New York Metro",
-      "location": "",
-      "description": "ISACA",
-      "region": "US",
-      "focus": [
-        "governance",
-        "risk",
-        "security",
-        "local chapter"
-      ],
-      "tags": [
-        "risk",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "AI Builders Night New York",
-      "start": "2026-07-08T21:30:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "2026-07-09T01:00:00+00:00",
-      "url": "https://luma.com/clickh-lz8k",
-      "source": "Luma NYC Discover",
-      "location": "LOFT39, New York, New York, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 1,
-      "city": "nyc",
-      "topic": "broad"
-    },
-    {
-      "title": "CISO Stories: AI Security (Black Hat Preview)",
-      "start": "2026-07-09T00:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "",
-      "url": "https://www.cyberriskalliance.com/upcoming-events",
-      "source": "CyberRisk Alliance Events",
-      "location": "United States",
-      "description": "CyberRisk Alliance CISO Stories",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "executive",
-        "regional summit"
-      ],
-      "tags": [
-        "ai security",
-        "ciso",
-        "cyber",
-        "risk",
-        "security"
-      ],
-      "priority_score": 14,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "Master the Art of Buying, Selling & Scaling Startups Successfully!",
-      "start": "2026-07-09T00:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/master-the-art-of-buying-selling-scaling-startups-successfully-tickets-1979668814716",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "TBA, Atlanta, GA, US",
-      "description": "Master the Art of Buying, Selling & Scaling Startups Successfully! M&A | Startup Exit | VC Deals | Startup Auctions | Startup Bidding",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 11,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Healthcare Professionals Networking Dinner",
-      "start": "2026-07-09T00:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthcare-professionals-networking-dinner-tickets-1992796749723",
-      "source": "Eventbrite Nashville Healthcare",
-      "location": "605 Overton Street, Nashville, TN, US",
-      "description": "Join us for a relaxed and valuable networking evening designed exclusively for healthcare professionals.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup",
-        "nashville"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nashville",
-      "topic": "health"
-    },
-    {
-      "title": "NYC | The Session: Healthcare Mixer",
-      "start": "2026-07-09T00:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/nyc-the-session-healthcare-mixer-tickets-1991988444059",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "987 2nd Avenue, New York, NY, US",
-      "description": "The Session is a high-density, unhosted social designed for Healthcare professionals who value authentic connection.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "Master AI Entrepreneurship - From A to Z Masterclass",
-      "start": "2026-07-09T00:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-masterclass-tickets-1981481296899",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Manhattan, New York, NY, US",
-      "description": "Master AI Entrepreneurship - From A to Z Masterclass",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
-      "title": "Rhythm AI",
-      "start": "2026-07-09T02:00:00+00:00",
-      "date_key": "2026-07-08",
-      "end": "2026-07-09T03:00:00+00:00",
-      "url": "https://luma.com/RhythmAI",
-      "source": "Luma SF Discover",
-      "location": "tiat, San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 9,
-      "city": "sf",
       "topic": "broad"
     },
     {
@@ -366,484 +50,6 @@
       "topic": "broad"
     },
     {
-      "title": "July Tech Square Game Day + Lunch",
-      "start": "2026-07-09T16:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "2026-07-09T17:00:00+00:00",
-      "url": "https://luma.com/ygomjain",
-      "source": "Luma Atlanta Discover",
-      "location": "Biltmore Innovation Center, Atlanta, Georgia, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "tech"
-      ],
-      "priority_score": 1,
-      "city": "atlanta",
-      "topic": "broad"
-    },
-    {
-      "title": "BurbSec Southeast - Sponsored by Tanium & Check Point!",
-      "start": "2026-07-09T17:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "2026-07-09T20:00:00+00:00",
-      "url": "https://www.meetup.com/burbsec/events/315280152/",
-      "source": "BurbSec Chicago",
-      "location": "",
-      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events ## Thank you to our sponsors [Tanium](https://tanium.com) & [Check Point](https://checkpoint.com)!!! $400 bar tab provided by our sponsors! Tanium will be doing a raffle for Tanium Branded Beats. (Raffle signup requires Name, Phone Number, Employer Name, and Work Email) \ud83d\ude80\ud83d\udd10 **Unlock the Excitement at Burbsec Southeast! \ud83c\udf7b\ud83c\udf89** Are you ready for a night of geeking out, making new friends, and expanding your network in the world of infosec? Look no further\u2014Burbsec Southeast is the place to be, and everyone is welcome! \ud83d\udc65 **A Community Just Like You:** We're just like you, and you'll fit right in! Whether you're passionate about infosec, love indulging in memes, enjoy a good beer, or appreciate compliance jokes (among other things), we've got you covered. Our diverse skill set ranges from novice to expert, and yes, we even dabble in paper hat making! \ud83c\udfa9\u2728 \ud83e\udd1d **Connections That Matter:** At Burbsec Southeast, you'll find more than just like-minded people. You'll make valuable contacts, form genuine friendships, and expand your network of professional connections. These are the kinds of connections that come in handy when you're tackling that thorny problem at work, at home, or in the job market. \ud83d\udca1 **Knowledge Exchange:** Whether you're seeking answers to tough questions or ready to share your expertise, there's always someone at Burbsec Southeast who's got your back. We thrive in a collaborative atmosphere where knowledge flows freely, and camaraderie is key. \ud83d\udd55 **Flexible Timing:** Don't worry about being fashionably late! People will start rolling in after work around 5 pm, and we keep the vibe going for a few hours. \ud83c\udf10 **Stay Connected:** Don't miss out on the latest updates and community banter! Join the BurbSec Discord and follow us on Twitter for all the behind-the-scenes action and event sneak peeks. * BurbSec Discord: [https://discord.gg/invite/VVYDZYmd2w](https://discord.gg/invite/VVYDZYmd2w) (Bridged with Slack!) * Web: [burbsec.com](http://burbsec.com/) * Twitter:[ @burbsecSE](https://x.com/burbsecSE) * BlueSky: [@southeast.burbsec.com](https://bsky.app/profile/burbsecsoutheast.bsky.social) Get ready for a night of laughs, geekiness, and unforgettable moments! See you there!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "compliance",
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "Burbsec South - Sponsors Wanted",
-      "start": "2026-07-09T18:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "2026-07-09T21:00:00+00:00",
-      "url": "https://www.meetup.com/burbsec/events/315335607/",
-      "source": "BurbSec Chicago",
-      "location": "",
-      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events \ud83d\ude80\ud83d\udd10 **Unlock the Excitement at Burbsec South! \ud83c\udf7b\ud83c\udf89** Are you ready for a night of geeking out, making new friends, and expanding your network in the world of infosec? Look no further\u2014Burbsec South is the place to be, and everyone is welcome! \ud83d\udc65 **A Community Just Like You:** We're just like you, and you'll fit right in! Whether you're passionate about infosec, love indulging in memes, enjoy a good beer, or appreciate compliance jokes (among other things), we've got you covered. Our diverse skill set ranges from novice to expert, and yes, we even dabble in paper hat making! \ud83c\udfa9\u2728 \ud83e\udd1d **Connections That Matter:** At Burbsec South, you'll find more than just like-minded people. You'll make valuable contacts, form genuine friendships, and expand your network of professional connections. These are the kinds of connections that come in handy when you're tackling that thorny problem at work, at home, or in the job market. \ud83d\udca1 **Knowledge Exchange:** Whether you're seeking answers to tough questions or ready to share your expertise, there's always someone at Burbsec South who's got your back. We thrive in a collaborative atmosphere where knowledge flows freely, and camaraderie is key. \ud83d\udd55 **Flexible Timing:** Don't worry about being fashionably late! People will start rolling in after work around 6 pm, and we keep the vibe going for a couple of hours, then a small group often heads out to another local pub for further shenanigans. \ud83c\udf10 **Stay Connected:** Don't miss out on the latest updates and community banter! Join the BurbSec Discord and follow us on Twitter for all the behind-the-scenes action and event sneak peeks. * BurbSec Discord: [https://discord.gg/invite/VVYDZYmd2w](https://discord.gg/invite/VVYDZYmd2w) (Bridged with Slack!) * Web: [burbsec.com](http://burbsec.com/) * Twitter: [@burbsecsouth](https://x.com/burbsecsouth) * Mastodon: [@BurbSecSouth@infosec.exchange](https://infosec.exchange/deck/@burbsecsouth) Get ready for a night of laughs, geekiness, and unforgettable moments! See you there!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "compliance",
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "Burbsec North - Sponsored by Torq",
-      "start": "2026-07-09T18:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "2026-07-09T21:00:00+00:00",
-      "url": "https://www.meetup.com/burbsec/events/315218689/",
-      "source": "BurbSec Chicago",
-      "location": "",
-      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events BurbSec North is the Northern Suburb offshoot of the famous Chicagoland BurbSec meetups. Information Security enthusiasts of all skill and career levels are welcome to join us for a few beers and complaints about work (or the lack thereof)! We average about 10-15 attendees each month, many of whom have been coming for years! Our location offers excellent beers as well as a full pub menu! Finally, don't forget to join the BurbSec chat servers! Our Discord service is very active. BurbSec Discord: ([https://discord.gg/VVYDZYmd2w](https://discord.gg/VVYDZYmd2w)) Bluesky: @north.burbsec.com Mastodon: @BurbSecNorth@infosec.exchange Twitter: ([https://twitter.com/burbsecnorth](https://twitter.com/burbsecnorth))",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "infosec",
-        "security"
-      ],
-      "priority_score": 4,
-      "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "DC415",
-      "start": "2026-07-09T19:30:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "2026-07-09T22:00:00+00:00",
-      "url": "https://www.meetup.com/noisebridge/events/315328274/",
-      "source": "DC415 San Francisco",
-      "location": "",
-      "description": "Noisebridge Hackerspace This group was created to bring together people who share a passion for cybersecurity and a curiosity about how things work. The goal is simple \u2014 to connect with other humans who enjoy meaningful, inspiring, and sometimes unexpected security conversations more than just once a year. Many of us have returned from security conferences feeling both inspired and overwhelmed \u2014 full of new ideas and projects to explore, only to have life pull us in other directions. Maybe a demanding client, a new sprint, or even a new baby shifted priorities away from that funny blinky badge project sitting on a shelf. If that sounds familiar, you\u2019re not alone. This meetup offers a space for like-minded individuals to gather once a month, share what\u2019s captured their attention, discuss recent exploits or discoveries, and showcase projects born from curiosity or necessity. Whether it\u2019s a half-finished experiment, a new idea sparked by a problem, or something ready for collaboration, this is a place to share and grow together. Most of all, this group encourages rediscovering that spark of curiosity \u2014 dusting off those badges, boards, and brainstorms \u2014 and diving once again into the spirit of exploration that brought us all here.",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 11,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "San Francisco Healthcare, Pharma & Business Networking Event",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-networking-event-tickets-1991014623335",
-      "source": "Eventbrite SF Healthcare",
-      "location": "3089 16th Street, San Francisco, CA, US",
-      "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 20,
-      "city": "sf",
-      "topic": "health"
-    },
-    {
-      "title": "Black Health Connect | Bridging Healthcare Communities: Cen Flo - Q3 Mixer",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/black-health-connect-bridging-healthcare-communities-cen-flo-q3-mixer-tickets-1988343812869",
-      "source": "Eventbrite Orlando Healthcare",
-      "location": "9101 International Drive, Orlando, FL, US",
-      "description": "COMING TOGETHER TODAY FOR A MORE SUCCESSFUL TOMORROW.RSVP at Blackhealthconnect.com",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup",
-        "orlando"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 12,
-      "city": "orlando",
-      "topic": "health"
-    },
-    {
-      "title": "Making a break into Venture Capital: Live Networking",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-mX2CAvbKiuGP9QX",
-      "description": "Meetup via AI Salon Bay Area",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "The GTM Summit for Founders, Investors, and Creators by Founder Social Club and Anwar Enterprises",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "https://luma.com/event/evt-bU9QXNjXmOZVjA4",
-      "description": "Meetup via Bay Area Tech / AGI House",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 10,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "New York City Healthcare, Pharma & Business Networking Event",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://www.eventbrite.ca/e/new-york-city-healthcare-pharma-business-networking-event-tickets-1991014615311",
-      "source": "Eventbrite NYC Healthcare",
-      "location": "7 East 36th Street, New York, NY, US",
-      "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nyc",
-      "topic": "health"
-    },
-    {
-      "title": "The Engineering Roles That Will Matter In The AI Era By Thine AI",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-09",
-      "end": "2026-07-10T02:30:00+00:00",
-      "url": "https://luma.com/vadtl2sj",
-      "source": "Luma SF Discover",
-      "location": "San Francisco, California, US",
-      "description": "",
-      "region": "Bay Area",
-      "focus": [
-        "ai",
-        "tech",
-        "broad security",
-        "local discovery"
-      ],
-      "tags": [
-        "ai"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "FinTech & Crypto Networking dinner",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373614005",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "Join us for a chill FinTech & Crypto dinner to network, share ideas, and meet fellow innovators in person!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Tech, AI & Startups Roundtable Discussion Dinner",
-      "start": "2026-07-10T00:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-tickets-1988373815608",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
-      "description": "A candid roundtable for tech, AI, and startup leaders to exchange ideas, insights, and real-world lessons.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | July 10, 2026",
-      "start": "2026-07-10T14:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "",
-      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
-      "source": "ISACA Chicago",
-      "location": "",
-      "description": "ISACA",
-      "region": "US",
-      "focus": [
-        "governance",
-        "risk",
-        "security",
-        "local chapter"
-      ],
-      "tags": [
-        "risk",
-        "security"
-      ],
-      "priority_score": 5,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "The Slowest Agent in the Room: Redesigning Defense for a World That Moves at Machine Speed",
-      "start": "2026-07-10T19:00:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "2026-07-10T20:00:00+00:00",
-      "url": "https://luma.com/tejas-oegm",
-      "source": "Tejas Cyber Network",
-      "location": "https://luma.com/tejas-oegm",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "security"
-      ],
-      "priority_score": 6,
-      "city": "other-us",
-      "topic": "broad"
-    },
-    {
-      "title": "School of Melee (1st & 3rd NB Fighting Game Fridays)",
-      "start": "2026-07-10T20:30:00+00:00",
-      "date_key": "2026-07-10",
-      "end": "2026-07-10T23:30:00+00:00",
-      "url": "https://www.meetup.com/noisebridge/events/315349959/",
-      "source": "DC415 San Francisco",
-      "location": "",
-      "description": "Noisebridge Hackerspace **School of Melee - SSBM Workshop & Tournament: Singles Competition & Self Improvement Mentorship** **Featuring Guest Speaker: LanTurN** **VOD Reviews and Mid-Set Coaching available to all (Bring your own USB with gameplay file)** School of Melee is a Melee focused workshop. The event will begin with a planned presentation, followed by in person VOD reviews as well as mid set friendlies coaching. **Free Entry + Lossless Adapter Raffle** **Event Details** * Melee \"TED-Talk\" focusing on a variety of topics (tech skill, match-ups, etc.): 7:30 PM - 8:30 PM * Mid Set Friendlies Coaching provided by guest speaker * Melee Singles (32 player cap) * Singles: 8:30 PM - 11:30 PM ##### Location ##### NoiseBridge - 272 Capp St, San Francisco, CA 94110 **What is Noisebridge?** We are an accessible, community-operated, non-profit hackerspace for artists and audiences interested in the intersection of art, technology, and creative expression. We are a place to learn, play, create, and share. Our facilities seek to provide infrastructure for work utilizing textiles, music, wood, metal, computer programming, electronics, science, robotics, space for performance or display, and collaboration. You don't have to be a member or pay anything to participate in Noisebridge, we're free and open. You just have to follow the one rule: Be Excellent to Each Other! **NOISEBRIDGE WEB SITE:** [http://www.noisebridge.net/](http://www.noisebridge.net/) **EVENT WIKI PAGE:** https://www.noisebridge.net/wiki/School_of_Melee **Getting Here:** Noisebridge is close to the 16th & Mission BART station, and the 14 Mission, 33 Stanyan, and 49 Van Ness-Mission Muni buses. The 22 Fillmore and 12 Folsom Muni buses are within a couple blocks. ##### Parking: There are paid parking lots within walking distance, or if you're lucky you can find street parking. **Hosts:** Angelo ([angelolyonsmedia@gmail.com](mailto:angelolyonsmedia@gmail.com)) **Discord:** Noisebridge Discord #School-of-Melee ##### Policies: Be excellent to each other is the guiding principle of Noisebridge. Wikipedia uses a somewhat similar rule, which they call \"the fundamental rule of all social spaces. Every other policy for getting along is a special case of it.\" Unlike Wikipedia, Noisebridge takes a positive approach, and avoids the practice of officially enumerating the myriad potential special cases; \"be excellent\" is enough. ###### Limited spare controllers are available at request ###### Controller experts wanted for controller repair workshop",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "security"
-      ],
-      "priority_score": 9,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Kidney for Phil Benefit Soir\u00e9e",
-      "start": "2026-07-11T00:00:00+00:00",
-      "date_key": "2026-07-11",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/kidney-for-phil-benefit-soiree-tickets-1986882174068",
-      "source": "Eventbrite Orlando Healthcare",
-      "location": "712 West Amelia Street, Orlando, FL, US",
-      "description": "Kidney for Phil Benefit Soir\u00e9e: A Birthday Celebration & Lifeline Fundraiser",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup",
-        "orlando"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "orlando",
-      "topic": "health"
-    },
-    {
-      "title": "Business, Branding & Technology - World Cup Networking Business Sessions",
-      "start": "2026-07-11T00:00:00+00:00",
-      "date_key": "2026-07-11",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/business-branding-technology-world-cup-networking-business-sessions-tickets-1979945204405",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "521 Market Street Northeast, Atlanta, GA, US",
-      "description": "Join us in person for epic networking at the Business, Branding & Tech World Cup sessions!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
-      "topic": "fintech"
-    },
-    {
-      "title": "BroncoCTF 2026",
-      "start": "2026-07-11T00:00:00+00:00",
-      "date_key": "2026-07-11",
-      "end": "",
-      "url": "https://ctftime.org/event/3144/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via BroncoSec",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Junior.Crypt.2026 CTF",
-      "start": "2026-07-11T00:00:00+00:00",
-      "date_key": "2026-07-11",
-      "end": "",
-      "url": "https://ctftime.org/event/3335/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via Beavers0",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "Hike & Connect: Tejas Project H (Health) Beginner Hike at Coyote Hills",
-      "start": "2026-07-11T16:00:00+00:00",
-      "date_key": "2026-07-11",
-      "end": "2026-07-11T18:00:00+00:00",
-      "url": "https://luma.com/tejas-cyso",
-      "source": "Tejas Cyber Network",
-      "location": "Coyote Hills Regional Park, Fremont, California, US",
-      "description": "",
-      "region": "US",
-      "focus": [
-        "ciso",
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "ciso",
-        "cyber",
-        "health",
-        "security"
-      ],
-      "priority_score": 7,
-      "city": "other-us",
-      "topic": "health"
-    },
-    {
       "title": "Chicagoland CISO Chips for Charity Event",
       "start": "2026-07-11T22:00:00+00:00",
       "date_key": "2026-07-11",
@@ -865,27 +71,6 @@
       ],
       "priority_score": 6,
       "city": "chicago",
-      "topic": "broad"
-    },
-    {
-      "title": "Laser Cutter Safety Training",
-      "start": "2026-07-12T14:00:00+00:00",
-      "date_key": "2026-07-12",
-      "end": "2026-07-12T16:00:00+00:00",
-      "url": "https://www.meetup.com/noisebridge/events/315374742/",
-      "source": "DC415 San Francisco",
-      "location": "",
-      "description": "Noisebridge Hackerspace Learn how to be safe while using the laser cutter! We have a 150W, CO2 laser cutter with a 3 x 4 ft bed. This training is required to use the laser cutter because we don't want people setting our most expensive equipment donation on fire. You have to do this training even if you were trained at the old space, as we have different safety features now. Training covers * Dangers of the laser cutter * How to be safe * How to put out a fire Each participant will cut a piece of cardboard on the laser cutter while following all the safety steps. This is also a good place to ask questions about specific materials or projects. There is a 5$ fee to register, and we suggest a 20-30$ donation for this class: https://donate.noisebridge.net. If the registration fee is a barrier to your participation, please reach out to the event organisers.",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local meetup"
-      ],
-      "tags": [
-        "security"
-      ],
-      "priority_score": 9,
-      "city": "sf",
       "topic": "broad"
     },
     {
@@ -928,49 +113,6 @@
       ],
       "priority_score": 19,
       "city": "sf",
-      "topic": "fintech"
-    },
-    {
-      "title": "Sports World Cup Hackathon",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://lu.ma/",
-      "source": "East Bay Cyber",
-      "location": "San Francisco, CA, USA",
-      "description": "Meetup via Bay Area Tech / AGI House",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 13,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "AI: Strategy. Automation. Growth.",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/ai-strategy-automation-growth-tickets-1991200304713",
-      "source": "Eventbrite Atlanta Fintech",
-      "location": "171 17th Street Northwest, Atlanta, GA, US",
-      "description": "An AI Masterclass for Entrepreneurs and Business Leaders Ready to harness the power of Artificial Intelligence to work smarter, grow faster",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "atlanta",
       "topic": "fintech"
     },
     {
@@ -1037,27 +179,6 @@
       "topic": "fintech"
     },
     {
-      "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals NYC",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-nyc-tickets-1991200076029",
-      "source": "Eventbrite NYC Fintech",
-      "location": "Tap House 33, 14 East 33rd Street, New York, NY, US",
-      "description": "Join us at NYC Tech Connect for a night of networking with fellow startups, entrepreneurs, and professionals in the tech industry!",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 8,
-      "city": "nyc",
-      "topic": "fintech"
-    },
-    {
       "title": "The Global Youth Forum",
       "start": "2026-07-13T00:00:00+00:00",
       "date_key": "2026-07-13",
@@ -1077,31 +198,6 @@
       "priority_score": 8,
       "city": "nyc",
       "topic": "fintech"
-    },
-    {
-      "title": "Zero Trust Security Forum 1 Day in Detroit, MI",
-      "start": "2026-07-13T00:00:00+00:00",
-      "date_key": "2026-07-13",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/zero-trust-security-forum-1-day-in-detroit-mi-tickets-1992806100692",
-      "source": "Eventbrite Detroit Cybersecurity",
-      "location": "Detroit, MI, Detroit, MI, US",
-      "description": "Design and implement Zero Trust security frameworks to reduce risks, protect assets, and strengthen access control with Skelora.",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup",
-        "detroit"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "risk",
-        "security"
-      ],
-      "priority_score": 7,
-      "city": "detroit",
-      "topic": "broad"
     },
     {
       "title": "Woodworking Workshop",
@@ -1146,14 +242,14 @@
       "topic": "broad"
     },
     {
-      "title": "Fortress Mode: Arduino Motion Gates (CHM)",
+      "title": "\ud83c\udfc0 Build Your Own Arduino Basketball Game (CHM)",
       "start": "2026-07-13T19:00:00+00:00",
       "date_key": "2026-07-13",
       "end": "2026-07-13T21:00:00+00:00",
       "url": "https://www.meetup.com/noisebridge/events/314957096/",
       "source": "DC415 San Francisco",
       "location": "",
-      "description": "Noisebridge Hackerspace Step into engineer mode and build your own automatic security gate using an Arduino, a motion sensor, and a servo motor! In this hands-on class, you\u2019ll create a mini \u201cfortress gate\u201d that springs open whenever someone approaches. Along the way, you\u2019ll learn: * How motion sensors detect movement * How servo motors create controlled motion * Basic Arduino programming and wiring * How real-world smart security systems work By the end of the class, you\u2019ll have a working motion-activated gate and the skills to customize it with lights, alarms, or secret fortress upgrades. No experience needed \u2014 just bring your curiosity and prepare to defend the kingdom. \ud83c\udff0\ud83e\udd16 **If you have a laptop, please bring it \u2014 but come anyway if you don\u2019t!**",
+      "description": "Noisebridge Hackerspace Build your own mini basketball arcade game using an Arduino! In this hands-on beginner workshop, you\u2019ll create a simple basketball game that uses a ping pong ball, an IR motion sensor to detect when you score, and a digital display to keep track of points. You\u2019ll learn the basics of wiring, sensors, and Arduino code while building something fun you can actually play. No experience needed \u2014 just bring your curiosity and get ready to shoot, score, and tinker! **If you have a laptop, please bring it \u2014 but come anyway if you don\u2019t!** https://phptuts.github.io/CircuitHackingMondays/basketball-arduino/",
       "region": "Bay Area",
       "focus": [
         "broad security",
@@ -1209,48 +305,25 @@
       "topic": "fintech"
     },
     {
-      "title": "2026 Atlanta Healthcare & Retirement Plan Summit",
+      "title": "Master the Art of Buying, Selling & Scaling Startups Successfully!",
       "start": "2026-07-14T00:00:00+00:00",
       "date_key": "2026-07-14",
       "end": "",
-      "url": "https://www.eventbrite.com/e/2026-atlanta-healthcare-retirement-plan-summit-tickets-1992603469617",
-      "source": "Eventbrite Atlanta Healthcare",
-      "location": "1331 Spring Street Northwest, Atlanta, GA, US",
-      "description": "Join us in Atlanta for the 2026 Healthcare & Retirement Plan Summit\u2014lunch, network, learn, and help your plan participants!",
+      "url": "https://www.eventbrite.com/e/master-the-art-of-buying-selling-scaling-startups-successfully-tickets-1979668815719",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "TBA, Atlanta, GA, US",
+      "description": "Master the Art of Buying, Selling & Scaling Startups Successfully! M&A | Startup Exit | VC Deals | Startup Auctions | Startup Bidding",
       "region": "US",
       "focus": [
-        "healthcare",
+        "fintech",
         "local meetup"
       ],
       "tags": [
-        "health",
-        "healthcare"
+        "fintech"
       ],
-      "priority_score": 9,
+      "priority_score": 11,
       "city": "atlanta",
-      "topic": "health"
-    },
-    {
-      "title": "Chicago | The Session: Healthcare Mixer",
-      "start": "2026-07-14T00:00:00+00:00",
-      "date_key": "2026-07-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/chicago-the-session-healthcare-mixer-tickets-1991987655701",
-      "source": "Eventbrite Chicago Healthcare",
-      "location": "17 West Adams Street, Chicago, IL, US",
-      "description": "The Session is a high-density, unhosted social designed for Healthcare professionals who value authentic connection.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "chicago",
-      "topic": "health"
+      "topic": "fintech"
     },
     {
       "title": "Free Chair Yoga for seniors with Silver Sneakers at MetroHealth",
@@ -1273,29 +346,6 @@
       ],
       "priority_score": 9,
       "city": "orlando",
-      "topic": "health"
-    },
-    {
-      "title": "The Perfect Pitch: Insights from Nashville Media Mainstays",
-      "start": "2026-07-14T00:00:00+00:00",
-      "date_key": "2026-07-14",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/the-perfect-pitch-insights-from-nashville-media-mainstays-tickets-1991705034373",
-      "source": "Eventbrite Nashville Healthcare",
-      "location": "3801 Hobbs Road, Nashville, TN, US",
-      "description": "PRSA Nashville is hosting a panel conversation with Nashville journalists who are at the top of their field.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup",
-        "nashville"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nashville",
       "topic": "health"
     },
     {
@@ -1381,6 +431,31 @@
       "priority_score": 8,
       "city": "nyc",
       "topic": "fintech"
+    },
+    {
+      "title": "Zero Trust Security Forum 1 Day in Detroit, MI",
+      "start": "2026-07-14T00:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/zero-trust-security-forum-1-day-in-detroit-mi-tickets-1992806101695",
+      "source": "Eventbrite Detroit Cybersecurity",
+      "location": "Detroit, MI, Detroit, MI, US",
+      "description": "Design and implement Zero Trust security frameworks to reduce risks, protect assets, and strengthen access control with Skelora.",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup",
+        "detroit"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 7,
+      "city": "detroit",
+      "topic": "broad"
     },
     {
       "title": "Chicago CISO XC Summer Conference",
@@ -1500,6 +575,28 @@
       "topic": "health"
     },
     {
+      "title": "Mini BattleBots Tournament",
+      "start": "2026-07-15T00:00:00+00:00",
+      "date_key": "2026-07-15",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "Bright Data, 625 2nd St, San Francisco, CA 94107, USA",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Cybersecurity Summit: Raleigh",
       "start": "2026-07-15T00:00:00+00:00",
       "date_key": "2026-07-15",
@@ -1549,73 +646,26 @@
       "topic": "broad"
     },
     {
-      "title": "HealthSpecialists: HealthCareCareers - Connect, Collaborate, & Grow! - Orlando",
+      "title": "Investing in Startups: Online Session with a VC",
       "start": "2026-07-15T00:00:00+00:00",
       "date_key": "2026-07-15",
       "end": "",
-      "url": "https://www.eventbrite.com/e/healthspecialists-healthcarecareers-connect-collaborate-grow-orlando-tickets-1987395847479",
-      "source": "Eventbrite Orlando Healthcare",
-      "location": "TBD, Orlando, FL, US",
-      "description": "Join us for healthspecialists healthcarecareers networking in Orlando on 15 Jul 2026, 4PM EDT. Connect with professionals!",
-      "region": "US",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-kxIm546vHl1NaKO",
+      "description": "Meetup via AI Salon Bay Area",
+      "region": "Bay Area",
       "focus": [
-        "healthcare",
-        "local meetup",
-        "orlando"
+        "broad security",
+        "local calendar"
       ],
       "tags": [
-        "health",
-        "healthcare"
+        "cyber",
+        "security"
       ],
-      "priority_score": 9,
-      "city": "orlando",
-      "topic": "health"
-    },
-    {
-      "title": "HealthSpecialists: HealthCareCareers - Level Up Your Network! - Detroit",
-      "start": "2026-07-15T00:00:00+00:00",
-      "date_key": "2026-07-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthspecialists-healthcarecareers-level-up-your-network-detroit-tickets-1987397503432",
-      "source": "Eventbrite Detroit Healthcare",
-      "location": "TBD, Detroit, MI, US",
-      "description": "Don't miss healthspecialists healthcarecareers networking in Detroit on 15 Jul 2026, 4PM EDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup",
-        "detroit"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "detroit",
-      "topic": "health"
-    },
-    {
-      "title": "HealthSpecialists: Ignite Your HealthCareCareers at Our Virtual Networking Event - Nashville",
-      "start": "2026-07-15T00:00:00+00:00",
-      "date_key": "2026-07-15",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/healthspecialists-ignite-your-healthcarecareers-at-our-virtual-networking-event-nashville-tickets-1987397863509",
-      "source": "Eventbrite Nashville Healthcare",
-      "location": "TBD, Nashville, TN, US",
-      "description": "Don't miss healthspecialists ignite networking in Nashville on 15 Jul 2026, 4PM CDT. Connect with professionals!",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup",
-        "nashville"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "nashville",
-      "topic": "health"
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "Healthcare Advocacy: Empowering Voices for Better Care in Chicago",
@@ -1725,6 +775,52 @@
       ],
       "priority_score": 3,
       "city": "orlando",
+      "topic": "broad"
+    },
+    {
+      "title": "Show & Tell: AI for GTM @Notion with Baseten, Cognition and Samsara",
+      "start": "2026-07-15T01:00:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "2026-07-15T04:00:00+00:00",
+      "url": "https://luma.com/b8ie1m1s",
+      "source": "Luma SF Discover",
+      "location": "Notion HQ, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "AI Philosophy Nights: Indifferent Intelligence",
+      "start": "2026-07-15T01:30:00+00:00",
+      "date_key": "2026-07-14",
+      "end": "2026-07-15T04:30:00+00:00",
+      "url": "https://luma.com/4esilsg5",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
       "topic": "broad"
     },
     {
@@ -1964,29 +1060,6 @@
       "topic": "health"
     },
     {
-      "title": "Agape's Way Healthcare Hiring Event in Orlando",
-      "start": "2026-07-16T00:00:00+00:00",
-      "date_key": "2026-07-16",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/agapes-way-healthcare-hiring-event-in-orlando-tickets-1992855181494",
-      "source": "Eventbrite Orlando Healthcare",
-      "location": "6388 Silver Star Road, Orlando, FL, US",
-      "description": "Meet Agape's Way, explore healthcare careers, bring your resume, interview with leaders, and enter for a chance to win a cash raffle.",
-      "region": "US",
-      "focus": [
-        "healthcare",
-        "local meetup",
-        "orlando"
-      ],
-      "tags": [
-        "health",
-        "healthcare"
-      ],
-      "priority_score": 9,
-      "city": "orlando",
-      "topic": "health"
-    },
-    {
       "title": "Let's Connect! Healthcare Professionals & Entrepreneurs Networking Mixer",
       "start": "2026-07-16T00:00:00+00:00",
       "date_key": "2026-07-16",
@@ -2007,6 +1080,28 @@
       ],
       "priority_score": 9,
       "city": "orlando",
+      "topic": "health"
+    },
+    {
+      "title": "NYC | The Session: Healthcare Mixer",
+      "start": "2026-07-16T00:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/nyc-the-session-healthcare-mixer-tickets-1991988445062",
+      "source": "Eventbrite NYC Healthcare",
+      "location": "987 2nd Avenue, New York, NY, US",
+      "description": "The Session is a high-density, unhosted social designed for Healthcare professionals who value authentic connection.",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "nyc",
       "topic": "health"
     },
     {
@@ -2032,6 +1127,27 @@
       "priority_score": 8,
       "city": "other-us",
       "topic": "broad"
+    },
+    {
+      "title": "Master AI Entrepreneurship - From A to Z Masterclass",
+      "start": "2026-07-16T00:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-masterclass-tickets-1981481298905",
+      "source": "Eventbrite NYC Fintech",
+      "location": "Manhattan, New York, NY, US",
+      "description": "Master AI Entrepreneurship - From A to Z Masterclass",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "nyc",
+      "topic": "fintech"
     },
     {
       "title": "WiCyS | Executive Leaders Network",
@@ -2078,6 +1194,52 @@
       ],
       "priority_score": 2,
       "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Battle of the Paddles: AI Builders Edition",
+      "start": "2026-07-16T01:00:00+00:00",
+      "date_key": "2026-07-15",
+      "end": "2026-07-16T04:00:00+00:00",
+      "url": "https://luma.com/j7v7qeem",
+      "source": "Luma SF Discover",
+      "location": "SPIN San Francisco, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Fonzi's July Tech Talk",
+      "start": "2026-07-16T01:00:00+00:00",
+      "date_key": "2026-07-15",
+      "end": "2026-07-16T03:00:00+00:00",
+      "url": "https://luma.com/jrs8v2ms",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "tech"
+      ],
+      "priority_score": 9,
+      "city": "sf",
       "topic": "broad"
     },
     {
@@ -2172,7 +1334,7 @@
       "topic": "broad"
     },
     {
-      "title": "Monthly Meeting | Virtual Event | July 16, 2026",
+      "title": "ISACA Chicago Chapter Monthly Meeting | Virtual Event | July 16, 2026",
       "start": "2026-07-16T20:00:00+00:00",
       "date_key": "2026-07-16",
       "end": "",
@@ -2192,7 +1354,53 @@
         "security"
       ],
       "priority_score": 5,
-      "city": "other-us",
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Workshop: Mastering AI Observability",
+      "start": "2026-07-16T22:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "2026-07-17T01:00:00+00:00",
+      "url": "https://luma.com/ai_workshop_sf",
+      "source": "Luma SF Discover",
+      "location": "Four One Nine, San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Yes, Chef! A Chicago Dinner on Offensive Security Engineering",
+      "start": "2026-07-16T22:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "2026-07-17T01:00:00+00:00",
+      "url": "https://escape.tech/chicago-dinner-july2026\"",
+      "source": "Chicago InfoSec Events Calendar",
+      "location": "Hawksmoor Chicago, 500 N La Salle Dr, Chicago, IL 60654, USA",
+      "description": "A private dinner for security leaders on offensive security engineering, how small teams cover massive attack surface without burning out. Great food, a private room, and honest conversation with peers. Come with your appetite and your war stories.<br><p><i>Registration is reviewed before confirmation.</i></p><p><a href=\"https://escape.tech/chicago-dinner-july2026\" target=\"_blank\"><u><u>https://escape.tech/chicago-dinner-july2026</u></u></a><i></i></p>",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local chapter",
+        "community calendar"
+      ],
+      "tags": [
+        "infosec",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "chicago",
       "topic": "broad"
     },
     {
@@ -2238,6 +1446,71 @@
       "priority_score": 10,
       "city": "sf",
       "topic": "broad"
+    },
+    {
+      "title": "Agentic Commerce (un)Conference",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "2026-07-17T04:00:00+00:00",
+      "url": "https://luma.com/i3y4x429",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "agentic"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "FinTech & Crypto Networking dinner",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-1988373615008",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
+      "description": "Join us for a chill FinTech & Crypto dinner to network, share ideas, and meet fellow innovators in person!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "Tech, AI & Startups Roundtable Discussion Dinner",
+      "start": "2026-07-17T00:00:00+00:00",
+      "date_key": "2026-07-17",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-tickets-1988373816611",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "3330 Piedmont Road Northeast, Atlanta, GA, US",
+      "description": "A candid roundtable for tech, AI, and startup leaders to exchange ideas, insights, and real-world lessons.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
     },
     {
       "title": "Qualcomm Arduino Uno Q Hack Night",
@@ -2328,6 +1601,30 @@
       "topic": "broad"
     },
     {
+      "title": "AI x Biosecurity \u2014 LatchBio Benchmark Launch",
+      "start": "2026-07-17T01:00:00+00:00",
+      "date_key": "2026-07-16",
+      "end": "2026-07-17T04:00:00+00:00",
+      "url": "https://luma.com/4s00vb76",
+      "source": "Luma SF Discover",
+      "location": "San Francisco, California, US",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Showcase Showdown",
       "start": "2026-07-17T19:00:00+00:00",
       "date_key": "2026-07-17",
@@ -2394,14 +1691,58 @@
       "topic": "health"
     },
     {
-      "title": "AxiomCTF 2026 Finals",
+      "title": "Evening for a Cure",
       "start": "2026-07-18T00:00:00+00:00",
       "date_key": "2026-07-18",
       "end": "",
-      "url": "https://ctftime.org/event/3357/",
+      "url": "https://www.eventbrite.com/e/evening-for-a-cure-tickets-1993383864800",
+      "source": "Eventbrite Nashville Healthcare",
+      "location": "2015 Gladstone Avenue, Nashville, TN, US",
+      "description": "Join us for a fun night out to support a great cause and help find a cure together! Hosted by Logan Fletcher",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "nashville"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "nashville",
+      "topic": "health"
+    },
+    {
+      "title": "Business, Branding & Technology - World Cup Networking Business Sessions",
+      "start": "2026-07-18T00:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/business-branding-technology-world-cup-networking-business-sessions-tickets-1979945204405",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "521 Market Street Northeast, Atlanta, GA, US",
+      "description": "Join us in person for epic networking at the Business, Branding & Tech World Cup sessions!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
+      "title": "ATHENA CTF",
+      "start": "2026-07-18T00:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "",
+      "url": "https://ctftime.org/event/3366/",
       "source": "East Bay Cyber",
-      "location": "Russia, Moscow",
-      "description": "CTF via 4x10m",
+      "location": "Online",
+      "description": "CTF via Athena-CTF",
       "region": "Bay Area",
       "focus": [
         "broad security",
@@ -2416,14 +1757,14 @@
       "topic": "broad"
     },
     {
-      "title": "DAMCTF 2026",
+      "title": "AxiomCTF 2026 Finals",
       "start": "2026-07-18T00:00:00+00:00",
       "date_key": "2026-07-18",
       "end": "",
-      "url": "https://ctftime.org/event/3124/",
+      "url": "https://ctftime.org/event/3357/",
       "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via OSUSEC",
+      "location": "Russia, Moscow",
+      "description": "CTF via 4x10m",
       "region": "Bay Area",
       "focus": [
         "broad security",
@@ -2482,6 +1823,48 @@
       "topic": "broad"
     },
     {
+      "title": "Analog Electronics for Guitar Pedals",
+      "start": "2026-07-18T13:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "2026-07-18T15:00:00+00:00",
+      "url": "https://www.meetup.com/noisebridge/events/315558864/",
+      "source": "DC415 San Francisco",
+      "location": "",
+      "description": "Noisebridge Hackerspace # Analog Electronics for Guitar Pedals ## Session 3: Wiring everything in an enclosure The goal of this session is to wire up a circuit to jacks and foot switch and put it all into a permanent enclosure. We will talk about true bypass wiring, what it it and how to apply it to circuits you have built. We'll cover: * **Wiring the Foot Switch** \u2014 learn about true bypass wiring * **Add an LED indicator** \u2014 add an LED that indicates when the effect is engaged * **Wire the input and output jacks** \u2014 how to connect the input and output jacks * **Put it all in a an Enclosure** \u2014 box it up for use No prior electronics experience required. Bring your curiosity. The goal of this session will be take the circuits previously built as prototypes and wire them in a permanent enclosure.",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "security"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "Godot Gamedev Meetup",
+      "start": "2026-07-18T14:00:00+00:00",
+      "date_key": "2026-07-18",
+      "end": "2026-07-18T18:00:00+00:00",
+      "url": "https://www.meetup.com/noisebridge/events/315460334/",
+      "source": "DC415 San Francisco",
+      "location": "",
+      "description": "Noisebridge Hackerspace In-person Godot game development meetup at Noisebridge! For anyone who wants to learn how to create games and applications in the Godot Engine. For anyone who wants to share games they've made and get feedback. For anyone who wants to make games collaboratively. All skill levels and kinds of game devs are welcome. Join our discord server if you have any questions or want to collaborate in chat: [https://discord.gg/68Q5Juc95u](https://discord.gg/68Q5Juc95u)",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "security"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "WiCyS Austin Affiliate | Monthly Social",
       "start": "2026-07-18T15:00:00+00:00",
       "date_key": "2026-07-18",
@@ -2525,6 +1908,27 @@
       "priority_score": 9,
       "city": "orlando",
       "topic": "health"
+    },
+    {
+      "title": "Laser Cutter Safety Training",
+      "start": "2026-07-19T14:00:00+00:00",
+      "date_key": "2026-07-19",
+      "end": "2026-07-19T16:00:00+00:00",
+      "url": "https://www.meetup.com/noisebridge/events/315005015/",
+      "source": "DC415 San Francisco",
+      "location": "",
+      "description": "Noisebridge Hackerspace Learn how to be safe while using the laser cutter! We have a 150W, CO2 laser cutter with a 3 x 4 ft bed. This training is required to use the laser cutter because we don't want people setting our most expensive equipment donation on fire. You have to do this training even if you were trained at the old space, as we have different safety features now. Training covers * Dangers of the laser cutter * How to be safe * How to put out a fire Each participant will cut a piece of cardboard on the laser cutter while following all the safety steps. This is also a good place to ask questions about specific materials or projects. There is a 5$ fee to register, and we suggest a 20-30$ donation for this class: https://donate.noisebridge.net. If the registration fee is a barrier to your participation, please reach out to the event organisers.",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "security"
+      ],
+      "priority_score": 9,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "AI Security Intelligence Lab 1 Day in Oakland, CA",
@@ -2747,27 +2151,24 @@
       "topic": "broad"
     },
     {
-      "title": "UChicago Deep Tech Demo Day",
-      "start": "2026-07-20T16:00:00+00:00",
+      "title": "Woodworking Workshop",
+      "start": "2026-07-20T18:00:00+00:00",
       "date_key": "2026-07-20",
-      "end": "2026-07-20T23:00:00+00:00",
-      "url": "https://luma.com/polsky-07-20-2026-event-1686",
-      "source": "Luma Orlando Discover",
+      "end": "2026-07-20T21:00:00+00:00",
+      "url": "https://www.meetup.com/noisebridge/events/315493188/",
+      "source": "DC415 San Francisco",
       "location": "",
-      "description": "Advancing innovative ideas and technologies from the University of Chicago ecosystem to the world",
-      "region": "US",
+      "description": "Noisebridge Hackerspace -please read the whole updated description!- Come to work on your own projects and get some feedback from your fellow woodchucks. We have a planer, drill presses, hand tools, a table saw, and much more! ###################### **starting June 8 we will be taking a break from the intensive power tool trainings provided in previous sessions.** For the next few weeks we want to use wood night as a time for actively working on projects and designing ideas for your projects. Happy to help with some guided use of the tools, but for now no full training will be offered. If you are new to the woodshop you are still welcome to join, just know that we will not provide a full training on the tools. If you have significant experience using a Tablesaw, mitre saw, planer etc then this should not be an issue. We do have some scrap wood available, but bringing some wood for your project, especially if it is larger or more crafty, is highly encouraged. We recommend getting your wood at Lowe\u2019s (cheaper) Discount builders supply (closer to NB) or Beronio (higher quality and carry lots of hardwoods). Please feel free to ask questions on the discord if you are unsure about what to get for your project.",
+      "region": "Bay Area",
       "focus": [
-        "ai",
-        "tech",
         "broad security",
-        "local discovery",
-        "orlando"
+        "local meetup"
       ],
       "tags": [
-        "tech"
+        "security"
       ],
-      "priority_score": 1,
-      "city": "chicago",
+      "priority_score": 9,
+      "city": "sf",
       "topic": "broad"
     },
     {
@@ -2843,6 +2244,30 @@
       "topic": "broad"
     },
     {
+      "title": "Chicago's Second Fashion Tech Meetup! Join us for Coffee & Cake at the AIBI Lab",
+      "start": "2026-07-21T14:00:00+00:00",
+      "date_key": "2026-07-21",
+      "end": "2026-07-21T16:00:00+00:00",
+      "url": "https://luma.com/2vejmic9",
+      "source": "Luma Chicago Discover",
+      "location": "2031 W Fulton St, Chicago, Illinois, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "priority_score": 2,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
       "title": "Chicago CISO of the Year - Third Mixer",
       "start": "2026-07-21T22:00:00+00:00",
       "date_key": "2026-07-21",
@@ -2867,6 +2292,27 @@
       "topic": "broad"
     },
     {
+      "title": "Startup Tech & AI Networking in San Francisco",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-san-francisco-tickets-1992525243641",
+      "source": "Eventbrite SF Fintech",
+      "location": "579 Howard Street, San Francisco, CA, US",
+      "description": "Dive into tech with other professionals! Network and build strong relationships with investors, tech experts, and entrepreneurs in SF.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 19,
+      "city": "sf",
+      "topic": "fintech"
+    },
+    {
       "title": "VC Networking & Tech Pitch I San Francisco",
       "start": "2026-07-22T00:00:00+00:00",
       "date_key": "2026-07-22",
@@ -2886,6 +2332,28 @@
       "priority_score": 19,
       "city": "sf",
       "topic": "fintech"
+    },
+    {
+      "title": "OpenAI Build Week Community Meetup - San Francisco",
+      "start": "2026-07-22T00:00:00+00:00",
+      "date_key": "2026-07-22",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-dTFkcFk3F9U4lGq",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
+      "topic": "broad"
     },
     {
       "title": "Information Security Leadership 1 Day in Staten Island, NY",
@@ -3322,6 +2790,29 @@
       "topic": "health"
     },
     {
+      "title": "Meet the Author! Unlocking Women's Health by Dr. Brittany Barreto",
+      "start": "2026-07-23T00:00:00+00:00",
+      "date_key": "2026-07-23",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/meet-the-author-unlocking-womens-health-by-dr-brittany-barreto-tickets-1992600803643",
+      "source": "Eventbrite Nashville Healthcare",
+      "location": "5122 Charlotte Avenue, Nashville, TN, US",
+      "description": "Join bestselling author Dr. Brittany Barreto for an inspiring evening exploring the future of women's health with Nashville leaders.",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "nashville"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "nashville",
+      "topic": "health"
+    },
+    {
       "title": "Codegate CTF 2026 Finals",
       "start": "2026-07-23T00:00:00+00:00",
       "date_key": "2026-07-23",
@@ -3513,27 +3004,25 @@
       "topic": "broad"
     },
     {
-      "title": "The Next Horizon: A Summer Soir\u00e9e for Tech & Marketing Leaders",
-      "start": "2026-07-23T23:00:00+00:00",
-      "date_key": "2026-07-23",
-      "end": "2026-07-24T02:00:00+00:00",
-      "url": "https://luma.com/wrts6agi",
-      "source": "Luma Orlando Discover",
-      "location": "",
-      "description": "None",
-      "region": "US",
+      "title": "Bringing SF to the World - Demo Night",
+      "start": "2026-07-24T00:00:00+00:00",
+      "date_key": "2026-07-24",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "Gray Area / Grand Theater, 2665 Mission St, San Francisco, CA 94110, USA",
+      "description": "Meetup via Bay Area Tech / AGI House",
+      "region": "Bay Area",
       "focus": [
-        "ai",
-        "tech",
         "broad security",
-        "local discovery",
-        "orlando"
+        "local calendar"
       ],
       "tags": [
-        "tech"
+        "cyber",
+        "security"
       ],
-      "priority_score": 1,
-      "city": "orlando",
+      "priority_score": 16,
+      "city": "sf",
       "topic": "broad"
     },
     {
@@ -3627,6 +3116,31 @@
       "priority_score": 8,
       "city": "chicago",
       "topic": "health"
+    },
+    {
+      "title": "Agentic AI Security - A Primer for All by Anshu Gupta",
+      "start": "2026-07-24T19:00:00+00:00",
+      "date_key": "2026-07-24",
+      "end": "2026-07-24T20:00:00+00:00",
+      "url": "https://luma.com/tejas-xp69",
+      "source": "Tejas Cyber Network",
+      "location": "https://luma.com/tejas-xp69",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "ai security",
+        "ciso",
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "other-us",
+      "topic": "broad"
     },
     {
       "title": "Fastest Draw in the 312: Outpacing the Tech Frontier",
@@ -3729,28 +3243,6 @@
       "source": "East Bay Cyber",
       "location": "Online",
       "description": "CTF via D^3CTF Organizers",
-      "region": "Bay Area",
-      "focus": [
-        "broad security",
-        "local calendar"
-      ],
-      "tags": [
-        "cyber",
-        "security"
-      ],
-      "priority_score": 2,
-      "city": "sf",
-      "topic": "broad"
-    },
-    {
-      "title": "UIUCTF 2026",
-      "start": "2026-07-25T00:00:00+00:00",
-      "date_key": "2026-07-25",
-      "end": "",
-      "url": "https://ctftime.org/event/3148/",
-      "source": "East Bay Cyber",
-      "location": "Online",
-      "description": "CTF via SIGPwny",
       "region": "Bay Area",
       "focus": [
         "broad security",
@@ -3916,6 +3408,30 @@
       "priority_score": 8,
       "city": "nyc",
       "topic": "fintech"
+    },
+    {
+      "title": "July 2026 - Evening Meeting - Full Sail University",
+      "start": "2026-07-27T00:00:00+00:00",
+      "date_key": "2026-07-27",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/july-2026-evening-meeting-full-sail-university-tickets-1992101957581",
+      "source": "Eventbrite Orlando Cybersecurity",
+      "location": "175 University Park Dr, Winter Park, FL, US",
+      "description": "Join us for a casual evening meeting at Full Sail University to discuss all things Cybersecurity!",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup",
+        "orlando"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "orlando",
+      "topic": "broad"
     },
     {
       "title": "The Science of Silence: Beyond the Detection Trap",
@@ -4201,6 +3717,27 @@
       "topic": "health"
     },
     {
+      "title": "Business of Fashion: Introduction to Building a Fashion Brand",
+      "start": "2026-07-29T00:00:00+00:00",
+      "date_key": "2026-07-29",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/business-of-fashion-introduction-to-building-a-fashion-brand-tickets-1993494388379",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "675 Ponce De Leon Avenue Northeast, Atlanta, GA, US",
+      "description": "Launch your fashion label! Learn tech packs, margins, and industry secrets from a Paris Fashion Week designer at Mood Fabrics PCM.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
+    },
+    {
       "title": "Seattle CISO Community Town Hall",
       "start": "2026-07-29T00:00:00+00:00",
       "date_key": "2026-07-29",
@@ -4315,6 +3852,29 @@
       "topic": "broad"
     },
     {
+      "title": "Bridging Healthcare Communities: Nashville - Q3 Mixer",
+      "start": "2026-07-30T00:00:00+00:00",
+      "date_key": "2026-07-30",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/bridging-healthcare-communities-nashville-q3-mixer-tickets-1993573841024",
+      "source": "Eventbrite Nashville Healthcare",
+      "location": "715 Main Street, Nashville, TN, US",
+      "description": "COMING TOGETHER TODAY FOR A MORE SUCCESSFUL TOMORROW.RSVP at Blackhealthconnect.com",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "nashville"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 12,
+      "city": "nashville",
+      "topic": "health"
+    },
+    {
       "title": "1 Year Anniversary",
       "start": "2026-07-30T00:00:00+00:00",
       "date_key": "2026-07-30",
@@ -4338,6 +3898,29 @@
       "topic": "health"
     },
     {
+      "title": "Healthcare Professionals Networking Dinner",
+      "start": "2026-07-30T00:00:00+00:00",
+      "date_key": "2026-07-30",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/healthcare-professionals-networking-dinner-tickets-1992796749723",
+      "source": "Eventbrite Nashville Healthcare",
+      "location": "605 Overton Street, Nashville, TN, US",
+      "description": "Join us for a relaxed and valuable networking evening designed exclusively for healthcare professionals.",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "nashville"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "nashville",
+      "topic": "health"
+    },
+    {
       "title": "Chicago Tech Mixer 2026",
       "start": "2026-07-30T00:00:00+00:00",
       "date_key": "2026-07-30",
@@ -4356,6 +3939,27 @@
       ],
       "priority_score": 8,
       "city": "chicago",
+      "topic": "fintech"
+    },
+    {
+      "title": "New York AI, Tech & Finance Networking Event",
+      "start": "2026-07-30T00:00:00+00:00",
+      "date_key": "2026-07-30",
+      "end": "",
+      "url": "https://www.eventbrite.ca/e/new-york-ai-tech-finance-networking-event-tickets-1993807362493",
+      "source": "Eventbrite NYC Fintech",
+      "location": "151 Maiden Lane, New York, NY, US",
+      "description": "Come join us at the New York AI, Business, Tech & Finance Networking Event to connect with professionals and entrepreneurs in the industry!",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "nyc",
       "topic": "fintech"
     },
     {
@@ -4474,6 +4078,72 @@
       "topic": "fintech"
     },
     {
+      "title": "DeadSec CTF 2026",
+      "start": "2026-07-31T00:00:00+00:00",
+      "date_key": "2026-07-31",
+      "end": "",
+      "url": "https://ctftime.org/event/3303/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via DeadSec",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "L3akCTF 2026",
+      "start": "2026-07-31T00:00:00+00:00",
+      "date_key": "2026-07-31",
+      "end": "",
+      "url": "https://ctftime.org/event/3061/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via L3ak",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
+      "title": "VuwCTF 2026",
+      "start": "2026-07-31T00:00:00+00:00",
+      "date_key": "2026-07-31",
+      "end": "",
+      "url": "https://ctftime.org/event/3311/",
+      "source": "East Bay Cyber",
+      "location": "Online",
+      "description": "CTF via VuwCTF",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 2,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Black Hat",
       "start": "2026-08-01T00:00:00+00:00",
       "date_key": "2026-08-01",
@@ -4541,6 +4211,28 @@
       "priority_score": 5,
       "city": "nyc",
       "topic": "broad"
+    },
+    {
+      "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer SF",
+      "start": "2026-08-03T00:00:00+00:00",
+      "date_key": "2026-08-03",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-sf-tickets-1992481516853",
+      "source": "Eventbrite SF Fintech",
+      "location": "Casements Bar, 2351 Mission Street, San Francisco, CA, US",
+      "description": "Connect with health, fitness, beauty, and wellness founders, startups, and professionals to network, collaborate, and grow your business.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech",
+        "health"
+      ],
+      "priority_score": 20,
+      "city": "sf",
+      "topic": "health"
     },
     {
       "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer Chicago",
@@ -4628,27 +4320,6 @@
       "topic": "fintech"
     },
     {
-      "title": "SF AI & Machine Learning Startups, Investors, Innovators Networking Mixer",
-      "start": "2026-08-04T00:00:00+00:00",
-      "date_key": "2026-08-04",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/sf-ai-machine-learning-startups-investors-innovators-networking-mixer-tickets-1992655033847",
-      "source": "Eventbrite SF Fintech",
-      "location": "1160 Polk Street, San Francisco, CA, US",
-      "description": "Discover cutting-edge AI & ML startups, pitch your ideas, and network with investors, founders, and tech innovators.",
-      "region": "US",
-      "focus": [
-        "fintech",
-        "local meetup"
-      ],
-      "tags": [
-        "fintech"
-      ],
-      "priority_score": 19,
-      "city": "sf",
-      "topic": "fintech"
-    },
-    {
       "title": "Chicago AI & Machine Learning Startups, Investors, Innovators Networking Mixer",
       "start": "2026-08-04T00:00:00+00:00",
       "date_key": "2026-08-04",
@@ -4718,30 +4389,6 @@
       "topic": "broad"
     },
     {
-      "title": "Security Testing Fundamentals in Detroit, MI",
-      "start": "2026-08-04T00:00:00+00:00",
-      "date_key": "2026-08-04",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/security-testing-fundamentals-in-detroit-mi-tickets-1992329950514",
-      "source": "Eventbrite Detroit Cybersecurity",
-      "location": "Detroit, MI, Detroit, MI, MI, US",
-      "description": "Learn ethical security testing, vulnerability assessment, and cyber defense techniques with Skelora Edu Tech.",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup",
-        "detroit"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "detroit",
-      "topic": "broad"
-    },
-    {
       "title": "WiCyS | Ai4 2026",
       "start": "2026-08-04T00:00:00+00:00",
       "date_key": "2026-08-04",
@@ -4808,6 +4455,29 @@
       "priority_score": 5,
       "city": "other-us",
       "topic": "broad"
+    },
+    {
+      "title": "Prioritize Breastfeeding in Orange County: Creating Sustainable Support Sys",
+      "start": "2026-08-05T00:00:00+00:00",
+      "date_key": "2026-08-05",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/prioritize-breastfeeding-in-orange-county-creating-sustainable-support-sys-tickets-1992133473847",
+      "source": "Eventbrite Orlando Healthcare",
+      "location": "6101 Lake Ellenor Drive, Orlando, FL, US",
+      "description": "Bringing together healthcare, business, and community partners to support breastfeeding and maternal wellness.",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "orlando"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "orlando",
+      "topic": "health"
     },
     {
       "title": "WiCyS Professional Affiliate International Leaders Only Meeting",
@@ -5021,6 +4691,55 @@
       "topic": "broad"
     },
     {
+      "title": "Trusted Data Governance: Security, Privacy, and AI | SheLeadsTech Virtual Workshop | Aug 07, 2026",
+      "start": "2026-08-07T14:00:00+00:00",
+      "date_key": "2026-08-07",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "privacy",
+        "risk",
+        "security"
+      ],
+      "priority_score": 6,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Meet Atlanta Tech Week & RenderATL Speakers!",
+      "start": "2026-08-10T22:30:00+00:00",
+      "date_key": "2026-08-10",
+      "end": "2026-08-11T01:00:00+00:00",
+      "url": "https://luma.com/16nfy3e5",
+      "source": "Luma Atlanta Discover",
+      "location": "CallRail, Atlanta, Georgia, US",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "ai",
+        "tech",
+        "broad security",
+        "local discovery"
+      ],
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "priority_score": 2,
+      "city": "atlanta",
+      "topic": "broad"
+    },
+    {
       "title": "SF Women in Tech: Founders & Professionals Networking Night",
       "start": "2026-08-11T00:00:00+00:00",
       "date_key": "2026-08-11",
@@ -5105,6 +4824,28 @@
       "topic": "fintech"
     },
     {
+      "title": "Remediation Agents Demystified",
+      "start": "2026-08-11T16:00:00+00:00",
+      "date_key": "2026-08-11",
+      "end": "2026-08-11T17:00:00+00:00",
+      "url": "https://luma.com/aiseceng-89eh",
+      "source": "AI Security Engineers SF Bay Area",
+      "location": "https://luma.com/aiseceng-89eh",
+      "description": "",
+      "region": "Bay Area",
+      "focus": [
+        "ai security",
+        "local meetup"
+      ],
+      "tags": [
+        "ai security",
+        "security"
+      ],
+      "priority_score": 16,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "Hygieia Healthcare Security Conference 2026",
       "start": "2026-08-12T00:00:00+00:00",
       "date_key": "2026-08-12",
@@ -5130,6 +4871,28 @@
       ],
       "priority_score": 12,
       "city": "atlanta",
+      "topic": "health"
+    },
+    {
+      "title": "Chicago Healthcare, Pharma & Business Networking Event",
+      "start": "2026-08-12T00:00:00+00:00",
+      "date_key": "2026-08-12",
+      "end": "",
+      "url": "https://www.eventbrite.ca/e/chicago-healthcare-pharma-business-networking-event-tickets-1993350852058",
+      "source": "Eventbrite Chicago Healthcare",
+      "location": "112 West Hubbard Street, Chicago, IL, US",
+      "description": "SUM OF FIVE | Meet Established Professionals In Healthcare, Pharma & Business",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "chicago",
       "topic": "health"
     },
     {
@@ -5187,6 +4950,52 @@
       "source": "Eventbrite Orlando Healthcare",
       "location": "15 North Orange Avenue, Orlando, FL, US",
       "description": "Strive welcomes you to 'Law and Business Networking', an event for tenured and newcomers at Fixtion! Event is 21+. Limited Tickets",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "orlando"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "orlando",
+      "topic": "health"
+    },
+    {
+      "title": "Music and Business Networking | Elevating Your Potential - Orlando",
+      "start": "2026-08-12T00:00:00+00:00",
+      "date_key": "2026-08-12",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/music-and-business-networking-elevating-your-potential-orlando-tickets-1992264109582",
+      "source": "Eventbrite Orlando Healthcare",
+      "location": "15 North Orange Avenue, Orlando, FL, US",
+      "description": "Strive welcomes you to 'Music and Business Networking', an event for tenured and newcomers at Fixtion! Event is 21+. Limited Tickets.",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "orlando"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "orlando",
+      "topic": "health"
+    },
+    {
+      "title": "Non-Profits and Business Networking | Elevating Your Potential- Orlando",
+      "start": "2026-08-12T00:00:00+00:00",
+      "date_key": "2026-08-12",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/non-profits-and-business-networking-elevating-your-potential-orlando-tickets-1992264096543",
+      "source": "Eventbrite Orlando Healthcare",
+      "location": "15 North Orange Avenue, Orlando, FL, US",
+      "description": "Strive welcomes you to'Non-Profits and Business Networking', an event for tenured and newcomers at Fixtion! Event is 21+. Limited Tickets.",
       "region": "US",
       "focus": [
         "healthcare",
@@ -5299,6 +5108,28 @@
       "topic": "broad"
     },
     {
+      "title": "The Reserve by Founder Social Club",
+      "start": "2026-08-13T00:00:00+00:00",
+      "date_key": "2026-08-13",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-5dbxDwlfJEzDlXJ",
+      "description": "Meetup via Bay Area Tech / AGI House",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 10,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "HealthSpecialists - HealthCareConnect: Your Monthly HealthConnect for Career Growth - Orlando",
       "start": "2026-08-13T00:00:00+00:00",
       "date_key": "2026-08-13",
@@ -5368,6 +5199,28 @@
       "topic": "health"
     },
     {
+      "title": "Biopharma Hack Day at AWS",
+      "start": "2026-08-13T00:00:00+00:00",
+      "date_key": "2026-08-13",
+      "end": "",
+      "url": "https://lu.ma/",
+      "source": "East Bay Cyber",
+      "location": "https://luma.com/event/evt-ZUNpYuLEO6XxPpk",
+      "description": "Meetup via SF Tech Events",
+      "region": "Bay Area",
+      "focus": [
+        "broad security",
+        "local calendar"
+      ],
+      "tags": [
+        "cyber",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "sf",
+      "topic": "broad"
+    },
+    {
       "title": "BurbSec Southeast - Sponsored by Check Point!",
       "start": "2026-08-13T17:00:00+00:00",
       "date_key": "2026-08-13",
@@ -5389,6 +5242,55 @@
         "security"
       ],
       "priority_score": 5,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Burbsec South - Sponsors Wanted",
+      "start": "2026-08-13T18:00:00+00:00",
+      "date_key": "2026-08-13",
+      "end": "2026-08-13T21:00:00+00:00",
+      "url": "https://www.meetup.com/burbsec/events/rqcgxtyjclbrb/",
+      "source": "BurbSec Chicago",
+      "location": "",
+      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events \ud83d\ude80\ud83d\udd10 **Unlock the Excitement at Burbsec South! \ud83c\udf7b\ud83c\udf89** Are you ready for a night of geeking out, making new friends, and expanding your network in the world of infosec? Look no further\u2014Burbsec South is the place to be, and everyone is welcome! \ud83d\udc65 **A Community Just Like You:** We're just like you, and you'll fit right in! Whether you're passionate about infosec, love indulging in memes, enjoy a good beer, or appreciate compliance jokes (among other things), we've got you covered. Our diverse skill set ranges from novice to expert, and yes, we even dabble in paper hat making! \ud83c\udfa9\u2728 \ud83e\udd1d **Connections That Matter:** At Burbsec South, you'll find more than just like-minded people. You'll make valuable contacts, form genuine friendships, and expand your network of professional connections. These are the kinds of connections that come in handy when you're tackling that thorny problem at work, at home, or in the job market. \ud83d\udca1 **Knowledge Exchange:** Whether you're seeking answers to tough questions or ready to share your expertise, there's always someone at Burbsec South who's got your back. We thrive in a collaborative atmosphere where knowledge flows freely, and camaraderie is key. \ud83d\udd55 **Flexible Timing:** Don't worry about being fashionably late! People will start rolling in after work around 6 pm, and we keep the vibe going for a couple of hours, then a small group often heads out to another local pub for further shenanigans. \ud83c\udf10 **Stay Connected:** Don't miss out on the latest updates and community banter! Join the BurbSec Discord and follow us on Twitter for all the behind-the-scenes action and event sneak peeks. * BurbSec Discord: [https://discord.gg/invite/VVYDZYmd2w](https://discord.gg/invite/VVYDZYmd2w) (Bridged with Slack!) * Web: [burbsec.com](http://burbsec.com/) * Twitter: [@burbsecsouth](https://x.com/burbsecsouth) * Mastodon: [@BurbSecSouth@infosec.exchange](https://infosec.exchange/deck/@burbsecsouth) Get ready for a night of laughs, geekiness, and unforgettable moments! See you there!",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "compliance",
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "Burbsec North - Sponsors Welcome",
+      "start": "2026-08-13T18:00:00+00:00",
+      "date_key": "2026-08-13",
+      "end": "2026-08-13T21:00:00+00:00",
+      "url": "https://www.meetup.com/burbsec/events/cpqmttyjclbrb/",
+      "source": "BurbSec Chicago",
+      "location": "",
+      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events BurbSec North is the Northern Suburb offshoot of the famous Chicagoland BurbSec meetups. Information Security enthusiasts of all skill and career levels are welcome to join us for a few beers and complaints about work (or the lack thereof)! We average about 10-15 attendees each month, many of whom have been coming for years! Our location offers excellent beers as well as a full pub menu! Finally, don't forget to join the BurbSec chat servers! Our Discord service is very active. BurbSec Discord: ([https://discord.gg/VVYDZYmd2w](https://discord.gg/VVYDZYmd2w)) Bluesky: @north.burbsec.com Mastodon: @BurbSecNorth@infosec.exchange Twitter: ([https://twitter.com/burbsecnorth](https://twitter.com/burbsecnorth))",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 4,
       "city": "chicago",
       "topic": "broad"
     },
@@ -5416,6 +5318,50 @@
       "topic": "broad"
     },
     {
+      "title": "San Francisco Healthcare, Pharma & Business Networking Event",
+      "start": "2026-08-14T00:00:00+00:00",
+      "date_key": "2026-08-14",
+      "end": "",
+      "url": "https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-networking-event-tickets-1993546433046",
+      "source": "Eventbrite SF Healthcare",
+      "location": "3089 16th Street, San Francisco, CA, US",
+      "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 20,
+      "city": "sf",
+      "topic": "health"
+    },
+    {
+      "title": "New York City Healthcare, Pharma & Business Networking Event",
+      "start": "2026-08-14T00:00:00+00:00",
+      "date_key": "2026-08-14",
+      "end": "",
+      "url": "https://www.eventbrite.ca/e/new-york-city-healthcare-pharma-business-networking-event-tickets-1993546406968",
+      "source": "Eventbrite NYC Healthcare",
+      "location": "7 East 36th Street, New York, NY, US",
+      "description": "SUM OF FIVE | Meet Professionals In Healthcare, Pharma & Business",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "nyc",
+      "topic": "health"
+    },
+    {
       "title": "WiCyS Austin Affiliate | Monthly Social",
       "start": "2026-08-15T15:00:00+00:00",
       "date_key": "2026-08-15",
@@ -5435,6 +5381,29 @@
       ],
       "priority_score": 1,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "WiCyS Silicon Valley Affiliate | Cloud Security Exchange Summit 2026",
+      "start": "2026-08-17T00:00:00+00:00",
+      "date_key": "2026-08-17",
+      "end": "2026-08-23T23:59:59+00:00",
+      "url": "https://www.wicys.org/event/wicys-silicon-valley-affiliate-cloud-security-exchange-summit-2026/",
+      "source": "WiCyS Events",
+      "location": "50 Third St, San Francisco, CA, United States",
+      "description": "<p>Join the WiCyS Silicon Valley Affiliate at the SANS Cloud Security Exchange Summit, August 17-18, at the Hyatt Regency San Francisco Downtown SOMA, which delivers a unique combination of strategic insights, technical education, and hands-on experiences focused on securing rapidly evolving cloud and AI-driven environments. Attendees will hear directly from leaders at AWS, Google Cloud, [\u2026]</p>\\n",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "community",
+        "women in security"
+      ],
+      "tags": [
+        "cloud security",
+        "security"
+      ],
+      "priority_score": 13,
+      "city": "sf",
       "topic": "broad"
     },
     {
@@ -5611,30 +5580,6 @@
       "topic": "broad"
     },
     {
-      "title": "2026 NCS MS&T Connect",
-      "start": "2026-08-19T00:00:00+00:00",
-      "date_key": "2026-08-19",
-      "end": "",
-      "url": "https://www.eventbrite.com/e/2026-ncs-mst-connect-tickets-1991778409841",
-      "source": "Eventbrite Orlando Cybersecurity",
-      "location": "3260 University Boulevard, Winter Park, FL, US",
-      "description": "Join us at the NCS MS&T Connect Event (formerly B2B event) for networking and collaboration on Wednesday, August 19th from 5:00 to 7:30 PM!",
-      "region": "US",
-      "focus": [
-        "broad security",
-        "local meetup",
-        "orlando"
-      ],
-      "tags": [
-        "cyber",
-        "cybersecurity",
-        "security"
-      ],
-      "priority_score": 3,
-      "city": "orlando",
-      "topic": "broad"
-    },
-    {
       "title": "NashSec",
       "start": "2026-08-19T18:30:00+00:00",
       "date_key": "2026-08-19",
@@ -5722,6 +5667,31 @@
         "security"
       ],
       "priority_score": 1,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
+      "title": "BurbSec West - Sponsors Wanted!",
+      "start": "2026-08-20T18:00:00+00:00",
+      "date_key": "2026-08-20",
+      "end": "2026-08-20T21:00:00+00:00",
+      "url": "https://www.meetup.com/burbsec/events/313839395/",
+      "source": "BurbSec Chicago",
+      "location": "",
+      "description": "BurbSec Chicago: The Midwest's Favorite Cybersecurity Events \ud83d\ude80\ud83d\udd10 **Unlock the Excitement at Burbsec West!** \ud83c\udf7b\ud83c\udf89 Are you ready for a night of geeking out, making new friends, and expanding your network in the world of infosec? Look no further\u2014Burbsec West is the place to be, and everyone is welcome! We have **NO DUES, NO PRESENTATIONS, and NO PUSHY SALESPEOPLE OR RECRUITERS!** \ud83d\udc65 **A Community Just Like You:** We're just like you, and you'll fit right in! Whether you're passionate about infosec, love indulging in memes, enjoy a good beer, or appreciate compliance jokes (among other things), we've got you covered. Our diverse skill set ranges from novice to expert, and yes, we even dabble in paper hat making! \ud83c\udfa9\u2728 \ud83e\udd1d **Connections That Matter:** At Burbsec West, you'll find more than just like-minded people. You'll make valuable contacts, form genuine friendships, and expand your network of professional connections. These are the kinds of connections that come in handy when you're tackling that thorny problem at work, at home, or in the job market. \ud83d\udca1 **Knowledge Exchange:** Whether you're seeking answers to tough questions or ready to share your expertise, there's always someone at Burbsec West who's got your back. We thrive in a collaborative atmosphere where knowledge flows freely, and camaraderie is key. \ud83d\udd55 **Flexible Timing:** Don't worry about being fashionably late! People will start rolling in after work around 6 pm, and we keep the vibe going until around 8. Later if the weather is nice and we're on the patio! \ud83c\udf10 **Stay Connected:** Don't miss out on the latest updates and community banter! Join the BurbSec Discord and follow us on Twitter for all the behind-the-scenes action and event sneak peeks. * BurbSec Discord: [https://discord.gg/invite/VVYDZYmd2w](https://discord.gg/invite/VVYDZYmd2w) (Bridged with Slack!) * Web: [burbsec.com](http://burbsec.com/) * Twitter: [@burbsecwest](https://x.com/burbsecwest) * Mastodon: @BurbSecWest@infosec.exchange Get ready for a night of laughs, geekiness, and unforgettable moments! See you there!",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "compliance",
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 5,
       "city": "chicago",
       "topic": "broad"
     },
@@ -5972,6 +5942,32 @@
       "priority_score": 9,
       "city": "nashville",
       "topic": "health"
+    },
+    {
+      "title": "Opsin at Ravinia | Dinner & Picnic with Miranda Lambert",
+      "start": "2026-08-30T23:00:00+00:00",
+      "date_key": "2026-08-30",
+      "end": "2026-08-31T02:00:00+00:00",
+      "url": "https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/public/basic.ics",
+      "source": "Chicago InfoSec Events Calendar",
+      "location": "https://luma.com/vry63fll",
+      "description": "<b>Address:</b><br>Ravinia Festival<br>Highland Park, IL<br>United States<br><br><b>What Is It?</b><br>Trade the SOC for the lawn. Join Opsin for cocktails and a picnic dinner under the stars at Ravinia, then settle in for Miranda Lambert live. A relaxed night with fellow Chicagoland CISOs to close out the summer right. <br><br>We invite attendees to also <b>bring a</b> <b>plus one</b> so bring a significant other, your son/daughter, a friend, or a colleague!<br><br><b>Ideal For</b> <br><br>Cybersecurity Executives/Leaders looking to have a great time, network with peers, and who are trying to navigate AI governance by exchanging notes, ideas, and best practices.<br><br>Space is limited and all registrations require approval. <br><br>Register on Luma page above!<br><br>Please contact Patrick Lee at <a href=\"mailto:patrick@opsinsecurity.com\" target=\"_blank\">patrick@opsinsecurity.com</a> if you have any questions",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local chapter",
+        "community calendar"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "chicago",
+      "topic": "broad"
     },
     {
       "title": "Boston CISO Community Inner Circle",
@@ -6409,6 +6405,30 @@
       "topic": "broad"
     },
     {
+      "title": "Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | Sept 10, 2026 (Rescheduled)",
+      "start": "2026-09-10T14:00:00+00:00",
+      "date_key": "2026-09-10",
+      "end": "",
+      "url": "https://engage.isaca.org/chicagochapter/events/calendar",
+      "source": "ISACA Chicago",
+      "location": "",
+      "description": "ISACA",
+      "region": "US",
+      "focus": [
+        "governance",
+        "risk",
+        "security",
+        "local chapter"
+      ],
+      "tags": [
+        "risk",
+        "security"
+      ],
+      "priority_score": 5,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
       "title": "FBI Range Day",
       "start": "2026-09-11T13:00:00+00:00",
       "date_key": "2026-09-11",
@@ -6724,6 +6744,27 @@
       "priority_score": 5,
       "city": "other-us",
       "topic": "broad"
+    },
+    {
+      "title": "Meet author Nikki M. Finlay, PhD",
+      "start": "2026-09-19T00:00:00+00:00",
+      "date_key": "2026-09-19",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/meet-author-nikki-m-finlay-phd-tickets-1993496224872",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "1034 North Highland Avenue Northeast, Atlanta, GA, US",
+      "description": "Stop in for book signing with author Nikki M. Finlay and hear about \"The Economy Always Gets Better\"",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
     },
     {
       "title": "Annual Mindfluence Leadership Event - Septemeber 20-22, 2026",
@@ -8040,6 +8081,29 @@
       "topic": "fintech"
     },
     {
+      "title": "FRC Golf Tournament",
+      "start": "2026-10-27T00:00:00+00:00",
+      "date_key": "2026-10-27",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/frc-golf-tournament-tickets-1983611882538",
+      "source": "Eventbrite Orlando Healthcare",
+      "location": "9939 Universal Boulevard, Orlando, FL, US",
+      "description": "Join the Florida Remediation Conference at their 16th Annual Golf Tournament!",
+      "region": "US",
+      "focus": [
+        "healthcare",
+        "local meetup",
+        "orlando"
+      ],
+      "tags": [
+        "health",
+        "healthcare"
+      ],
+      "priority_score": 9,
+      "city": "orlando",
+      "topic": "health"
+    },
+    {
       "title": "CyberRisk Leadership Exchange: Chicago",
       "start": "2026-10-28T00:00:00+00:00",
       "date_key": "2026-10-28",
@@ -8191,6 +8255,33 @@
       ],
       "priority_score": 7,
       "city": "nyc",
+      "topic": "broad"
+    },
+    {
+      "title": "Cybersecurity Summit: Los Angeles",
+      "start": "2026-11-02T00:00:00+00:00",
+      "date_key": "2026-11-02",
+      "end": "",
+      "url": "https://www.cyberriskalliance.com/upcoming-events",
+      "source": "CyberRisk Alliance Events",
+      "location": "Los Angeles, CA",
+      "description": "CyberRisk Alliance Cybersecurity Summit",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "broad security",
+        "executive",
+        "regional summit"
+      ],
+      "tags": [
+        "ciso",
+        "cyber",
+        "cybersecurity",
+        "risk",
+        "security"
+      ],
+      "priority_score": 11,
+      "city": "other-us",
       "topic": "broad"
     },
     {
@@ -8356,6 +8447,29 @@
       ],
       "priority_score": 6,
       "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "Global Security Tour 2026 - Atlanta | Microsoft Keynote + WIT Panel",
+      "start": "2026-11-06T00:00:00+00:00",
+      "date_key": "2026-11-06",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/global-security-tour-2026-atlanta-microsoft-keynote-wit-panel-tickets-1993461088779",
+      "source": "Eventbrite Atlanta Cybersecurity",
+      "location": "3348 Peachtree Road Northeast, Atlanta, GA, US",
+      "description": "Hosted by Seattle Data, AI & Security",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local meetup"
+      ],
+      "tags": [
+        "cyber",
+        "cybersecurity",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "atlanta",
       "topic": "broad"
     },
     {
@@ -8546,6 +8660,51 @@
       "priority_score": 5,
       "city": "chicago",
       "topic": "broad"
+    },
+    {
+      "title": "Global CISO Community Town Hall",
+      "start": "2026-11-20T00:00:00+00:00",
+      "date_key": "2026-11-20",
+      "end": "",
+      "url": "https://www.evanta.com/calendar",
+      "source": "Evanta CISO Calendar",
+      "location": "US, US",
+      "description": "Evanta Gartner CISO community event",
+      "region": "US",
+      "focus": [
+        "ciso",
+        "executive",
+        "regional summit",
+        "security leadership"
+      ],
+      "tags": [
+        "ciso",
+        "security"
+      ],
+      "priority_score": 8,
+      "city": "other-us",
+      "topic": "broad"
+    },
+    {
+      "title": "AI Learning Serie Part 3 Create with AI: Images, Flyers & Everyday Content",
+      "start": "2026-11-24T00:00:00+00:00",
+      "date_key": "2026-11-24",
+      "end": "",
+      "url": "https://www.eventbrite.com/e/ai-learning-serie-part-3-create-with-ai-images-flyers-everyday-content-tickets-1991205909477",
+      "source": "Eventbrite Atlanta Fintech",
+      "location": "4290 Paces Ferry Road Southeast, Atlanta, GA, US",
+      "description": "Bring your ideas to life with the power of AI creativity tools.",
+      "region": "US",
+      "focus": [
+        "fintech",
+        "local meetup"
+      ],
+      "tags": [
+        "fintech"
+      ],
+      "priority_score": 8,
+      "city": "atlanta",
+      "topic": "fintech"
     },
     {
       "title": "Health-ISAC 2026 Fall Americas Summit",
@@ -8771,6 +8930,30 @@
       "topic": "broad"
     },
     {
+      "title": "Chicago Cyber Community Holiday Party",
+      "start": "2026-12-09T23:00:00+00:00",
+      "date_key": "2026-12-09",
+      "end": "2026-12-10T03:00:00+00:00",
+      "url": "https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/public/basic.ics",
+      "source": "Chicago InfoSec Events Calendar",
+      "location": "",
+      "description": "",
+      "region": "US",
+      "focus": [
+        "broad security",
+        "local chapter",
+        "community calendar"
+      ],
+      "tags": [
+        "cyber",
+        "infosec",
+        "security"
+      ],
+      "priority_score": 3,
+      "city": "chicago",
+      "topic": "broad"
+    },
+    {
       "title": "FutureCon Atlanta 2026",
       "start": "2026-12-10T00:00:00+00:00",
       "date_key": "2026-12-10",
@@ -8952,6 +9135,11 @@
     }
   ],
   "source_errors": [
+    {
+      "source": "HIMSS Events",
+      "url": "https://www.himss.org/events",
+      "error": "HTTP Error 403: Forbidden"
+    },
     {
       "source": "ISC2 Middle Tennessee",
       "url": "https://www.isc2midtn.org/events/events",
