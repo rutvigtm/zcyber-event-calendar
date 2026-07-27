@@ -7,7 +7,7 @@ X-WR-CALNAME:Z Cyber Security Event Radar
 X-WR-CALDESC:Cybersecurity, healthcare security, fintech security, and Bay Area security events.
 BEGIN:VEVENT
 UID:6ca232315425ccc0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260721T220000Z
 DTEND:20260722T010000Z
 SUMMARY:Chicago CISO of the Year - Third Mixer
@@ -17,7 +17,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:4c2243ab6f9529c8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260722T220000Z
 DTEND:20260723T020000Z
 SUMMARY:Infragard Chicago Summer Social
@@ -27,7 +27,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:c930ac473c9c7380@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260723T170000Z
 DTEND:20260723T220000Z
 SUMMARY:Chicago InfoSec Managers Workshop - Western Burbs (Lisle)
@@ -37,7 +37,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:f01e1653a5ef7104@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260723T220000Z
 DTEND:20260724T000000Z
 SUMMARY:ISC2 Networking Event @ Theory
@@ -46,18 +46,8 @@ LOCATION:Theory\, 9 W Hubbard St\, Chicago\, IL 60654\, USA
 URL:https://isc2chicago.org/event/isc2-chicago-networking-event-july-23rd-theory/">https://isc2chicago.org/event/isc2-chicago-networking-event-july-23rd-theory/</a><br><br><br>Come
 END:VEVENT
 BEGIN:VEVENT
-UID:0ebfd8b3c47779c4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
-DTSTART:20260723T220000Z
-DTEND:20260724T000000Z
-SUMMARY:ISC2 Chicago Networking Event – July 23rd @ Theory
-DESCRIPTION:Come network with your fellow chapter members and industry professionals for happy hour and lively discussion on Thursday\, July 23rd at our usual place at Theory Chicago. Come have a beer with us and see how you can get involved! Where? Theory 9 W Hubbard St Chicago\, IL 60654 When? Thursday\, July 23rd\, 2026 5:00 […] | Source: ISC2 Chicago | Tags: security | https://isc2chicago.org/event/isc2-chicago-networking-event-july-23rd-theory/
-LOCATION:9 W. Hubbard St\, Chicago\, IL\, United States
-URL:https://isc2chicago.org/event/isc2-chicago-networking-event-july-23rd-theory/
-END:VEVENT
-BEGIN:VEVENT
 UID:353bbc417807d055@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260724T170000Z
 DTEND:20260724T220000Z
 SUMMARY:Chicago InfoSec Manager Workshop - Downtown Chicago (UIC)
@@ -67,7 +57,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:b11560a9f67fe8d9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260726T000000Z
 DTEND:20260726T020000Z
 SUMMARY:WeAreDevelopers Community Hike
@@ -77,7 +67,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:52f6462d81e54105@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:MedTech\, HealthTech Startups\, Investors\, Innovators Networking Event SF
@@ -87,7 +77,7 @@ URL:https://www.eventbrite.com/e/medtech-healthtech-startups-investors-innovator
 END:VEVENT
 BEGIN:VEVENT
 UID:dadb33d0cd43a715@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:SF HealthTech\, MedTech Startups\, Investors\, Innovators Networking Event
@@ -97,7 +87,7 @@ URL:https://www.eventbrite.com/e/sf-healthtech-medtech-startups-investors-innova
 END:VEVENT
 BEGIN:VEVENT
 UID:3c82cd6aef23297c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:Chicago HealthTech\, MedTech Startups\, Investors\, Innovators Networking Event
@@ -107,7 +97,7 @@ URL:https://www.eventbrite.com/e/chicago-healthtech-medtech-startups-investors-i
 END:VEVENT
 BEGIN:VEVENT
 UID:7788cf2908d29dd9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:MedTech\, HealthTech Startups\, Investors\, Innovators Networking Event Chicago
@@ -117,7 +107,7 @@ URL:https://www.eventbrite.com/e/medtech-healthtech-startups-investors-innovator
 END:VEVENT
 BEGIN:VEVENT
 UID:ee8073e2401c259c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:MedTech\, HealthTech Startups\, Investors\, Innovators Networking Event NYC
@@ -127,7 +117,7 @@ URL:https://www.eventbrite.com/e/medtech-healthtech-startups-investors-innovator
 END:VEVENT
 BEGIN:VEVENT
 UID:5a8994580bd4c958@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:NYC HealthTech & MedTech Startups\, Investors\, Innovators Networking Event
@@ -137,7 +127,7 @@ URL:https://www.eventbrite.com/e/nyc-healthtech-medtech-startups-investors-innov
 END:VEVENT
 BEGIN:VEVENT
 UID:ae6a757e4820a738@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:NYC HealthTech\, MedTech Startups\, Investors\, Innovators Networking Event
@@ -147,7 +137,7 @@ URL:https://www.eventbrite.com/e/nyc-healthtech-medtech-startups-investors-innov
 END:VEVENT
 BEGIN:VEVENT
 UID:3851887730279ed9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:ATL Money Monday Mixer
@@ -157,7 +147,7 @@ URL:https://www.eventbrite.com/e/atl-money-monday-mixer-tickets-1983589598887
 END:VEVENT
 BEGIN:VEVENT
 UID:165143b268656bbc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260728T000000Z
 SUMMARY:Networking Mixer | Private Equity | Venture Capital | Law | Fintech
@@ -167,7 +157,7 @@ URL:https://www.eventbrite.com/e/networking-mixer-private-equity-venture-capital
 END:VEVENT
 BEGIN:VEVENT
 UID:6e1012e63950cbd7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T000000Z
 DTEND:20260727T020000Z
 SUMMARY:Quantum Cyber N.V.-Orlando Lunch 7/27/2026
@@ -177,7 +167,7 @@ URL:https://www.eventbrite.com/e/quantum-cyber-nv-orlando-lunch-7272026-tickets-
 END:VEVENT
 BEGIN:VEVENT
 UID:779b3a384462ff17@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T180000Z
 DTEND:20260727T210000Z
 SUMMARY:Woodworking Workshop
@@ -187,7 +177,7 @@ URL:https://www.meetup.com/noisebridge/events/315593076/
 END:VEVENT
 BEGIN:VEVENT
 UID:9cf797bae7a4adbd@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T190000Z
 DTEND:20260727T203000Z
 SUMMARY:All things software infrastructure
@@ -197,7 +187,7 @@ URL:https://www.meetup.com/noisebridge/events/314029991/
 END:VEVENT
 BEGIN:VEVENT
 UID:44600c51bf6b8efe@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T190000Z
 DTEND:20260727T210000Z
 SUMMARY:Circuit Hacking Monday – Open Electronics Workshop
@@ -207,7 +197,7 @@ URL:https://www.meetup.com/noisebridge/events/314957099/
 END:VEVENT
 BEGIN:VEVENT
 UID:b00a0a9721edc905@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T190000Z
 DTEND:20260727T200000Z
 SUMMARY:The Science of Silence: Beyond the Detection Trap
@@ -217,7 +207,7 @@ URL:https://www.meetup.com/owasp-new-york-city-chapter/events/315432041/
 END:VEVENT
 BEGIN:VEVENT
 UID:da53415b4a65ad88@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T220000Z
 DTEND:20260728T000000Z
 SUMMARY:NYC B2B: AI Founders & Investors Meetup
@@ -227,7 +217,7 @@ URL:https://luma.com/r4uqdp1t
 END:VEVENT
 BEGIN:VEVENT
 UID:f348b77486ae3a61@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260727T223000Z
 DTEND:20260728T013000Z
 SUMMARY:July Tech Rooftop Mixer (Hosted by Andrew Yeung)
@@ -237,7 +227,7 @@ URL:https://luma.com/julytechmixer
 END:VEVENT
 BEGIN:VEVENT
 UID:8221a0aece0e1ad0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:Tech Connect: Networking for Tech Startups\, Investors\, Professionals SF
@@ -247,7 +237,7 @@ URL:https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-inves
 END:VEVENT
 BEGIN:VEVENT
 UID:9592e4b852bd3bef@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260729T000000Z
 SUMMARY:FS-ISAC Steel Resolve Exercise
@@ -257,7 +247,7 @@ URL:https://www.fsisac.com/events/steel-resolve-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:a6c07fc342dd469c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:Master the Art of Buying\, Selling & Scaling Startups Successfully!
@@ -267,7 +257,7 @@ URL:https://www.eventbrite.com/e/master-the-art-of-buying-selling-scaling-startu
 END:VEVENT
 BEGIN:VEVENT
 UID:f124ca19b5815656@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:CyberRisk CISO Dinner: Philadelphia
@@ -277,7 +267,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:b1cfd8f60b8c257a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:SaaS Audit Red Flags: Lessons for Non-Technical Founders (Zoom)
@@ -287,7 +277,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7c46bd80b35df22@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:Free Chair Yoga for seniors with Silver Sneakers at MetroHealth
@@ -296,18 +286,8 @@ LOCATION:10025 East Colonial Drive\, Orlando\, FL\, US
 URL:https://www.eventbrite.com/e/free-chair-yoga-for-seniors-with-silver-sneakers-at-metrohealth-tickets-1979336767554
 END:VEVENT
 BEGIN:VEVENT
-UID:9423288cc832cfb8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
-DTSTART:20260728T000000Z
-DTEND:20260728T020000Z
-SUMMARY:Medicare 101
-DESCRIPTION:This session will help demystify the basics of Medicare. You will also learn about enrollment timelines\, and how to utilize your benefits. | Source: Eventbrite Detroit Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/medicare-101-tickets-1982594641944
-LOCATION:1766 Oakman Blvd\, Detroit\, MI\, US
-URL:https://www.eventbrite.com/e/medicare-101-tickets-1982594641944
-END:VEVENT
-BEGIN:VEVENT
 UID:5a5360e1f0e5cc30@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:Chicago Tech Startups\, Investors\, Experts Networking & Pitch Event
@@ -317,7 +297,7 @@ URL:https://www.eventbrite.com/e/chicago-tech-startups-investors-experts-network
 END:VEVENT
 BEGIN:VEVENT
 UID:a6b2bee64c6165c3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:Tech Connect: Networking for Tech Startups\, Investors\, Professionals Chicago
@@ -327,7 +307,7 @@ URL:https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-inves
 END:VEVENT
 BEGIN:VEVENT
 UID:174838669b47e78a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T000000Z
 DTEND:20260728T020000Z
 SUMMARY:Tech Connect: Networking for Tech Startups\, Investors\, Professionals NYC
@@ -337,7 +317,7 @@ URL:https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-inves
 END:VEVENT
 BEGIN:VEVENT
 UID:d3fbe9e68b68b1cf@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T110000Z
 DTEND:20260728T120000Z
 SUMMARY:Fintech Run Club ft. Rain and Monk + Coffee on JP Morgan
@@ -347,7 +327,7 @@ URL:https://luma.com/003139e8
 END:VEVENT
 BEGIN:VEVENT
 UID:c00fb20f475604dc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T130000Z
 DTEND:20260728T140000Z
 SUMMARY:Webinar | Breaking into Cybersecurity without a degree: A Non-Traditional Path in Cybersecurity
@@ -357,7 +337,7 @@ URL:https://www.wicys.org/event/webinar-breaking-into-cybersecurity-without-a-de
 END:VEVENT
 BEGIN:VEVENT
 UID:c5957a30174dec0b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T203000Z
 DTEND:20260728T213000Z
 SUMMARY:Brooklyn Bridge TechWalk | NYC\, 7/28 w/ Vonage AI Builder Nights
@@ -367,7 +347,7 @@ URL:https://luma.com/pwofwe4n
 END:VEVENT
 BEGIN:VEVENT
 UID:ca6cfc70215214cb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260728T213000Z
 DTEND:20260729T000000Z
 SUMMARY:WorkOS Applied AI Showcase (NYC)
@@ -377,7 +357,7 @@ URL:https://luma.com/applied-ai-nyc
 END:VEVENT
 BEGIN:VEVENT
 UID:c109cace6de1e764@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Tech Startup Networking San Francisco Series A Venture Capital Event
@@ -387,7 +367,7 @@ URL:https://www.eventbrite.co.uk/e/tech-startup-networking-san-francisco-series-
 END:VEVENT
 BEGIN:VEVENT
 UID:14e39add5c3b7ea1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:CSA San Francisco Chapter July 29th 2026
@@ -397,7 +377,7 @@ URL:https://www.eventbrite.com/e/csa-san-francisco-chapter-july-29th-2026-ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:702c8c469bc9fdb9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Virtual Summit: State of Vulnerability Management
@@ -407,7 +387,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:98fa6ff4e185c1dc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Atlanta Healthcare\, Pharma & Business Networking Event
@@ -417,7 +397,7 @@ URL:https://www.eventbrite.ca/e/atlanta-healthcare-pharma-business-networking-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:88fe91b78b9fb5c0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Detroit Healthcare\, Pharma & Business Networking Event
@@ -427,7 +407,7 @@ URL:https://www.eventbrite.ca/e/detroit-healthcare-pharma-business-networking-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:406c860a9ef5706d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential - Chicago
@@ -437,7 +417,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:0bf29181d78d2718@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Nashville Healthcare\, Pharma & Business Networking Event
@@ -447,7 +427,7 @@ URL:https://www.eventbrite.ca/e/nashville-healthcare-pharma-business-networking-
 END:VEVENT
 BEGIN:VEVENT
 UID:532106c57bc29910@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T030000Z
 SUMMARY:Physical AI and Robotics Meetup
@@ -457,7 +437,7 @@ URL:https://luma.com/isyfjno2
 END:VEVENT
 BEGIN:VEVENT
 UID:802642f63807d4dc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Business of Fashion: Introduction to Building a Fashion Brand
@@ -467,7 +447,7 @@ URL:https://www.eventbrite.com/e/business-of-fashion-introduction-to-building-a-
 END:VEVENT
 BEGIN:VEVENT
 UID:87c867f1f79cc5a9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:Seattle CISO Community Town Hall
@@ -477,7 +457,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c85c0e2ae9226c55@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T000000Z
 DTEND:20260729T020000Z
 SUMMARY:AI Nerd Meet Up
@@ -487,7 +467,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:7226acd2417e45a5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T003000Z
 DTEND:20260729T030000Z
 SUMMARY:Durable Multimodal AI Meetup with HeyGen\, Vapi\, and Modal
@@ -497,7 +477,7 @@ URL:https://luma.com/durable-ai-july
 END:VEVENT
 BEGIN:VEVENT
 UID:f6e9d6e36a7d3f75@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T003000Z
 DTEND:20260729T033000Z
 SUMMARY:Circle × Pantera: The Agentic Economy
@@ -507,7 +487,7 @@ URL:https://luma.com/sgs5pubk
 END:VEVENT
 BEGIN:VEVENT
 UID:a620a86d552385a7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T010000Z
 DTEND:20260729T040000Z
 SUMMARY:AI Nerd Meet Up
@@ -517,7 +497,7 @@ URL:https://luma.com/kdgxf1fs
 END:VEVENT
 BEGIN:VEVENT
 UID:f62be948d080baa8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T010000Z
 DTEND:20260729T030000Z
 SUMMARY:Physical AI over Coffee - Palo Alto
@@ -527,7 +507,7 @@ URL:https://luma.com/uxf409wl
 END:VEVENT
 BEGIN:VEVENT
 UID:7cd6641fab732aed@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T120000Z
 DTEND:20260729T133000Z
 SUMMARY:(CS)²AI Online™: Security Lifecycles of Connected Power Infrastructure
@@ -537,7 +517,7 @@ URL:https://www.meetup.com/nashville-cyber-security-for-control-systems/events/3
 END:VEVENT
 BEGIN:VEVENT
 UID:d1d22073484f2a6b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T170000Z
 DTEND:20260729T200000Z
 SUMMARY:Israeli Cybersecurity Summit
@@ -547,7 +527,7 @@ URL:https://members.tagonline.org/calendar/Details/israeli-cybersecurity-summit-
 END:VEVENT
 BEGIN:VEVENT
 UID:04fd054c0794a0b5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T183000Z
 DTEND:20260729T213000Z
 SUMMARY:Happy Birthday OWASP! 25 Year Anniversary Party
@@ -557,7 +537,7 @@ URL:https://www.meetup.com/owasp-atlanta/events/315447074/
 END:VEVENT
 BEGIN:VEVENT
 UID:f7acad7d174f2e75@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T190000Z
 DTEND:20260729T210000Z
 SUMMARY:Gamebridge Game Development Meetup
@@ -567,7 +547,7 @@ URL:https://www.meetup.com/noisebridge/events/315623974/
 END:VEVENT
 BEGIN:VEVENT
 UID:ddaf5ad5135dc972@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T220000Z
 DTEND:20260730T000000Z
 SUMMARY:AI Sec Essentials: What Every Developer\, Manager\, and Executive Needs to Know
@@ -577,7 +557,7 @@ URL:https://luma.com/aiseceng-y42q
 END:VEVENT
 BEGIN:VEVENT
 UID:fafd0030f149388b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260729T220000Z
 DTEND:20260730T010000Z
 SUMMARY:Build With AI. Own the Decisions. Live demos and real talk on AI enablement — with Twilio\, Datadog\, and SWARM
@@ -587,7 +567,7 @@ URL:https://luma.com/5m4gyn8t
 END:VEVENT
 BEGIN:VEVENT
 UID:b9b823f171ab80df@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:Hack Night - Can Your Agent-Written Code Survive Production?
@@ -597,7 +577,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:7c52b4efc136b7cb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:Hack the Video Agent Context Graph (OpenAI + Neo4j + AWS + TwelveLabs)
@@ -607,7 +587,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:78dca36b4b0edf18@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:Bridging Healthcare Communities: Nashville - Q3 Mixer
@@ -617,7 +597,7 @@ URL:https://www.eventbrite.com/e/bridging-healthcare-communities-nashville-q3-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:7d5eac4cc007f9db@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:1 Year Anniversary
@@ -627,7 +607,7 @@ URL:https://www.eventbrite.com/e/1-year-anniversary-tickets-1992669065817
 END:VEVENT
 BEGIN:VEVENT
 UID:51e9ab0cc4ff5fa0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:Healthcare Professionals Networking Dinner
@@ -637,7 +617,7 @@ URL:https://www.eventbrite.com/e/healthcare-professionals-networking-dinner-tick
 END:VEVENT
 BEGIN:VEVENT
 UID:3902e33c118ea4f0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:NYC | The Session: Healthcare Mixer
@@ -647,7 +627,7 @@ URL:https://www.eventbrite.com/e/nyc-the-session-healthcare-mixer-tickets-199198
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1b260d79f3026f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:Chicago Tech Mixer 2026
@@ -657,7 +637,7 @@ URL:https://www.eventbrite.com/e/chicago-tech-mixer-2026-tickets-1992596307194
 END:VEVENT
 BEGIN:VEVENT
 UID:d017aab80b0d5134@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:Master AI Entrepreneurship - From A to Z Masterclass
@@ -667,7 +647,7 @@ URL:https://www.eventbrite.com/e/master-ai-entrepreneurship-from-a-to-z-mastercl
 END:VEVENT
 BEGIN:VEVENT
 UID:baf57befa03aed1a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:New York AI\, Tech & Finance Networking Event
@@ -677,7 +657,7 @@ URL:https://www.eventbrite.ca/e/new-york-ai-tech-finance-networking-event-ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:3719cb7e0857ea0b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T000000Z
 DTEND:20260730T020000Z
 SUMMARY:Women in Tech Chicago 2026
@@ -687,7 +667,7 @@ URL:https://www.eventbrite.com/e/women-in-tech-chicago-2026-tickets-199259631923
 END:VEVENT
 BEGIN:VEVENT
 UID:e0314f2227c15998@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T013000Z
 DTEND:20260730T043000Z
 SUMMARY:Agentic Happy Hour with GitKraken
@@ -697,7 +677,7 @@ URL:https://luma.com/m7lqzial
 END:VEVENT
 BEGIN:VEVENT
 UID:a062570087b4dc1e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T173000Z
 DTEND:20260730T200000Z
 SUMMARY:WiCyS Austin Affiliate | Resume Workshop
@@ -707,7 +687,7 @@ URL:https://www.wicys.org/event/wicys-austin-affiliate-resume-workshop/
 END:VEVENT
 BEGIN:VEVENT
 UID:f34353364b00f300@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T180000Z
 DTEND:20260730T235500Z
 SUMMARY:BurbSec East - Sponsored by Cyberhaven!
@@ -717,7 +697,7 @@ URL:https://www.meetup.com/burbsec/events/315421403/
 END:VEVENT
 BEGIN:VEVENT
 UID:319739a69a75813b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T180000Z
 DTEND:20260730T230000Z
 SUMMARY:BurbSec East
@@ -727,7 +707,7 @@ URL:https://www.meetup.com/burbsec/events/">https://www.meetup.com/burbsec/event
 END:VEVENT
 BEGIN:VEVENT
 UID:7453f4ef1eab80c2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T223000Z
 DTEND:20260731T003000Z
 SUMMARY:Chicago Marketers' Salon: Future of AI in Marketing
@@ -737,7 +717,7 @@ URL:https://luma.com/mm10ug2b
 END:VEVENT
 BEGIN:VEVENT
 UID:2d24f20b9f733526@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260730T230000Z
 DTEND:20260731T010000Z
 SUMMARY:San Francisco ISACA AGM and 50th Anniversary Party
@@ -747,7 +727,7 @@ URL:https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdas
 END:VEVENT
 BEGIN:VEVENT
 UID:a8cca5a028e4cee6@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
 SUMMARY:Tech Roast SF: Comedians Roast Techies
@@ -757,7 +737,7 @@ URL:https://www.eventbrite.com/e/tech-roast-sf-comedians-roast-techies-tickets-1
 END:VEVENT
 BEGIN:VEVENT
 UID:99e1d4e177920d1f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T033000Z
 SUMMARY:Qualcomm x ZETIC x Liquid AI: Edge AI Builders Meetup
@@ -767,7 +747,7 @@ URL:https://luma.com/i3evxecn
 END:VEVENT
 BEGIN:VEVENT
 UID:e3751585dfd1d333@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
 SUMMARY:FinTech & Crypto Networking dinner
@@ -777,7 +757,7 @@ URL:https://www.eventbrite.com/e/fintech-crypto-networking-dinner-tickets-198837
 END:VEVENT
 BEGIN:VEVENT
 UID:b3328498b52fba54@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
 SUMMARY:Tech\, AI & Startups Roundtable Discussion Dinner
@@ -787,7 +767,7 @@ URL:https://www.eventbrite.com/e/tech-ai-startups-roundtable-discussion-dinner-t
 END:VEVENT
 BEGIN:VEVENT
 UID:bd527321b2265909@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
 SUMMARY:BushBash CTF
@@ -797,7 +777,7 @@ URL:https://ctftime.org/event/3372/
 END:VEVENT
 BEGIN:VEVENT
 UID:e6ab15a2de53464b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
 SUMMARY:DeadSec CTF 2026 - POSTPONED
@@ -807,7 +787,7 @@ URL:https://ctftime.org/event/3303/
 END:VEVENT
 BEGIN:VEVENT
 UID:0511228df2f4bca3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
 SUMMARY:L3akCTF 2026
@@ -817,7 +797,7 @@ URL:https://ctftime.org/event/3061/
 END:VEVENT
 BEGIN:VEVENT
 UID:fc57e3af341ccfb9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T000000Z
 DTEND:20260731T020000Z
 SUMMARY:VuwCTF 2026
@@ -827,7 +807,7 @@ URL:https://ctftime.org/event/3311/
 END:VEVENT
 BEGIN:VEVENT
 UID:74abadec02e8f3c4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260731T190000Z
 DTEND:20260731T235900Z
 SUMMARY:Showcase Showdown
@@ -837,7 +817,7 @@ URL:https://www.meetup.com/noisebridge/events/315648434/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0cf35c4f294f1b1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260801T000000Z
 DTEND:20260807T000000Z
 SUMMARY:Black Hat
@@ -847,7 +827,7 @@ URL:https://www.blackhat.com/upcoming.html">https://www.blackhat.com/upcoming.ht
 END:VEVENT
 BEGIN:VEVENT
 UID:d94bb10650fc55f8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260801T000000Z
 DTEND:20260801T020000Z
 SUMMARY:Lexington Informatics Tournament CTF 2026
@@ -857,7 +837,7 @@ URL:https://ctftime.org/event/3373/
 END:VEVENT
 BEGIN:VEVENT
 UID:bbbf58201cadfacd@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260801T000000Z
 DTEND:20260801T020000Z
 SUMMARY:Universal CTF
@@ -867,7 +847,7 @@ URL:https://ctftime.org/event/3237/
 END:VEVENT
 BEGIN:VEVENT
 UID:b373b05ad9556e43@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260801T000000Z
 DTEND:20260806T235959Z
 SUMMARY:WiCyS | BlackHat USA 2026
@@ -877,7 +857,7 @@ URL:https://www.wicys.org/event/wicys-blackhat-usa-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:e3776fd03232b8bc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260801T130000Z
 DTEND:20260801T150000Z
 SUMMARY:Analog Electronics for Guitar Pedals
@@ -887,7 +867,7 @@ URL:https://www.meetup.com/noisebridge/events/315785319/
 END:VEVENT
 BEGIN:VEVENT
 UID:a801ada5fd98807b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260801T233000Z
 DTEND:20260802T023000Z
 SUMMARY:Webidoo × Chicago Tech Week · A rooftop party
@@ -897,7 +877,7 @@ URL:https://luma.com/WebidooTechWeek
 END:VEVENT
 BEGIN:VEVENT
 UID:f3b955c294a39692@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260801T233000Z
 DTEND:20260802T023000Z
 SUMMARY:Webidoo × Chicago Tech Week · A rooftop party
@@ -907,7 +887,7 @@ URL:https://luma.com/WebidooTechWeek
 END:VEVENT
 BEGIN:VEVENT
 UID:7394e058fdb24344@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260802T130000Z
 DTEND:20260823T210000Z
 SUMMARY:CISA Certification Review Course
@@ -917,7 +897,7 @@ URL:https://engage.isaca.org/newyorkmetropolitanchapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:1a6c5cec578b4428@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260802T140000Z
 DTEND:20260802T160000Z
 SUMMARY:Laser Cutter Safety Training
@@ -927,7 +907,7 @@ URL:https://www.meetup.com/noisebridge/events/315659278/
 END:VEVENT
 BEGIN:VEVENT
 UID:94a3e349a0b548fb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260803T000000Z
 DTEND:20260803T020000Z
 SUMMARY:Health\, Fitness\, Beauty & Wellness Business Networking Mixer SF
@@ -937,7 +917,7 @@ URL:https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-network
 END:VEVENT
 BEGIN:VEVENT
 UID:b7e6f94043ea470c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260803T000000Z
 DTEND:20260803T020000Z
 SUMMARY:Health\, Fitness\, Beauty & Wellness Business Networking Mixer Chicago
@@ -947,7 +927,7 @@ URL:https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-network
 END:VEVENT
 BEGIN:VEVENT
 UID:753e20daeaf78c51@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260803T000000Z
 DTEND:20260805T000000Z
 SUMMARY:AI-Native Change Agent
@@ -957,7 +937,7 @@ URL:https://www.eventbrite.com/e/ai-native-change-agent-registration-19875117792
 END:VEVENT
 BEGIN:VEVENT
 UID:951caf79d7e42fac@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260803T000000Z
 DTEND:20260804T000000Z
 SUMMARY:OPSCON 2026: Atlanta
@@ -967,7 +947,7 @@ URL:https://www.eventbrite.com/e/opscon-2026-atlanta-tickets-1989103782960
 END:VEVENT
 BEGIN:VEVENT
 UID:346319e687d15e9f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260803T180000Z
 DTEND:20260803T210000Z
 SUMMARY:Woodworking Workshop
@@ -977,7 +957,7 @@ URL:https://www.meetup.com/noisebridge/events/315688771/
 END:VEVENT
 BEGIN:VEVENT
 UID:dca77c62dfd276c5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260803T190000Z
 DTEND:20260803T203000Z
 SUMMARY:All things software infrastructure
@@ -987,7 +967,7 @@ URL:https://www.meetup.com/noisebridge/events/314029993/
 END:VEVENT
 BEGIN:VEVENT
 UID:7affebd11edcade3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260803T190000Z
 DTEND:20260803T210000Z
 SUMMARY:Circuit Hacking Monday: Build a Tiny Tesla Coil
@@ -997,7 +977,7 @@ URL:https://www.meetup.com/noisebridge/events/314957100/
 END:VEVENT
 BEGIN:VEVENT
 UID:40cec8f91a509e85@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T000000Z
 DTEND:20260804T020000Z
 SUMMARY:SF AI & Machine Learning Startups\, Investors\, Innovators Networking Mixer
@@ -1007,7 +987,7 @@ URL:https://www.eventbrite.com/e/sf-ai-machine-learning-startups-investors-innov
 END:VEVENT
 BEGIN:VEVENT
 UID:bfc4e1072a11da51@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T000000Z
 DTEND:20260804T020000Z
 SUMMARY:Chicago AI & Machine Learning Startups\, Investors\, Innovators Networking Mixer
@@ -1017,7 +997,7 @@ URL:https://www.eventbrite.com/e/chicago-ai-machine-learning-startups-investors-
 END:VEVENT
 BEGIN:VEVENT
 UID:1df17151932735fc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T000000Z
 DTEND:20260804T020000Z
 SUMMARY:Ethical Cyber Defense Testing in Nashville\, TN
@@ -1027,7 +1007,7 @@ URL:https://www.eventbrite.com/e/ethical-cyber-defense-testing-in-nashville-tn-t
 END:VEVENT
 BEGIN:VEVENT
 UID:da79bf71285a986a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T000000Z
 DTEND:20260804T020000Z
 SUMMARY:Ethical Security Testing for Business in Orlando\, FL
@@ -1037,7 +1017,7 @@ URL:https://www.eventbrite.com/e/ethical-security-testing-for-business-in-orland
 END:VEVENT
 BEGIN:VEVENT
 UID:ac257f55c9d74957@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T000000Z
 DTEND:20260806T235959Z
 SUMMARY:WiCyS | Ai4 2026
@@ -1047,7 +1027,7 @@ URL:https://www.wicys.org/event/wicys-ai4-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:d5f6e21300d12301@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T190000Z
 DTEND:20260805T130000Z
 SUMMARY:WiCyS Professional Affiliate Leaders Only Meeting
@@ -1057,7 +1037,7 @@ URL:https://www.wicys.org/event/wicys-professional-affiliate-leaders-only-meetin
 END:VEVENT
 BEGIN:VEVENT
 UID:dc343dade69b6d56@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T193000Z
 DTEND:20260804T220000Z
 SUMMARY:Blurred Lines at BlackHat USA Hosted by SentinelOne
@@ -1067,7 +1047,7 @@ URL:https://www.wicys.org/event/blurred-lines-at-blackhat-usa-hosted-by-sentinel
 END:VEVENT
 BEGIN:VEVENT
 UID:903590d3f633a444@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260804T210000Z
 DTEND:20260804T230000Z
 SUMMARY:Careers & Conversations | August 04\, 2026 | @ 4 PM CT
@@ -1077,7 +1057,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:59f268be6307ba74@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T000000Z
 DTEND:20260805T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential - Atlanta
@@ -1087,7 +1067,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:d6684d43feac348b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T000000Z
 DTEND:20260805T020000Z
 SUMMARY:Prioritize Breastfeeding in Orange County: Creating Sustainable Support Sys
@@ -1097,7 +1077,7 @@ URL:https://www.eventbrite.com/e/prioritize-breastfeeding-in-orange-county-creat
 END:VEVENT
 BEGIN:VEVENT
 UID:02a01322a710c5f7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T000000Z
 DTEND:20260805T020000Z
 SUMMARY:Kali Team - CTF 26
@@ -1107,7 +1087,7 @@ URL:https://ctftime.org/event/3328/
 END:VEVENT
 BEGIN:VEVENT
 UID:627c49fb38545314@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T080000Z
 DTEND:20260805T090000Z
 SUMMARY:WiCyS Professional Affiliate International Leaders Only Meeting
@@ -1117,7 +1097,7 @@ URL:https://www.wicys.org/event/wicys-professional-affiliate-international-leade
 END:VEVENT
 BEGIN:VEVENT
 UID:65ebce6a9c8a3445@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T120000Z
 DTEND:20260805T130000Z
 SUMMARY:WiCyS | Black Hat(HER) Meet Up
@@ -1127,7 +1107,7 @@ URL:https://www.wicys.org/event/wicys-black-hather-meet-up/
 END:VEVENT
 BEGIN:VEVENT
 UID:64e7f4eedd0aca38@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T173000Z
 DTEND:20260805T193000Z
 SUMMARY:Cyber Resilience in the AI Era presented by TAG Cybersecurity & Risk Management Society and TAG Data Science & AI Society
@@ -1137,7 +1117,7 @@ URL:https://members.tagonline.org/calendar/Details/cyber-resilience-in-the-ai-er
 END:VEVENT
 BEGIN:VEVENT
 UID:f0b6bcc70230bdda@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T190000Z
 DTEND:20260805T200000Z
 SUMMARY:Tejas: Global Cyber Leaders Power Circle
@@ -1147,7 +1127,7 @@ URL:https://luma.com/tejas-2kw0
 END:VEVENT
 BEGIN:VEVENT
 UID:769552703e8ba28e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260805T190000Z
 DTEND:20260805T203000Z
 SUMMARY:Raise a Glass with SentinelOne + Cloudflare at BarOne
@@ -1156,8 +1136,18 @@ LOCATION:3950 S Las Vegas Blvd\, Las Vegas\, NV\, United States
 URL:https://www.wicys.org/event/raise-a-glass-with-sentinelone-cloudflare-at-barone/
 END:VEVENT
 BEGIN:VEVENT
+UID:47c2850a5e5643db@zcyber-gtm.local
+DTSTAMP:20260727T160011Z
+DTSTART:20260806T000000Z
+DTEND:20260806T020000Z
+SUMMARY:AI in Healthcare - Detroit
+DESCRIPTION:Source: Eventbrite Detroit Healthcare | Tags: health\, healthcare | https://www.eventbrite.com/e/ai-in-healthcare-detroit-tickets-1994006524191
+LOCATION:TBD\, Detroit\, MI\, US
+URL:https://www.eventbrite.com/e/ai-in-healthcare-detroit-tickets-1994006524191
+END:VEVENT
+BEGIN:VEVENT
 UID:89324f5b469e0c92@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T000000Z
 DTEND:20260806T020000Z
 SUMMARY:AI in Healthcare - Nashville
@@ -1167,7 +1157,7 @@ URL:https://www.eventbrite.com/e/ai-in-healthcare-nashville-tickets-199400602369
 END:VEVENT
 BEGIN:VEVENT
 UID:8aadea1b7218b66e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T000000Z
 DTEND:20260806T020000Z
 SUMMARY:AI in Healthcare - Orlando
@@ -1177,7 +1167,7 @@ URL:https://www.eventbrite.com/e/ai-in-healthcare-orlando-tickets-1993999839196
 END:VEVENT
 BEGIN:VEVENT
 UID:968a44fcf12ed271@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T000000Z
 DTEND:20260806T020000Z
 SUMMARY:CyberSpecialists: Connect\, Collaborate\, & Elevate at CyberConnect Global Virtual Networking - Detroit
@@ -1187,7 +1177,7 @@ URL:https://www.eventbrite.com/e/cyberspecialists-connect-collaborate-elevate-at
 END:VEVENT
 BEGIN:VEVENT
 UID:525fef98991bb215@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T000000Z
 DTEND:20260806T020000Z
 SUMMARY:CyberSpecialists: CyberConnect - Elevate Your Cyber Career - Nashville
@@ -1197,7 +1187,7 @@ URL:https://www.eventbrite.com/e/cyberspecialists-cyberconnect-elevate-your-cybe
 END:VEVENT
 BEGIN:VEVENT
 UID:66ae978fcdd355ab@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T000000Z
 DTEND:20260806T020000Z
 SUMMARY:CyberSpecialists: CyberConnect - Your Global Cyber Nexus - Orlando
@@ -1207,7 +1197,7 @@ URL:https://www.eventbrite.com/e/cyberspecialists-cyberconnect-your-global-cyber
 END:VEVENT
 BEGIN:VEVENT
 UID:e0640a888bd460e5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T000000Z
 DTEND:20260806T020000Z
 SUMMARY:CyberSpecialists: CyberConnect – Elevate Your Cyber Career - Chicago
@@ -1217,7 +1207,7 @@ URL:https://www.eventbrite.com/e/cyberspecialists-cyberconnect-elevate-your-cybe
 END:VEVENT
 BEGIN:VEVENT
 UID:4b7264d14271a4ea@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T000000Z
 DTEND:20260806T020000Z
 SUMMARY:AEROSPACE VILLAGE STARPWN CTF
@@ -1227,7 +1217,7 @@ URL:https://ctftime.org/event/3342/
 END:VEVENT
 BEGIN:VEVENT
 UID:af09c4ffe753b4c2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T140000Z
 DTEND:20260806T170000Z
 SUMMARY:CigarSec - Co-Working & Cigars before Prime!
@@ -1237,7 +1227,7 @@ URL:https://www.meetup.com/burbsec/events/315516537/
 END:VEVENT
 BEGIN:VEVENT
 UID:169fc2e397969b7b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260806T180000Z
 DTEND:20260806T200000Z
 SUMMARY:Burbsec Prime - Sponsor Ops Available!
@@ -1247,7 +1237,7 @@ URL:https://www.meetup.com/burbsec/events/315418542/
 END:VEVENT
 BEGIN:VEVENT
 UID:b93c645751fdcaed@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260807T000000Z
 DTEND:20260807T020000Z
 SUMMARY:DEF CON CTF 2026
@@ -1257,7 +1247,7 @@ URL:https://ctftime.org/event/3322/
 END:VEVENT
 BEGIN:VEVENT
 UID:18853f5aa20e6d9f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260807T000000Z
 DTEND:20260807T020000Z
 SUMMARY:RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)
@@ -1267,7 +1257,7 @@ URL:https://ctftime.org/event/3305/
 END:VEVENT
 BEGIN:VEVENT
 UID:6c449652b3edcd43@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260807T140000Z
 DTEND:20260807T160000Z
 SUMMARY:Trusted Data Governance: Security\, Privacy\, and AI | SheLeadsTech Virtual Workshop | Aug 07\, 2026
@@ -1277,7 +1267,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6578d01e9079e08d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260808T000000Z
 DTEND:20260808T020000Z
 SUMMARY:Raingentic Commerce Hackathon NYC
@@ -1287,7 +1277,7 @@ URL:https://www.eventbrite.co.uk/e/raingentic-commerce-hackathon-nyc-tickets-199
 END:VEVENT
 BEGIN:VEVENT
 UID:a0938f7fd7f8e61e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260808T000000Z
 DTEND:20260808T020000Z
 SUMMARY:UIUCTF 2026
@@ -1297,7 +1287,7 @@ URL:https://ctftime.org/event/3148/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c1a1283179a3995@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260808T000000Z
 DTEND:20260808T020000Z
 SUMMARY:scriptCTF 2026
@@ -1307,7 +1297,7 @@ URL:https://ctftime.org/event/3052/
 END:VEVENT
 BEGIN:VEVENT
 UID:332100695698943c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260809T000000Z
 DTEND:20260809T020000Z
 SUMMARY:Champion for a Cause: An Evening with Younis Khan in Orlando
@@ -1317,7 +1307,7 @@ URL:https://www.eventbrite.com/e/champion-for-a-cause-an-evening-with-younis-kha
 END:VEVENT
 BEGIN:VEVENT
 UID:79de9c09b77bcaf2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260810T000000Z
 DTEND:20260810T020000Z
 SUMMARY:Healthcare Advocacy: Empowering Voices for Better Care\, New York city
@@ -1327,7 +1317,7 @@ URL:https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better
 END:VEVENT
 BEGIN:VEVENT
 UID:9933b9ce8fef7950@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260810T150000Z
 DTEND:20260810T170000Z
 SUMMARY:Building AI Teammates with Amazon Bedrock | #ATLTechWeek
@@ -1337,7 +1327,7 @@ URL:https://luma.com/fm5uc7k1
 END:VEVENT
 BEGIN:VEVENT
 UID:ddb60a24da9007c9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260810T210000Z
 DTEND:20260811T003000Z
 SUMMARY:The Tech Pour
@@ -1347,7 +1337,7 @@ URL:https://luma.com/zezbvfr6
 END:VEVENT
 BEGIN:VEVENT
 UID:495da7a84ecfda10@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260810T223000Z
 DTEND:20260811T010000Z
 SUMMARY:Meet Atlanta Tech Week & RenderATL Speakers!
@@ -1357,7 +1347,7 @@ URL:https://luma.com/16nfy3e5
 END:VEVENT
 BEGIN:VEVENT
 UID:44c54b63baaf3780@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
 SUMMARY:SF Women in Tech: Founders & Professionals Networking Night
@@ -1367,7 +1357,7 @@ URL:https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-network
 END:VEVENT
 BEGIN:VEVENT
 UID:60ae769da932a2de@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
 SUMMARY:BioTech Fermenter: Chicago's Biotechnology Meetup
@@ -1377,7 +1367,7 @@ URL:https://www.eventbrite.com/e/biotech-fermenter-chicagos-biotechnology-meetup
 END:VEVENT
 BEGIN:VEVENT
 UID:f8faf084b41fb0e8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
 SUMMARY:Chicago Women in Tech: Founders & Professionals Networking Night
@@ -1387,7 +1377,7 @@ URL:https://www.eventbrite.com/e/chicago-women-in-tech-founders-professionals-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:9e742b659b92df94@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
 SUMMARY:NYC Women in Tech\, Fintech\, AI\, Startups\, Networking Event & Elevator Pitch
@@ -1397,7 +1387,7 @@ URL:https://www.eventbrite.com/e/nyc-women-in-tech-fintech-ai-startups-networkin
 END:VEVENT
 BEGIN:VEVENT
 UID:ab9f3db992d031c4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
 SUMMARY:NYC Women in Tech: Founders & Professionals Networking Night
@@ -1407,7 +1397,7 @@ URL:https://www.eventbrite.com/e/nyc-women-in-tech-founders-professionals-networ
 END:VEVENT
 BEGIN:VEVENT
 UID:25dda8573983ecfb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260811T000000Z
 DTEND:20260811T020000Z
 SUMMARY:Post-Black Hat Decompression: East Bay Cyber Practitioner Happy Hour
@@ -1417,7 +1407,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:b0f688b9070dee7b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260811T160000Z
 DTEND:20260811T170000Z
 SUMMARY:Remediation Agents Demystified
@@ -1427,7 +1417,7 @@ URL:https://luma.com/aiseceng-89eh
 END:VEVENT
 BEGIN:VEVENT
 UID:1ffc7dcf25f342b8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260813T000000Z
 SUMMARY:Hygieia Healthcare Security Conference 2026
@@ -1437,7 +1427,7 @@ URL:https://events.issa.com/events/hygieia-conference-atlanta-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:04e6b88a76eb8140@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Chicago Healthcare\, Pharma & Business Networking Event
@@ -1447,7 +1437,7 @@ URL:https://www.eventbrite.ca/e/chicago-healthcare-pharma-business-networking-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:a8b9a2c5578fe563@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Finance and Business Networking | Elevating Your Potential - Orlando
@@ -1457,7 +1447,7 @@ URL:https://www.eventbrite.com/e/finance-and-business-networking-elevating-your-
 END:VEVENT
 BEGIN:VEVENT
 UID:715dccd013e52f61@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:General Business Networking | Elevating Your Potential - Orlando
@@ -1467,7 +1457,7 @@ URL:https://www.eventbrite.com/e/general-business-networking-elevating-your-pote
 END:VEVENT
 BEGIN:VEVENT
 UID:bdfd367e318312c9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential - Detroit
@@ -1477,7 +1467,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:be12f920d9422ca8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential - FiDi
@@ -1487,7 +1477,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:e37fb982fe60492d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential - Orlando
@@ -1497,7 +1487,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:1b07106bb5a3910b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Law and Business Networking | Elevating Your Potential - Orlando
@@ -1507,7 +1497,7 @@ URL:https://www.eventbrite.com/e/law-and-business-networking-elevating-your-pote
 END:VEVENT
 BEGIN:VEVENT
 UID:ddd4cb8da6935efa@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Multi-Vertical Business Networking | Elevating Your Potential - Orlando
@@ -1517,7 +1507,7 @@ URL:https://www.eventbrite.com/e/multi-vertical-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:c0edde11d09310b7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Music and Business Networking | Elevating Your Potential - Orlando
@@ -1527,7 +1517,7 @@ URL:https://www.eventbrite.com/e/music-and-business-networking-elevating-your-po
 END:VEVENT
 BEGIN:VEVENT
 UID:ace4771043151808@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Non-Profits and Business Networking | Elevating Your Potential- Orlando
@@ -1537,7 +1527,7 @@ URL:https://www.eventbrite.com/e/non-profits-and-business-networking-elevating-y
 END:VEVENT
 BEGIN:VEVENT
 UID:55c155463579af4f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:VC Networking & Tech Pitch I Chicago
@@ -1547,7 +1537,7 @@ URL:https://www.eventbrite.com/e/vc-networking-tech-pitch-i-chicago-tickets-1994
 END:VEVENT
 BEGIN:VEVENT
 UID:74d05ec1abf6b7e3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T000000Z
 DTEND:20260812T020000Z
 SUMMARY:Women + Tech Meetup
@@ -1556,18 +1546,8 @@ LOCATION:3423 Piedmont Road Northeast\, Atlanta\, GA\, US
 URL:https://www.eventbrite.com/e/women-tech-meetup-tickets-1979762625306
 END:VEVENT
 BEGIN:VEVENT
-UID:a0902bf743e9d52d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
-DTSTART:20260812T000000Z
-DTEND:20260812T020000Z
-SUMMARY:Zero Trust Security Forum 1 Day in Detroit\, MI
-DESCRIPTION:Design and implement Zero Trust security frameworks to reduce risks\, protect assets\, and strengthen access control with Skelora. | Source: Eventbrite Detroit Cybersecurity | Tags: cyber\, cybersecurity\, risk\, security | https://www.eventbrite.com/e/zero-trust-security-forum-1-day-in-detroit-mi-tickets-1992806102698
-LOCATION:Detroit\, MI\, Detroit\, MI\, US
-URL:https://www.eventbrite.com/e/zero-trust-security-forum-1-day-in-detroit-mi-tickets-1992806102698
-END:VEVENT
-BEGIN:VEVENT
 UID:753ccb1f9db36dd2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260812T190000Z
 DTEND:20260812T210000Z
 SUMMARY:APIs Under Siege: Securing the Connective Tissue of AI Systems
@@ -1577,7 +1557,7 @@ URL:https://engage.isaca.org/sanfranciscochapter/events/recentcommunityeventsdas
 END:VEVENT
 BEGIN:VEVENT
 UID:c6d2b37b96959497@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:CISO Stories: Attack Surface Management
@@ -1587,7 +1567,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:f2956a036ca2ee35@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:CyberRisk CISO Dinner: Nashville
@@ -1597,7 +1577,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:26025bab0d6e2621@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:The Reserve by Founder Social Club
@@ -1607,7 +1587,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:3273c88b188f4a13@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:HLNY's DEI Committee Proudly Presents our 6th Annual Better Together Event
@@ -1617,7 +1597,7 @@ URL:https://www.eventbrite.com/e/hlnys-dei-committee-proudly-presents-our-6th-an
 END:VEVENT
 BEGIN:VEVENT
 UID:5a8c894f7f1329c4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:HealthSpecialists - HealthCareConnect: Your Monthly HealthConnect for Career Growth - Orlando
@@ -1627,7 +1607,7 @@ URL:https://www.eventbrite.com/e/healthspecialists-healthcareconnect-your-monthl
 END:VEVENT
 BEGIN:VEVENT
 UID:65b4267959e74a94@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:HealthSpecialists: HealthCareConnect - Expand Your Horizons Monthly - Chicago
@@ -1637,7 +1617,7 @@ URL:https://www.eventbrite.com/e/healthspecialists-healthcareconnect-expand-your
 END:VEVENT
 BEGIN:VEVENT
 UID:7890a6d4d16ed6b1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:HealthSpecialists: HealthCareConnect - Forge Your Future in Health - Detroit
@@ -1647,7 +1627,7 @@ URL:https://www.eventbrite.com/e/healthspecialists-healthcareconnect-forge-your-
 END:VEVENT
 BEGIN:VEVENT
 UID:3aab5487993fb444@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:HealthSpecialists: Your Gateway to HealthCareConnect & HealthConnect Growth - Nashville
@@ -1657,7 +1637,7 @@ URL:https://www.eventbrite.com/e/healthspecialists-your-gateway-to-healthcarecon
 END:VEVENT
 BEGIN:VEVENT
 UID:66d8c278c84aef03@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:TN HIMSS Summer Reception
@@ -1667,7 +1647,7 @@ URL:https://www.eventbrite.com/e/tn-himss-summer-reception-tickets-1991202546418
 END:VEVENT
 BEGIN:VEVENT
 UID:06ec3b9e37484ae4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T000000Z
 DTEND:20260813T020000Z
 SUMMARY:Biopharma Hack Day at AWS
@@ -1677,7 +1657,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:54f53fe5c91564e2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T170000Z
 DTEND:20260813T200000Z
 SUMMARY:BurbSec Southeast - Sponsored by Check Point!
@@ -1687,7 +1667,7 @@ URL:https://www.meetup.com/burbsec/events/315579045/
 END:VEVENT
 BEGIN:VEVENT
 UID:64b6e30debaf8d83@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T180000Z
 DTEND:20260813T210000Z
 SUMMARY:Burbsec South - Sponsors Wanted
@@ -1697,7 +1677,7 @@ URL:https://www.meetup.com/burbsec/events/315825866/
 END:VEVENT
 BEGIN:VEVENT
 UID:9f022e794007e0ca@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T180000Z
 DTEND:20260813T210000Z
 SUMMARY:Burbsec North - Sponsors Welcome
@@ -1707,7 +1687,7 @@ URL:https://www.meetup.com/burbsec/events/315669047/
 END:VEVENT
 BEGIN:VEVENT
 UID:71f9ce50473cfa59@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T200000Z
 DTEND:20260813T220000Z
 SUMMARY:ISSA-Chicago Summer Meeting
@@ -1717,7 +1697,7 @@ URL:https://www.tickettailor.com/events/issachicago/2142721
 END:VEVENT
 BEGIN:VEVENT
 UID:cb939efecb3843c4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260813T213000Z
 DTEND:20260814T003000Z
 SUMMARY:Bonne Fire x Pilot: Health Innovation Happy Hour #ATLTechWeek
@@ -1727,7 +1707,7 @@ URL:https://luma.com/1o3y8mly
 END:VEVENT
 BEGIN:VEVENT
 UID:903cb7f0f8a5a9cb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260814T000000Z
 DTEND:20260814T020000Z
 SUMMARY:San Francisco Healthcare\, Pharma & Business Networking Event
@@ -1737,7 +1717,7 @@ URL:https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-network
 END:VEVENT
 BEGIN:VEVENT
 UID:6c9dbc8ff4ce3ed4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260814T000000Z
 DTEND:20260814T020000Z
 SUMMARY:New York City Healthcare\, Pharma & Business Networking Event
@@ -1747,7 +1727,7 @@ URL:https://www.eventbrite.ca/e/new-york-city-healthcare-pharma-business-network
 END:VEVENT
 BEGIN:VEVENT
 UID:4721e9682fcd6c53@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260814T000000Z
 DTEND:20260814T020000Z
 SUMMARY:Thryve CTF 2026
@@ -1757,7 +1737,7 @@ URL:https://ctftime.org/event/3330/
 END:VEVENT
 BEGIN:VEVENT
 UID:c1dc44bc39fc26ed@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260814T000000Z
 DTEND:20260814T020000Z
 SUMMARY:gaslightCTF 2026
@@ -1767,7 +1747,7 @@ URL:https://ctftime.org/event/3181/
 END:VEVENT
 BEGIN:VEVENT
 UID:7088250de63936aa@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260814T130000Z
 DTEND:20260814T210000Z
 SUMMARY:Tech Square | All-Day Pass #ATLTechWeek
@@ -1777,7 +1757,7 @@ URL:https://luma.com/r482zdzk
 END:VEVENT
 BEGIN:VEVENT
 UID:4411f31ccca8737f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260814T150000Z
 DTEND:20260814T180000Z
 SUMMARY:Tech Square Tech Hop
@@ -1787,7 +1767,7 @@ URL:https://luma.com/jq3eys4s
 END:VEVENT
 BEGIN:VEVENT
 UID:aa25789f8032d3af@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260815T000000Z
 DTEND:20260815T020000Z
 SUMMARY:HackHowl 2026
@@ -1797,7 +1777,7 @@ URL:https://ctftime.org/event/3318/
 END:VEVENT
 BEGIN:VEVENT
 UID:c9b0882b1b792ee0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260817T230000Z
 DTEND:20261110T000000Z
 SUMMARY:Silicon Valley ISSA CISSP G.R.I.T. Program
@@ -1807,7 +1787,7 @@ URL:https://luma.com/ixvqakva
 END:VEVENT
 BEGIN:VEVENT
 UID:5f5a3eb72fccebaf@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
 SUMMARY:BioTech\, MedTech\, Pharma Networking & Pitch Event SF
@@ -1817,7 +1797,7 @@ URL:https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-s
 END:VEVENT
 BEGIN:VEVENT
 UID:86577e7bec303469@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
 SUMMARY:SF BioTech\, Pharma\, MedTech Networking & Pitch Mixer
@@ -1827,7 +1807,7 @@ URL:https://www.eventbrite.com/e/sf-biotech-pharma-medtech-networking-pitch-mixe
 END:VEVENT
 BEGIN:VEVENT
 UID:e6a6e8ba5dec1bd5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
 SUMMARY:Cybersecurity Summit: Detroit
@@ -1837,7 +1817,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:b2ed918b5f46e820@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
 SUMMARY:BioTech\, MedTech\, Pharma Networking & Pitch Event Chicago
@@ -1847,7 +1827,7 @@ URL:https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-c
 END:VEVENT
 BEGIN:VEVENT
 UID:7d38670b8173cdc0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
 SUMMARY:BioTech\, MedTech\, Pharma Networking & Pitch Event NYC
@@ -1857,7 +1837,7 @@ URL:https://www.eventbrite.com/e/biotech-medtech-pharma-networking-pitch-event-n
 END:VEVENT
 BEGIN:VEVENT
 UID:804938c6ea9792ee@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T000000Z
 DTEND:20260818T020000Z
 SUMMARY:Chicago BioTech\, Pharma\, MedTech Networking & Pitch Mixer
@@ -1867,7 +1847,7 @@ URL:https://www.eventbrite.com/e/chicago-biotech-pharma-medtech-networking-pitch
 END:VEVENT
 BEGIN:VEVENT
 UID:a94eb6a3f4398d91@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T213000Z
 DTEND:20260818T233000Z
 SUMMARY:AI Open House with Snowflake & Omni
@@ -1877,7 +1857,7 @@ URL:https://luma.com/pnl6eo0o
 END:VEVENT
 BEGIN:VEVENT
 UID:83d55b057aa4bfd7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260818T220000Z
 DTEND:20260819T010000Z
 SUMMARY:Chicago CISO of the Year - Fourth Mixer
@@ -1887,7 +1867,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:49deaf0dcd03f3e4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:AI Security Intelligence Lab 1 Day in Oakland\, CA
@@ -1897,7 +1877,7 @@ URL:https://www.eventbrite.com/e/ai-security-intelligence-lab-1-day-in-oakland-c
 END:VEVENT
 BEGIN:VEVENT
 UID:29e3dcc052ed69a4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:The Agent Harness Workshop
@@ -1907,7 +1887,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:16bf3d6f479bb980@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:AI Security Analytics Masterclass 1 Day in Orlando\, FL
@@ -1917,7 +1897,7 @@ URL:https://www.eventbrite.com/e/ai-security-analytics-masterclass-1-day-in-orla
 END:VEVENT
 BEGIN:VEVENT
 UID:fa77d1ec475c59f0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:AI Security Operations Summit 1 Day in Nashville\, TN
@@ -1927,7 +1907,7 @@ URL:https://www.eventbrite.com/e/ai-security-operations-summit-1-day-in-nashvill
 END:VEVENT
 BEGIN:VEVENT
 UID:1725148b23a6f7fb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:Cybersecurity Summit: Portland
@@ -1937,7 +1917,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:fefd0a6c48548be5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:CyberRisk CISO Dinner: Houston
@@ -1947,7 +1927,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:ad3f6f4317ab5263@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential - Nashville
@@ -1957,7 +1937,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:92530f5f50845faa@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential -Lincoln Park
@@ -1967,7 +1947,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:53d1f3e5931a3e72@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:Atlanta Tech & Finance Networking Event
@@ -1977,7 +1957,7 @@ URL:https://www.eventbrite.ca/e/atlanta-tech-finance-networking-event-tickets-19
 END:VEVENT
 BEGIN:VEVENT
 UID:685c2268b127a146@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:Detroit CISO Community Town Hall
@@ -1987,7 +1967,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:61b7cd70bacce50b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T000000Z
 DTEND:20260819T020000Z
 SUMMARY:AI Threat Detection Summit 1 Day in Sandy Springs\, GA
@@ -1997,7 +1977,7 @@ URL:https://www.eventbrite.com/e/ai-threat-detection-summit-1-day-in-sandy-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:d76951ce13fedd14@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260819T183000Z
 DTEND:20260819T203000Z
 SUMMARY:NashSec
@@ -2007,7 +1987,7 @@ URL:https://www.meetup.com/nashsec/events/314569451/
 END:VEVENT
 BEGIN:VEVENT
 UID:b16a5da309c3f8de@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260820T000000Z
 DTEND:20260820T020000Z
 SUMMARY:Connections\, Conversations and Cocktails. Fintech Networking.
@@ -2017,7 +1997,7 @@ URL:https://www.eventbrite.com/e/connections-conversations-and-cocktails-fintech
 END:VEVENT
 BEGIN:VEVENT
 UID:63e372a39a152e53@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260820T000000Z
 DTEND:20260820T020000Z
 SUMMARY:Collaborating in Care: Ministry and Mental Health
@@ -2027,7 +2007,7 @@ URL:https://www.eventbrite.com/e/collaborating-in-care-ministry-and-mental-healt
 END:VEVENT
 BEGIN:VEVENT
 UID:526a50224e07a9e4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260820T000000Z
 DTEND:20260820T020000Z
 SUMMARY:Florida CISO Community Town Hall
@@ -2037,7 +2017,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:79060add4642753f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260820T000000Z
 DTEND:20260820T020000Z
 SUMMARY:WIN Power Zone: UNLOCKING Industry Power Circles
@@ -2047,7 +2027,7 @@ URL:https://www.eventbrite.com/e/win-power-zone-unlocking-industry-power-circles
 END:VEVENT
 BEGIN:VEVENT
 UID:9f55cbb56fd8afa1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260820T130000Z
 DTEND:20260820T170000Z
 SUMMARY:InfraGard Chicago - Q3 Meeting
@@ -2057,7 +2037,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:6e49be62ecbb781e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260820T130000Z
 DTEND:20260820T170000Z
 SUMMARY:Q3 – Chicago Infragard Quarterly Meeting
@@ -2067,7 +2047,7 @@ URL:https://chicagoinfragard.org/event/q3-chicago-infragard-quarterly-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:c19e2db68cab587a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260820T180000Z
 DTEND:20260820T210000Z
 SUMMARY:BurbSec West - Sponsored by ThreatLocker!
@@ -2077,7 +2057,7 @@ URL:https://www.meetup.com/burbsec/events/313839395/
 END:VEVENT
 BEGIN:VEVENT
 UID:314ec6b1a9f17a29@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260822T000000Z
 DTEND:20260822T020000Z
 SUMMARY:Napa Tech Summit
@@ -2087,7 +2067,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:3c5f709e50f08d5a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260823T000000Z
 DTEND:20260823T020000Z
 SUMMARY:Wealth & Wellness Sundays
@@ -2097,7 +2077,7 @@ URL:https://www.eventbrite.com/e/wealth-wellness-sundays-tickets-1993470499928
 END:VEVENT
 BEGIN:VEVENT
 UID:bf4f211bbd279bcf@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260824T000000Z
 DTEND:20260824T020000Z
 SUMMARY:CompTIA Healthcare IT Skills: 1 Day Professional Session | Detroit\, MI
@@ -2107,7 +2087,7 @@ URL:https://www.eventbrite.sg/e/comptia-healthcare-it-skills-1-day-professional-
 END:VEVENT
 BEGIN:VEVENT
 UID:5409df57bb43950f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260824T000000Z
 DTEND:20260824T020000Z
 SUMMARY:Information Security Leadership 1 Day in Staten Island\, NY
@@ -2117,7 +2097,7 @@ URL:https://www.eventbrite.com/e/information-security-leadership-1-day-in-staten
 END:VEVENT
 BEGIN:VEVENT
 UID:11a6cbc87a756958@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260824T000000Z
 DTEND:20260824T020000Z
 SUMMARY:Enterprise Cyber Risk Summit 1 Day in San Diego\, CA
@@ -2127,7 +2107,7 @@ URL:https://www.eventbrite.com/e/enterprise-cyber-risk-summit-1-day-in-san-diego
 END:VEVENT
 BEGIN:VEVENT
 UID:f659f0153c9bea5d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260824T000000Z
 DTEND:20260824T020000Z
 SUMMARY:Enterprise Security Summit 1 Day in Sandy Springs\, GA
@@ -2137,7 +2117,7 @@ URL:https://www.eventbrite.com/e/enterprise-security-summit-1-day-in-sandy-sprin
 END:VEVENT
 BEGIN:VEVENT
 UID:0b12ac3125c01322@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260824T000000Z
 DTEND:20260824T020000Z
 SUMMARY:Security Risk Essentials 1 Day in Detroit\, MI
@@ -2147,7 +2127,7 @@ URL:https://www.eventbrite.com/e/security-risk-essentials-1-day-in-detroit-mi-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:eb6c026d26fd8ab2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260825T000000Z
 DTEND:20260825T020000Z
 SUMMARY:CyberRisk CISO Dinner: Chicago
@@ -2157,7 +2137,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:9bb59c5ca6a7c616@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260825T000000Z
 DTEND:20260825T020000Z
 SUMMARY:CyberRisk CISO Dinner: Salt Lake City
@@ -2167,7 +2147,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:a746068e971e32e0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260825T220000Z
 DTEND:20260826T020000Z
 SUMMARY:Chicago CyberRisk Collaborative Q3 CISO Dinner
@@ -2177,7 +2157,7 @@ URL:https://events.cyberriskcollaborative.com/augus-2026-chicago-ciso-dinner/reg
 END:VEVENT
 BEGIN:VEVENT
 UID:b1e9a5937a7fb8d5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:Healthcare and Business Networking | Elevating Your Potential - SF
@@ -2187,7 +2167,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-elevating-yo
 END:VEVENT
 BEGIN:VEVENT
 UID:540a264169c847d8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:CyberRisk CISO Dinner: Atlanta
@@ -2197,7 +2177,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:41d0d21ce0b72691@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:CyberRisk CISO Dinner: Cincinnati
@@ -2207,7 +2187,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:34554497c9f4b73d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:Virtual Summit: Threat Intelligence Exchange
@@ -2217,7 +2197,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:c7af76ff2ea7f8f7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:Women’s Behavioral Healthcare Tea Time
@@ -2227,7 +2207,7 @@ URL:https://www.eventbrite.com/e/womens-behavioral-healthcare-tea-time-tickets-1
 END:VEVENT
 BEGIN:VEVENT
 UID:eb82c73b9712efb5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260827T000000Z
 DTEND:20260827T020000Z
 SUMMARY:Cleantech Opportunities in Data Centers - San Francisco
@@ -2237,7 +2217,7 @@ URL:https://www.eventbrite.com/e/cleantech-opportunities-in-data-centers-san-fra
 END:VEVENT
 BEGIN:VEVENT
 UID:45137fe74291c5fc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260827T000000Z
 DTEND:20260827T020000Z
 SUMMARY:Healthcare Advocacy: Empowering Voices for Better Care in Chicago
@@ -2247,7 +2227,7 @@ URL:https://www.eventbrite.sg/e/healthcare-advocacy-empowering-voices-for-better
 END:VEVENT
 BEGIN:VEVENT
 UID:3c3c2e6739310ac0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260827T000000Z
 DTEND:20260828T000000Z
 SUMMARY:ISACA Chicago’s Annual Conference+
@@ -2257,7 +2237,7 @@ URL:https://engage.isaca.org/chicagochapter/events/eventdescription?CalendarEven
 END:VEVENT
 BEGIN:VEVENT
 UID:c49d948bfa719f7a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260827T130000Z
 DTEND:20260827T150000Z
 SUMMARY:ISACA Chicago’s Annual Conference+ | August 27\, 2026 | Registration is Now Open
@@ -2267,7 +2247,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:188bf7ed677c13c1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260827T180000Z
 DTEND:20260827T235500Z
 SUMMARY:BurbSec East - Sponsored by Akamai!
@@ -2277,7 +2257,7 @@ URL:https://www.meetup.com/burbsec/events/313768578/
 END:VEVENT
 BEGIN:VEVENT
 UID:56ef28c9f8b95d33@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260827T180000Z
 DTEND:20260827T200000Z
 SUMMARY:Burbsec Northwest - Sponsors Welcome!
@@ -2287,7 +2267,7 @@ URL:https://www.meetup.com/burbsec/events/lxplwtyjclbkc/
 END:VEVENT
 BEGIN:VEVENT
 UID:2be19a3cfc94f842@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260828T000000Z
 DTEND:20260828T020000Z
 SUMMARY:How to Talk Openly About Your End-of-Life Wishes
@@ -2297,7 +2277,7 @@ URL:https://www.eventbrite.com/e/how-to-talk-openly-about-your-end-of-life-wishe
 END:VEVENT
 BEGIN:VEVENT
 UID:ebebeeb61e35e14f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260830T230000Z
 DTEND:20260831T020000Z
 SUMMARY:Opsin at Ravinia | Dinner & Picnic with Miranda Lambert
@@ -2307,7 +2287,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:42a0242d32faa5d2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260831T000000Z
 DTEND:20260831T020000Z
 SUMMARY:MedTech\, HealthTech Networking & Pitch Event SF
@@ -2317,7 +2297,7 @@ URL:https://www.eventbrite.com/e/medtech-healthtech-networking-pitch-event-sf-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:ca9972c1f9b550ca@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260831T000000Z
 DTEND:20260831T020000Z
 SUMMARY:Chicago HealthTech\, MedTech Startups\, Investors\, Innovators Networking Event
@@ -2327,7 +2307,7 @@ URL:https://www.eventbrite.com/e/chicago-healthtech-medtech-startups-investors-i
 END:VEVENT
 BEGIN:VEVENT
 UID:9e05a120f5f2843e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260831T000000Z
 DTEND:20260831T020000Z
 SUMMARY:MedTech\, HealthTech Networking & Pitch Event Chicago
@@ -2337,7 +2317,7 @@ URL:https://www.eventbrite.com/e/medtech-healthtech-networking-pitch-event-chica
 END:VEVENT
 BEGIN:VEVENT
 UID:11a2280ce30442b8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260831T000000Z
 DTEND:20260831T020000Z
 SUMMARY:MedTech\, HealthTech Networking & Pitch Event NYC
@@ -2347,7 +2327,7 @@ URL:https://www.eventbrite.com/e/medtech-healthtech-networking-pitch-event-nyc-t
 END:VEVENT
 BEGIN:VEVENT
 UID:eff66853de1a03d3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260901T000000Z
 DTEND:20260901T020000Z
 SUMMARY:Boston CISO Community Inner Circle
@@ -2357,7 +2337,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:2618552ae3be7408@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260901T190000Z
 DTEND:20260901T200000Z
 SUMMARY:Tejas DefendAI : Global AI Security Hackathon (Sept 1st - Sept 8th)
@@ -2367,7 +2347,7 @@ URL:https://luma.com/tejas-5tht
 END:VEVENT
 BEGIN:VEVENT
 UID:f5131e8315337e27@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260901T220000Z
 DTEND:20260902T003000Z
 SUMMARY:AI2030: Tech Pulse 2030-The Physical Internet of AI: Data Centers\, Energy\, and Architecture- Chicago
@@ -2377,7 +2357,7 @@ URL:https://luma.com/la458ltn">https://luma.com/la458ltn</a>
 END:VEVENT
 BEGIN:VEVENT
 UID:62cd72ff324a7c44@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Cybersecurity Summit: Columbus
@@ -2387,7 +2367,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:3eab45994958a404@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Chicago CISO Community Inner Circle
@@ -2397,7 +2377,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c1bc2971f5d24da3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Dallas CISO Community Inner Circle
@@ -2407,7 +2387,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e8514df018dbe77d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:Florida CISO Community Inner Circle
@@ -2417,7 +2397,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a161f7ac94a195f6@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260902T000000Z
 DTEND:20260902T020000Z
 SUMMARY:SecureWorld St. Louis\, MO 2026
@@ -2427,7 +2407,7 @@ URL:https://events.secureworld.io/details/st-louis-mo-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:67c9353bcef09874@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260903T000000Z
 DTEND:20260903T020000Z
 SUMMARY:Denver CISO Community Inner Circle
@@ -2437,7 +2417,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c015dfea1de0b011@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260903T140000Z
 DTEND:20260903T170000Z
 SUMMARY:CigarSec - Co-Working & Cigars before Prime!
@@ -2447,7 +2427,7 @@ URL:https://www.meetup.com/burbsec/events/315516544/
 END:VEVENT
 BEGIN:VEVENT
 UID:59dc65701a29ae73@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260904T000000Z
 DTEND:20260905T000000Z
 SUMMARY:THE NEW YORK BLOCKCHAIN FESTIVAL
@@ -2457,7 +2437,7 @@ URL:https://www.eventbrite.com/e/the-new-york-blockchain-festival-tickets-198746
 END:VEVENT
 BEGIN:VEVENT
 UID:04d4e97eb4b03bbc@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260908T210000Z
 DTEND:20260908T230000Z
 SUMMARY:Careers & Conversations | September 08\, 2026 | @ 4 PM CT
@@ -2467,7 +2447,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6e661967180c66a3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260909T000000Z
 DTEND:20260910T000000Z
 SUMMARY:Cloud Connect Expo
@@ -2477,7 +2457,7 @@ URL:https://www.eventbrite.com/e/cloud-connect-expo-tickets-1990472121698
 END:VEVENT
 BEGIN:VEVENT
 UID:adb7d99327f9291c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260909T000000Z
 DTEND:20260909T020000Z
 SUMMARY:Healthcare and Business Networking - Long Island City
@@ -2487,7 +2467,7 @@ URL:https://www.eventbrite.com/e/healthcare-and-business-networking-long-island-
 END:VEVENT
 BEGIN:VEVENT
 UID:5c96ff6cd11ec93c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260909T000000Z
 DTEND:20260910T000000Z
 SUMMARY:Connect Expo Series
@@ -2497,7 +2477,7 @@ URL:https://www.eventbrite.com/e/connect-expo-series-tickets-1990467643303
 END:VEVENT
 BEGIN:VEVENT
 UID:625c4b4689a4ed42@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Cybersecurity Summit: San Diego
@@ -2507,7 +2487,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:de3f9bd5e43a40b2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:CISO Stories: State of Vulnerability Management
@@ -2517,7 +2497,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:02ad8ddd609035ca@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:CyberRisk CISO Dinner: Seattle/Bellevue
@@ -2527,7 +2507,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:e5dab35c117b82cb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Early Pathways Breakfast
@@ -2537,7 +2517,7 @@ URL:https://www.eventbrite.co.uk/e/early-pathways-breakfast-registration-1980466
 END:VEVENT
 BEGIN:VEVENT
 UID:40e317170ef7f683@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Ohio CISO Community Inner Circle
@@ -2547,7 +2527,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b8a1d4bc022d5710@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T000000Z
 DTEND:20260910T020000Z
 SUMMARY:Washington\, DC CISO Community Inner Circle
@@ -2557,7 +2537,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b6eed4a428874251@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T000000Z
 DTEND:20260914T000000Z
 SUMMARY:Blue Team Con 2026
@@ -2567,7 +2547,7 @@ URL:https://blueteamcon.com
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb3d86fe374fd71@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260910T140000Z
 DTEND:20260910T160000Z
 SUMMARY:Modern Techniques for Risk Assessment | SheLeadsTech Virtual Workshop | Sept 10\, 2026 (Rescheduled)
@@ -2577,7 +2557,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:85c9f9f170ea0792@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260911T130000Z
 DTEND:20260911T180000Z
 SUMMARY:FBI Range Day
@@ -2587,7 +2567,7 @@ URL:https://chicagoinfragard.org/event/fbi-range-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:687737ba129fc3d6@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260914T000000Z
 DTEND:20260917T000000Z
 SUMMARY:Becker's 11th Annual IT + Revenue Cycle Conference: The Future of AI & Digital Health
@@ -2597,7 +2577,7 @@ URL:https://events.beckershospitalreview.com/hit_rcm_2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:cded91e3c17908ba@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260914T000000Z
 DTEND:20260914T020000Z
 SUMMARY:C3 Davos of Healthcare™ NYC Summit
@@ -2607,7 +2587,7 @@ URL:https://www.eventbrite.com/e/c3-davos-of-healthcaretm-nyc-summit-tickets-199
 END:VEVENT
 BEGIN:VEVENT
 UID:7670b6e177c9f4a6@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260915T000000Z
 DTEND:20260915T020000Z
 SUMMARY:Cybersecurity Summit: Chicago
@@ -2617,7 +2597,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:d679efbaa5bc3e9b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260915T120000Z
 DTEND:20260915T220000Z
 SUMMARY:The Official Cybersecurity Summit: Chicago
@@ -2627,7 +2607,7 @@ URL:https://cyberriskalliance.swoogo.com/chicago2026
 END:VEVENT
 BEGIN:VEVENT
 UID:b1996a4b5c1e861d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260916T000000Z
 DTEND:20260916T020000Z
 SUMMARY:Virtual Summit: Attack Surface Management
@@ -2637,7 +2617,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:db19e0bc7d4f76f3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260916T000000Z
 DTEND:20260916T020000Z
 SUMMARY:Health Connect South 2026 Annual Gathering
@@ -2647,7 +2627,7 @@ URL:https://www.eventbrite.com/e/health-connect-south-2026-annual-gathering-tick
 END:VEVENT
 BEGIN:VEVENT
 UID:b2891280d0aeb680@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260916T000000Z
 DTEND:20260916T020000Z
 SUMMARY:Atlanta CISO Community Inner Circle
@@ -2657,7 +2637,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:3e97aea51d991409@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260916T183000Z
 DTEND:20260916T203000Z
 SUMMARY:NashSec
@@ -2667,7 +2647,7 @@ URL:https://www.meetup.com/nashsec/events/wwrzwtyjcmbvb/
 END:VEVENT
 BEGIN:VEVENT
 UID:dc156e4b8a4dba9b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:Cybersecurity Summit: Philadelphia
@@ -2677,7 +2657,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:bcab42eae31620f6@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:CyberRisk CISO Dinner: Portland
@@ -2687,7 +2667,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6f8c0e6b495bc8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:Minneapolis CISO Community Inner Circle
@@ -2697,7 +2677,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a3ad550673c4ad49@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260917T000000Z
 DTEND:20260917T020000Z
 SUMMARY:SecureWorld Detroit\, MI 2026
@@ -2707,7 +2687,7 @@ URL:https://events.secureworld.io/details/detroit-mi-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:e316fdcc20b23be4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260917T200000Z
 DTEND:20260917T220000Z
 SUMMARY:Monthly Meeting | In-Person Event | September 17\, 2026
@@ -2717,7 +2697,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:1dc8a3811dafe029@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260919T000000Z
 DTEND:20260919T020000Z
 SUMMARY:Somewhere Over the Rainbow | A Night of Awareness\, Hope & Community
@@ -2727,7 +2707,7 @@ URL:https://www.eventbrite.com/e/somewhere-over-the-rainbow-a-night-of-awareness
 END:VEVENT
 BEGIN:VEVENT
 UID:0165865cbb966d60@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260919T000000Z
 DTEND:20260919T020000Z
 SUMMARY:Meet author Nikki M. Finlay\, PhD
@@ -2737,7 +2717,7 @@ URL:https://www.eventbrite.com/e/meet-author-nikki-m-finlay-phd-tickets-19934962
 END:VEVENT
 BEGIN:VEVENT
 UID:dcf87723b3dc4ca3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260919T000000Z
 DTEND:20260919T020000Z
 SUMMARY:TrueFoundry Agent Harness Hackathon
@@ -2747,7 +2727,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:530502b7d3d1fd7b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260920T210000Z
 DTEND:20260922T163000Z
 SUMMARY:Annual Mindfluence Leadership Event - Septemeber 20-22\, 2026
@@ -2757,7 +2737,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:bfcceea225fd7b5c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:CyberRisk CISO Dinner: Phoenix
@@ -2767,7 +2747,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:5a08e40773196676@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:Detroit CISO Community Inner Circle
@@ -2777,7 +2757,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b5c2073600f92cc0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:Houston CISO Community Inner Circle
@@ -2787,7 +2767,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e25e5d1ba57cd275@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260922T000000Z
 DTEND:20260922T020000Z
 SUMMARY:Seattle CISO Community Inner Circle
@@ -2797,7 +2777,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:602dca801e1ca656@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260923T000000Z
 DTEND:20260923T020000Z
 SUMMARY:SecureWorld Quantum Cryptography 2026
@@ -2807,7 +2787,7 @@ URL:https://events.secureworld.io/details/quantum-cryptography-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:36e49a1ec0f37c42@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260923T000000Z
 DTEND:20260923T020000Z
 SUMMARY:WeAreDevelopers World Congress North America
@@ -2817,7 +2797,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:d5050331bf4a1462@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260924T000000Z
 DTEND:20260924T020000Z
 SUMMARY:CyberRisk CISO Dinner: Bay Area
@@ -2827,7 +2807,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:a2a8209e2c3851e3@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260924T000000Z
 DTEND:20260924T020000Z
 SUMMARY:CyberRisk CISO Dinner: Los Angeles
@@ -2837,7 +2817,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:f704b7b0a7b5f61c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260924T000000Z
 DTEND:20260924T020000Z
 SUMMARY:SecureWorld Atlanta\, GA 2026
@@ -2847,7 +2827,7 @@ URL:https://events.secureworld.io/details/atlanta-ga-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:f3da685833d019d1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260925T000000Z
 DTEND:20260925T020000Z
 SUMMARY:Blockchain Tech Summit (4th Annual)
@@ -2857,7 +2837,7 @@ URL:https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-19903
 END:VEVENT
 BEGIN:VEVENT
 UID:a6b7f14ed7c622f7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260925T000000Z
 DTEND:20260926T000000Z
 SUMMARY:BSides Orlando 2026
@@ -2867,7 +2847,7 @@ URL:https://bsidesorlando.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:3232b22df9b83a6b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
 SUMMARY:1st Annual Hispanic Hearts Charity Gala
@@ -2877,7 +2857,7 @@ URL:https://www.eventbrite.com/e/1st-annual-hispanic-hearts-charity-gala-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:e7053dc418200e1a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
 SUMMARY:Business\, Branding & Technology - Business Sessions
@@ -2887,7 +2867,7 @@ URL:https://www.eventbrite.com/e/business-branding-technology-business-sessions-
 END:VEVENT
 BEGIN:VEVENT
 UID:07c543ba356544e9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260927T000000Z
 DTEND:20260927T020000Z
 SUMMARY:AI Executive Dinner
@@ -2897,7 +2877,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:f62f650fed76407f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260927T000000Z
 DTEND:20260927T020000Z
 SUMMARY:AI Executive Summit
@@ -2907,7 +2887,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:e9454d99eec6b4b9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260928T000000Z
 DTEND:20260928T020000Z
 SUMMARY:Global CISO Community Executive Summit
@@ -2917,7 +2897,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:4131cadf0d331e46@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260929T000000Z
 DTEND:20260929T020000Z
 SUMMARY:The AI Conference Hack Day 2026
@@ -2927,7 +2907,7 @@ URL:https://lu.ma/
 END:VEVENT
 BEGIN:VEVENT
 UID:eb0e4a3773e34d6a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:CyberRisk CISO Dinner: Charlotte
@@ -2937,7 +2917,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:32885de020a1fdc9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:CyberRisk Leadership Exchange: NY Metro
@@ -2947,7 +2927,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:778ffd0057e194ef@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:Virtual Summit: Identity
@@ -2957,7 +2937,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:7613fe6207a4defa@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:Michigan Healthcare Innovation Pitch
@@ -2967,7 +2947,7 @@ URL:https://www.eventbrite.com/e/michigan-healthcare-innovation-pitch-tickets-19
 END:VEVENT
 BEGIN:VEVENT
 UID:fc7f8f632d2985b6@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20260930T000000Z
 DTEND:20260930T020000Z
 SUMMARY:Haiti Tech Summit 10th Annual Edition (UNGA Week)
@@ -2977,7 +2957,7 @@ URL:https://www.eventbrite.com/e/haiti-tech-summit-10th-annual-edition-unga-week
 END:VEVENT
 BEGIN:VEVENT
 UID:39309301f49b9b2e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261001T000000Z
 DTEND:20261001T020000Z
 SUMMARY:FinanceSpecialists: FinanceConnect - Your Path to Clarity & Growth - San Francisco
@@ -2987,7 +2967,7 @@ URL:https://www.eventbrite.com/e/financespecialists-financeconnect-your-path-to-
 END:VEVENT
 BEGIN:VEVENT
 UID:89627771d90f8794@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261001T000000Z
 DTEND:20261001T020000Z
 SUMMARY:Cybersecurity Summit: Seattle/Bellevue
@@ -2997,7 +2977,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:2ce8e79f0753a982@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261001T000000Z
 DTEND:20261001T020000Z
 SUMMARY:FinanceSpecialists: FinanceConnect – Your Path to Growth & Opportunity - Atlanta
@@ -3007,7 +2987,7 @@ URL:https://www.eventbrite.com/e/financespecialists-financeconnect-your-path-to-
 END:VEVENT
 BEGIN:VEVENT
 UID:9a54dfa759be6f69@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261001T000000Z
 DTEND:20261001T020000Z
 SUMMARY:SecureWorld Denver\, CO 2026
@@ -3017,7 +2997,7 @@ URL:https://events.secureworld.io/details/denver-co-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:795fb2a7a81defe9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261003T000000Z
 DTEND:20261003T020000Z
 SUMMARY:BSides Atlanta 2026
@@ -3027,7 +3007,7 @@ URL:https://bsidesatl.info/
 END:VEVENT
 BEGIN:VEVENT
 UID:ef0e2b486f6562dd@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261004T000000Z
 DTEND:20261009T000000Z
 SUMMARY:Hacker Halted 2026
@@ -3037,7 +3017,7 @@ URL:https://www.eventbrite.com/e/hacker-halted-2026-tickets-1991717193742
 END:VEVENT
 BEGIN:VEVENT
 UID:14a83765ac0683d1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261006T000000Z
 DTEND:20261006T020000Z
 SUMMARY:IT Security Conference 2026\, NYC
@@ -3047,7 +3027,7 @@ URL:https://www.eventbrite.com/e/it-security-conference-2026-nyc-tickets-1989629
 END:VEVENT
 BEGIN:VEVENT
 UID:0065b12a806c1d09@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261006T210000Z
 DTEND:20261006T230000Z
 SUMMARY:Careers & Conversations | October 06\, 2026 | @ 4 PM CT
@@ -3057,7 +3037,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f86b50d5b56069eb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261007T000000Z
 DTEND:20261007T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Philadelphia
@@ -3067,7 +3047,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:9e7efd029403f033@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:Cybersecurity Summit: Boston
@@ -3077,7 +3057,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:f5bba433a32622d5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:CISO Stories: Exposure Management
@@ -3087,7 +3067,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:05888d0c0413f0d0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:CyberRisk CISO Dinner: Houston
@@ -3097,7 +3077,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:f568c3f765d5601a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:SecureWorld Dallas\, TX 2026
@@ -3107,7 +3087,7 @@ URL:https://events.secureworld.io/details/dallas-tx-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:f804dd4c8c05c252@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261008T000000Z
 DTEND:20261008T020000Z
 SUMMARY:Into the Storm - Cyber Incident Response Competition - Nashville Hyatt
@@ -3117,7 +3097,7 @@ URL:https://www.eventbrite.com/e/into-the-storm-cyber-incident-response-competit
 END:VEVENT
 BEGIN:VEVENT
 UID:cf6cb5382b4f7c43@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261008T140000Z
 DTEND:20261008T220000Z
 SUMMARY:Camp IT: Enterprise Risk / Security Management
@@ -3127,7 +3107,7 @@ URL:https://campitsince1984.com/upcoming-on-site-events/upcoming-on-site-events-
 END:VEVENT
 BEGIN:VEVENT
 UID:f09c3cf6832fb7b1@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261008T173000Z
 DTEND:20261008T193000Z
 SUMMARY:Annual DataPalooza presented by TAG Data Governance Society
@@ -3137,7 +3117,7 @@ URL:https://members.tagonline.org/calendar/Details/annual-datapalooza-presented-
 END:VEVENT
 BEGIN:VEVENT
 UID:63bc95eae1017cf0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261012T000000Z
 DTEND:20261012T020000Z
 SUMMARY:Fintech: Pre Tech Crunch and Money 2020.
@@ -3147,7 +3127,7 @@ URL:https://www.eventbrite.com/e/fintech-pre-tech-crunch-and-money-2020-tickets-
 END:VEVENT
 BEGIN:VEVENT
 UID:3b5f73fcad0a5085@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261012T000000Z
 DTEND:20261012T020000Z
 SUMMARY:InfoSec World
@@ -3157,7 +3137,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:1e9795771ce71317@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261012T000000Z
 DTEND:20261014T000000Z
 SUMMARY:InfoSec World 2026
@@ -3167,7 +3147,7 @@ URL:https://www.infosecworldusa.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:974db574f9ba07c5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261012T000000Z
 DTEND:20261013T000000Z
 SUMMARY:Avant South 2026
@@ -3177,7 +3157,7 @@ URL:https://www.eventbrite.com/e/avant-south-2026-tickets-1989311616596
 END:VEVENT
 BEGIN:VEVENT
 UID:e2197ed033f0c10c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Bay Area
@@ -3187,7 +3167,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:ce0983c3b83f10e0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:Cybersecurity Summit: Silicon Valley
@@ -3197,7 +3177,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:bced9f9cfc508e28@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:Hot Topic Webcast: Network Security
@@ -3207,7 +3187,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:63cd620cdf26c198@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261013T000000Z
 DTEND:20261013T020000Z
 SUMMARY:Denver CISO Community Town Hall
@@ -3217,7 +3197,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:81d7bd0339a58bc7@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261013T123000Z
 DTEND:20261013T150000Z
 SUMMARY:Chicago CISO of the Year - Awards Breakfast!
@@ -3227,7 +3207,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:fac535a18a7cea63@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261014T000000Z
 DTEND:20261014T020000Z
 SUMMARY:Virtual Summit: FinSec
@@ -3237,7 +3217,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:72b42c0598411298@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261015T000000Z
 DTEND:20261015T020000Z
 SUMMARY:CyberRisk CISO Dinner: Cincinnati
@@ -3247,7 +3227,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:f6e4f3eda3d1b970@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261015T080000Z
 DTEND:20261015T100000Z
 SUMMARY:Michigan Cyber Summit 2026
@@ -3257,7 +3237,7 @@ URL:https://events.govtech.com/Michigan-Cyber-Summit
 END:VEVENT
 BEGIN:VEVENT
 UID:0b0e1927fcea4ccb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261015T200000Z
 DTEND:20261015T220000Z
 SUMMARY:Monthly Meeting | Virtual Event | October 15\, 2026
@@ -3267,7 +3247,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:54e5a6829759156a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261020T000000Z
 DTEND:20261020T020000Z
 SUMMARY:Cybersecurity Summit: Charlotte
@@ -3277,7 +3257,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:8f529ee2d525c097@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261021T000000Z
 DTEND:20261021T020000Z
 SUMMARY:Food Allergy Fund Innovation Forum - San Francisco
@@ -3287,7 +3267,7 @@ URL:https://www.eventbrite.com/e/food-allergy-fund-innovation-forum-san-francisc
 END:VEVENT
 BEGIN:VEVENT
 UID:fa94d968ab0301ad@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261021T000000Z
 DTEND:20261021T020000Z
 SUMMARY:SecureWorld Threat Defense 2026
@@ -3297,7 +3277,7 @@ URL:https://www.secureworld.io/events
 END:VEVENT
 BEGIN:VEVENT
 UID:02fc15383cc48a02@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261021T183000Z
 DTEND:20261021T203000Z
 SUMMARY:NashSec
@@ -3307,7 +3287,7 @@ URL:https://www.meetup.com/nashsec/events/wwrzwtyjcnbcc/
 END:VEVENT
 BEGIN:VEVENT
 UID:e397e5fb944eb8ae@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261022T000000Z
 DTEND:20261022T020000Z
 SUMMARY:CyberRisk CISO Dinner: Boston
@@ -3317,7 +3297,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:746eae1a223f211b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261022T130000Z
 DTEND:20261022T170000Z
 SUMMARY:Annual DataPalooza presented by TAG Data Governance Society
@@ -3327,7 +3307,7 @@ URL:https://members.tagonline.org/calendar/Details/annual-datapalooza-presented-
 END:VEVENT
 BEGIN:VEVENT
 UID:02a3a684e3b4e768@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261024T150000Z
 DTEND:20261025T010000Z
 SUMMARY:Global CISO Summit - Bay Area Edition
@@ -3337,7 +3317,7 @@ URL:https://luma.com/gqhdvdcj
 END:VEVENT
 BEGIN:VEVENT
 UID:005578b69b51233b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261026T000000Z
 DTEND:20261029T000000Z
 SUMMARY:FS-ISAC 2026 Americas Fall Summit
@@ -3347,7 +3327,7 @@ URL:https://www.fsisac.com/events/americas-fall-summit
 END:VEVENT
 BEGIN:VEVENT
 UID:295e0de355440f05@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261028T000000Z
 DTEND:20261028T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Chicago
@@ -3357,7 +3337,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:208229ef2b9343c8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261028T000000Z
 DTEND:20261028T020000Z
 SUMMARY:Virtual Summit: Network Security
@@ -3367,7 +3347,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:815a8883a42c012e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261028T000000Z
 DTEND:20261028T020000Z
 SUMMARY:Minneapolis CISO Community Town Hall
@@ -3377,7 +3357,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:0304daf0c20c6768@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
 SUMMARY:Cybersecurity Summit: Dallas
@@ -3387,7 +3367,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:120a7b1202d7f550@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
 SUMMARY:CyberRisk Leadership Exchange: Dallas
@@ -3397,7 +3377,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:095431b36bcb7f51@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261029T000000Z
 DTEND:20261030T000000Z
 SUMMARY:Promoting Professionalism - In Nashville\, October 29-30\, 2026
@@ -3407,7 +3387,7 @@ URL:https://www.eventbrite.com/e/promoting-professionalism-in-nashville-october-
 END:VEVENT
 BEGIN:VEVENT
 UID:f9b593ca38a578a0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261029T000000Z
 DTEND:20261029T020000Z
 SUMMARY:SecureWorld New York City\, NY 2026
@@ -3417,7 +3397,7 @@ URL:https://events.secureworld.io/details/new-york-ny-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:65655bee65d72026@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261102T000000Z
 DTEND:20261102T020000Z
 SUMMARY:Cybersecurity Summit: Los Angeles
@@ -3427,7 +3407,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:e5410cf1109d8162@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261103T000000Z
 DTEND:20261103T020000Z
 SUMMARY:CyberRisk CISO Dinner: Salt Lake City
@@ -3437,7 +3417,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:6b8822e8d8d528a0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261103T210000Z
 DTEND:20261103T230000Z
 SUMMARY:Careers & Conversations | November 03\, 2026 | @ 4 PM CT
@@ -3447,7 +3427,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:324197991e14767d@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:Virtual Summit: Cybersecurity Summit Nationwide Virtual Conference
@@ -3457,7 +3437,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:071d916f0f1b2c47@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:CyberRisk CISO Dinner: Atlanta
@@ -3467,7 +3447,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:172679626578e5a9@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:CyberRisk CISO Dinner: Seattle/Bellevue
@@ -3477,7 +3457,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:533c3c06426df317@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:Vituity Cares Benefit Concert
@@ -3487,7 +3467,7 @@ URL:https://www.eventbrite.com/e/vituity-cares-benefit-concert-tickets-198346440
 END:VEVENT
 BEGIN:VEVENT
 UID:052cbb5f4aea12ab@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261104T000000Z
 DTEND:20261104T020000Z
 SUMMARY:Dallas CISO Community Executive Summit
@@ -3497,7 +3477,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:228b7a7cf6cc698f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261104T000000Z
 DTEND:20261105T000000Z
 SUMMARY:SecureWorld Seattle\, WA 2026
@@ -3507,7 +3487,7 @@ URL:https://events.secureworld.io/details/seattle-wa-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:be47a074dbaf83eb@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:CyberRisk CISO Dinner: San Antonio
@@ -3517,7 +3497,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:fa7fbe051c15b284@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:CyberRisk CISO Dinner: Twin Cities
@@ -3527,7 +3507,7 @@ URL:https://www.cyberriskalliance.com/upcoming-events
 END:VEVENT
 BEGIN:VEVENT
 UID:afb30c922b20aa0a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261105T140000Z
 DTEND:20261105T180000Z
 SUMMARY:InfraGard Chicago - Q4 Meeting
@@ -3537,7 +3517,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:c68a90ab39143164@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261105T140000Z
 DTEND:20261105T180000Z
 SUMMARY:Q4 – Chicago Infragard Quarterly Meeting
@@ -3547,7 +3527,7 @@ URL:https://chicagoinfragard.org/event/q4-chicago-infragard-quarterly-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:eeca37d50d98b529@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261105T150000Z
 DTEND:20261105T230000Z
 SUMMARY:Camp IT: Cloud Security Strategies
@@ -3557,7 +3537,7 @@ URL:https://campitsince1984.com/upcoming-on-site-events/cloudsecurity110526/">ht
 END:VEVENT
 BEGIN:VEVENT
 UID:681f38e97f66202c@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261106T000000Z
 DTEND:20261106T020000Z
 SUMMARY:Global Security Tour 2026 - Atlanta | Microsoft Keynote + WIT Panel
@@ -3567,7 +3547,7 @@ URL:https://www.eventbrite.com/e/global-security-tour-2026-atlanta-microsoft-key
 END:VEVENT
 BEGIN:VEVENT
 UID:5278c10ba0e5b059@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261110T000000Z
 DTEND:20261110T020000Z
 SUMMARY:Florida CISO Community Executive Summit
@@ -3577,7 +3557,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:81280265abd4b939@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261114T000000Z
 DTEND:20261114T020000Z
 SUMMARY:The Art of Health Gala
@@ -3587,7 +3567,7 @@ URL:https://www.eventbrite.com/e/the-art-of-health-gala-tickets-1994412973893
 END:VEVENT
 BEGIN:VEVENT
 UID:c9f2e5719706140f@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261117T000000Z
 DTEND:20261117T020000Z
 SUMMARY:Washington\, DC CISO Community Executive Summit
@@ -3597,7 +3577,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:868ab58d55e977c5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
 SUMMARY:SecureWorld East 2026
@@ -3607,7 +3587,7 @@ URL:https://www.secureworld.io/events
 END:VEVENT
 BEGIN:VEVENT
 UID:b48b3f4e8bbfdcf6@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261118T183000Z
 DTEND:20261118T203000Z
 SUMMARY:NashSec
@@ -3617,7 +3597,7 @@ URL:https://www.meetup.com/nashsec/events/wwrzwtyjcpbxb/
 END:VEVENT
 BEGIN:VEVENT
 UID:ec15767e2cd55be8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
 SUMMARY:Atlanta CISO Community Executive Summit
@@ -3627,7 +3607,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:0da867463b08cb7a@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
 SUMMARY:Ghana Tech Summit - 2026 Ai Edition
@@ -3637,7 +3617,7 @@ URL:https://www.eventbrite.com/e/ghana-tech-summit-2026-ai-edition-tickets-13629
 END:VEVENT
 BEGIN:VEVENT
 UID:123f6c0542013230@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
 SUMMARY:SecureWorld Twin Cities\, MN 2026
@@ -3647,7 +3627,7 @@ URL:https://events.secureworld.io/details/twin-cities-mn-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:738f61d1696b9fb8@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261119T200000Z
 DTEND:20261119T220000Z
 SUMMARY:Monthly Meeting | In-Person Event | November 19\, 2026
@@ -3657,7 +3637,7 @@ URL:https://engage.isaca.org/chicagochapter/events/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ccf2c64f5861e51b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261120T000000Z
 DTEND:20261120T020000Z
 SUMMARY:Global CISO Community Town Hall
@@ -3667,7 +3647,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:0b0eeba8b23b157b@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261124T000000Z
 DTEND:20261124T020000Z
 SUMMARY:AI Learning Serie Part 3 Create with AI: Images\, Flyers & Everyday Content
@@ -3677,7 +3657,7 @@ URL:https://www.eventbrite.com/e/ai-learning-serie-part-3-create-with-ai-images-
 END:VEVENT
 BEGIN:VEVENT
 UID:3bcf836b038cafe2@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261130T000000Z
 DTEND:20261204T000000Z
 SUMMARY:Health-ISAC 2026 Fall Americas Summit
@@ -3687,7 +3667,7 @@ URL:https://health-isac.org/summits/
 END:VEVENT
 BEGIN:VEVENT
 UID:3f4d7518b0800ad5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261130T000000Z
 DTEND:20261204T000000Z
 SUMMARY:Health-ISAC 2026 Fall Americas Summit
@@ -3697,7 +3677,7 @@ URL:https://health-isac.org/summit-meeting/2026-fall-americas-summit/
 END:VEVENT
 BEGIN:VEVENT
 UID:e8ef4c10f1f542d4@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261201T000000Z
 DTEND:20261201T020000Z
 SUMMARY:Houston CISO Community Executive Summit
@@ -3707,7 +3687,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f54f997b0e10bba5@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261201T000000Z
 DTEND:20261201T020000Z
 SUMMARY:Seattle CISO Community Executive Summit
@@ -3717,7 +3697,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c31939ef02f21d68@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261202T000000Z
 DTEND:20261202T020000Z
 SUMMARY:Chicago CISO Community Executive Summit
@@ -3727,7 +3707,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:38e8f0f928d4dd60@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261202T150000Z
 DTEND:20261202T230000Z
 SUMMARY:Camp IT: Identity Access Management (IAM) – Reducing Risk and Giving Better CX to Users
@@ -3737,7 +3717,7 @@ URL:https://campitsince1984.com/upcoming-on-site-events/upcoming-on-site-events-
 END:VEVENT
 BEGIN:VEVENT
 UID:7d41e1e681eac715@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261203T000000Z
 DTEND:20261203T020000Z
 SUMMARY:Boston CISO Community Executive Summit
@@ -3747,7 +3727,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6d0cbd17ccbfaa09@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
 SUMMARY:Minneapolis CISO Community Executive Summit
@@ -3757,7 +3737,7 @@ URL:https://www.evanta.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:61173dfaa8c46dbe@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261209T000000Z
 DTEND:20261209T020000Z
 SUMMARY:SecureWorld Government & Critical Infrastructure 2026
@@ -3767,7 +3747,7 @@ URL:https://www.secureworld.io/events
 END:VEVENT
 BEGIN:VEVENT
 UID:b267b79850820929@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261209T230000Z
 DTEND:20261210T030000Z
 SUMMARY:Chicago Cyber Community Holiday Party
@@ -3777,7 +3757,7 @@ URL:https://calendar.google.com/calendar/ical/ChicagoInfoSecEvents@gmail.com/pub
 END:VEVENT
 BEGIN:VEVENT
 UID:d9be84a5c5168863@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261210T000000Z
 DTEND:20261210T020000Z
 SUMMARY:FutureCon Atlanta 2026
@@ -3787,7 +3767,7 @@ URL:https://futureconevents.com/events/atlanta-ga-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:8b7ca559f9e7d887@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261210T150000Z
 DTEND:20261210T230000Z
 SUMMARY:Camp IT: Data Breaches: Defense and Response
@@ -3797,7 +3777,7 @@ URL:https://campitsince1984.com/upcoming-on-site-events/upcoming-on-site-events-
 END:VEVENT
 BEGIN:VEVENT
 UID:b46edf6104248d24@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20261216T183000Z
 DTEND:20261216T203000Z
 SUMMARY:NashSec
@@ -3807,7 +3787,7 @@ URL:https://www.meetup.com/nashsec/events/wwrzwtyjcqbvb/
 END:VEVENT
 BEGIN:VEVENT
 UID:cafcc4407b9a1634@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20270120T183000Z
 DTEND:20270120T203000Z
 SUMMARY:NashSec
@@ -3817,7 +3797,7 @@ URL:https://www.meetup.com/nashsec/events/wwrzwtykccbbc/
 END:VEVENT
 BEGIN:VEVENT
 UID:b1db67c6a72cfd16@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20270217T183000Z
 DTEND:20270217T203000Z
 SUMMARY:NashSec
@@ -3827,7 +3807,7 @@ URL:https://www.meetup.com/nashsec/events/wwrzwtykcdbwb/
 END:VEVENT
 BEGIN:VEVENT
 UID:835cfdb1c354b5fd@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20270310T000000Z
 DTEND:20270310T020000Z
 SUMMARY:Chicago Fintech & Payments Summit
@@ -3837,7 +3817,7 @@ URL:https://www.eventbrite.com/e/chicago-fintech-payments-summit-tickets-1990049
 END:VEVENT
 BEGIN:VEVENT
 UID:05954193c59b5ce0@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20270330T000000Z
 DTEND:20270402T000000Z
 SUMMARY:CVE/FIRST VulnCon 2027 & Annual CNA Summit - Save the Date
@@ -3847,7 +3827,7 @@ URL:https://www.first.org/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:2ea6e181105e6a5e@zcyber-gtm.local
-DTSTAMP:20260727T114520Z
+DTSTAMP:20260727T160011Z
 DTSTART:20270424T000000Z
 DTEND:20270424T020000Z
 SUMMARY:Web3 & Blockchain Innovation Forum 2027
