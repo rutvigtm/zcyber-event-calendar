@@ -485,10 +485,10 @@
     ],
     "status": "ok",
     "parser": "jsonld",
-    "raw_events_found": 26,
+    "raw_events_found": 30,
     "accepted": 4,
     "rejected": {
-      "missing_keyword": 22
+      "missing_keyword": 26
     },
     "sample_raw_titles": [
       "Carte Bleu: August 18 - Atlanta, GA",
@@ -1277,17 +1277,14 @@
     "focus": [
       "fintech"
     ],
-    "status": "ok",
-    "parser": "jsonld",
-    "raw_events_found": 1,
-    "accepted": 1,
+    "status": "error",
+    "parser": "",
+    "raw_events_found": 0,
+    "accepted": 0,
     "rejected": {},
-    "sample_raw_titles": [
-      "Fintech Meetup | Leading Fintech Event | Networking & Innovation"
-    ],
-    "sample_accepted_titles": [
-      "Fintech Meetup | Leading Fintech Event | Networking & Innovation"
-    ]
+    "sample_raw_titles": [],
+    "sample_accepted_titles": [],
+    "error": "The read operation timed out"
   },
   {
     "source": "HIMSS Events",
@@ -1323,23 +1320,23 @@
       "non_us": 6
     },
     "sample_raw_titles": [
-      "ISACA monthly chapter meeting",
-      "TEVORA's Chicagoland InfoSec Pickleball Social",
-      "Chicago CyberRisk Collaborative 2026 Leadership Exchange",
-      "Spa day with Material Security, Reach Security, and Collective Health",
-      "Chicago CyberRisk Collaborative Q1 CISO Dinner",
-      "ISSA-Chicago starring Hector \"Sabu\" Monsegur",
-      "SecureWorld Chicago Conference",
-      "Chicago CISO of the Year - Third Mixer"
+      "CISO Summit (Invitation Only) * 7 CPE Credits",
+      "BurbSec North",
+      "Secure the Dish (Milwaukee): Cooking class and stress relief for Cybersecurity Leaders (Plus 1)",
+      "AITP Security SIG: Use of Flipper Zero to Gain Unauthorized Access and Disrupt Signals",
+      "ISSA Chicago Chapter Meeting",
+      "Camp IT: Cloud Security Strategies",
+      "University of Illinois Chicago (UIC) Inaugural Cybersecurity & Privacy Community Conference - It is Free to Attend!",
+      "RegionSec Summit"
     ],
     "sample_accepted_titles": [
-      "Spa day with Material Security, Reach Security, and Collective Health",
+      "Camp IT: Cloud Security Strategies",
+      "The Official Cybersecurity Summit: Chicago",
+      "Tyk - The future of MCP governance",
+      "IANS Forum Chicago 2026",
       "Annual Mindfluence Leadership Event - Septemeber 20-22, 2026",
-      "Chicago Cyber Community Holiday Party",
-      "InfraGard Chicago - Q3 Meeting",
-      "Camp IT: Data Breaches: Defense and Response",
-      "Chicago CyberRisk Collaborative Q3 CISO Dinner",
-      "Chicago CISO of the Year - Awards Breakfast!",
+      "Blue Team Con 2026",
+      "Camp IT: Enterprise Risk / Security Management",
       "ISSA-Chicago September Meeting"
     ]
   },
@@ -1855,9 +1852,9 @@
     "status": "ok",
     "parser": "next_data",
     "raw_events_found": 9,
-    "accepted": 1,
+    "accepted": 2,
     "rejected": {
-      "missing_keyword": 8
+      "missing_keyword": 7
     },
     "sample_raw_titles": [
       "A Seat at the Table: A Lunch for Ambitious Moms in Chicago",
@@ -1865,12 +1862,13 @@
       "1871 Events: Scale the System: 1871 Emerging Tech Innovation Summit",
       "Supabase x Dreambase",
       "Sip & Speak #6: A Latte Languages @ Hawa Cafe",
+      "TechWalk | Chicago, 8/25",
       "Cursor Chicago: Tiny Builds, Big Impact",
-      "Padel Run | ARC x Good Rally",
-      "Industry Meetup: Museum of House x ARC Music Festival x Turf Design"
+      "Padel Run | ARC x Good Rally"
     ],
     "sample_accepted_titles": [
-      "1871 Events: Scale the System: 1871 Emerging Tech Innovation Summit"
+      "1871 Events: Scale the System: 1871 Emerging Tech Innovation Summit",
+      "TechWalk | Chicago, 8/25"
     ]
   },
   {
@@ -2011,8 +2009,8 @@
       "CyberSpecialists: CyberConnect \u2013 Your Global Virtual Cyber Nexus - Detroit",
       "Security Risk Essentials 1 Day in Detroit, MI",
       "Security Risk Essentials 1 Day in Detroit, MI",
-      "Online Privacy and Security",
-      "Online Privacy and Security"
+      "Security Testing Fundamentals in Detroit, MI",
+      "Security Testing Fundamentals in Detroit, MI"
     ]
   },
   {
